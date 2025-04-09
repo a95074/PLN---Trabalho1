@@ -1151,9 +1151,6 @@
 <text top="340" left="261" width="60" height="14" font="33"><i>apremilast </i></text>
 <text top="340" left="320" width="111" height="14" font="27">és la forma catalana </text>
 <text top="358" left="157" width="123" height="14" font="27">corresponent a la DCI.</text>
-<text top="398" left="157" width="29" height="16" font="25"><b>ARN</b></text>
-<text top="419" left="123" width="94" height="16" font="11"> veg. </text>
-<text top="418" left="187" width="99" height="20" font="41"><b>àcid ribonucleic</b></text>
 <text top="586" left="157" width="49" height="16" font="25"><b>arrítmia</b></text>
 <text top="611" left="157" width="18" height="16" font="12"><i>oc </i></text>
 <text top="611" left="187" width="47" height="16" font="11">arritmia</text>
@@ -8353,14 +8350,6 @@
 <text top="1080" left="476" width="280" height="16" font="11">efecte neutralitzant i antivíric, que s’uneix a la </text>
 <text top="1101" left="476" width="300" height="16" font="11">superfície de la proteïna S del SARS-CoV-2 per a </text>
 <text top="1122" left="476" width="250" height="16" font="11">evitar que el virus infecti la cèl·lula hoste.</text>
-<text top="355" left="97" width="13" height="16" font="25"><b>IA</b></text>
-<text top="355" left="110" width="5" height="9" font="30"><b>1</b></text>
-<text top="376" left="63" width="94" height="16" font="11"> veg. </text>
-<text top="375" left="126" width="136" height="16" font="25"><b>incidència acumulada</b></text>
-<text top="413" left="97" width="13" height="16" font="25"><b>IA</b></text>
-<text top="414" left="110" width="5" height="9" font="30"><b>2</b></text>
-<text top="434" left="63" width="94" height="16" font="11"> veg. </text>
-<text top="434" left="126" width="133" height="16" font="25"><b>intel·ligència artificial</b></text>
 <text top="471" left="97" width="61" height="16" font="25"><b>ibuprofèn</b></text>
 <text top="497" left="97" width="18" height="16" font="12"><i>oc </i></text>
 <text top="497" left="126" width="61" height="16" font="11">ibuprofèn</text>
@@ -9182,10 +9171,6 @@
 <text top="513" left="537" width="278" height="16" font="11">EPIDEMIOLOGIA. Temps transcorregut entre </text>
 <text top="534" left="537" width="317" height="16" font="11">l’entrada en un organisme de l’agent d’una malaltia </text>
 <text top="555" left="537" width="217" height="16" font="11">i l’aparició dels primers símptomes.</text>
-<text top="642" left="537" width="122" height="16" font="25"><b>índex de mortalitat </b></text>
-<text top="642" left="659" width="23" height="16" font="12"><i>n m</i></text>
-<text top="663" left="503" width="94" height="16" font="11"> veg. </text>
-<text top="663" left="566" width="110" height="16" font="25"><b>taxa de mortalitat</b></text>
 <text top="696" left="537" width="49" height="16" font="25"><b>infecció</b></text>
 <text top="721" left="537" width="18" height="16" font="12"><i>oc </i></text>
 <text top="721" left="567" width="56" height="16" font="11">infeccion</text>
