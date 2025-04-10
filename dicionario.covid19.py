@@ -22,6 +22,8 @@ texto = re.sub(r'<text top="87" left="526" width="327" height="19" font="16"> DI
 texto = re.sub(r'<text top="\d+" left="\d+" width="\d+" height="\d+" font="\d+"><b>\s+</b></text>*\n?', '', texto)
 texto = re.sub(r'<text top="\d+" left="\d+" width="\d+" height="\d+" font="\d+"><i> adj</i></text>*\n?', '', texto)
 
+#remoção de sinonimos que aparecem descritos de novo
+
 texto = re.sub(
     r'<text top="\d+" left="\d+" width="\d+" height="\d+" font="25"><b>[^<]+</b></text>\s*'
     r'<text top="\d+" left="\d+" width="\d+" height="\d+" font="11+"> veg. </text>\s*'
