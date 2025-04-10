@@ -43,6 +43,7 @@ texto = re.sub(
 )
 
 
+
 with open("teste.xml", 'w', encoding='utf-8') as novo_arquivo:
     novo_arquivo.write(texto)
 
