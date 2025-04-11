@@ -1,6 +1,6 @@
 import re
 import json
-
+import unicodedata
 
 filename = "diccionari-multilinguee-de-la-covid-19-simplificado1.xml"
 with open(filename, 'r', encoding='utf-8') as file:
@@ -11,6 +11,12 @@ texto = re.sub(r'<text top="\d+" left="\d+" width="\d+" height="\d+" font="12"><
 texto = re.sub(r'<text top="\d+" left="\d+" width="\d+" height="\d+" font="\d+">\s*\b(\d+(?:-+\d+)+\b)\s*</text>*\n?', '', texto)
 
 #padrao que encontra os termos e as suas siglas associadas
+
+def remove_acentos(texto):
+    return ''.join(
+        c for c in unicodedata.normalize('NFKD', texto)
+        if not unicodedata.combining(c)
+    ).lower()
 
 padrao_siglas = re.compile(
     r'<text[^>]+font="25"><b>(?P<termo>[^<]+)</b></text>\s*'
@@ -55,9 +61,11 @@ for match in padrao_conceitos_validos.finditer(texto):
 
 # Combinar os dois
 todos_termos = termos_siglas + conceitos_finais
+todos_termos.sort(key=lambda x: remove_acentos(x["termo"]))
+
 
 # Guardar resultado em JSON
-with open("conceitos_com_siglas.json", "w", encoding="utf-8") as f:
+with open("termos_oc.json", "w", encoding="utf-8") as f:
     json.dump(todos_termos, f, ensure_ascii=False, indent=2)
 
 with open("teste.xml", 'w', encoding='utf-8') as novo_arquivo:
