@@ -1,0 +1,2016 @@
+[
+  {
+    "termo": "àcid desoxiribonucleic",
+    "siglas": [
+      "ADN",
+      "DNA"
+    ]
+  },
+  {
+    "termo": "àcid ribonucleic",
+    "siglas": [
+      "ARN",
+      "RNA"
+    ]
+  },
+  {
+    "termo": "limitació de l’esforç terapèutic",
+    "siglas": [
+      "LET"
+    ]
+  },
+  {
+    "termo": "antiretroviral",
+    "siglas": [
+      "ARV"
+    ]
+  },
+  {
+    "termo": "assaig clínic aleatoritzat",
+    "siglas": [
+      "ACA"
+    ]
+  },
+  {
+    "termo": "virus de la COVID-19",
+    "siglas": [
+      "SARS-CoV-2"
+    ]
+  },
+  {
+    "termo": "coronavirus de la SARS",
+    "siglas": [
+      "SARS-CoV"
+    ]
+  },
+  {
+    "termo": "coronavirus de la MERS",
+    "siglas": [
+      "MERS-CoV"
+    ]
+  },
+  {
+    "termo": "enzimoimmunoassaig sobre fase sòlida",
+    "siglas": [
+      "ELISA"
+    ]
+  },
+  {
+    "termo": "equip de protecció personal",
+    "siglas": [
+      "EPI"
+    ]
+  },
+  {
+    "termo": "expedient de regulació temporal d’ocupació",
+    "siglas": [
+      "ERTO"
+    ]
+  },
+  {
+    "termo": "bombolla",
+    "siglas": [
+      "GCE"
+    ]
+  },
+  {
+    "termo": "incapacitat permanent",
+    "siglas": [
+      "IP"
+    ]
+  },
+  {
+    "termo": "incapacitat temporal",
+    "siglas": [
+      "IT"
+    ]
+  },
+  {
+    "termo": "incidència acumulada",
+    "siglas": [
+      "IA"
+    ]
+  },
+  {
+    "termo": "de l’angiotensina",
+    "siglas": [
+      "IECA"
+    ]
+  },
+  {
+    "termo": "intel·ligència artificial",
+    "siglas": [
+      "IA"
+    ]
+  },
+  {
+    "termo": "lactat-deshidrogenasa",
+    "siglas": [
+      "LDH"
+    ]
+  },
+  {
+    "termo": "Organització Mundial de la Salut",
+    "siglas": [
+      "OMS"
+    ]
+  },
+  {
+    "termo": "qualitat de vida",
+    "siglas": [
+      "QV"
+    ]
+  },
+  {
+    "termo": "reacció en cadena per la polimerasa",
+    "siglas": [
+      "PCR"
+    ]
+  },
+  {
+    "termo": "reacció adversa a vacuna",
+    "siglas": [
+      "RAV"
+    ]
+  },
+  {
+    "termo": "ARN missatger",
+    "siglas": [
+      "ARNm",
+      "mRNA"
+    ]
+  },
+  {
+    "termo": "respiratori agut",
+    "siglas": [
+      "SDRA"
+    ]
+  },
+  {
+    "termo": "síndrome respiratòria de l’Orient Mitjà",
+    "siglas": [
+      "MERS"
+    ]
+  },
+  {
+    "termo": "síndrome respiratòria aguda greu",
+    "siglas": [
+      "SARS",
+      "SRAG"
+    ]
+  },
+  {
+    "termo": "recepció, acollida i classificació",
+    "siglas": [
+      "RAC"
+    ]
+  },
+  {
+    "termo": "unitat de vigilància intensiva",
+    "siglas": [
+      "UCI",
+      "UVI"
+    ]
+  },
+  {
+    "termo": "zorecimeran",
+    "siglas": [
+      "CVnCoV"
+    ]
+  },
+  {
+    "termo": "vacuna CanSino",
+    "siglas": [
+      "Ad5-nCoV",
+      "Convidecia"
+    ]
+  },
+  {
+    "termo": "variant de preocupació",
+    "siglas": [
+      "VOC"
+    ]
+  },
+  {
+    "termo": "variant d’interès",
+    "siglas": [
+      "VOI"
+    ]
+  },
+  {
+    "termo": "acalabrutinib",
+    "siglas": []
+  },
+  {
+    "termo": "ADG20",
+    "siglas": []
+  },
+  {
+    "termo": "aerosol",
+    "siglas": []
+  },
+  {
+    "termo": "agent biològic",
+    "siglas": []
+  },
+  {
+    "termo": "agèusia",
+    "siglas": []
+  },
+  {
+    "termo": "agrupament",
+    "siglas": []
+  },
+  {
+    "termo": "aïllament",
+    "siglas": []
+  },
+  {
+    "termo": "comunicat mèdic d’alta",
+    "siglas": []
+  },
+  {
+    "termo": "alunacedasa alfa",
+    "siglas": []
+  },
+  {
+    "termo": "aïllat",
+    "siglas": []
+  },
+  {
+    "termo": "anakinra",
+    "siglas": []
+  },
+  {
+    "termo": "antiàlgic",
+    "siglas": []
+  },
+  {
+    "termo": "ambroxol",
+    "siglas": []
+  },
+  {
+    "termo": "AMY-101",
+    "siglas": []
+  },
+  {
+    "termo": "antibiòtic",
+    "siglas": []
+  },
+  {
+    "termo": "anticòs",
+    "siglas": []
+  },
+  {
+    "termo": "anòsmia",
+    "siglas": []
+  },
+  {
+    "termo": "ansietat anticipatòria",
+    "siglas": []
+  },
+  {
+    "termo": "antitèrmic",
+    "siglas": []
+  },
+  {
+    "termo": "antigen",
+    "siglas": []
+  },
+  {
+    "termo": "apremilast",
+    "siglas": []
+  },
+  {
+    "termo": "antiviral",
+    "siglas": []
+  },
+  {
+    "termo": "apilimod",
+    "siglas": []
+  },
+  {
+    "termo": "asimptomàtic -a",
+    "siglas": []
+  },
+  {
+    "termo": "arrítmia",
+    "siglas": []
+  },
+  {
+    "termo": "ASC09F",
+    "siglas": []
+  },
+  {
+    "termo": "assaig amb cegament",
+    "siglas": []
+  },
+  {
+    "termo": "assaig amb cegament doble",
+    "siglas": []
+  },
+  {
+    "termo": "assaig amb cegament triple",
+    "siglas": []
+  },
+  {
+    "termo": "astènia",
+    "siglas": []
+  },
+  {
+    "termo": "assaig clínic",
+    "siglas": []
+  },
+  {
+    "termo": "assaig d’intervenció comunitària",
+    "siglas": []
+  },
+  {
+    "termo": "atenció al dol",
+    "siglas": []
+  },
+  {
+    "termo": "servei d’atenció de salut a domicili",
+    "siglas": []
+  },
+  {
+    "termo": "atenció hospitalària",
+    "siglas": []
+  },
+  {
+    "termo": "atenció primària",
+    "siglas": []
+  },
+  {
+    "termo": "autoinflamació",
+    "siglas": []
+  },
+  {
+    "termo": "automostra",
+    "siglas": []
+  },
+  {
+    "termo": "atibuclimab",
+    "siglas": []
+  },
+  {
+    "termo": "ATYR1923",
+    "siglas": []
+  },
+  {
+    "termo": "autoritat sanitària",
+    "siglas": []
+  },
+  {
+    "termo": "aviptadil",
+    "siglas": []
+  },
+  {
+    "termo": "azitromicina",
+    "siglas": []
+  },
+  {
+    "termo": "bemcentinib",
+    "siglas": []
+  },
+  {
+    "termo": "bamlanivimab",
+    "siglas": []
+  },
+  {
+    "termo": "baricitinib",
+    "siglas": []
+  },
+  {
+    "termo": "bevacizumab",
+    "siglas": []
+  },
+  {
+    "termo": "boceprevir",
+    "siglas": []
+  },
+  {
+    "termo": "grup de convivència ampliada",
+    "siglas": []
+  },
+  {
+    "termo": "grup de convivència",
+    "siglas": []
+  },
+  {
+    "termo": "brequinar",
+    "siglas": []
+  },
+  {
+    "termo": "brincidofovir",
+    "siglas": []
+  },
+  {
+    "termo": "brensocatib",
+    "siglas": []
+  },
+  {
+    "termo": "bromhexina",
+    "siglas": []
+  },
+  {
+    "termo": "broncodilatador",
+    "siglas": []
+  },
+  {
+    "termo": "bronqui",
+    "siglas": []
+  },
+  {
+    "termo": "bronquíol",
+    "siglas": []
+  },
+  {
+    "termo": "budesonida",
+    "siglas": []
+  },
+  {
+    "termo": "bronquitis capil·lar",
+    "siglas": []
+  },
+  {
+    "termo": "brot epidèmic",
+    "siglas": []
+  },
+  {
+    "termo": "cadena de transmissió",
+    "siglas": []
+  },
+  {
+    "termo": "camostat",
+    "siglas": []
+  },
+  {
+    "termo": "camrelizumab",
+    "siglas": []
+  },
+  {
+    "termo": "càrrega antigènica",
+    "siglas": []
+  },
+  {
+    "termo": "càrrega vírica",
+    "siglas": []
+  },
+  {
+    "termo": "canakinumab",
+    "siglas": []
+  },
+  {
+    "termo": "càpsida",
+    "siglas": []
+  },
+  {
+    "termo": "cas",
+    "siglas": []
+  },
+  {
+    "termo": "cas confirmat",
+    "siglas": []
+  },
+  {
+    "termo": "cas descartat",
+    "siglas": []
+  },
+  {
+    "termo": "cas possible",
+    "siglas": []
+  },
+  {
+    "termo": "casset",
+    "siglas": []
+  },
+  {
+    "termo": "CD24Fc",
+    "siglas": []
+  },
+  {
+    "termo": "casirivimab",
+    "siglas": []
+  },
+  {
+    "termo": "casquet",
+    "siglas": []
+  },
+  {
+    "termo": "mal de cap",
+    "siglas": []
+  },
+  {
+    "termo": "cenicriviroc",
+    "siglas": []
+  },
+  {
+    "termo": "ciclesonida",
+    "siglas": []
+  },
+  {
+    "termo": "clazakizumab",
+    "siglas": []
+  },
+  {
+    "termo": "clínica",
+    "siglas": []
+  },
+  {
+    "termo": "citocina",
+    "siglas": []
+  },
+  {
+    "termo": "gat d’algàlia",
+    "siglas": []
+  },
+  {
+    "termo": "clofazimina",
+    "siglas": []
+  },
+  {
+    "termo": "cloroquina",
+    "siglas": []
+  },
+  {
+    "termo": "coagulopatia",
+    "siglas": []
+  },
+  {
+    "termo": "cobertura vacunal",
+    "siglas": []
+  },
+  {
+    "termo": "col·lectiu vulnerable de risc",
+    "siglas": []
+  },
+  {
+    "termo": "colquicina",
+    "siglas": []
+  },
+  {
+    "termo": "cobicistat",
+    "siglas": []
+  },
+  {
+    "termo": "comitè de bioètica",
+    "siglas": []
+  },
+  {
+    "termo": "comorbiditat",
+    "siglas": []
+  },
+  {
+    "termo": "conestat alfa",
+    "siglas": []
+  },
+  {
+    "termo": "confinament",
+    "siglas": []
+  },
+  {
+    "termo": "conjuntivitis",
+    "siglas": []
+  },
+  {
+    "termo": "contacte",
+    "siglas": []
+  },
+  {
+    "termo": "contacte estret",
+    "siglas": []
+  },
+  {
+    "termo": "confinament perimetral",
+    "siglas": []
+  },
+  {
+    "termo": "congestió nasal",
+    "siglas": []
+  },
+  {
+    "termo": "contagi",
+    "siglas": []
+  },
+  {
+    "termo": "contagi immediat",
+    "siglas": []
+  },
+  {
+    "termo": "contagi mediat",
+    "siglas": []
+  },
+  {
+    "termo": "contagiositat",
+    "siglas": []
+  },
+  {
+    "termo": "convalescència",
+    "siglas": []
+  },
+  {
+    "termo": "corba de contagis",
+    "siglas": []
+  },
+  {
+    "termo": "contenció",
+    "siglas": []
+  },
+  {
+    "termo": "control",
+    "siglas": []
+  },
+  {
+    "termo": "malaltia del coronavirus 2019",
+    "siglas": []
+  },
+  {
+    "termo": "cultiu",
+    "siglas": []
+  },
+  {
+    "termo": "cribratge",
+    "siglas": []
+  },
+  {
+    "termo": "dazcapistat",
+    "siglas": []
+  },
+  {
+    "termo": "danoprevir",
+    "siglas": []
+  },
+  {
+    "termo": "darunavir",
+    "siglas": []
+  },
+  {
+    "termo": "desescalament",
+    "siglas": []
+  },
+  {
+    "termo": "desinfectant",
+    "siglas": []
+  },
+  {
+    "termo": "desconfinament",
+    "siglas": []
+  },
+  {
+    "termo": "diagnosi",
+    "siglas": []
+  },
+  {
+    "termo": "diarrea",
+    "siglas": []
+  },
+  {
+    "termo": "detecció precoç",
+    "siglas": []
+  },
+  {
+    "termo": "dexametasona",
+    "siglas": []
+  },
+  {
+    "termo": "dímer-D",
+    "siglas": []
+  },
+  {
+    "termo": "discapacitat",
+    "siglas": []
+  },
+  {
+    "termo": "disfonia",
+    "siglas": []
+  },
+  {
+    "termo": "tapament",
+    "siglas": []
+  },
+  {
+    "termo": "dol",
+    "siglas": []
+  },
+  {
+    "termo": "distància física",
+    "siglas": []
+  },
+  {
+    "termo": "distanciament físic",
+    "siglas": []
+  },
+  {
+    "termo": "mal de pit",
+    "siglas": []
+  },
+  {
+    "termo": "dosi de reforç",
+    "siglas": []
+  },
+  {
+    "termo": "edatisme",
+    "siglas": []
+  },
+  {
+    "termo": "efectivitat vacunal",
+    "siglas": []
+  },
+  {
+    "termo": "eculizumab",
+    "siglas": []
+  },
+  {
+    "termo": "eficàcia vacunal",
+    "siglas": []
+  },
+  {
+    "termo": "eficiència vacunal",
+    "siglas": []
+  },
+  {
+    "termo": "Spikevax",
+    "siglas": []
+  },
+  {
+    "termo": "embòlia pulmonar",
+    "siglas": []
+  },
+  {
+    "termo": "emergència sanitària",
+    "siglas": []
+  },
+  {
+    "termo": "emapalumab",
+    "siglas": []
+  },
+  {
+    "termo": "embolcall",
+    "siglas": []
+  },
+  {
+    "termo": "emtricitabina",
+    "siglas": []
+  },
+  {
+    "termo": "emvododstat",
+    "siglas": []
+  },
+  {
+    "termo": "encebador",
+    "siglas": []
+  },
+  {
+    "termo": "endèmia",
+    "siglas": []
+  },
+  {
+    "termo": "enoxaparina",
+    "siglas": []
+  },
+  {
+    "termo": "ensovibep",
+    "siglas": []
+  },
+  {
+    "termo": "enpatoran",
+    "siglas": []
+  },
+  {
+    "termo": "epidèmia",
+    "siglas": []
+  },
+  {
+    "termo": "epidemiologia",
+    "siglas": []
+  },
+  {
+    "termo": "esdeveniment advers",
+    "siglas": []
+  },
+  {
+    "termo": "erradicació",
+    "siglas": []
+  },
+  {
+    "termo": "raspallet",
+    "siglas": []
+  },
+  {
+    "termo": "esperança de vida",
+    "siglas": []
+  },
+  {
+    "termo": "esperança de vida en bona salut",
+    "siglas": []
+  },
+  {
+    "termo": "peplòmer",
+    "siglas": []
+  },
+  {
+    "termo": "estacionalitat",
+    "siglas": []
+  },
+  {
+    "termo": "estudi de microdosi",
+    "siglas": []
+  },
+  {
+    "termo": "estat d’alarma",
+    "siglas": []
+  },
+  {
+    "termo": "estudi clínic",
+    "siglas": []
+  },
+  {
+    "termo": "estudi de confirmació terapèutica",
+    "siglas": []
+  },
+  {
+    "termo": "estudi de farmacologia humana",
+    "siglas": []
+  },
+  {
+    "termo": "estudi d’exploració terapèutica",
+    "siglas": []
+  },
+  {
+    "termo": "estudi preclínic",
+    "siglas": []
+  },
+  {
+    "termo": "etesevimab",
+    "siglas": []
+  },
+  {
+    "termo": "fase IV",
+    "siglas": []
+  },
+  {
+    "termo": "exsudat",
+    "siglas": []
+  },
+  {
+    "termo": "excés de morts",
+    "siglas": []
+  },
+  {
+    "termo": "extubació",
+    "siglas": []
+  },
+  {
+    "termo": "fallada vacunal primària",
+    "siglas": []
+  },
+  {
+    "termo": "fallada vacunal secundària",
+    "siglas": []
+  },
+  {
+    "termo": "factor de risc",
+    "siglas": []
+  },
+  {
+    "termo": "fagocitosi",
+    "siglas": []
+  },
+  {
+    "termo": "fallada vacunal",
+    "siglas": []
+  },
+  {
+    "termo": "falta de concentració",
+    "siglas": []
+  },
+  {
+    "termo": "fase de contenció",
+    "siglas": []
+  },
+  {
+    "termo": "fals negatiu",
+    "siglas": []
+  },
+  {
+    "termo": "fals positiu",
+    "siglas": []
+  },
+  {
+    "termo": "fase de mitigació",
+    "siglas": []
+  },
+  {
+    "termo": "esgotament",
+    "siglas": []
+  },
+  {
+    "termo": "esgotament mental",
+    "siglas": []
+  },
+  {
+    "termo": "fatiga pandèmica",
+    "siglas": []
+  },
+  {
+    "termo": "febrícula",
+    "siglas": []
+  },
+  {
+    "termo": "fenofibrat",
+    "siglas": []
+  },
+  {
+    "termo": "favipiravir",
+    "siglas": []
+  },
+  {
+    "termo": "febre",
+    "siglas": []
+  },
+  {
+    "termo": "fibrosi",
+    "siglas": []
+  },
+  {
+    "termo": "fingolimod",
+    "siglas": []
+  },
+  {
+    "termo": "ferritina",
+    "siglas": []
+  },
+  {
+    "termo": "fibrinogen",
+    "siglas": []
+  },
+  {
+    "termo": "frotis",
+    "siglas": []
+  },
+  {
+    "termo": "fòmit",
+    "siglas": []
+  },
+  {
+    "termo": "gel higienitzant",
+    "siglas": []
+  },
+  {
+    "termo": "galidesivir",
+    "siglas": []
+  },
+  {
+    "termo": "Sputnik V",
+    "siglas": []
+  },
+  {
+    "termo": "gimsilumab",
+    "siglas": []
+  },
+  {
+    "termo": "goflikicept",
+    "siglas": []
+  },
+  {
+    "termo": "genoma",
+    "siglas": []
+  },
+  {
+    "termo": "greu",
+    "siglas": []
+  },
+  {
+    "termo": "goteta",
+    "siglas": []
+  },
+  {
+    "termo": "guant",
+    "siglas": []
+  },
+  {
+    "termo": "grup de risc",
+    "siglas": []
+  },
+  {
+    "termo": "hepatotoxicitat",
+    "siglas": []
+  },
+  {
+    "termo": "hidroxicloroquina",
+    "siglas": []
+  },
+  {
+    "termo": "compte hemàtic",
+    "siglas": []
+  },
+  {
+    "termo": "heparina",
+    "siglas": []
+  },
+  {
+    "termo": "hipoestèsia gustativa",
+    "siglas": []
+  },
+  {
+    "termo": "profilàctica",
+    "siglas": []
+  },
+  {
+    "termo": "rentat de mans",
+    "siglas": []
+  },
+  {
+    "termo": "història clínica",
+    "siglas": []
+  },
+  {
+    "termo": "hipòsmia",
+    "siglas": []
+  },
+  {
+    "termo": "hipoxèmia",
+    "siglas": []
+  },
+  {
+    "termo": "hipòxia",
+    "siglas": []
+  },
+  {
+    "termo": "hostatger",
+    "siglas": []
+  },
+  {
+    "termo": "hoste intermediari",
+    "siglas": []
+  },
+  {
+    "termo": "imdevimab",
+    "siglas": []
+  },
+  {
+    "termo": "ibuprofèn",
+    "siglas": []
+  },
+  {
+    "termo": "icatibant",
+    "siglas": []
+  },
+  {
+    "termo": "immunitat activa",
+    "siglas": []
+  },
+  {
+    "termo": "immunitat específica",
+    "siglas": []
+  },
+  {
+    "termo": "immune",
+    "siglas": []
+  },
+  {
+    "termo": "immunològic -a",
+    "siglas": []
+  },
+  {
+    "termo": "immunitat",
+    "siglas": []
+  },
+  {
+    "termo": "immunitat específica intencionada",
+    "siglas": []
+  },
+  {
+    "termo": "immunitat de comunitat",
+    "siglas": []
+  },
+  {
+    "termo": "immunitat específica passiva",
+    "siglas": []
+  },
+  {
+    "termo": "immunitat específica no intencionada",
+    "siglas": []
+  },
+  {
+    "termo": "immunització",
+    "siglas": []
+  },
+  {
+    "termo": "immunocromatografia",
+    "siglas": []
+  },
+  {
+    "termo": "immunogen -ògena",
+    "siglas": []
+  },
+  {
+    "termo": "immunoglobulina G",
+    "siglas": []
+  },
+  {
+    "termo": "immunoglobulina M",
+    "siglas": []
+  },
+  {
+    "termo": "immunogenicitat",
+    "siglas": []
+  },
+  {
+    "termo": "immunoglobulina",
+    "siglas": []
+  },
+  {
+    "termo": "immunològic -a",
+    "siglas": []
+  },
+  {
+    "termo": "incapacitat",
+    "siglas": []
+  },
+  {
+    "termo": "incubació",
+    "siglas": []
+  },
+  {
+    "termo": "infecció",
+    "siglas": []
+  },
+  {
+    "termo": "infecció nosocomial",
+    "siglas": []
+  },
+  {
+    "termo": "incidència",
+    "siglas": []
+  },
+  {
+    "termo": "infectologia",
+    "siglas": []
+  },
+  {
+    "termo": "infiltrat",
+    "siglas": []
+  },
+  {
+    "termo": "inflamació",
+    "siglas": []
+  },
+  {
+    "termo": "infecció per gotetes",
+    "siglas": []
+  },
+  {
+    "termo": "insomni",
+    "siglas": []
+  },
+  {
+    "termo": "infodèmia",
+    "siglas": []
+  },
+  {
+    "termo": "intubació",
+    "siglas": []
+  },
+  {
+    "termo": "interferó",
+    "siglas": []
+  },
+  {
+    "termo": "interferó beta",
+    "siglas": []
+  },
+  {
+    "termo": "justícia distributiva",
+    "siglas": []
+  },
+  {
+    "termo": "latència",
+    "siglas": []
+  },
+  {
+    "termo": "lanadelumab",
+    "siglas": []
+  },
+  {
+    "termo": "limfòcit",
+    "siglas": []
+  },
+  {
+    "termo": "cèl·lula B",
+    "siglas": []
+  },
+  {
+    "termo": "lenzilumab",
+    "siglas": []
+  },
+  {
+    "termo": "leronlimab",
+    "siglas": []
+  },
+  {
+    "termo": "limfòcit de memòria",
+    "siglas": []
+  },
+  {
+    "termo": "cèl·lula T",
+    "siglas": []
+  },
+  {
+    "termo": "limfocitopènia",
+    "siglas": []
+  },
+  {
+    "termo": "lopinavir",
+    "siglas": []
+  },
+  {
+    "termo": "mareig",
+    "siglas": []
+  },
+  {
+    "termo": "mascareta",
+    "siglas": []
+  },
+  {
+    "termo": "macròfag",
+    "siglas": []
+  },
+  {
+    "termo": "marcador inflamatori",
+    "siglas": []
+  },
+  {
+    "termo": "màscara FFP",
+    "siglas": []
+  },
+  {
+    "termo": "mascareta",
+    "siglas": []
+  },
+  {
+    "termo": "mascareta quirúrgica",
+    "siglas": []
+  },
+  {
+    "termo": "MEDI 3506",
+    "siglas": []
+  },
+  {
+    "termo": "mascareta higiènica",
+    "siglas": []
+  },
+  {
+    "termo": "memòria immunitària",
+    "siglas": []
+  },
+  {
+    "termo": "meplazumab",
+    "siglas": []
+  },
+  {
+    "termo": "medicina avaluadora",
+    "siglas": []
+  },
+  {
+    "termo": "metilprednisolona",
+    "siglas": []
+  },
+  {
+    "termo": "miàlgia",
+    "siglas": []
+  },
+  {
+    "termo": "mesura de contenció",
+    "siglas": []
+  },
+  {
+    "termo": "montelukast",
+    "siglas": []
+  },
+  {
+    "termo": "mort digna",
+    "siglas": []
+  },
+  {
+    "termo": "mortalitat",
+    "siglas": []
+  },
+  {
+    "termo": "molnupiravir",
+    "siglas": []
+  },
+  {
+    "termo": "monitoratge",
+    "siglas": []
+  },
+  {
+    "termo": "mostra rinofaríngia",
+    "siglas": []
+  },
+  {
+    "termo": "mostra bucofaríngia",
+    "siglas": []
+  },
+  {
+    "termo": "mupadolimab",
+    "siglas": []
+  },
+  {
+    "termo": "mutació",
+    "siglas": []
+  },
+  {
+    "termo": "nebulització",
+    "siglas": []
+  },
+  {
+    "termo": "nebulitzador",
+    "siglas": []
+  },
+  {
+    "termo": "nafamostat",
+    "siglas": []
+  },
+  {
+    "termo": "nàusea",
+    "siglas": []
+  },
+  {
+    "termo": "vacuna NovaVax",
+    "siglas": []
+  },
+  {
+    "termo": "no inici de tractament",
+    "siglas": []
+  },
+  {
+    "termo": "nova normalitat",
+    "siglas": []
+  },
+  {
+    "termo": "OP-101",
+    "siglas": []
+  },
+  {
+    "termo": "distanàsia",
+    "siglas": []
+  },
+  {
+    "termo": "oseltamivir",
+    "siglas": []
+  },
+  {
+    "termo": "otilimab",
+    "siglas": []
+  },
+  {
+    "termo": "opaganib",
+    "siglas": []
+  },
+  {
+    "termo": "oxigenació",
+    "siglas": []
+  },
+  {
+    "termo": "tractament amb oxigen",
+    "siglas": []
+  },
+  {
+    "termo": "visera de protecció",
+    "siglas": []
+  },
+  {
+    "termo": "paràsit",
+    "siglas": []
+  },
+  {
+    "termo": "pandèmia",
+    "siglas": []
+  },
+  {
+    "termo": "pangolí",
+    "siglas": []
+  },
+  {
+    "termo": "patogen -ògena",
+    "siglas": []
+  },
+  {
+    "termo": "patogenicitat",
+    "siglas": []
+  },
+  {
+    "termo": "passaport immunològic",
+    "siglas": []
+  },
+  {
+    "termo": "perniosi",
+    "siglas": []
+  },
+  {
+    "termo": "pauta vacunal",
+    "siglas": []
+  },
+  {
+    "termo": "pemziviptadil",
+    "siglas": []
+  },
+  {
+    "termo": "peritatge mèdic",
+    "siglas": []
+  },
+  {
+    "termo": "període latent",
+    "siglas": []
+  },
+  {
+    "termo": "període d’infecció",
+    "siglas": []
+  },
+  {
+    "termo": "pic de contagis",
+    "siglas": []
+  },
+  {
+    "termo": "pla de contingència contra la COVID-19",
+    "siglas": []
+  },
+  {
+    "termo": "COVID-19",
+    "siglas": []
+  },
+  {
+    "termo": "deshidrodidemnina B",
+    "siglas": []
+  },
+  {
+    "termo": "pulmonia",
+    "siglas": []
+  },
+  {
+    "termo": "placebo",
+    "siglas": []
+  },
+  {
+    "termo": "polaina",
+    "siglas": []
+  },
+  {
+    "termo": "població objectiu",
+    "siglas": []
+  },
+  {
+    "termo": "població sentinella",
+    "siglas": []
+  },
+  {
+    "termo": "vacunació primària",
+    "siglas": []
+  },
+  {
+    "termo": "principi de beneficència",
+    "siglas": []
+  },
+  {
+    "termo": "prednisolona",
+    "siglas": []
+  },
+  {
+    "termo": "prevalença",
+    "siglas": []
+  },
+  {
+    "termo": "priorització",
+    "siglas": []
+  },
+  {
+    "termo": "principi de no-maleficència",
+    "siglas": []
+  },
+  {
+    "termo": "principi de precaució",
+    "siglas": []
+  },
+  {
+    "termo": "proteïna espícula",
+    "siglas": []
+  },
+  {
+    "termo": "pròdrom",
+    "siglas": []
+  },
+  {
+    "termo": "proteïna C reactiva",
+    "siglas": []
+  },
+  {
+    "termo": "proteïna estructural",
+    "siglas": []
+  },
+  {
+    "termo": "test PCR",
+    "siglas": []
+  },
+  {
+    "termo": "prova antigènica",
+    "siglas": []
+  },
+  {
+    "termo": "test per agrupament de mostres",
+    "siglas": []
+  },
+  {
+    "termo": "test serològic",
+    "siglas": []
+  },
+  {
+    "termo": "test ràpid",
+    "siglas": []
+  },
+  {
+    "termo": "punt d’inoculació",
+    "siglas": []
+  },
+  {
+    "termo": "quarantenat -ada",
+    "siglas": []
+  },
+  {
+    "termo": "quarantena",
+    "siglas": []
+  },
+  {
+    "termo": "recerca de contactes",
+    "siglas": []
+  },
+  {
+    "termo": "radiografia",
+    "siglas": []
+  },
+  {
+    "termo": "radiòmica",
+    "siglas": []
+  },
+  {
+    "termo": "ratpenat de ferradura petit",
+    "siglas": []
+  },
+  {
+    "termo": "voliac",
+    "siglas": []
+  },
+  {
+    "termo": "reacció sistèmica",
+    "siglas": []
+  },
+  {
+    "termo": "ravulizumab",
+    "siglas": []
+  },
+  {
+    "termo": "recaiguda",
+    "siglas": []
+  },
+  {
+    "termo": "recidiva",
+    "siglas": []
+  },
+  {
+    "termo": "reacció local",
+    "siglas": []
+  },
+  {
+    "termo": "rebrotada epidèmica",
+    "siglas": []
+  },
+  {
+    "termo": "rehabilitació respiratòria",
+    "siglas": []
+  },
+  {
+    "termo": "reinfecció",
+    "siglas": []
+  },
+  {
+    "termo": "recrudescència",
+    "siglas": []
+  },
+  {
+    "termo": "regdanvimab",
+    "siglas": []
+  },
+  {
+    "termo": "ventilació mecànica",
+    "siglas": []
+  },
+  {
+    "termo": "respirador",
+    "siglas": []
+  },
+  {
+    "termo": "remdesivir",
+    "siglas": []
+  },
+  {
+    "termo": "reservori",
+    "siglas": []
+  },
+  {
+    "termo": "revaccinació",
+    "siglas": []
+  },
+  {
+    "termo": "ribavirina",
+    "siglas": []
+  },
+  {
+    "termo": "resposta immunitària",
+    "siglas": []
+  },
+  {
+    "termo": "retrovirus",
+    "siglas": []
+  },
+  {
+    "termo": "ritonavir",
+    "siglas": []
+  },
+  {
+    "termo": "ruxolitinib",
+    "siglas": []
+  },
+  {
+    "termo": "salut pública",
+    "siglas": []
+  },
+  {
+    "termo": "sanitarització",
+    "siglas": []
+  },
+  {
+    "termo": "salt d’espècie",
+    "siglas": []
+  },
+  {
+    "termo": "salut laboral",
+    "siglas": []
+  },
+  {
+    "termo": "selinexor",
+    "siglas": []
+  },
+  {
+    "termo": "sarilumab",
+    "siglas": []
+  },
+  {
+    "termo": "sedació",
+    "siglas": []
+  },
+  {
+    "termo": "seroprevalença",
+    "siglas": []
+  },
+  {
+    "termo": "seroteràpia",
+    "siglas": []
+  },
+  {
+    "termo": "sèpsia",
+    "siglas": []
+  },
+  {
+    "termo": "seqüela",
+    "siglas": []
+  },
+  {
+    "termo": "serologia",
+    "siglas": []
+  },
+  {
+    "termo": "signe",
+    "siglas": []
+  },
+  {
+    "termo": "siltuximab",
+    "siglas": []
+  },
+  {
+    "termo": "serovar",
+    "siglas": []
+  },
+  {
+    "termo": "servei de prevenció",
+    "siglas": []
+  },
+  {
+    "termo": "sindèmia",
+    "siglas": []
+  },
+  {
+    "termo": "símptoma",
+    "siglas": []
+  },
+  {
+    "termo": "semiologia",
+    "siglas": []
+  },
+  {
+    "termo": "pneumònia d’aspiració congènita",
+    "siglas": []
+  },
+  {
+    "termo": "rapamicina",
+    "siglas": []
+  },
+  {
+    "termo": "sonda molecular",
+    "siglas": []
+  },
+  {
+    "termo": "sotrovimab",
+    "siglas": []
+  },
+  {
+    "termo": "soca",
+    "siglas": []
+  },
+  {
+    "termo": "socialització",
+    "siglas": []
+  },
+  {
+    "termo": "superpropagador -a",
+    "siglas": []
+  },
+  {
+    "termo": "suport vital",
+    "siglas": []
+  },
+  {
+    "termo": "subasumstat",
+    "siglas": []
+  },
+  {
+    "termo": "susceptible",
+    "siglas": []
+  },
+  {
+    "termo": "taxa de contagi",
+    "siglas": []
+  },
+  {
+    "termo": "talidomida",
+    "siglas": []
+  },
+  {
+    "termo": "telemedicina",
+    "siglas": []
+  },
+  {
+    "termo": "treball a distància",
+    "siglas": []
+  },
+  {
+    "termo": "taxa de letalitat",
+    "siglas": []
+  },
+  {
+    "termo": "taxa bruta de mortalitat",
+    "siglas": []
+  },
+  {
+    "termo": "temps de convalescència",
+    "siglas": []
+  },
+  {
+    "termo": "tenofovir",
+    "siglas": []
+  },
+  {
+    "termo": "tempesta de citocines",
+    "siglas": []
+  },
+  {
+    "termo": "temps de Quick",
+    "siglas": []
+  },
+  {
+    "termo": "testatge massiu",
+    "siglas": []
+  },
+  {
+    "termo": "títol d’anticossos",
+    "siglas": []
+  },
+  {
+    "termo": "test d’anticossos",
+    "siglas": []
+  },
+  {
+    "termo": "tocilizumab",
+    "siglas": []
+  },
+  {
+    "termo": "tos",
+    "siglas": []
+  },
+  {
+    "termo": "tixagevimab",
+    "siglas": []
+  },
+  {
+    "termo": "toc de queda",
+    "siglas": []
+  },
+  {
+    "termo": "camussa antibaf",
+    "siglas": []
+  },
+  {
+    "termo": "Comirnaty",
+    "siglas": []
+  },
+  {
+    "termo": "tos productiva",
+    "siglas": []
+  },
+  {
+    "termo": "tos seca",
+    "siglas": []
+  },
+  {
+    "termo": "transmissible",
+    "siglas": []
+  },
+  {
+    "termo": "transmissió",
+    "siglas": []
+  },
+  {
+    "termo": "transmissió comunitària",
+    "siglas": []
+  },
+  {
+    "termo": "traçabilitat",
+    "siglas": []
+  },
+  {
+    "termo": "tractament ambulatori",
+    "siglas": []
+  },
+  {
+    "termo": "traqueotomia",
+    "siglas": []
+  },
+  {
+    "termo": "transmissió horitzontal",
+    "siglas": []
+  },
+  {
+    "termo": "transmissió vertical",
+    "siglas": []
+  },
+  {
+    "termo": "TRV027",
+    "siglas": []
+  },
+  {
+    "termo": "trombus",
+    "siglas": []
+  },
+  {
+    "termo": "trombosi",
+    "siglas": []
+  },
+  {
+    "termo": "cànula nasal",
+    "siglas": []
+  },
+  {
+    "termo": "umifenovir",
+    "siglas": []
+  },
+  {
+    "termo": "urticària",
+    "siglas": []
+  },
+  {
+    "termo": "ús compassiu",
+    "siglas": []
+  },
+  {
+    "termo": "Vaxzevria",
+    "siglas": []
+  },
+  {
+    "termo": "vaccí",
+    "siglas": []
+  },
+  {
+    "termo": "vacuna contra la COVID-19",
+    "siglas": []
+  },
+  {
+    "termo": "vacuna BBIBP-CorV",
+    "siglas": []
+  },
+  {
+    "termo": "vacuna Johnson &amp; Johnson",
+    "siglas": []
+  },
+  {
+    "termo": "vacuna d’mRNA",
+    "siglas": []
+  },
+  {
+    "termo": "vacuna de Wuhan",
+    "siglas": []
+  },
+  {
+    "termo": "vacuna antivírica",
+    "siglas": []
+  },
+  {
+    "termo": "vacuna profilàctica",
+    "siglas": []
+  },
+  {
+    "termo": "CoronaVac",
+    "siglas": []
+  },
+  {
+    "termo": "variant vírica",
+    "siglas": []
+  },
+  {
+    "termo": "vaccinació",
+    "siglas": []
+  },
+  {
+    "termo": "vafidemstat",
+    "siglas": []
+  },
+  {
+    "termo": "velocitat reproductiva empírica",
+    "siglas": []
+  },
+  {
+    "termo": "ventilació",
+    "siglas": []
+  },
+  {
+    "termo": "nombre reproductiu bàsic",
+    "siglas": []
+  },
+  {
+    "termo": "velocitat reproductiva efectiva",
+    "siglas": []
+  },
+  {
+    "termo": "viricida",
+    "siglas": []
+  },
+  {
+    "termo": "virió",
+    "siglas": []
+  },
+  {
+    "termo": "via d’administració",
+    "siglas": []
+  },
+  {
+    "termo": "vidofludimús",
+    "siglas": []
+  },
+  {
+    "termo": "virulència",
+    "siglas": []
+  },
+  {
+    "termo": "virus",
+    "siglas": []
+  },
+  {
+    "termo": "vorapaxar",
+    "siglas": []
+  },
+  {
+    "termo": "col·lapse cardiocirculatori",
+    "siglas": []
+  },
+  {
+    "termo": "zoonòtic -a",
+    "siglas": []
+  },
+  {
+    "termo": "zilucoplan",
+    "siglas": []
+  },
+  {
+    "termo": "zoonosi",
+    "siglas": []
+  }
+]
