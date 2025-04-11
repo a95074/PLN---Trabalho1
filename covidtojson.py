@@ -10,6 +10,9 @@ texto = re.sub(r'<text top="\d+" left="\d+" width="\d+" height="\d+" font="12"><
 
 texto = re.sub(r'<text top="\d+" left="\d+" width="\d+" height="\d+" font="\d+">\s*\b(\d+(?:-+\d+)+\b)\s*</text>*\n?', '', texto)
 
+texto = re.sub(r'-*\n?', '', texto) #remoção do travessão
+
+
 #foi necessário implemenetar esta funçao para depois ao ordenar conceitos com ou sem siglas os acentos nao interfiram
 
 def remove_acentos(texto):

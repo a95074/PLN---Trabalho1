@@ -137,7 +137,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "aislat viric",
-      "eu": "birus-andui isolatu",
+      "eu": "birusandui isolatu",
       "gl": "illado",
       "es": "aislado",
       "en": "isolate",
@@ -175,17 +175,17 @@
     }
   },
   {
-    "termo": "AMY-101",
+    "termo": "AMY101",
     "siglas": [],
     "traducoes": {
-      "oc": "AMY-101",
-      "eu": "AMY-101",
-      "gl": "AMY-101",
-      "es": "AMY-101",
-      "en": "AMY-101",
-      "fr": "AMY-101",
-      "pt": "[BR] molécula AMY-101",
-      "nl": "AMY-101"
+      "oc": "AMY101",
+      "eu": "AMY101",
+      "gl": "AMY101",
+      "es": "AMY101",
+      "en": "AMY101",
+      "fr": "AMY101",
+      "pt": "[BR] molécula AMY101",
+      "nl": "AMY101"
     }
   },
   {
@@ -222,7 +222,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "ansietat anticipatòria",
-      "eu": "aitzinamendu-antsietate",
+      "eu": "aitzinamenduantsietate",
       "gl": "ansiedade anticipatoria",
       "es": "ansiedad anticipatoria",
       "en": "anticipatory anxiety",
@@ -340,7 +340,7 @@
       "oc": "apilimod",
       "eu": "apilimod",
       "gl": "ASC09F",
-      "es": "apilimod",
+      "es": "ASC09F",
       "en": "apilimod",
       "fr": "apilimod",
       "pt": "apilimod",
@@ -372,7 +372,8 @@
       "eu": "azido erribonukleiko mezulari",
       "gl": "ARN mensaxeiro",
       "es": "ácido ribonucleico mensajero",
-      "en": "messenger ribonucleic acid"
+      "en": "messenger ribonucleic acid",
+      "fr": "acide ribonucléique messager"
     }
   },
   {
@@ -401,17 +402,17 @@
     }
   },
   {
-    "termo": "asimptomàtic -a",
+    "termo": "asimptomàtic a",
     "siglas": [],
     "traducoes": {
-      "oc": "asimptomatic -a",
+      "oc": "asimptomatic a",
       "eu": "asintomatiko",
-      "gl": "asintomático -a",
-      "es": "asintomático -ca",
+      "gl": "asintomático a",
+      "es": "asintomático ca",
       "en": "asymptomatic",
       "fr": "asymptomatique",
       "pt": "assintomático",
-      "nl": "asymptomatisch -e"
+      "nl": "asymptomatisch e"
     }
   },
   {
@@ -437,7 +438,7 @@
       "eu": "itsu bikoitzeko saiakuntza",
       "gl": "ensaio dobre cego",
       "es": "prueba a doble ciego",
-      "en": "double-blind test",
+      "en": "doubleblind test",
       "fr": "épreuve à double anonymat"
     }
   },
@@ -449,7 +450,7 @@
       "eu": "itsu hirukoitzeko saiakuntza",
       "gl": "ensaio triplo cego",
       "es": "prueba a triple ciego",
-      "en": "triple-blind test",
+      "en": "tripleblind test",
       "fr": "épreuve à triple anonymat"
     }
   },
@@ -485,7 +486,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "atencion ath dò",
-      "eu": "dolu-arreta",
+      "eu": "doluarreta",
       "gl": "atención ao dó",
       "es": "atención al duelo",
       "en": "attention to grief",
@@ -512,7 +513,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "atencion ath dò",
-      "eu": "dolu-arreta",
+      "eu": "doluarreta",
       "gl": "atención ao dó",
       "es": "atención al duelo",
       "en": "attention to grief",
@@ -590,8 +591,8 @@
       "gl": "autoinflamación",
       "es": "autoinflamación",
       "en": "autoinflammation",
-      "fr": "auto-inflammation",
-      "pt [PT]": "auto-inflamação",
+      "fr": "autoinflammation",
+      "pt [PT]": "autoinflamação",
       "pt [BR]": "autoinflamação",
       "nl": "autoinflammatie"
     }
@@ -604,9 +605,9 @@
       "eu": "autolagin",
       "gl": "automostra",
       "es": "automuestra",
-      "en": "self-sample",
-      "fr": "auto-prélèvement",
-      "pt [PT]": "auto-amostragem",
+      "en": "selfsample",
+      "fr": "autoprélèvement",
+      "pt [PT]": "autoamostragem",
       "pt [BR]": "auto coleta de amostra",
       "nl": "zelfbemonstering"
     }
@@ -616,7 +617,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "autoritat sanitària",
-      "eu": "osasun-agintaritza",
+      "eu": "osasunagintaritza",
       "gl": "autoridade sanitaria",
       "es": "autoridad sanitaria",
       "en": "health authority",
@@ -735,7 +736,7 @@
     ],
     "traducoes": {
       "oc": "grop bambolha",
-      "eu": "burbuila-talde",
+      "eu": "burbuilatalde",
       "gl": "burbulla",
       "es": "grupo burbuja",
       "en": "bubble group",
@@ -806,7 +807,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "broncodilatador",
-      "eu": "bronkio-zabaltzaile",
+      "eu": "bronkiozabaltzaile",
       "gl": "broncodilatador",
       "es": "broncodilatador",
       "en": "bronchodilator",
@@ -870,7 +871,7 @@
       "pt": "surto epidêmico",
       "pt [PT]": "surto epidemiológico",
       "pt [BR]": "surto",
-      "nl": "corona-uitbraak"
+      "nl": "coronauitbraak"
     }
   },
   {
@@ -936,8 +937,8 @@
       "eu": "lurrunaren kontrako gamuza",
       "gl": "toalliña antibafo",
       "es": "gamuza antivaho",
-      "en": "anti-fog suede",
-      "fr": "chamois anti-buée",
+      "en": "antifog suede",
+      "fr": "chamois antibuée",
       "pt [PT]": "pano antiembaciamento",
       "pt [BR]": "lenço antiembaçamento"
     }
@@ -956,7 +957,7 @@
       "pt [PT]": "canacinumab",
       "pt [BR]": "canakinumabe",
       "nl": "canakinumab",
-      "CAS": "402710-25-2, cadena lleugera;"
+      "CAS": "402710252, cadena lleugera;"
     }
   },
   {
@@ -964,7 +965,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "mericles nasaus",
-      "eu": "sudur-kanula",
+      "eu": "sudurkanula",
       "gl": "cánula nasal",
       "es": "cánula nasal",
       "en": "nasal cannula",
@@ -993,7 +994,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "carga antigenica",
-      "eu": "antigeno-karga",
+      "eu": "antigenokarga",
       "gl": "carga antixénica",
       "es": "carga antigénica",
       "en": "antigenic load",
@@ -1092,7 +1093,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "casquet",
-      "eu": "ebakuntza-txano",
+      "eu": "ebakuntzatxano",
       "gl": "gorro",
       "en": "CD24Fc",
       "fr": "CD24Fc",
@@ -1155,7 +1156,7 @@
       "en": "T cell",
       "fr": "cellule T",
       "pt": "célula T",
-      "nl": "T-cel"
+      "nl": "Tcel"
     }
   },
   {
@@ -1254,7 +1255,8 @@
       "en": "chloroquine",
       "fr": "chloroquine",
       "pt": "cloroquina",
-      "nl": "chloroquine"
+      "nl": "chloroquine",
+      "Plasmodium": "mitjançant la inhibició"
     }
   },
   {
@@ -1276,7 +1278,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "collectiu vulnerable de risc",
-      "eu": "arrisku-talde zaurgarri",
+      "eu": "arriskutalde zaurgarri",
       "gl": "grupo vulnerable de risco",
       "es": "colectivo vulnerable de riesgo"
     }
@@ -1330,7 +1332,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "collectiu vulnerable de risc",
-      "eu": "arrisku-talde zaurgarri",
+      "eu": "arriskutalde zaurgarri",
       "gl": "grupo vulnerable de risco",
       "es": "colectivo vulnerable de riesgo",
       "en": "vulnerable group at risk",
@@ -1356,14 +1358,14 @@
     "siglas": [],
     "traducoes": {
       "oc": "comitat de bioetica",
-      "eu": "bioetika-batzorde",
+      "eu": "bioetikabatzorde",
       "gl": "comité de bioética",
       "es": "comité de bioética",
       "en": "bioethics committee",
       "fr": "comité de bioéthique",
       "pt [PT]": "comissão de bioética",
       "pt [BR]": "comitê de bioética",
-      "nl": "comité voor bio-ethiek"
+      "nl": "comité voor bioethiek"
     }
   },
   {
@@ -1374,7 +1376,7 @@
       "eu": "komorbilitate",
       "gl": "comorbididade",
       "es": "comorbilidad",
-      "en": "co-morbidity",
+      "en": "comorbidity",
       "fr": "comorbidité",
       "pt [PT]": "comorbilidade",
       "pt [BR]": "comorbidade",
@@ -1429,7 +1431,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "conjontivitis",
-      "eu": "konfinamendu",
+      "eu": "konjuntibitis",
       "gl": "confinamento",
       "es": "confinamiento",
       "en": "confinement",
@@ -1626,7 +1628,7 @@
       "eu": "Sinovac txerto",
       "gl": "vacina CoronaVac",
       "es": "vacuna Sinovac",
-      "en": "Sinovac COVID-19 vaccin",
+      "en": "Sinovac COVID19 vaccin",
       "fr": "vaccin Sinovac",
       "pt": "vacina CoronaVac"
     }
@@ -1634,21 +1636,21 @@
   {
     "termo": "coronavirus de la MERS",
     "siglas": [
-      "MERS-CoV"
+      "MERSCoV"
     ],
     "traducoes": {
       "oc": "coronavirus associat a MERS",
       "eu": "MERSi lotutako koronabirus",
       "gl": "coronavirus asociado á MERS",
       "es": "coronavirus asociado a MERS",
-      "en": "MERS-CoV coronavirus",
-      "fr": "coronavirus MERS-CoV"
+      "en": "MERSCoV coronavirus",
+      "fr": "coronavirus MERSCoV"
     }
   },
   {
     "termo": "coronavirus de la SARS",
     "siglas": [
-      "SARS-CoV"
+      "SARSCoV"
     ],
     "traducoes": {
       "oc": "coronavirus associat ara SARS",
@@ -1659,13 +1661,13 @@
     }
   },
   {
-    "termo": "COVID-19",
+    "termo": "COVID19",
     "siglas": [],
     "traducoes": {
       "oc": "persona especiaument sensibla",
-      "eu": "COVID-19arekiko arrisku handiko pertsona",
-      "gl": "persoa de risco para a COVID-19",
-      "es": "persona de riesgo para la COVID-19"
+      "eu": "COVID19arekiko arrisku handiko pertsona",
+      "gl": "persoa de risco para a COVID19",
+      "es": "persona de riesgo para la COVID19"
     }
   },
   {
@@ -1746,7 +1748,7 @@
       "en": "interferon beta",
       "fr": "interféron bêta",
       "pt [PT]": "interferão beta",
-      "pt [BR]": "IFN-beta",
+      "pt [BR]": "IFNbeta",
       "nl": "interferon ß"
     }
   },
@@ -1772,7 +1774,7 @@
       "eu": "konfinamendua arintze",
       "gl": "desescalada",
       "es": "desescalada",
-      "en": "de-escalation",
+      "en": "deescalation",
       "fr": "désescalade",
       "pt [PT]": "levantamento do desconfinamento",
       "pt [BR]": "flexibilização de medidas",
@@ -1803,7 +1805,7 @@
       "gl": "desinfectante",
       "es": "desinfectante",
       "en": "disinfectant",
-      "fr": "désinfectant -ante",
+      "fr": "désinfectant ante",
       "pt": "desinfetante",
       "nl": "ontsmettingsmiddel"
     }
@@ -1866,18 +1868,18 @@
     }
   },
   {
-    "termo": "dímer-D",
+    "termo": "dímerD",
     "siglas": [],
     "traducoes": {
-      "oc": "dimer-D",
+      "oc": "dimerD",
       "eu": "D dimero",
-      "gl": "dímero-D",
-      "es": "dímero-D",
-      "en": "D-dimer",
-      "fr": "D-dimère",
-      "pt": "D-dímero",
+      "gl": "dímeroD",
+      "es": "dímeroD",
+      "en": "Ddimer",
+      "fr": "Ddimère",
+      "pt": "Ddímero",
       "pt [BR]": "dímero D",
-      "nl": "D-dimer"
+      "nl": "Ddimer"
     }
   },
   {
@@ -1927,7 +1929,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "distància de seguretat",
-      "eu": "segurtasun-tarte",
+      "eu": "segurtasuntarte",
       "gl": "distancia de seguridade",
       "es": "distancia de seguridad",
       "en": "physical distance",
@@ -1965,7 +1967,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "dòsi de rebrembe",
-      "eu": "oroitzapen-dosi",
+      "eu": "oroitzapendosi",
       "gl": "dose de recordo",
       "es": "dosis de recuerdo",
       "en": "booster dose",
@@ -2069,7 +2071,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "engolòpa",
-      "eu": "birus-bilgarri",
+      "eu": "birusbilgarri",
       "gl": "envoltura vírica",
       "es": "cubierta vírica",
       "en": "envelope",
@@ -2097,7 +2099,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "emergéncia sanitària",
-      "eu": "osasun-larrialdi",
+      "eu": "osasunlarrialdi",
       "gl": "emerxencia sanitaria",
       "es": "emergencia sanitaria",
       "en": "health emergency",
@@ -2169,7 +2171,8 @@
     "traducoes": {
       "oc": "ensovibep",
       "eu": "ensobibep",
-      "gl": "ensovibep"
+      "gl": "ensovibep",
+      "es": "ensovibep"
     }
   },
   {
@@ -2319,7 +2322,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "esperança de vida",
-      "eu": "bizi-itxaropen",
+      "eu": "biziitxaropen",
       "gl": "esperanza de vida",
       "es": "esperanza de vida",
       "en": "life expectancy",
@@ -2334,7 +2337,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "esperança de vida en bona salut",
-      "eu": "osasun-egoera oneko bizi-itxaropen",
+      "eu": "osasunegoera oneko biziitxaropen",
       "gl": "esperanza de vida en boa saúde",
       "es": "esperanza de vida en buena salud",
       "en": "healthy life expectancy",
@@ -2363,7 +2366,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "estat d’alarma",
-      "eu": "alarma-egoera",
+      "eu": "alarmaegoera",
       "gl": "estado de alarma",
       "es": "estado de alarma",
       "en": "state of alarm",
@@ -2421,7 +2424,8 @@
       "es": "estudio de fase 0",
       "en": "phase 0",
       "fr": "étude de phase 0",
-      "pt [PT]": "estudo de fase 0"
+      "pt [PT]": "estudo de fase 0",
+      "pt [BR]": "estudo clínico de fase 0"
     }
   },
   {
@@ -2446,7 +2450,7 @@
       "es": "estudio preclínico",
       "en": "preclinical study",
       "fr": "essai préclinique",
-      "pt": "estudo pré-clínico",
+      "pt": "estudo préclínico",
       "nl": "preklinisch onderzoek"
     }
   },
@@ -2487,7 +2491,7 @@
     ],
     "traducoes": {
       "oc": "expedient de regulacion temporau",
-      "eu": "aldi baterako enplegu-erregulazioko",
+      "eu": "aldi baterako enpleguerregulazioko",
       "gl": "expediente de regulación temporal de",
       "es": "expediente de regulación temporal de",
       "en": "temporary employment regulation file",
@@ -2528,7 +2532,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "factor de risc",
-      "eu": "arrisku-faktore",
+      "eu": "arriskufaktore",
       "gl": "factor de risco",
       "es": "factor de riesgo",
       "en": "risk factor",
@@ -2556,7 +2560,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "fauta de concentracion",
-      "eu": "kontzentrazio-falta",
+      "eu": "kontzentraziofalta",
       "gl": "falta de concentración",
       "es": "falta de concentración"
     }
@@ -2580,7 +2584,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "factor de risc",
-      "eu": "arrisku-faktore",
+      "eu": "arriskufaktore",
       "gl": "factor de risco",
       "es": "factor de riesgo",
       "en": "risk factor",
@@ -2621,7 +2625,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "fauta de concentracion",
-      "eu": "kontzentrazio-falta",
+      "eu": "kontzentraziofalta",
       "gl": "falta de concentración",
       "es": "falta de concentración",
       "en": "lack of concentration",
@@ -2635,7 +2639,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "fauta de contencion",
-      "eu": "euste-fase",
+      "eu": "eustefase",
       "gl": "fase de contención",
       "es": "fase de contención",
       "en": "containment phase",
@@ -2649,7 +2653,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "fasa de mitigacion",
-      "eu": "arintze-fase",
+      "eu": "arintzefase",
       "gl": "fase de mitigación",
       "es": "fase de mitigación",
       "en": "mitigation phase",
@@ -2849,7 +2853,7 @@
       "en": "civet",
       "fr": "civette",
       "pt": "civeta",
-      "pt [PT]": "gato-de-algália",
+      "pt [PT]": "gatodealgália",
       "nl": "civet",
       "pt [BR]": "apresentação clínica"
     }
@@ -2872,7 +2876,7 @@
     "termo": "genoma",
     "siglas": [],
     "traducoes": {
-      "oc": "agut -uda",
+      "oc": "agut uda",
       "eu": "genoma",
       "gl": "xenoma",
       "es": "genoma",
@@ -2902,7 +2906,7 @@
       "oc": "goflikicept",
       "eu": "gel antiseptiko",
       "gl": "xel antiséptico",
-      "es": "goflikicept",
+      "es": "gel antiséptico",
       "en": "goflikicept",
       "fr": "goflikicept"
     }
@@ -2923,10 +2927,10 @@
     "termo": "greu",
     "siglas": [],
     "traducoes": {
-      "oc": "agut -uda",
+      "oc": "agut uda",
       "eu": "larri",
       "gl": "grave",
-      "es": "agudo -da",
+      "es": "agudo da",
       "en": "severe",
       "fr": "fort, forte",
       "pt": "grave",
@@ -2953,7 +2957,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "bambolha ampliada",
-      "eu": "bizikidetza-burbuila zabaldu",
+      "eu": "bizikidetzaburbuila zabaldu",
       "gl": "burbulla ampliada",
       "es": "burbuja ampliada",
       "en": "enlarged bubble",
@@ -2966,7 +2970,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "grop de risc",
-      "eu": "arrisku-talde",
+      "eu": "arriskutalde",
       "gl": "grupo de risco",
       "es": "grupo de riesgo",
       "en": "risk group",
@@ -3039,7 +3043,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "ipoestesia gustativa",
-      "eu": "dastamen-hipoestesia",
+      "eu": "dastamenhipoestesia",
       "gl": "hipoxeusia",
       "es": "hipoestesia gustativa",
       "en": "gustatory hypoesthesia",
@@ -3084,7 +3088,7 @@
       "oc": "ostatgèr",
       "eu": "espezie ostalari",
       "gl": "anfitrión",
-      "es": "hipoxia",
+      "es": "anfitrión",
       "en": "hypoxia",
       "fr": "hypoxie"
     }
@@ -3099,7 +3103,8 @@
       "es": "historia clínica",
       "en": "clinical chart",
       "fr": "dossier du patient",
-      "pt": "história clínica"
+      "pt": "história clínica",
+      "pt [BR]": "histórico clínico"
     }
   },
   {
@@ -3180,9 +3185,9 @@
       "gl": "inmune",
       "es": "inmune",
       "en": "immune",
-      "fr": "immun -une",
+      "fr": "immun une",
       "pt": "imune",
-      "nl": "immuun -mune"
+      "nl": "immuun mune"
     }
   },
   {
@@ -3190,7 +3195,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "immunitat",
-      "eu": "talde-immunitate",
+      "eu": "taldeimmunitate",
       "gl": "inmunidade colectiva",
       "es": "inmunidad colectiva",
       "en": "community immunity",
@@ -3295,20 +3300,20 @@
     }
   },
   {
-    "termo": "immunogen -ògena",
+    "termo": "immunogen ògena",
     "siglas": [],
     "traducoes": {
       "oc": "immunitat inespecifica",
       "eu": "sortzetiko immunitate",
-      "gl": "inmunoxénico -a",
-      "es": "inmunogénico -ca"
+      "gl": "inmunoxénico a",
+      "es": "inmunogénico ca"
     }
   },
   {
     "termo": "immunogenicitat",
     "siglas": [],
     "traducoes": {
-      "oc": "immunogenicitat",
+      "oc": "immunoglobulina",
       "eu": "immunogenikotasun",
       "gl": "inmunoxenicidade",
       "es": "inmunogenicidad",
@@ -3363,32 +3368,32 @@
     }
   },
   {
-    "termo": "immunològic -a",
+    "termo": "immunològic a",
     "siglas": [],
     "traducoes": {
-      "oc": "immunitari -ària",
+      "oc": "immunitari ària",
       "eu": "immunitario",
       "gl": "inmune",
-      "es": "inmunitario -ria",
+      "es": "inmunitario ria",
       "en": "immune",
       "fr": "immunitaire",
       "pt": "imunitário",
       "pt [BR]": "imune",
-      "nl": "immunologisch -e"
+      "nl": "immunologisch e"
     }
   },
   {
-    "termo": "immunològic -a",
+    "termo": "immunològic a",
     "siglas": [],
     "traducoes": {
       "oc": "incapacitat",
       "eu": "immunologiko",
-      "gl": "inmunolóxico -ca",
-      "es": "inmunológico -ca",
+      "gl": "inmunolóxico ca",
+      "es": "inmunológico ca",
       "en": "immunologic",
       "fr": "immunologique",
       "pt": "imunológico",
-      "nl": "immunologisch -e"
+      "nl": "immunologisch e"
     }
   },
   {
@@ -3553,10 +3558,10 @@
     "siglas": [],
     "traducoes": {
       "oc": "inflamacion",
-      "eu": "ospitale-infekzio",
+      "eu": "ospitaleinfekzio",
       "gl": "infección hospitalaria",
       "es": "infección hospitalaria",
-      "en": "hospital-acquired infection",
+      "en": "hospitalacquired infection",
       "fr": "hospitalisme infectieux"
     }
   },
@@ -3626,7 +3631,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "justícia distributiva",
-      "eu": "banaketa-justizia",
+      "eu": "banaketajustizia",
       "gl": "xustiza distributiva",
       "es": "justicia distributiva",
       "en": "distributive justice",
@@ -3654,7 +3659,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "justícia distributiva",
-      "eu": "banaketa-justizia",
+      "eu": "banaketajustizia",
       "gl": "xustiza distributiva",
       "es": "justicia distributiva",
       "en": "distributive justice",
@@ -3664,15 +3669,16 @@
     }
   },
   {
-    "termo": "lactat-deshidrogenasa",
+    "termo": "lactatdeshidrogenasa",
     "siglas": [
       "LDH"
     ],
     "traducoes": {
-      "oc": "lactat-desidrogenasa",
+      "oc": "lactatdesidrogenasa",
       "eu": "laktato deshidrogenasa",
       "gl": "lactato deshidroxenase",
-      "es": "deshidrogenasa láctica"
+      "es": "deshidrogenasa láctica",
+      "en": "lactate dehydrogenase"
     }
   },
   {
@@ -3749,7 +3755,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "limfòcit de memòria",
-      "eu": "oroimen-linfozito",
+      "eu": "oroimenlinfozito",
       "gl": "linfocito de memoria",
       "es": "célula de memoria",
       "en": "memory cell",
@@ -3847,9 +3853,9 @@
     "siglas": [],
     "traducoes": {
       "oc": "covid 19",
-      "eu": "COVID-19",
-      "gl": "covid-19",
-      "es": "COVID-19"
+      "eu": "COVID19",
+      "gl": "covid19",
+      "es": "COVID19"
     }
   },
   {
@@ -3857,7 +3863,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "mascareta autofiltrant",
-      "eu": "hantura-markatzaile",
+      "eu": "hanturamarkatzaile",
       "gl": "marcador inflamatorio",
       "es": "marcador inflamatorio",
       "en": "inflammatory marker"
@@ -4000,7 +4006,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "mesura de contencion",
-      "eu": "euste-neurri",
+      "eu": "eusteneurri",
       "gl": "medida de contención",
       "es": "medida de contención",
       "en": "containment measure",
@@ -4031,7 +4037,7 @@
       "eu": "mialgia",
       "gl": "mialxia",
       "es": "meplazumab",
-      "en": "myalgia",
+      "en": "meplazumab",
       "fr": "myalgie",
       "pt": "mialgia",
       "nl": "myalgie"
@@ -4122,7 +4128,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "flux nasofaringi",
-      "eu": "sudur-faringeetako lagin",
+      "eu": "sudurfaringeetako lagin",
       "gl": "exsudado nasofarínxeo",
       "es": "exudado nasofaríngeo",
       "en": "nasopharyngeal sample",
@@ -4233,7 +4239,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "velocitat reproductiva basica",
-      "eu": "oinarrizko erreprodukzio-zenbaki",
+      "eu": "oinarrizko erreprodukziozenbaki",
       "gl": "número reprodutivo básico",
       "es": "número básico de reproducción",
       "en": "basic reproduction number",
@@ -4256,18 +4262,18 @@
     }
   },
   {
-    "termo": "OP-101",
+    "termo": "OP101",
     "siglas": [],
     "traducoes": {
-      "oc": "OP-101",
-      "eu": "OP-101",
-      "gl": "OP-101",
-      "es": "OP-101",
-      "en": "OP-101",
-      "fr": "OP-101",
-      "pt": "OP-101",
-      "nl": "OP-101",
-      "ar": "OP-101"
+      "oc": "OP101",
+      "eu": "OP101",
+      "gl": "OP101",
+      "es": "OP101",
+      "en": "OP101",
+      "fr": "OP101",
+      "pt": "OP101",
+      "nl": "OP101",
+      "ar": "OP101"
     }
   },
   {
@@ -4297,7 +4303,8 @@
       "es": "Organización Mundial de la Salud",
       "en": "World Health Organization",
       "fr": "Organisation mondiale de la Santé",
-      "pt": "Organização Mundial de Saúde"
+      "pt": "Organização Mundial de Saúde",
+      "pt [BR]": "Organização Mundial da Saúde"
     }
   },
   {
@@ -4389,25 +4396,25 @@
     "siglas": [],
     "traducoes": {
       "oc": "passapòrt d’immunitat",
-      "eu": "immunitate-pasaporte",
+      "eu": "immunitatepasaporte",
       "gl": "pasaporte de inmunidade",
       "es": "certificado de inmunidad",
       "en": "immunity certificate"
     }
   },
   {
-    "termo": "patogen -ògena",
+    "termo": "patogen ògena",
     "siglas": [],
     "traducoes": {
-      "oc": "patogèn -a",
+      "oc": "patogèn a",
       "eu": "patogeno",
-      "gl": "patóxeno -a",
-      "es": "morbígeno -na",
+      "gl": "patóxeno a",
+      "es": "morbígeno na",
       "en": "pathogenic",
       "fr": "pathogène",
       "pt [PT]": "patogénico",
       "pt [BR]": "patogênico",
-      "nl": "pathogeen -gene"
+      "nl": "pathogeen gene"
     }
   },
   {
@@ -4429,7 +4436,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "pauta de vacunacion",
-      "eu": "txertaketa-pauta",
+      "eu": "txertaketapauta",
       "gl": "pauta de vacinación",
       "es": "pauta de vacunación",
       "en": "immunization schedule",
@@ -4469,7 +4476,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "periòde d’infeccion",
-      "eu": "infekzio-periodo",
+      "eu": "infekzioperiodo",
       "gl": "período de infección",
       "es": "periodo de infección",
       "en": "infectious period",
@@ -4485,7 +4492,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "estadi d’incubacion",
-      "eu": "latentzia-periodo",
+      "eu": "latentziaperiodo",
       "gl": "fase de incubación",
       "es": "fase de incubación"
     }
@@ -4501,7 +4508,7 @@
       "en": "medical expertise",
       "fr": "expertise médicale",
       "pt": "perícia médica",
-      "pt [PT]": "perícia médico-legal",
+      "pt [PT]": "perícia médicolegal",
       "nl": "medische expertise"
     }
   },
@@ -4536,13 +4543,13 @@
     }
   },
   {
-    "termo": "pla de contingència contra la COVID-19",
+    "termo": "pla de contingència contra la COVID19",
     "siglas": [],
     "traducoes": {
       "oc": "persona especiaument sensibla",
-      "eu": "COVID-19aren aurreko kontingentzia-plan",
-      "gl": "plan de continxencia contra a COVID-19",
-      "es": "plan de contingencia frente a la COVID-19"
+      "eu": "COVID19aren aurreko kontingentziaplan",
+      "gl": "plan de continxencia contra a COVID19",
+      "es": "plan de contingencia frente a la COVID19"
     }
   },
   {
@@ -4579,7 +4586,7 @@
       "es": "población diana",
       "en": "target population",
       "fr": "groupe cible",
-      "pt": "população-alvo",
+      "pt": "populaçãoalvo",
       "nl": "doelgroep"
     }
   },
@@ -4590,7 +4597,8 @@
       "oc": "primovacunacion",
       "eu": "txertaketa primario",
       "gl": "primovacinación",
-      "es": "primovacunación"
+      "es": "primovacunación",
+      "en": "primary immunization"
     }
   },
   {
@@ -4602,7 +4610,7 @@
       "gl": "polaina",
       "es": "calza",
       "en": "protective leg cover",
-      "fr": "couvre-chaussure",
+      "fr": "couvrechaussure",
       "pt [PT]": "polaina",
       "pt [BR]": "propés",
       "nl": "overlaars"
@@ -4652,16 +4660,17 @@
     }
   },
   {
-    "termo": "principi de no-maleficència",
+    "termo": "principi de nomaleficència",
     "siglas": [],
     "traducoes": {
-      "oc": "non-maleficéncia",
+      "oc": "nonmaleficéncia",
       "eu": "kalterik ez egiteko printzipio",
       "gl": "principio de non maleficencia",
       "es": "no maleficencia",
       "en": "nonmaleficence",
-      "fr": "non-malfaisance",
-      "pt": "princípio da não-maleficência"
+      "fr": "nonmalfaisance",
+      "pt": "princípio da nãomaleficência",
+      "pt [BR]": "não maleficência"
     }
   },
   {
@@ -4669,7 +4678,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "principi de precaucion",
-      "eu": "zuhurtasun-printzipio",
+      "eu": "zuhurtasunprintzipio",
       "gl": "proteína estrutural",
       "es": "proteína estructural",
       "en": "structural protein",
@@ -4696,7 +4705,7 @@
     "termo": "pròdrom",
     "siglas": [],
     "traducoes": {
-      "oc": "prodròm",
+      "oc": "proteïna C reactiva",
       "eu": "prodromo",
       "gl": "pródromo",
       "es": "pródromo",
@@ -4726,14 +4735,14 @@
     "siglas": [],
     "traducoes": {
       "oc": "proteïna C reactiva",
-      "eu": "proteina C-erreaktibo",
+      "eu": "proteina Cerreaktibo",
       "gl": "proteína C reactiva",
       "es": "proteína C reactiva",
-      "en": "C-reactive protein",
+      "en": "Creactive protein",
       "fr": "protéine C réactive",
-      "pt [PT]": "proteína C-reativa",
+      "pt [PT]": "proteína Creativa",
       "pt [BR]": "proteína C reativa",
-      "nl": "C-reactief proteïne"
+      "nl": "Creactief proteïne"
     }
   },
   {
@@ -4753,7 +4762,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "proteïna estructurau",
-      "eu": "egitura-proteina",
+      "eu": "egituraproteina",
       "gl": "proba de agrupamento de mostras",
       "es": "test por agrupamiento",
       "en": "pooled sample testing",
@@ -4766,7 +4775,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "pròva antigenica",
-      "eu": "antigeno-test",
+      "eu": "antigenotest",
       "gl": "proba antixénica",
       "es": "prueba de antígenos",
       "en": "Ag test",
@@ -4794,7 +4803,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "punt d’injeccion",
-      "eu": "injekzio-puntu",
+      "eu": "injekziopuntu",
       "gl": "punto de inoculación",
       "es": "lugar de inyección",
       "en": "injection site",
@@ -4808,7 +4817,7 @@
     ],
     "traducoes": {
       "oc": "qualitat de vida",
-      "eu": "bizi-kalitate",
+      "eu": "bizikalitate",
       "gl": "calidade de vida",
       "es": "calidad de vida",
       "en": "quality of life",
@@ -4832,15 +4841,15 @@
     }
   },
   {
-    "termo": "quarantenat -ada",
+    "termo": "quarantenat ada",
     "siglas": [],
     "traducoes": {
-      "oc": "quarantenat -ada",
+      "oc": "quarantenat ada",
       "eu": "berrogeialdian jarri",
-      "gl": "corentenado -a",
-      "es": "cuarentenado -da",
+      "gl": "corentenado a",
+      "es": "cuarentenado da",
       "en": "quarantined",
-      "fr": "quarantainé -née",
+      "fr": "quarantainé née",
       "pt": "colocado em quarentena",
       "nl": "in quarantaine"
     }
@@ -4893,7 +4902,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "esperança de vida",
-      "eu": "bizi-itxaropen",
+      "eu": "biziitxaropen",
       "gl": "esperanza de vida",
       "es": "esperanza de vida",
       "en": "swab"
@@ -4903,13 +4912,13 @@
     "termo": "ratpenat de ferradura petit",
     "siglas": [],
     "traducoes": {
-      "oc": "arrata-cauda de herradura petita",
+      "oc": "arratacauda de herradura petita",
       "eu": "errinolofo txiki",
       "gl": "morcego pequeno de ferradura",
       "es": "murciélago de herradura menor",
       "en": "lesser horseshoe bat",
       "fr": "petit rhinolophe",
-      "pt [PT]": "morcego-de-ferradura-pequeno",
+      "pt [PT]": "morcegodeferradurapequeno",
       "pt [BR]": "morcego de ferradura pequeno",
       "nl": "kleine hoefijzerneus"
     }
@@ -4953,7 +4962,7 @@
     ],
     "traducoes": {
       "oc": "reaccion en cadia pera polimerasa",
-      "eu": "polimerasaren kate-erreakzio",
+      "eu": "polimerasaren kateerreakzio",
       "gl": "reacción en cadea da polimerase",
       "es": "reacción en cadena de la polimerasa",
       "en": "polymerase chain reaction",
@@ -4985,7 +4994,8 @@
       "en": "ravulizumab",
       "fr": "ravulizumab",
       "pt": "ravulizumab",
-      "pt [BR]": "ravulizumabe"
+      "pt [BR]": "ravulizumabe",
+      "nl": "ravulizumab"
     }
   },
   {
@@ -5040,7 +5050,7 @@
       "eu": "kontaktuen aztarnari segitze",
       "gl": "rastrexo de contactos",
       "es": "rastreo de contactos",
-      "en": "contact follow-up",
+      "en": "contact followup",
       "fr": "recherche de contacts"
     }
   },
@@ -5273,7 +5283,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "saut d’espècie",
-      "eu": "espezie-jauzi",
+      "eu": "espeziejauzi",
       "gl": "salto de especie",
       "es": "salto de especie",
       "en": "species jump",
@@ -5288,7 +5298,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "salut en trabalh",
-      "eu": "lan-osasun",
+      "eu": "lanosasun",
       "gl": "saúde laboral",
       "es": "salud en el trabajo",
       "en": "occupational health",
@@ -5466,7 +5476,8 @@
       "en": "serotype",
       "fr": "sérotype",
       "pt [PT]": "serotipagem",
-      "pt [BR]": "sorotipo"
+      "pt [BR]": "sorotipo",
+      "nl": "serotype"
     }
   },
   {
@@ -5575,7 +5586,7 @@
       "gl": "síndrome respiratoria de Oriente Medio",
       "es": "síndrome respiratorio de Oriente Medio",
       "en": "Middle East respiratory syndrome",
-      "fr": "syndrome respiratoire du Moyen-Orient"
+      "fr": "syndrome respiratoire du MoyenOrient"
     }
   },
   {
@@ -5646,11 +5657,11 @@
     "termo": "Sputnik V",
     "siglas": [],
     "traducoes": {
-      "oc": "Gam-COVID-Vac",
-      "eu": "Gam-COVID-Vac",
-      "gl": "Gam-COVID-Vac",
-      "es": "Gam-COVID-Vac",
-      "en": "Gam-COVID-Vac"
+      "oc": "GamCOVIDVac",
+      "eu": "GamCOVIDVac",
+      "gl": "GamCOVIDVac",
+      "es": "GamCOVIDVac",
+      "en": "GamCOVIDVac"
     }
   },
   {
@@ -5668,18 +5679,18 @@
     }
   },
   {
-    "termo": "superpropagador -a",
+    "termo": "superpropagador a",
     "siglas": [],
     "traducoes": {
-      "oc": "supercontagiador -a",
+      "oc": "supercontagiador a",
       "eu": "superkutsatzaile",
-      "gl": "supercontaxiador -a",
-      "es": "supercontagiador -ra",
+      "gl": "supercontaxiador a",
+      "es": "supercontagiador ra",
       "en": "superspreader",
-      "fr": "super-propagateur -atrice",
+      "fr": "superpropagateur atrice",
       "pt": "superdisseminador",
       "pt [PT]": "supercontagiador",
-      "nl": "superbesmetter; superverspreider -ster"
+      "nl": "superbesmetter; superverspreider ster"
     }
   },
   {
@@ -5687,7 +5698,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "mesures de supòrt vitau",
-      "eu": "bizi-euskarri",
+      "eu": "bizieuskarri",
       "gl": "soporte vital",
       "es": "medidas de soporte vital",
       "fr": "sotrovimab",
@@ -5700,14 +5711,14 @@
     "termo": "susceptible",
     "siglas": [],
     "traducoes": {
-      "oc": "susceptible -a",
+      "oc": "susceptible a",
       "eu": "sentikor",
       "gl": "susceptible",
       "es": "susceptible",
       "en": "susceptible",
       "fr": "susceptible",
       "pt": "suscetível",
-      "nl": "vatbaar -are"
+      "nl": "vatbaar are"
     }
   },
   {
@@ -5742,7 +5753,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "indèx de letalitat",
-      "eu": "heriotza-tasa",
+      "eu": "heriotzatasa",
       "gl": "índice de letalidade",
       "es": "índice de mortalidad"
     }
@@ -5752,7 +5763,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "taxa de contagi",
-      "eu": "kutsatze-tasa",
+      "eu": "kutsatzetasa",
       "gl": "taxa de contaxios",
       "es": "tasa de contagio",
       "en": "contagion rate",
@@ -5767,10 +5778,10 @@
     "siglas": [],
     "traducoes": {
       "oc": "taxa de letalitat",
-      "eu": "hilgarritasun-tasa",
+      "eu": "hilgarritasuntasa",
       "gl": "taxa de letalidade",
       "es": "tasa de letalidad",
-      "en": "case-fatality rate",
+      "en": "casefatality rate",
       "fr": "taux de létalité",
       "pt": "taxa de letalidade",
       "nl": "letaliteit"
@@ -5795,7 +5806,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "tempèsta de citocines",
-      "eu": "zitokina-ekaitz",
+      "eu": "zitokinaekaitz",
       "gl": "tempestade de citocinas",
       "es": "tormenta de citocinas",
       "en": "cytokine storm",
@@ -5808,7 +5819,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "temps de convalescéncia",
-      "eu": "suspertze-denbora",
+      "eu": "suspertzedenbora",
       "gl": "tempo de convalescencia",
       "es": "tiempo de recuperación",
       "en": "period of recuperation",
@@ -5823,7 +5834,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "temps de protrombina",
-      "eu": "protronbina-denbora",
+      "eu": "protronbinadenbora",
       "gl": "tempo de protrombina",
       "es": "tiempo de protrombina",
       "en": "prothrombin time",
@@ -5836,7 +5847,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "tempèsta de citocines",
-      "eu": "tenofobir",
+      "eu": "zitokinaekaitz",
       "gl": "tenofovir",
       "es": "tenofovir",
       "en": "tenofovir",
@@ -5851,7 +5862,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "tèst antigenic",
-      "eu": "antigorputz-test",
+      "eu": "antigorputztest",
       "gl": "proba de anticorpos",
       "es": "análisis de anticuerpos",
       "en": "Ab test",
@@ -5866,7 +5877,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "pròva antigenica",
-      "eu": "antigeno-test",
+      "eu": "antigenotest",
       "gl": "proba antixénica"
     }
   },
@@ -5875,10 +5886,11 @@
     "siglas": [],
     "traducoes": {
       "oc": "pròva de mòstres agropades",
-      "eu": "lagin-taldekatze bidezko test",
+      "eu": "lagintaldekatze bidezko test",
       "fr": "test rapide",
       "pt": "teste rápido",
-      "pt [PT]": "teste de diagnóstico rápido"
+      "pt [PT]": "teste de diagnóstico rápido",
+      "nl": "sneltest"
     }
   },
   {
@@ -5922,7 +5934,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "títol d’anticòssi",
-      "eu": "antigorputz-titulu",
+      "eu": "antigorputztitulu",
       "gl": "título de anticorpos",
       "es": "título de anticuerpos",
       "en": "antibody titer",
@@ -5951,11 +5963,11 @@
     "siglas": [],
     "traducoes": {
       "oc": "tòc de queda",
-      "eu": "etxeratze-agindu",
+      "eu": "etxeratzeagindu",
       "gl": "toque de queda",
       "es": "toque de queda",
       "en": "curfew",
-      "fr": "couvre-feu",
+      "fr": "couvrefeu",
       "pt [PT]": "recolher obrigatório",
       "pt [BR]": "toque de recolher",
       "nl": "avondklok"
@@ -5993,7 +6005,7 @@
     "termo": "tos productiva",
     "siglas": [],
     "traducoes": {
-      "oc": "tos productiva",
+      "oc": "tos seca",
       "eu": "eztul heze",
       "gl": "tose produtiva",
       "es": "tos productiva",
@@ -6012,7 +6024,7 @@
       "gl": "tose seca",
       "es": "tos seca",
       "en": "dry cough",
-      "fr": "toux sèche",
+      "fr": "traitement ambulatoire",
       "pt": "tosse seca",
       "nl": "droge hoest"
     }
@@ -6063,14 +6075,14 @@
     "termo": "transmissible",
     "siglas": [],
     "traducoes": {
-      "oc": "transmissible -a",
+      "oc": "transmissible a",
       "eu": "transmitigarri",
       "gl": "transmisible",
       "es": "transmisible",
       "en": "communicable",
       "fr": "transmissible",
       "pt": "transmissível",
-      "nl": "besmettelijk -e"
+      "nl": "besmettelijk e"
     }
   },
   {
@@ -6094,7 +6106,7 @@
       "oc": "transmission comunitària",
       "eu": "transmisio komunitario",
       "pt [BR]": "vacina da Pfizer",
-      "nl": "BioNTech/Pfizer-vaccin"
+      "nl": "BioNTech/Pfizervaccin"
     }
   },
   {
@@ -6293,30 +6305,30 @@
     }
   },
   {
-    "termo": "vacuna BBIBP-CorV",
+    "termo": "vacuna BBIBPCorV",
     "siglas": [],
     "traducoes": {
-      "oc": "vacuna BBIBP-CorV",
-      "eu": "BBIBP-CorV txerto",
-      "gl": "vacina BBIBP-CorV",
-      "es": "vacuna BBIBP-CorV",
-      "en": "BBIBP-CorV vaccine",
-      "fr": "vaccin BBIBP-CorV",
-      "pt": "vacina BBIBP-CorV",
+      "oc": "vacuna BBIBPCorV",
+      "eu": "BBIBPCorV txerto",
+      "gl": "vacina BBIBPCorV",
+      "es": "vacuna BBIBPCorV",
+      "en": "BBIBPCorV vaccine",
+      "fr": "vaccin BBIBPCorV",
+      "pt": "vacina BBIBPCorV",
       "pt [BR]": "vacina da Sinopharm",
-      "nl": "BBIBP-CorV-vaccin",
-      "ar": "BBIBP-CORV"
+      "nl": "BBIBPCorVvaccin",
+      "ar": "BBIBPCORV"
     }
   },
   {
     "termo": "vacuna CanSino",
     "siglas": [
-      "Ad5-nCoV",
+      "Ad5nCoV",
       "Convidecia"
     ],
     "traducoes": {
       "oc": "vacuna CanSino",
-      "eu": "Ad5-nCoV",
+      "eu": "Ad5nCoV",
       "gl": "vacina Convidecia",
       "es": "vacuna CanSino",
       "en": "CanSino vaccine",
@@ -6324,16 +6336,16 @@
     }
   },
   {
-    "termo": "vacuna contra la COVID-19",
+    "termo": "vacuna contra la COVID19",
     "siglas": [],
     "traducoes": {
-      "oc": "vacuna contra la COVID-19",
-      "eu": "COVID-19 txertoa",
-      "gl": "vacina para a COVID-19",
-      "es": "vacuna anti-COVID-19",
-      "en": "COVID-19 jab",
-      "fr": "vaccin contre la COVID-19",
-      "pt": "vacina COVID-19"
+      "oc": "vacuna contra la COVID19",
+      "eu": "COVID19 txertoa",
+      "gl": "vacina para a COVID19",
+      "es": "vacuna antiCOVID19",
+      "en": "COVID19 jab",
+      "fr": "vaccin contre la COVID19",
+      "pt": "vacina COVID19"
     }
   },
   {
@@ -6354,7 +6366,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "vacuna d’RNA messatgèr",
-      "eu": "RNAm-n oinarritutako txerto",
+      "eu": "RNAmn oinarritutako txerto",
       "gl": "vacina de ARN mensaxeiro",
       "es": "vacuna de ácido ribonucleico mensajero",
       "en": "messenger ribonucleic acid vaccine"
@@ -6375,14 +6387,14 @@
     "termo": "vacuna NovaVax",
     "siglas": [],
     "traducoes": {
-      "oc": "NVX-CoV2373",
+      "oc": "NVXCoV2373",
       "eu": "NovaVax txerto",
-      "gl": "NVX-CoV2373",
-      "es": "NVX-CoV2373",
+      "gl": "NVXCoV2373",
+      "es": "NVXCoV2373",
       "en": "NovaVax vaccine",
-      "fr": "NVX-CoV2373",
-      "pt": "NVX-CoV2373",
-      "nl": "NovaVax-vaccin"
+      "fr": "NVXCoV2373",
+      "pt": "NVXCoV2373",
+      "nl": "NovaVaxvaccin"
     }
   },
   {
@@ -6390,13 +6402,14 @@
     "siglas": [],
     "traducoes": {
       "oc": "vacuna preventiva",
-      "eu": "prebentzio-txerto",
+      "eu": "prebentziotxerto",
       "gl": "vacina preventiva",
       "es": "vacuna preventiva",
       "en": "preventive vaccine",
       "fr": "vaccin préventif",
       "pt": "vacina preventiva",
-      "pt [PT]": "vacina profilática"
+      "pt [PT]": "vacina profilática",
+      "nl": "preventief vaccinn"
     }
   },
   {
@@ -6485,7 +6498,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "velocitat reproductiva efectiva",
-      "eu": "erreprodukzio-abiadura efektibo",
+      "eu": "erreprodukzioabiadura efektibo",
       "gl": "velocidade reprodutiva efectiva",
       "es": "velocidad reproductiva efectiva",
       "en": "effective reproduction number",
@@ -6499,7 +6512,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "velocitat reproductiva empirica",
-      "eu": "erreprodukzio-abiadura enpiriko",
+      "eu": "erreprodukzioabiadura enpiriko",
       "gl": "velocidade reprodutiva empírica",
       "es": "velocidad reproductiva empírica",
       "en": "empirical reproduction number",
@@ -6512,7 +6525,7 @@
     "siglas": [],
     "traducoes": {
       "oc": "velocitat reproductiva basica",
-      "eu": "oinarrizko erreprodukzio-zenbaki",
+      "eu": "oinarrizko erreprodukziozenbaki",
       "gl": "ventilación",
       "es": "ventilación",
       "en": "ventilation",
@@ -6529,7 +6542,8 @@
       "gl": "respiración artificial",
       "es": "respiración artificial",
       "en": "artificial respiration",
-      "fr": "respiration artificielle"
+      "fr": "respiration artificielle",
+      "pt": "respiração artificial"
     }
   },
   {
@@ -6618,15 +6632,16 @@
     }
   },
   {
-    "termo": "virus de la COVID-19",
+    "termo": "virus de la COVID19",
     "siglas": [
-      "SARS-CoV-2"
+      "SARSCoV2"
     ],
     "traducoes": {
-      "oc": "coronavirus associat ara COVID-19",
+      "oc": "coronavirus associat ara COVID19",
       "eu": "arnas sindrome akutu larriaren koronabirus 2",
-      "n": "; SARS-CoV-2",
-      "gl": "coronavirus 2 da síndrome respiratoria aguda"
+      "n": "; SARSCoV2",
+      "gl": "coronavirus 2 da síndrome respiratoria aguda",
+      "es": "coronavirus 2 del síndrome respiratorio"
     }
   },
   {
@@ -6645,12 +6660,12 @@
     "termo": "voliac",
     "siglas": [],
     "traducoes": {
-      "oc": "arrata-cauda",
+      "oc": "arratacauda",
       "eu": "saguzar",
       "gl": "morcego",
       "es": "murciélago",
       "en": "bat",
-      "fr": "chauve-souris",
+      "fr": "chauvesouris",
       "pt": "morcego",
       "nl": "vleermuis"
     }
@@ -6698,17 +6713,17 @@
     }
   },
   {
-    "termo": "zoonòtic -a",
+    "termo": "zoonòtic a",
     "siglas": [],
     "traducoes": {
-      "oc": "zoonotic -a",
+      "oc": "zoonotic a",
       "eu": "zoonotiko",
-      "gl": "zoonótico -a",
-      "es": "zoonótico -ca",
+      "gl": "zoonótico a",
+      "es": "zoonótico ca",
       "en": "zoonotic",
       "fr": "zoonotique",
       "pt": "zoonótico",
-      "nl": "zoönotisch -e"
+      "nl": "zoönotisch e"
     }
   },
   {
