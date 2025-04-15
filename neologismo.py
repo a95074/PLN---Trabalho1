@@ -85,6 +85,25 @@ def extrair_descricao(trecho):
     return None
 
 
+def extrair_citacao(trecho):
+    blocos = re.findall(r'<text[^>]*?font="24"[^>]*?>(.*?)</text>', trecho)
+    citacao_partes = []
+    citando = False
+
+    for linha in blocos:
+        texto = re.sub(r'<[^>]+>', '', linha).strip()
+        if texto.startswith('“...'):
+            citando = True
+        if citando:
+            citacao_partes.append(texto)
+        if texto.endswith('...”') or texto.endswith('...” ') or texto.endswith('...”</i>'):
+            break
+
+    if citacao_partes:
+        return " ".join(citacao_partes)
+    return None
+
+
 
 # Lista de resultados
 resultado = []
@@ -100,6 +119,7 @@ for match in padrao_conceito_substantivo.finditer(texto):
     traducoes = extrair_traducoes(trecho_pos_termo)
     sigla = extrair_sigla(trecho_pos_termo[:600])
     descricao = extrair_descricao(trecho_pos_termo)
+    citacao = extrair_citacao(trecho_pos_termo)
 
 
 
@@ -108,7 +128,8 @@ for match in padrao_conceito_substantivo.finditer(texto):
         "substantivo": genero,
         "traducoes": traducoes,
         "sigla": sigla,
-        "descricao": descricao
+        "descricao": descricao,
+        "citacao": citacao,
     })
 
 
