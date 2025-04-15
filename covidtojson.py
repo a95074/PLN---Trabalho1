@@ -36,11 +36,13 @@ def extrair_traducoes(texto_pos_termo):
     return traducoes
 
 def extrair_descricao(texto_pos_traducao):
-    padrao_linha_descricao = re.compile(
-        r'<text[^>]+font="(?:11|27|33)">(?P<linha>.*?)</text>'
-    )
+    padrao_descricao = re.compile(
+    r'(?P<descricao>(?:<text[^>]+font="(?:11|27|33)">.*?</text>\s*)+?)'
+    r'(?=<text[^>]+font="25"><b>)',
+    re.DOTALL
+)
     descricao = []
-    for match in padrao_linha_descricao.finditer(texto_pos_traducao):
+    for match in padrao_descricao.finditer(texto_pos_traducao):
         linha = match.group("linha").strip()
         # Se encontrarmos um novo termo (font 25), paramos
         if re.search(r'<text[^>]+font="25"><b>', texto_pos_traducao[match.start():]):
