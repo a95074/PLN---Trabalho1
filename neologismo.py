@@ -17,11 +17,19 @@ texto = re.sub(r'<text[^>]*?>\((\d+)\)\s*</text>*\n?', '', texto)
 
 padrao_conceito_substantivo = re.compile(
     r'<text[^>]*?>(?P<conceito>.*?)</text>\s*'
-    r'<text[^>]*?><i>(?P<substantivo>s\.f\.|s\.m\.)</i></text>\s*'
+    r'<text[^>]*?><i>\s*(?P<substantivo>s\.f\.|s\.m\.)\s*</i></text>\s*'
 )
 
 
 padrao_texto = re.compile(r'<text[^>]*?>(.*?)</text>')
+
+padrao_sigla = re.compile(
+    r'(?:<text[^>]*?>Sigla:\s*</text>\s*<text[^>]*?><i>(.*?)</i></text>'  # caso com <i>
+    r'|<text[^>]*?>Sigla:\s*(.*?)</text>)',  # caso tudo numa linha
+    re.IGNORECASE
+)
+
+
 
 # Função para extrair tradução (até 3 linhas após o substantivo)
 def extrair_traducoes(trecho):
@@ -41,6 +49,14 @@ def extrair_traducoes(trecho):
         return " ".join(partes)
     return None
 
+def extrair_sigla(trecho):
+    match = padrao_sigla.search(trecho)
+    if match:
+        return (match.group(1) or match.group(2)).strip()
+    return None
+
+
+
 # Lista de resultados
 resultado = []
 
@@ -52,12 +68,16 @@ for match in padrao_conceito_substantivo.finditer(texto):
 
     trecho_pos_termo = texto[fim:fim+3000]
     traducoes = extrair_traducoes(trecho_pos_termo)
+    sigla = extrair_sigla(trecho_pos_termo[:600])
+
 
     resultado.append({
         "conceito": conceito,
         "substantivo": genero,
-        "traducoes": traducoes
+        "traducoes": traducoes,
+        "sigla": sigla
     })
+
 
 # Exportar o JSON
 with open("substantivos.json", "w", encoding="utf-8") as jsonfile:
