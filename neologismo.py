@@ -30,7 +30,6 @@ padrao_sigla = re.compile(
 )
 
 
-
 # Função para extrair tradução
 def extrair_traducoes(parte):
     blocos = padrao_texto.findall(parte)
@@ -97,7 +96,6 @@ def extrair_citacao(parte):
     if citacao_partes:
         return " ".join(citacao_partes)
     return None
-
 
 
 resultado = []
