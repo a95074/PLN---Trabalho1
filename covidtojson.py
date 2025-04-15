@@ -10,6 +10,8 @@ texto = re.sub(r'<text top="\d+" left="\d+" width="\d+" height="\d+" font="12"><
 
 texto = re.sub(r'<text top="\d+" left="\d+" width="\d+" height="\d+" font="\d+">\s*\b(\d+(?:-+\d+)+\b)\s*</text>*\n?', '', texto)
 
+texto = re.sub(r'<text top="\d+" left="\d+" width="\d+" height="\d+" font="\d+"><i>n f</i></text>*\n?', '', texto)
+
 texto = re.sub(r'-*\n?', '', texto) #remoção do travessão
 
 
@@ -35,20 +37,33 @@ def extrair_traducoes(texto_pos_termo):
         traducoes[lang] = traducao
     return traducoes
 
+# função para extrair descrição entre a última tradução e o próximo conceito
 def extrair_descricao(texto_pos_traducao):
-    padrao_descricao = re.compile(
-    r'(?P<descricao>(?:<text[^>]+font="(?:11|27|33)">.*?</text>\s*)+?)'
-    r'(?=<text[^>]+font="25"><b>)',
-    re.DOTALL
-)
+    # Encontrar o bloco completo de traduções multilinha
+    padrao_traducao_bloco = re.compile(
+        r'((?:<text[^>]+font="12"><i>.*?</i></text>\s*<text[^>]+font="11">.*?</text>\s*)+)',
+        re.DOTALL
+    )
+
+    match_trad = padrao_traducao_bloco.search(texto_pos_traducao)
+    inicio_descricao = match_trad.end() if match_trad else 0
+    trecho = texto_pos_traducao[inicio_descricao:]
+
+    # Captura linhas de descrição, mas para antes de novo conceito (font=25)
+    padrao_linha_descricao = re.compile(
+        r'<text[^>]+font="(?:11|27|33)">(?P<linha>.*?)</text>'
+    )
+
     descricao = []
-    for match in padrao_descricao.finditer(texto_pos_traducao):
-        linha = match.group("linha").strip()
-        # Se encontrarmos um novo termo (font 25), paramos
-        if re.search(r'<text[^>]+font="25"><b>', texto_pos_traducao[match.start():]):
+    for match in padrao_linha_descricao.finditer(trecho):
+        proximo_trecho = trecho[match.end():]
+        if '<text' in proximo_trecho and 'font="25"' in proximo_trecho[:200]:
             break
-        descricao.append(linha)
-    return " ".join(descricao)
+        descricao.append(match.group("linha").strip())
+
+    return " ".join(descricao).strip()
+
+
 
 
 #padrao que encontra os termos e as suas siglas associadas
@@ -79,9 +94,9 @@ for match in padrao_siglas.finditer(texto):
     siglas = [s.strip() for s in siglas if s.strip()]
     siglas_set.update(s.lower() for s in siglas)
 
-    # procurar traduções após a última sigla capturada
     fim = match.end()
-    trecho_pos_termo = texto[fim:fim+2000]  # limitar o tamanho para segurança
+    trecho_pos_termo = texto[fim:fim+3000]
+
     traducoes = extrair_traducoes(trecho_pos_termo)
     descricao = extrair_descricao(trecho_pos_termo)
 
@@ -92,6 +107,7 @@ for match in padrao_siglas.finditer(texto):
         "descricao": descricao
     })
 
+
 #extrair todos os conceitos válidos e ignorar os que são apenas siglas
 
 conceitos_finais = []
@@ -100,7 +116,7 @@ for match in padrao_conceitos_validos.finditer(texto):
     termo = match.group("termo").strip()
     if termo.lower() not in siglas_set:
         fim = match.end()
-        trecho_pos_termo = texto[fim:fim+2000]
+        trecho_pos_termo = texto[fim:fim+3000]
         traducoes = extrair_traducoes(trecho_pos_termo)
         descricao = extrair_descricao(trecho_pos_termo)
         conceitos_finais.append({
@@ -109,7 +125,6 @@ for match in padrao_conceitos_validos.finditer(texto):
             "traducoes": traducoes,
             "descricao": descricao
         })
-
 # Combinar os dois
 todos_termos = termos_siglas + conceitos_finais
 todos_termos.sort(key=lambda x: remove_acentos(x["termo"]))
