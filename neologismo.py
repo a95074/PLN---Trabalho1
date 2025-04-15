@@ -11,6 +11,8 @@ with open(filename, 'r', encoding='utf-8') as file:
 
 texto = re.sub(r'</page>\s*\n?', '', texto) #remove todas as trocas de página do ficheiro
 texto = re.sub(r'<text top="\d+" left="\d+" width="\d+" height="\d+" font="23"> </text>*\n?', '',texto)
+texto = re.sub(r'<page number="\d+" position="absolute" top="\d+" left="\d+" height="\d+" width="\d+">*\n?', '', texto)
+texto = re.sub(r'<text[^>]*?>\((\d+)\)\s*</text>*\n?', '', texto)
 
 
 padrao_completo = re.findall(
