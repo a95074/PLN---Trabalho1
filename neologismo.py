@@ -15,23 +15,54 @@ texto = re.sub(r'<page number="\d+" position="absolute" top="\d+" left="\d+" hei
 texto = re.sub(r'<text[^>]*?>\((\d+)\)\s*</text>*\n?', '', texto)
 
 
-padrao_completo = re.findall(
-    r'<text[^>]*?>(.*?)</text>\s*'  # conceito
-    r'<text[^>]*?><i>(s\.f\.|s\.m\.)</i></text>\s*',
-    texto
+padrao_conceito_substantivo = re.compile(
+    r'<text[^>]*?>(?P<conceito>.*?)</text>\s*'
+    r'<text[^>]*?><i>(?P<substantivo>s\.f\.|s\.m\.)</i></text>\s*'
 )
 
-resultado = [
-    {
+
+padrao_texto = re.compile(r'<text[^>]*?>(.*?)</text>')
+
+# Função para extrair tradução (até 3 linhas após o substantivo)
+def extrair_traducoes(trecho):
+    blocos = padrao_texto.findall(trecho)
+    partes = []
+
+    for bloco in blocos:
+        texto_limpo = bloco.strip().lower()
+
+        if "[ing]" in texto_limpo or "[esp]" in texto_limpo:
+            partes.append(bloco.strip())
+        else:
+            # Parar ao primeiro bloco que não contenha tradução
+            break
+
+    if partes:
+        return " ".join(partes)
+    return None
+
+# Lista de resultados
+resultado = []
+
+# Iterar sobre os conceitos
+for match in padrao_conceito_substantivo.finditer(texto):
+    conceito = match.group("conceito").strip()
+    genero = match.group("substantivo")
+    fim = match.end()
+
+    trecho_pos_termo = texto[fim:fim+3000]
+    traducoes = extrair_traducoes(trecho_pos_termo)
+
+    resultado.append({
         "conceito": conceito,
         "substantivo": genero,
-    }
-    for conceito, genero in padrao_completo
-]
+        "traducoes": traducoes
+    })
 
-
+# Exportar o JSON
 with open("substantivos.json", "w", encoding="utf-8") as jsonfile:
     json.dump(resultado, jsonfile, ensure_ascii=False, indent=2)
 
+# Guardar XML limpo para reutilização
 with open("teste2.xml", 'w', encoding='utf-8') as novo_arquivo:
     novo_arquivo.write(texto)

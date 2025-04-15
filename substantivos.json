@@ -1,1202 +1,1502 @@
 [
   {
-    "conceito": "abeta ",
-    "substantivo": "s.f."
+    "conceito": "abeta",
+    "substantivo": "s.f.",
+    "traducoes": "abeta [ing]; abeta [esp]"
   },
   {
-    "conceito": "ação vasoconstritora ",
-    "substantivo": "s.f."
+    "conceito": "ação vasoconstritora",
+    "substantivo": "s.f.",
+    "traducoes": "vasoconstriction [ing]; acción vasoconstritora [esp]"
   },
   {
-    "conceito": "acidente vascular cerebral isquêmico ",
-    "substantivo": "s.m."
+    "conceito": "acidente vascular cerebral isquêmico",
+    "substantivo": "s.m.",
+    "traducoes": "ischemic cerebrovascular accident [ing]; accidente vascular cerebral isquêmico [esp]"
   },
   {
-    "conceito": "ácido acetilsalicílico ",
-    "substantivo": "s.m."
+    "conceito": "ácido acetilsalicílico",
+    "substantivo": "s.m.",
+    "traducoes": "acetilsalicilic acid [ing]; ácido acetilsalicílico [esp]"
   },
   {
-    "conceito": "ácido caínico ",
-    "substantivo": "s.m."
+    "conceito": "ácido caínico",
+    "substantivo": "s.m.",
+    "traducoes": "kainic acid [ing]; ácido caínico [esp]"
   },
   {
-    "conceito": "ácido gama-aminobutírico ",
-    "substantivo": "s.m."
+    "conceito": "ácido gama-aminobutírico",
+    "substantivo": "s.m.",
+    "traducoes": "gamma-aminobutyric acid [ing]; ácido gama-aminobutírico [esp]"
   },
   {
-    "conceito": "acidose metilmalônica ",
-    "substantivo": "s.f."
+    "conceito": "acidose metilmalônica",
+    "substantivo": "s.f.",
+    "traducoes": "metilmalonic acidose [ing]; acidemia metilmalónica.[esp]"
   },
   {
-    "conceito": "adjuvante genético ",
-    "substantivo": "s.m."
+    "conceito": "adjuvante genético",
+    "substantivo": "s.m.",
+    "traducoes": "genetic adjuvant [ing]; adjuvante genético [esp]"
   },
   {
-    "conceito": "alergia asmática ",
-    "substantivo": "s.f."
+    "conceito": "alergia asmática",
+    "substantivo": "s.f.",
+    "traducoes": "asthmatic allergy [ing]; alergia asmática [esp]"
   },
   {
-    "conceito": "alfa-tocoferol ",
-    "substantivo": "s.m."
+    "conceito": "alfa-tocoferol",
+    "substantivo": "s.m.",
+    "traducoes": "alfa-tocoferal [ing]; alfa-tocoferol [esp]"
   },
   {
-    "conceito": "alumã ",
-    "substantivo": "s.m."
+    "conceito": "alumã",
+    "substantivo": "s.m.",
+    "traducoes": "vernonia condensata [ing]; aluma [esp]"
   },
   {
-    "conceito": "amiloidose sistêmica senil ",
-    "substantivo": "s.f."
+    "conceito": "amiloidose sistêmica senil",
+    "substantivo": "s.f.",
+    "traducoes": "senile systemic amyloidosis [ing]; amiloidose sistémica senil [esp]"
   },
   {
-    "conceito": "análise biomecânica ",
-    "substantivo": "s.f."
+    "conceito": "análise biomecânica",
+    "substantivo": "s.f.",
+    "traducoes": "biomechanic analysis [ing]; análise biomecânica [esp]"
   },
   {
-    "conceito": "angina instável ",
-    "substantivo": "s.f."
+    "conceito": "angina instável",
+    "substantivo": "s.f.",
+    "traducoes": "unstable angina [ing]; angina inestable [esp]"
   },
   {
-    "conceito": "angiografia de retina ",
-    "substantivo": "s.f."
+    "conceito": "angiografia de retina",
+    "substantivo": "s.f.",
+    "traducoes": "retina angiography [ing]; angiografia de la retina [esp]"
   },
   {
-    "conceito": "antimonial pentavalente ",
-    "substantivo": "s.m."
+    "conceito": "antimonial pentavalente",
+    "substantivo": "s.m.",
+    "traducoes": "pentavalent antimonial [ing]; antimonial pentavalente [esp]"
   },
   {
-    "conceito": "apicoplasto ",
-    "substantivo": "s.f."
+    "conceito": "apicoplasto",
+    "substantivo": "s.f.",
+    "traducoes": "apicoplast [ing]; apicoplasto [esp]"
   },
   {
-    "conceito": "apoptose ",
-    "substantivo": "s.f."
+    "conceito": "apoptose",
+    "substantivo": "s.f.",
+    "traducoes": "apoptose [ing]; apoptose [esp]"
   },
   {
-    "conceito": "araraquara ",
-    "substantivo": "s.m."
+    "conceito": "araraquara",
+    "substantivo": "s.m.",
+    "traducoes": "araraquara [ing]; araraquara [esp]"
   },
   {
-    "conceito": "artrodistrator ",
-    "substantivo": "s.m."
+    "conceito": "artrodistrator",
+    "substantivo": "s.m.",
+    "traducoes": "artrodistrator [ing]; artrodistrator [esp]"
   },
   {
-    "conceito": "astemizol ",
-    "substantivo": "s.m."
+    "conceito": "astemizol",
+    "substantivo": "s.m.",
+    "traducoes": "astemizol [ing]; astemizol [esp]"
   },
   {
-    "conceito": "atrofia espinhal progressiva tardia ",
-    "substantivo": "s.f."
+    "conceito": "atrofia espinhal progressiva tardia",
+    "substantivo": "s.f.",
+    "traducoes": "progressive spinal atrophy [ing]; atrofia espinal progresiva tardia [esp]"
   },
   {
-    "conceito": "avium ",
-    "substantivo": "s.f."
+    "conceito": "avium",
+    "substantivo": "s.f.",
+    "traducoes": "avium [ing]; avium [esp]"
   },
   {
-    "conceito": "bacilo de koch ",
-    "substantivo": "s.m."
+    "conceito": "bacilo de koch",
+    "substantivo": "s.m.",
+    "traducoes": "koch’s bacillus [ing]; kacilo de koch [esp]"
   },
   {
-    "conceito": "baciloscopia ",
-    "substantivo": "s.f."
+    "conceito": "baciloscopia",
+    "substantivo": "s.f.",
+    "traducoes": "baciloscopy [ing]; baciloscopia [esp]"
   },
   {
-    "conceito": "bactéria entero-hemorrágica ",
-    "substantivo": "s.f."
+    "conceito": "bactéria entero-hemorrágica",
+    "substantivo": "s.f.",
+    "traducoes": "entero-hemorragic bacteria [ing]; bactéria enterohemorrágica [esp]"
   },
   {
-    "conceito": "bainha de mielina ",
-    "substantivo": "s.f."
+    "conceito": "bainha de mielina",
+    "substantivo": "s.f.",
+    "traducoes": "myelin sheath [ing]; baina de mielina [esp]"
   },
   {
-    "conceito": "barriga d’água ",
-    "substantivo": "s.f."
+    "conceito": "barriga d’água",
+    "substantivo": "s.f.",
+    "traducoes": "water belly [ing]; barriga d’agua [esp]"
   },
   {
-    "conceito": "barriga de cerveja ",
-    "substantivo": "s.f."
+    "conceito": "barriga de cerveja",
+    "substantivo": "s.f.",
+    "traducoes": "beer belly [ing]; barriga de cerveja [esp]"
   },
   {
-    "conceito": "bengala instrumentalizada ",
-    "substantivo": "s.f."
+    "conceito": "bengala instrumentalizada",
+    "substantivo": "s.f.",
+    "traducoes": "instrumentalized walking stick [ing]; bastón instrumentalizado [esp]"
   },
   {
-    "conceito": "beta-amilóide ",
-    "substantivo": "s.f."
+    "conceito": "beta-amilóide",
+    "substantivo": "s.f.",
+    "traducoes": "beta-amiloide [ing]; beta-amiloide [esp]"
   },
   {
-    "conceito": "beta-bloqueador ",
-    "substantivo": "s.m."
+    "conceito": "beta-bloqueador",
+    "substantivo": "s.m.",
+    "traducoes": "beta-blocker [ing]; beta-bloqueador [esp]"
   },
   {
-    "conceito": "biochip ",
-    "substantivo": "s.m."
+    "conceito": "biochip",
+    "substantivo": "s.m.",
+    "traducoes": "biochip [ing]; biochip [esp]"
   },
   {
-    "conceito": "bio feedback ",
-    "substantivo": "s.m."
+    "conceito": "bio feedback",
+    "substantivo": "s.m.",
+    "traducoes": "biofeedback [ing]; bioretroalimentación [esp]"
   },
   {
-    "conceito": "bioadesão ",
-    "substantivo": "s.f."
+    "conceito": "bioadesão",
+    "substantivo": "s.f.",
+    "traducoes": "bioadhesion [ing]; bioadhesión [esp]"
   },
   {
-    "conceito": "bioengenheiro ",
-    "substantivo": "s.m."
+    "conceito": "bioengenheiro",
+    "substantivo": "s.m.",
+    "traducoes": "bioengineer [ing]; bioingeniero [esp]"
   },
   {
-    "conceito": "bioinformática ",
-    "substantivo": "s.f."
+    "conceito": "bioinformática",
+    "substantivo": "s.f.",
+    "traducoes": "bioinformatic [ing]; bioinformatica [esp]"
   },
   {
-    "conceito": "biologia reprodutiva ",
-    "substantivo": "s.f."
+    "conceito": "biologia reprodutiva",
+    "substantivo": "s.f.",
+    "traducoes": "reproductive biology [ing]; biología reproductiva [esp]"
   },
   {
-    "conceito": "biologia sistêmica ",
-    "substantivo": "s.f."
+    "conceito": "biologia sistêmica",
+    "substantivo": "s.f.",
+    "traducoes": "systemic biology [ing]; biología sistémica [esp]"
   },
   {
-    "conceito": "biomarcador ",
-    "substantivo": "s.m."
+    "conceito": "biomarcador",
+    "substantivo": "s.m.",
+    "traducoes": "biomarker [ing]; biomarcador [esp]"
   },
   {
-    "conceito": "biomembrana ",
-    "substantivo": "s.f."
+    "conceito": "biomembrana",
+    "substantivo": "s.f.",
+    "traducoes": "biomembrane [ing]; biomembrana [esp]"
   },
   {
-    "conceito": "bioprótese ",
-    "substantivo": "s.f."
+    "conceito": "bioprótese",
+    "substantivo": "s.f.",
+    "traducoes": "bioprotese [ing]; bioprótesis [esp]"
   },
   {
-    "conceito": "biópsia óptica ",
-    "substantivo": "s.f."
+    "conceito": "biópsia óptica",
+    "substantivo": "s.f.",
+    "traducoes": "optical biopsy [ing]; biopsia óptica [esp]"
   },
   {
-    "conceito": "bipsoro eletrônico ",
-    "substantivo": "s.m."
+    "conceito": "bipsoro eletrônico",
+    "substantivo": "s.m.",
+    "traducoes": "eletronic bipserum [ing]; bip suero electrónico [esp]"
   },
   {
-    "conceito": "bisturi óptico ",
-    "substantivo": "s.m."
+    "conceito": "bisturi óptico",
+    "substantivo": "s.m.",
+    "traducoes": "optical scalpel [ing]; bisturí optico [esp]"
   },
   {
-    "conceito": "blockbuster ",
-    "substantivo": "s.m."
+    "conceito": "blockbuster",
+    "substantivo": "s.m.",
+    "traducoes": "blockbuster [ing]; blockbuster [esp]"
   },
   {
-    "conceito": "brometo de piridostigmina ",
-    "substantivo": "s.m."
+    "conceito": "brometo de piridostigmina",
+    "substantivo": "s.m.",
+    "traducoes": "pyridostigmine Bromide [ing]; brometo piridostigmina [esp]"
   },
   {
-    "conceito": "broncoconstrição ",
-    "substantivo": "s.f."
+    "conceito": "broncoconstrição",
+    "substantivo": "s.f.",
+    "traducoes": "bronchocontriction [ing]; broncoconstricción [esp]"
   },
   {
-    "conceito": "broncodilatação ",
-    "substantivo": "s.f."
+    "conceito": "broncodilatação",
+    "substantivo": "s.f.",
+    "traducoes": "bronchodilatation [ing]; bronco dilatacíon [esp]"
   },
   {
-    "conceito": "bronquiolite ",
-    "substantivo": "s.f."
+    "conceito": "bronquiolite",
+    "substantivo": "s.f.",
+    "traducoes": "bronchiolitis [ing]; bronquiolitis [esp]"
   },
   {
-    "conceito": "bulimia nervosa ",
-    "substantivo": "s.f."
+    "conceito": "bulimia nervosa",
+    "substantivo": "s.f.",
+    "traducoes": "nervous bulimia [ing]; bulimia nervosa [esp]"
   },
   {
-    "conceito": "câmara de cintilação híbrida ",
-    "substantivo": "s.f."
+    "conceito": "câmara de cintilação híbrida",
+    "substantivo": "s.f.",
+    "traducoes": "hybrid scintillation chamber [ing]; cámara de cintilación híbrida [esp]"
   },
   {
-    "conceito": "câncer de boca ",
-    "substantivo": "s.m."
+    "conceito": "câncer de boca",
+    "substantivo": "s.m.",
+    "traducoes": "mouth cancer [ing]; cancer de boca [esp]"
   },
   {
-    "conceito": "câncer de colo de útero ",
-    "substantivo": "s.m."
+    "conceito": "câncer de colo de útero",
+    "substantivo": "s.m.",
+    "traducoes": "womb cancer [ing]; cáncer del cuello del útero [esp]"
   },
   {
-    "conceito": "câncer de estômago ",
-    "substantivo": "s.m."
+    "conceito": "câncer de estômago",
+    "substantivo": "s.m.",
+    "traducoes": "stomach cancer [ing]; cáncer del estómago [esp]"
   },
   {
-    "conceito": "câncer de mama ",
-    "substantivo": "s.m."
+    "conceito": "câncer de mama",
+    "substantivo": "s.m.",
+    "traducoes": "mama cancer [ing]; cáncer de mama [esp]"
   },
   {
-    "conceito": "câncer de pele ",
-    "substantivo": "s.m."
+    "conceito": "câncer de pele",
+    "substantivo": "s.m.",
+    "traducoes": "skin cancer [ing]; cáncer de piel [esp]"
   },
   {
-    "conceito": "câncer de próstata ",
-    "substantivo": "s.m."
+    "conceito": "câncer de próstata",
+    "substantivo": "s.m.",
+    "traducoes": "prostate cancer [ing]; cáncer de próstata [esp]"
   },
   {
-    "conceito": "câncer de pulmão ",
-    "substantivo": "s.m."
+    "conceito": "câncer de pulmão",
+    "substantivo": "s.m.",
+    "traducoes": "lung cancer [ing]; cáncer de pulmón [esp]"
   },
   {
-    "conceito": "câncer de tireóide ",
-    "substantivo": "s.m."
+    "conceito": "câncer de tireóide",
+    "substantivo": "s.m.",
+    "traducoes": "tireoide cancer [ing]; cáncer de tireóide [esp]"
   },
   {
-    "conceito": "câncer gástrico ",
-    "substantivo": "s.m."
+    "conceito": "câncer gástrico",
+    "substantivo": "s.m.",
+    "traducoes": "gastric cancer [ing]; cáncer gástrico [es"
   },
   {
-    "conceito": "capsulotomia anterior estereotáxica por gamma-knife ",
-    "substantivo": "s.f."
+    "conceito": "capsulotomia anterior estereotáxica por gamma-knife",
+    "substantivo": "s.f.",
+    "traducoes": "stereotactic  gamma-knife  anterior  capsulotomy  [ing];"
   },
   {
-    "conceito": "caramboleira ",
-    "substantivo": "s.f."
+    "conceito": "caramboleira",
+    "substantivo": "s.f.",
+    "traducoes": "carambole tree [ing]; caramboleira [esp]"
   },
   {
-    "conceito": "carcinogênese química ",
-    "substantivo": "s.f."
+    "conceito": "carcinogênese química",
+    "substantivo": "s.f.",
+    "traducoes": "quimical carcinosese [ing]; carcinogénesis química [esp]"
   },
   {
-    "conceito": "catuama ",
-    "substantivo": "s.f."
+    "conceito": "catuama",
+    "substantivo": "s.f.",
+    "traducoes": "catuama [ing]; catuama [esp]"
   },
   {
-    "conceito": "cavidade pleural ",
-    "substantivo": "s.f."
+    "conceito": "cavidade pleural",
+    "substantivo": "s.f.",
+    "traducoes": "pleural cavity [ing]; cavidade pleural [esp]"
   },
   {
-    "conceito": "célula multipotencial ",
-    "substantivo": "s.f."
+    "conceito": "célula multipotencial",
+    "substantivo": "s.f.",
+    "traducoes": "multipotential cell [ing]; célula multipotencial [esp]"
   },
   {
-    "conceito": "ceratoscopia ",
-    "substantivo": "s.f."
+    "conceito": "ceratoscopia",
+    "substantivo": "s.f.",
+    "traducoes": "ceratoscopy [ing]; ceratoscopia [esp]"
   },
   {
-    "conceito": "chá de quebra-pedra ",
-    "substantivo": "s.m."
+    "conceito": "chá de quebra-pedra",
+    "substantivo": "s.m.",
+    "traducoes": "stone breaker tea [ing]; té de quebra-piedra [esp]"
   },
   {
-    "conceito": "chip de DNA ",
-    "substantivo": "s.m."
+    "conceito": "chip de DNA",
+    "substantivo": "s.m.",
+    "traducoes": "DNA chip [ing]; chip de DNA [esp]"
   },
   {
-    "conceito": "choque hemorrágico ",
-    "substantivo": "s.m."
+    "conceito": "choque hemorrágico",
+    "substantivo": "s.m.",
+    "traducoes": "hemorrhagic shock [ing]; choque hemorrágico [esp]"
   },
   {
-    "conceito": "choque séptico ",
-    "substantivo": "s.m."
+    "conceito": "choque séptico",
+    "substantivo": "s.m.",
+    "traducoes": "septic shock [ing]; choque séptico [esp]"
   },
   {
-    "conceito": "cingulotomia anterior ",
-    "substantivo": "s.f."
+    "conceito": "cingulotomia anterior",
+    "substantivo": "s.f.",
+    "traducoes": "anterior cingulotomy [ing]; cingulotomia anterior [esp]"
   },
   {
-    "conceito": "cirurgia fetal a céu aberto ",
-    "substantivo": "s.f."
+    "conceito": "cirurgia fetal a céu aberto",
+    "substantivo": "s.f.",
+    "traducoes": "open-sky fetal surgery [ing]; cirurgía fetal a cielo abierto [esp]"
   },
   {
-    "conceito": "cirurgia a céu aberto ",
-    "substantivo": "s.f."
+    "conceito": "cirurgia a céu aberto",
+    "substantivo": "s.f.",
+    "traducoes": "open-sky surgery [ing]; cirurgía a cielo abierto [esp]"
   },
   {
-    "conceito": "clonagem reprodutiva ",
-    "substantivo": "s.f."
+    "conceito": "clonagem reprodutiva",
+    "substantivo": "s.f.",
+    "traducoes": "reproductive cloning [ing]; clonación reproductiva [esp]"
   },
   {
-    "conceito": "clonagem terapêutica ",
-    "substantivo": "s.f."
+    "conceito": "clonagem terapêutica",
+    "substantivo": "s.f.",
+    "traducoes": "therapeutic cloning [ing]; clonación terapéutica [esp]"
   },
   {
-    "conceito": "coagulação intravascular disseminada ",
-    "substantivo": "s.f."
+    "conceito": "coagulação intravascular disseminada",
+    "substantivo": "s.f.",
+    "traducoes": "disseminated  intravascular  coagulation  [ing];  coagulación  intravascular diseminada [esp]"
   },
   {
-    "conceito": "coagulopatia de consumo ",
-    "substantivo": "s.f."
+    "conceito": "coagulopatia de consumo",
+    "substantivo": "s.f.",
+    "traducoes": "consumptive coagulopathy [ing]; coagulopatía de consumo [esp]"
   },
   {
-    "conceito": "cogumelo-do-sol ",
-    "substantivo": "s.m."
+    "conceito": "cogumelo-do-sol",
+    "substantivo": "s.m.",
+    "traducoes": "mushroom of the sun [ing]; champiñón del sol [esp]"
   },
   {
-    "conceito": "colite hemorrágica ",
-    "substantivo": "s.f."
+    "conceito": "colite hemorrágica",
+    "substantivo": "s.f.",
+    "traducoes": "hemorrhagic colitis [ing]; colitis hemorrágica [esp]"
   },
   {
-    "conceito": "complexo de vanádio ",
-    "substantivo": "s.m."
+    "conceito": "complexo de vanádio",
+    "substantivo": "s.m.",
+    "traducoes": "vanadyl complex [ing]; complejo de vanadio [esp]"
   },
   {
-    "conceito": "coréia de sydenham ",
-    "substantivo": "s.f."
+    "conceito": "coréia de sydenham",
+    "substantivo": "s.f.",
+    "traducoes": "sydenham chorea [ing]; corea de sydenham [esp]"
   },
   {
-    "conceito": "córtex cingulado ",
-    "substantivo": "s.m."
+    "conceito": "córtex cingulado",
+    "substantivo": "s.m.",
+    "traducoes": "cingulated córtex [ing]; córtex cingulado [esp]"
   },
   {
-    "conceito": "craniossinostose ",
-    "substantivo": "s.f."
+    "conceito": "craniossinostose",
+    "substantivo": "s.f.",
+    "traducoes": "craniossinostose [ing]; craniossinostose [esp]"
   },
   {
-    "conceito": "crise de pânico ",
-    "substantivo": "s.f."
+    "conceito": "crise de pânico",
+    "substantivo": "s.f.",
+    "traducoes": "panic crisis [ing]; crisis de pánico [esp]"
   },
   {
-    "conceito": "cristalografia de proteínas ",
-    "substantivo": "s.f."
+    "conceito": "cristalografia de proteínas",
+    "substantivo": "s.f.",
+    "traducoes": "protein cristalography [ing]; cristalografia de proteínas [esp]"
   },
   {
-    "conceito": "cromoblastomicose ",
-    "substantivo": "s.f."
+    "conceito": "cromoblastomicose",
+    "substantivo": "s.f.",
+    "traducoes": "cromoblastomicose [ing]; cromoblastomicose [esp]"
   },
   {
-    "conceito": "crotoxina ",
-    "substantivo": "s.f."
+    "conceito": "crotoxina",
+    "substantivo": "s.f.",
+    "traducoes": "cronotoxina [ing]; crotoxina [esp]"
   },
   {
-    "conceito": "curativo biocompatível ",
-    "substantivo": "s.m."
+    "conceito": "curativo biocompatível",
+    "substantivo": "s.m.",
+    "traducoes": "biocompatible dressing [ing]; apósito biocompatible [esp]"
   },
   {
-    "conceito": "curativo de hidrogel ",
-    "substantivo": "s.m."
+    "conceito": "curativo de hidrogel",
+    "substantivo": "s.m.",
+    "traducoes": "hydrogel dressing [ing]; apósito de hidrogel [esp]"
   },
   {
-    "conceito": "degeneração macular relacionada à idade ",
-    "substantivo": "s.f."
+    "conceito": "degeneração macular relacionada à idade",
+    "substantivo": "s.f.",
+    "traducoes": "age-related macular degeneration [ing]; degeneración macular relacionada con la edad [esp]"
   },
   {
-    "conceito": "depressão alastrante de leão ",
-    "substantivo": "s.f."
+    "conceito": "depressão alastrante de leão",
+    "substantivo": "s.f.",
+    "traducoes": "raging depression of leão [ing]; depresión alastrante de leão [esp]"
   },
   {
-    "conceito": "dermatoscopia ",
-    "substantivo": "s.f."
+    "conceito": "dermatoscopia",
+    "substantivo": "s.f.",
+    "traducoes": "dermatoscopy [ing]; dermatoscopia [esp]"
   },
   {
-    "conceito": "derrame pleural ",
-    "substantivo": "s.m."
+    "conceito": "derrame pleural",
+    "substantivo": "s.m.",
+    "traducoes": "pleural haemorrhage [ing]; derrame pleural [esp]"
   },
   {
-    "conceito": "diarréia do viajante ",
-    "substantivo": "s.f."
+    "conceito": "diarréia do viajante",
+    "substantivo": "s.f.",
+    "traducoes": "travelers' diarrhea [ing]; diarrea del viajero [esp]"
   },
   {
-    "conceito": "dicroismo circular ",
-    "substantivo": "s.m."
+    "conceito": "dicroismo circular",
+    "substantivo": "s.m.",
+    "traducoes": "circular dichroism [ing]; dicroismo circular [esp]"
   },
   {
-    "conceito": "disfunção velofaríngea ",
-    "substantivo": "s.f."
+    "conceito": "disfunção velofaríngea",
+    "substantivo": "s.f.",
+    "traducoes": "velofaringea dysfunction [ing]; disfunción velofaríngea [esp]"
   },
   {
-    "conceito": "distúrbio do sono ",
-    "substantivo": "s.m."
+    "conceito": "distúrbio do sono",
+    "substantivo": "s.m.",
+    "traducoes": "sleep disturbing [ing]; disturbio del sueño [esp]"
   },
   {
-    "conceito": "doença da vaca louca ",
-    "substantivo": "s.f."
+    "conceito": "doença da vaca louca",
+    "substantivo": "s.f.",
+    "traducoes": "mad cow disease [ing]; enfermedad de la vaca loca [esp]"
   },
   {
-    "conceito": "doença isquêmica do coração ",
-    "substantivo": "s.f."
+    "conceito": "doença isquêmica do coração",
+    "substantivo": "s.f.",
+    "traducoes": "ischemic heart disease [ing]; enfermedad isquémica del corazón [esp]"
   },
   {
-    "conceito": "doença reemergente ",
-    "substantivo": "s.f."
+    "conceito": "doença reemergente",
+    "substantivo": "s.f.",
+    "traducoes": "reemergent disease [ing]; enfermedad reemergente [esp]"
   },
   {
-    "conceito": "droga neuroativa ",
-    "substantivo": "s.f."
+    "conceito": "droga neuroativa",
+    "substantivo": "s.f.",
+    "traducoes": "neuroactive drug [ing]; droga neuro-activa [esp]"
   },
   {
-    "conceito": "éfedra ",
-    "substantivo": "s.f."
+    "conceito": "éfedra",
+    "substantivo": "s.f.",
+    "traducoes": "efedra [ing]; efedra [esp]"
   },
   {
-    "conceito": "efeito placebo ",
-    "substantivo": "s.m."
+    "conceito": "efeito placebo",
+    "substantivo": "s.m.",
+    "traducoes": "placebo effect [ing]; efecto placebo [esp]"
   },
   {
-    "conceito": "elisa in house ",
-    "substantivo": "s.m."
+    "conceito": "elisa in house",
+    "substantivo": "s.m.",
+    "traducoes": "elisa in house [ing]; elisa in house [esp]"
   },
   {
-    "conceito": "elisa indireto ",
-    "substantivo": "s.m."
+    "conceito": "elisa indireto",
+    "substantivo": "s.m.",
+    "traducoes": "indirect elisa [ing]; elisa indirecto [esp]"
   },
   {
-    "conceito": "encapsulamento molecular ",
-    "substantivo": "s.m."
+    "conceito": "encapsulamento molecular",
+    "substantivo": "s.m.",
+    "traducoes": "molecular capsuling [ing]; encapsulamiento molecular [esp]"
   },
   {
-    "conceito": "encefalopatia espongiforme felina ",
-    "substantivo": "s.f."
+    "conceito": "encefalopatia espongiforme felina",
+    "substantivo": "s.f.",
+    "traducoes": "feline spongiform [ing]; encefalopatía espongiforme felina [esp]"
   },
   {
-    "conceito": "encefalopatia espongiforme bovina ",
-    "substantivo": "s.f."
+    "conceito": "encefalopatia espongiforme bovina",
+    "substantivo": "s.f.",
+    "traducoes": "bovine  spongiform  encephalopathy  [ing];  encefalopatía  espongiforme bovina [esp]"
   },
   {
-    "conceito": "endotelina ",
-    "substantivo": "s.f."
+    "conceito": "endotelina",
+    "substantivo": "s.f.",
+    "traducoes": "endotelina [ing]; endotelina [esp]"
   },
   {
-    "conceito": "ensaio clínico duplo-cego ",
-    "substantivo": "s.m."
+    "conceito": "ensaio clínico duplo-cego",
+    "substantivo": "s.m.",
+    "traducoes": "clinic double-blind test [ing]; ensayo clínico doble ciego [esp]"
   },
   {
-    "conceito": "enxerto orgânico ",
-    "substantivo": "s.m."
+    "conceito": "enxerto orgânico",
+    "substantivo": "s.m.",
+    "traducoes": "organic graft [ing]; injerto orgánico [esp]"
   },
   {
-    "conceito": "enxerto periférico heterólogo ",
-    "substantivo": "s.m."
+    "conceito": "enxerto periférico heterólogo",
+    "substantivo": "s.m.",
+    "traducoes": "heterolog peripheral graft [ing]; injerto periférico heterólogo [esp]"
   },
   {
-    "conceito": "enzima cicloxigenase ",
-    "substantivo": "s.f."
+    "conceito": "enzima cicloxigenase",
+    "substantivo": "s.f.",
+    "traducoes": "cicloxigenase enzyme [ing]; enzima cicloxigenase [esp]"
   },
   {
-    "conceito": "enzima conversora da angiotensina I ",
-    "substantivo": "s.f."
+    "conceito": "enzima conversora da angiotensina I",
+    "substantivo": "s.f.",
+    "traducoes": "enzyme angiotensina converter [ing]; enzima conversora de angiotensina [esp]"
   },
   {
-    "conceito": "enzima de reparo ",
-    "substantivo": "s.f."
+    "conceito": "enzima de reparo",
+    "substantivo": "s.f.",
+    "traducoes": "repair enzyme [ing]; enzima de raparación [esp]"
   },
   {
-    "conceito": "enzima degradadora de insulina ",
-    "substantivo": "s.f."
+    "conceito": "enzima degradadora de insulina",
+    "substantivo": "s.f.",
+    "traducoes": "insulin-degrading enzyme [ing]; enzima degradadora de insulina [esp]"
   },
   {
-    "conceito": "epidemiologia matemática ",
-    "substantivo": "s.f."
+    "conceito": "epidemiologia matemática",
+    "substantivo": "s.f.",
+    "traducoes": "mathematical epidemiology [ing]; epidemiología matemática [esp]"
   },
   {
-    "conceito": "epilepsia de lobo temporal mesial ",
-    "substantivo": "s.f."
+    "conceito": "epilepsia de lobo temporal mesial",
+    "substantivo": "s.f.",
+    "traducoes": "mesial  temporal  lobe  epilepsy  [ing];  epilepsia  do  lobo  temporal  mesial [esp]"
   },
   {
-    "conceito": "epilepsia pós-traumática ",
-    "substantivo": "s.f."
+    "conceito": "epilepsia pós-traumática",
+    "substantivo": "s.f.",
+    "traducoes": "post-traumatic epilepsy [ing]; epilepsia postraumática [esp]"
   },
   {
-    "conceito": "equinácea ",
-    "substantivo": "s.f."
+    "conceito": "equinácea",
+    "substantivo": "s.f.",
+    "traducoes": "equinacea [ing]; equinacea [esp]"
   },
   {
-    "conceito": "eritropoetina ",
-    "substantivo": "s.f."
+    "conceito": "eritropoetina",
+    "substantivo": "s.f.",
+    "traducoes": "eritropoetine [ing]; eritropoetina [esp]"
   },
   {
-    "conceito": "erva-de-são-joão ",
-    "substantivo": "s.f."
+    "conceito": "erva-de-são-joão",
+    "substantivo": "s.f.",
+    "traducoes": "saint john’s wort [ing]; hierba de san juan [esp]"
   },
   {
-    "conceito": "esclerose lateral amiotrófica ",
-    "substantivo": "s.f."
+    "conceito": "esclerose lateral amiotrófica",
+    "substantivo": "s.f.",
+    "traducoes": "amyotrophic lateral sclerosis [ing]; esclerose lateral amiotrófica [esp]"
   },
   {
-    "conceito": "esclerose múltipla ",
-    "substantivo": "s.f."
+    "conceito": "esclerose múltipla",
+    "substantivo": "s.f.",
+    "traducoes": "multiple esclerosis [ing]; esclerose múltiple [esp]"
   },
   {
-    "conceito": "esclerose sistêmica ",
-    "substantivo": "s.f."
+    "conceito": "esclerose sistêmica",
+    "substantivo": "s.f.",
+    "traducoes": "Systemic esclerosis [ing]; Esclerose sistémica [esp]"
   },
   {
-    "conceito": "espectroscopia de fluorescência ",
-    "substantivo": "s.f."
+    "conceito": "espectroscopia de fluorescência",
+    "substantivo": "s.f.",
+    "traducoes": "fluorescense espectroscopy [ing]; espectroscopia de fluorescencia [esp]"
   },
   {
-    "conceito": "espectroscopia de ressonância nuclear magnética ",
-    "substantivo": "s.f."
+    "conceito": "espectroscopia de ressonância nuclear magnética",
+    "substantivo": "s.f.",
+    "traducoes": "espectroscopy  of  nuclear  magnetic  ressonance  [ing];  espectroscopia  de ressonância magnética nuclear [esp]"
   },
   {
-    "conceito": "esquistossomicida ",
-    "substantivo": "s.m."
+    "conceito": "esquistossomicida",
+    "substantivo": "s.m.",
+    "traducoes": "esquistossomicida [ing]; esquistossomicida [esp]"
   },
   {
-    "conceito": "estímulo aversivo ",
-    "substantivo": "s.m."
+    "conceito": "estímulo aversivo",
+    "substantivo": "s.m.",
+    "traducoes": "aversive stimulation [ing]; estímulo aversivo [esp]"
   },
   {
-    "conceito": "estresse oxidativo ",
-    "substantivo": "s.m."
+    "conceito": "estresse oxidativo",
+    "substantivo": "s.m.",
+    "traducoes": "oxidative stress [ing]; estrés oxidativo [esp]"
   },
   {
-    "conceito": "extrato de alho ",
-    "substantivo": "s.m."
+    "conceito": "extrato de alho",
+    "substantivo": "s.m.",
+    "traducoes": "garlic extract [ing]; extracto de ajo [esp]"
   },
   {
-    "conceito": "extrato de camapu ",
-    "substantivo": "s.m."
+    "conceito": "extrato de camapu",
+    "substantivo": "s.m.",
+    "traducoes": "camapu extract [ing]; extracto de camapu [esp]"
   },
   {
-    "conceito": "extrato de pariparoba ",
-    "substantivo": "s.m."
+    "conceito": "extrato de pariparoba",
+    "substantivo": "s.m.",
+    "traducoes": "pariparoba extract [ing]; extracto de pariparoba [esp]"
   },
   {
-    "conceito": "falcoemulsificação ",
-    "substantivo": "s.f."
+    "conceito": "falcoemulsificação",
+    "substantivo": "s.f.",
+    "traducoes": "phacoemulsification [ing]; falcoemulsificación [esp]"
   },
   {
-    "conceito": "falsa arnica ",
-    "substantivo": "s.f."
+    "conceito": "falsa arnica",
+    "substantivo": "s.f.",
+    "traducoes": "false arnica [ing]; falsa arnica [esp]"
   },
   {
-    "conceito": "falsa operação ",
-    "substantivo": "s.f."
+    "conceito": "falsa operação",
+    "substantivo": "s.f.",
+    "traducoes": "false surgery [ing]; falsa operación [esp]"
   },
   {
-    "conceito": "fator de estimulação de colônia de granulócito ",
-    "substantivo": "s.m."
+    "conceito": "fator de estimulação de colônia de granulócito",
+    "substantivo": "s.m.",
+    "traducoes": "granulocyte colony-stimulating factor [ing]; factor de estimulación de colônia de granulocito [esp]"
   },
   {
-    "conceito": "febre do oeste do nilo ",
-    "substantivo": "s.f."
+    "conceito": "febre do oeste do nilo",
+    "substantivo": "s.f.",
+    "traducoes": "west nile fever [ing]; fiebre del oeste del nilo [esp]"
   },
   {
-    "conceito": "febre maculosa ",
-    "substantivo": "s.f."
+    "conceito": "febre maculosa",
+    "substantivo": "s.f.",
+    "traducoes": "maculosa fever [ing]; fiebre maculosa [esp]"
   },
   {
-    "conceito": "fator de crescimento de fibroblastos ",
-    "substantivo": "s.m."
+    "conceito": "fator de crescimento de fibroblastos",
+    "substantivo": "s.m.",
+    "traducoes": "fibroblast growth factor [ing]; factor de crecimiento de fibroblastos [esp]"
   },
   {
-    "conceito": "fototrombose mediada pela indocianina verde ",
-    "substantivo": "s.f."
+    "conceito": "fototrombose mediada pela indocianina verde",
+    "substantivo": "s.f.",
+    "traducoes": "indocyanine  green  mediated  photothrombosis  [ing];  fototrombois mediada por indocianina verde [esp]"
   },
   {
-    "conceito": "galantamina ",
-    "substantivo": "s.f."
+    "conceito": "galantamina",
+    "substantivo": "s.f.",
+    "traducoes": "galantamine [ing]; galantamina [esp]"
   },
   {
-    "conceito": "gene dinámico ",
-    "substantivo": "s.m."
+    "conceito": "gene dinámico",
+    "substantivo": "s.m.",
+    "traducoes": "dynamic gene [ing]; gen dinámico [esp]"
   },
   {
-    "conceito": "gene expresso ",
-    "substantivo": "s.m."
+    "conceito": "gene expresso",
+    "substantivo": "s.m.",
+    "traducoes": "express gene [ing]; gen expresso [esp]"
   },
   {
-    "conceito": "genes do imprinting ",
-    "substantivo": "s.m."
+    "conceito": "genes do imprinting",
+    "substantivo": "s.m.",
+    "traducoes": "imprinted gene [ing]; gen do impriting [esp]"
   },
   {
-    "conceito": "genética molecular ",
-    "substantivo": "s.f."
+    "conceito": "genética molecular",
+    "substantivo": "s.f.",
+    "traducoes": "molecular genetics [ing]; genética molecular [esp]"
   },
   {
-    "conceito": "genoma mitocondrial ",
-    "substantivo": "s.m."
+    "conceito": "genoma mitocondrial",
+    "substantivo": "s.m.",
+    "traducoes": "mitocondrial genome [ing]; genoma mitocondrial [esp]"
   },
   {
-    "conceito": "glicosímetro ",
-    "substantivo": "s.m."
+    "conceito": "glicosímetro",
+    "substantivo": "s.m.",
+    "traducoes": "glucosimeter [ing]; glicosímetro [esp]"
   },
   {
-    "conceito": "glucoíris ",
-    "substantivo": "s.f."
+    "conceito": "glucoíris",
+    "substantivo": "s.f.",
+    "traducoes": "glucoiris [ing]; clucoiris [esp]"
   },
   {
-    "conceito": "gomesina ",
-    "substantivo": "s.f."
+    "conceito": "gomesina",
+    "substantivo": "s.f.",
+    "traducoes": "gomesina [ing]; gomesina [esp]"
   },
   {
-    "conceito": "hantavirose ",
-    "substantivo": "s.f."
+    "conceito": "hantavirose",
+    "substantivo": "s.f.",
+    "traducoes": "hantavirosis [ing]; hantavirosis [esp]"
   },
   {
-    "conceito": "hemoderivado ",
-    "substantivo": "s.m."
+    "conceito": "hemoderivado",
+    "substantivo": "s.m.",
+    "traducoes": "hemoderived [ing]; hemoderivado [esp]"
   },
   {
-    "conceito": "hemopressina ",
-    "substantivo": "s.f."
+    "conceito": "hemopressina",
+    "substantivo": "s.f.",
+    "traducoes": "hemopressine [ing]; hemopressina [esp]"
   },
   {
-    "conceito": "hemopure ",
-    "substantivo": "s.m."
+    "conceito": "hemopure",
+    "substantivo": "s.m.",
+    "traducoes": "hemopure [ing]; hemopure [esp]"
   },
   {
-    "conceito": "hidrocarboneto policíclico aromático ",
-    "substantivo": "s.m."
+    "conceito": "hidrocarboneto policíclico aromático",
+    "substantivo": "s.m.",
+    "traducoes": "polycyclic  aromatic  hydrocarbons  [ing];  hidrocarburo  policíclico aromático [esp]"
   },
   {
-    "conceito": "hidroxiapatita ",
-    "substantivo": "s.f."
+    "conceito": "hidroxiapatita",
+    "substantivo": "s.f.",
+    "traducoes": "hydroxiapatita [ing]; hidroxiapatita [esp]"
   },
   {
-    "conceito": "hiperbilirrubinemia ",
-    "substantivo": "s.f."
+    "conceito": "hiperbilirrubinemia",
+    "substantivo": "s.f.",
+    "traducoes": "hyperbilirrubinemia [ing]; hiperbilirrubinemia [esp]"
   },
   {
-    "conceito": "hipernasalidade ",
-    "substantivo": "s.f."
+    "conceito": "hipernasalidade",
+    "substantivo": "s.f.",
+    "traducoes": "hypernasality [ing]; hipernasalidad [esp]"
   },
   {
-    "conceito": "hiperplasia epitelial ",
-    "substantivo": "s.f."
+    "conceito": "hiperplasia epitelial",
+    "substantivo": "s.f.",
+    "traducoes": "epithelial hyperplasia [ing]; hiperplasia epitelial [esp]"
   },
   {
-    "conceito": "homocisteína ",
-    "substantivo": "s.f."
+    "conceito": "homocisteína",
+    "substantivo": "s.f.",
+    "traducoes": "homocisteine [ing]; homocisteína [esp]"
   },
   {
-    "conceito": "homocistinúria ",
-    "substantivo": "s.f."
+    "conceito": "homocistinúria",
+    "substantivo": "s.f.",
+    "traducoes": "homocistinuria [ing]; homocistinuria [esp]"
   },
   {
-    "conceito": "hormônio de crescimento ",
-    "substantivo": "s.m."
+    "conceito": "hormônio de crescimento",
+    "substantivo": "s.m.",
+    "traducoes": "growth hormone [ing]; hormona del crecimiento [esp]"
   },
   {
-    "conceito": "hormônio de crescimento biossintético ",
-    "substantivo": "s.m."
+    "conceito": "hormônio de crescimento biossintético",
+    "substantivo": "s.m.",
+    "traducoes": "biosynthetic growth hormone [ing]; hormona del crecimiento biosintético [esp]"
   },
   {
-    "conceito": "hormônio regulador ",
-    "substantivo": "s.m."
+    "conceito": "hormônio regulador",
+    "substantivo": "s.m.",
+    "traducoes": "regulator hormone [ing]; hormona regulador [esp]"
   },
   {
-    "conceito": "icterícia fisiológica ",
-    "substantivo": "s.f."
+    "conceito": "icterícia fisiológica",
+    "substantivo": "s.f.",
+    "traducoes": "physiological jaundice [ing]; ictericia fisiológica [esp]"
   },
   {
-    "conceito": "ilhota pancreática ",
-    "substantivo": "s.f."
+    "conceito": "ilhota pancreática",
+    "substantivo": "s.f.",
+    "traducoes": "pancreatic island [ing]; isla pancreática [esp]"
   },
   {
-    "conceito": "imunossensor amperométrico ",
-    "substantivo": "s.m."
+    "conceito": "imunossensor amperométrico",
+    "substantivo": "s.m.",
+    "traducoes": "amperometric immunosensor [ing]; imunosensor amperométrico [esp]"
   },
   {
-    "conceito": "infarto medular ",
-    "substantivo": "s.m."
+    "conceito": "infarto medular",
+    "substantivo": "s.m.",
+    "traducoes": "medular heart attack [ing]; infarto medular [esp]"
   },
   {
-    "conceito": "infecção perinatal ",
-    "substantivo": "s.f."
+    "conceito": "infecção perinatal",
+    "substantivo": "s.f.",
+    "traducoes": "perinatal infection [ing]; infección perinatal [esp]"
   },
   {
-    "conceito": "insuficiência cardíaca crônica ",
-    "substantivo": "s.f."
+    "conceito": "insuficiência cardíaca crônica",
+    "substantivo": "s.f.",
+    "traducoes": "chronic cardiac insufficiency [ing]; insuficiencia cardíaca crônica [esp]"
   },
   {
-    "conceito": "insuficiência cardíaca grave ",
-    "substantivo": "s.f."
+    "conceito": "insuficiência cardíaca grave",
+    "substantivo": "s.f.",
+    "traducoes": "serious cardiac insufficiency [ing]; insuficiencia cardíaca grave [esp]"
   },
   {
-    "conceito": "insuficiência renal aguda ",
-    "substantivo": "s.f."
+    "conceito": "insuficiência renal aguda",
+    "substantivo": "s.f.",
+    "traducoes": "acute renal insufficiency [ing]; insuficiencia renal aguda [esp]"
   },
   {
-    "conceito": "insulina encapsulada ",
-    "substantivo": "s.f."
+    "conceito": "insulina encapsulada",
+    "substantivo": "s.f.",
+    "traducoes": "capsuled insulin [ing]; insulina encapsulada [esp]"
   },
   {
-    "conceito": "insulina transgênica ",
-    "substantivo": "s.f."
+    "conceito": "insulina transgênica",
+    "substantivo": "s.f.",
+    "traducoes": "transgenic insulin [ing]; insulina transgénica [esp]"
   },
   {
-    "conceito": "interferon gama ",
-    "substantivo": "s.m."
+    "conceito": "interferon gama",
+    "substantivo": "s.m.",
+    "traducoes": "interferon gamma [ing]; interferon gama [esp]"
   },
   {
-    "conceito": "isoflavona aglicona ",
-    "substantivo": "s.f."
+    "conceito": "isoflavona aglicona",
+    "substantivo": "s.f.",
+    "traducoes": "glycine max [ing]; isofravona aclicona [esp]"
   },
   {
-    "conceito": "isquemia cerebral ",
-    "substantivo": "s.f."
+    "conceito": "isquemia cerebral",
+    "substantivo": "s.f.",
+    "traducoes": "brain ischemia [ing]; isquemia cerebral [esp]"
   },
   {
-    "conceito": "jacalina ",
-    "substantivo": "s.f."
+    "conceito": "jacalina",
+    "substantivo": "s.f.",
+    "traducoes": "jacalina [ing]; jacalina [esp]"
   },
   {
-    "conceito": "jogador patológico ",
-    "substantivo": "s.m."
+    "conceito": "jogador patológico",
+    "substantivo": "s.m.",
+    "traducoes": "pathologic gambler [ing]; jugador patológico [esp]"
   },
   {
-    "conceito": "kava-kava ",
-    "substantivo": "s.f."
+    "conceito": "kava-kava",
+    "substantivo": "s.f.",
+    "traducoes": "kava [ing]; kava-kava [esp]"
   },
   {
-    "conceito": "leishmaniose cutâneo-mucosa ",
-    "substantivo": "s.f."
+    "conceito": "leishmaniose cutâneo-mucosa",
+    "substantivo": "s.f.",
+    "traducoes": "skin-mucosal leishmaniasis [ing]; leishmaniasis cutáneo-mucosa [esp]"
   },
   {
-    "conceito": "leishmaniose tegumentar americana ",
-    "substantivo": "s.f."
+    "conceito": "leishmaniose tegumentar americana",
+    "substantivo": "s.f.",
+    "traducoes": "american  tegumentar  leishmaniasis  [ing];  leishmaniasis  tegumentar americana [esp]"
   },
   {
-    "conceito": "leptina ",
-    "substantivo": "s.f."
+    "conceito": "leptina",
+    "substantivo": "s.f.",
+    "traducoes": "leptine [ing]; leptina [esp]"
   },
   {
-    "conceito": "lesão medular ",
-    "substantivo": "s.f."
+    "conceito": "lesão medular",
+    "substantivo": "s.f.",
+    "traducoes": "medular injury [ing]; lesión medular [esp]"
   },
   {
-    "conceito": "leucemia mielóide aguda ",
-    "substantivo": "s.f."
+    "conceito": "leucemia mielóide aguda",
+    "substantivo": "s.f.",
+    "traducoes": "acute myeloid leukemia [ing]; leucemia mieloide aguda [esp]"
   },
   {
-    "conceito": "leucemia mielóide crônica ",
-    "substantivo": "s.f."
+    "conceito": "leucemia mielóide crônica",
+    "substantivo": "s.f.",
+    "traducoes": "chronic myeloid leukemia [ing]; leucemia mieloide crônica [esp]"
   },
   {
-    "conceito": "linfoma de burkitt ",
-    "substantivo": "s.m."
+    "conceito": "linfoma de burkitt",
+    "substantivo": "s.m.",
+    "traducoes": "burkitt lymphoma [ing]; linfoma de burkitt [esp]"
   },
   {
-    "conceito": "líquido cefalorraquidiano ",
-    "substantivo": "s.m."
+    "conceito": "líquido cefalorraquidiano",
+    "substantivo": "s.m.",
+    "traducoes": "cefalorraquidiano liquid [ing]; líquido cefalorraquidiano [esp]"
   },
   {
-    "conceito": "líquor ",
-    "substantivo": "s.m."
+    "conceito": "líquor",
+    "substantivo": "s.m.",
+    "traducoes": "liquor [ing]; liquor [esp]"
   },
   {
-    "conceito": "lopap ",
-    "substantivo": "s.f."
+    "conceito": "lopap",
+    "substantivo": "s.f.",
+    "traducoes": "lopap [ing]; lopap [esp]"
   },
   {
-    "conceito": "lúpus eritematoso sistêmico ",
-    "substantivo": "s.m."
+    "conceito": "lúpus eritematoso sistêmico",
+    "substantivo": "s.m.",
+    "traducoes": "systemic lupus erythematosus [ing]; lupus eritematoso sistêmico [esp]"
   },
   {
-    "conceito": "mal da vaca louca ",
-    "substantivo": "s.f."
+    "conceito": "mal da vaca louca",
+    "substantivo": "s.f.",
+    "traducoes": "mad cow disease [ing]; mal de la vaca loca [esp]"
   },
   {
-    "conceito": "mal de alzheimer ",
-    "substantivo": "s.m."
+    "conceito": "mal de alzheimer",
+    "substantivo": "s.m.",
+    "traducoes": "alzheimer’s disease [ing]; mal de alzheimer [esp]"
   },
   {
-    "conceito": "mal de chagas ",
-    "substantivo": "s.m."
+    "conceito": "mal de chagas",
+    "substantivo": "s.m.",
+    "traducoes": "chagas disease [ing]; mal de chagas [esp]"
   },
   {
-    "conceito": "mal de creutzfeldt-jacob ",
-    "substantivo": "s.m."
+    "conceito": "mal de creutzfeldt-jacob",
+    "substantivo": "s.m.",
+    "traducoes": "creutzfeldt-jacob disease [ing]; mal de creutzfeldt-jacob [esp]"
   },
   {
-    "conceito": "mal de lutz ",
-    "substantivo": "s.m."
+    "conceito": "mal de lutz",
+    "substantivo": "s.m.",
+    "traducoes": "lutz’s disease [ing]; mal de lutz [esp]"
   },
   {
-    "conceito": "mamica de cadela ",
-    "substantivo": "s.f."
+    "conceito": "mamica de cadela",
+    "substantivo": "s.f.",
+    "traducoes": "naranjilla [ing]; mamica de cadela [esp]"
   },
   {
-    "conceito": "mão de são carlos ",
-    "substantivo": "s.f."
+    "conceito": "mão de são carlos",
+    "substantivo": "s.f.",
+    "traducoes": "saint charles’ hand [ing]; mano de san carlos [esp]"
   },
   {
-    "conceito": "medicina à distância ",
-    "substantivo": "s.f."
+    "conceito": "medicina à distância",
+    "substantivo": "s.f.",
+    "traducoes": "distant medicine [ing]; medicina a distancia [esp]"
   },
   {
-    "conceito": "medicina comportamental ",
-    "substantivo": "s.f."
+    "conceito": "medicina comportamental",
+    "substantivo": "s.f.",
+    "traducoes": "behavioral medicine [ing]; medicina comportamental [esp]"
   },
   {
-    "conceito": "memantina ",
-    "substantivo": "s.f."
+    "conceito": "memantina",
+    "substantivo": "s.f.",
+    "traducoes": "memantina [ing]; memantina [esp]"
   },
   {
-    "conceito": "metaplasia intestinal ",
-    "substantivo": "s.f."
+    "conceito": "metaplasia intestinal",
+    "substantivo": "s.f.",
+    "traducoes": "intestinal metaplasy [ing]; metaplasia intestinal [esp]"
   },
   {
-    "conceito": "metapneumovírus ",
-    "substantivo": "s.m."
+    "conceito": "metapneumovírus",
+    "substantivo": "s.m.",
+    "traducoes": "metapneumovirus [ing]; metapneumovirus [esp]"
   },
   {
-    "conceito": "miastenia grave ",
-    "substantivo": "s.f."
+    "conceito": "miastenia grave",
+    "substantivo": "s.f.",
+    "traducoes": "serious miastenia [ing]; miastenia grave [esp]"
   },
   {
-    "conceito": "microagulha ",
-    "substantivo": "s.f."
+    "conceito": "microagulha",
+    "substantivo": "s.f.",
+    "traducoes": "microneedle [ing]; microaguja [esp]"
   },
   {
-    "conceito": "microarray ",
-    "substantivo": "s.m."
+    "conceito": "microarray",
+    "substantivo": "s.m.",
+    "traducoes": "microarray [ing]; microarray [esp]"
   },
   {
-    "conceito": "microesferas biodegradáveis ",
-    "substantivo": "s.f."
+    "conceito": "microesferas biodegradáveis",
+    "substantivo": "s.f.",
+    "traducoes": "biodegradable microsphere [ing]; microesfera biodegradable [esp]"
   },
   {
-    "conceito": "microflora intestinal ",
-    "substantivo": "s.f."
+    "conceito": "microflora intestinal",
+    "substantivo": "s.f.",
+    "traducoes": "intestinal microflora [ing]; microflora intestinal [esp]"
   },
   {
-    "conceito": "microscopia eletrônica de varredura ",
-    "substantivo": "s.f."
+    "conceito": "microscopia eletrônica de varredura",
+    "substantivo": "s.f.",
+    "traducoes": "electronic sweeping microscopy [ing]; microscopia eletrônica de varredura [esp]"
   },
   {
-    "conceito": "microtrans ",
-    "substantivo": "s.m."
+    "conceito": "microtrans",
+    "substantivo": "s.m.",
+    "traducoes": "microtrans [ing]; microtrans [esp]"
   },
   {
-    "conceito": "mielomeningocele ",
-    "substantivo": "s.f."
+    "conceito": "mielomeningocele",
+    "substantivo": "s.f.",
+    "traducoes": "myelingomeningocel [ing]; mielomeningocele [esp]"
   },
   {
-    "conceito": "mimivírus ",
-    "substantivo": "s.m."
+    "conceito": "mimivírus",
+    "substantivo": "s.m.",
+    "traducoes": "mimivirus [ing]; mimivirus [esp]"
   },
   {
-    "conceito": "mucosite oral ",
-    "substantivo": "s.f."
+    "conceito": "mucosite oral",
+    "substantivo": "s.f.",
+    "traducoes": "oral mucositis [ing]; mucositis oral [esp]"
   },
   {
-    "conceito": "muleta instrumentalizada ",
-    "substantivo": "s.f."
+    "conceito": "muleta instrumentalizada",
+    "substantivo": "s.f.",
+    "traducoes": "instrumentalized crutch [ing]; muleta instrumentalizada [esp]"
   },
   {
-    "conceito": "neuromorfometria ",
-    "substantivo": "s.f."
+    "conceito": "neuromorfometria",
+    "substantivo": "s.f.",
+    "traducoes": "neuromorphometry [ing]; neuromorfometria [esp]"
   },
   {
-    "conceito": "neurônio biônico ",
-    "substantivo": "s.m."
+    "conceito": "neurônio biônico",
+    "substantivo": "s.m.",
+    "traducoes": "bionic neuron [ing]; neurona biônica [esp]"
   },
   {
-    "conceito": "nitrato de prata ",
-    "substantivo": "s.m."
+    "conceito": "nitrato de prata",
+    "substantivo": "s.m.",
+    "traducoes": "silver nitrate [ing]; nitrato de prata [esp]"
   },
   {
-    "conceito": "núcleo mediano da rafe ",
-    "substantivo": "s.m."
+    "conceito": "núcleo mediano da rafe",
+    "substantivo": "s.m.",
+    "traducoes": "median raphe nucleus [ing]; nucleo mediano del rafe [esp]"
   },
   {
-    "conceito": "núcleo paraventricular ",
-    "substantivo": "s.m."
+    "conceito": "núcleo paraventricular",
+    "substantivo": "s.m.",
+    "traducoes": "paraventricular nucleus [ing]; núcleo paraventricular [esp]"
   },
   {
-    "conceito": "odontogeriatria ",
-    "substantivo": "s.f."
+    "conceito": "odontogeriatria",
+    "substantivo": "s.f.",
+    "traducoes": "odontogeriatry [ing]; odontogeriatría [esp]"
   },
   {
-    "conceito": "osseointegração ",
-    "substantivo": "s.f."
+    "conceito": "osseointegração",
+    "substantivo": "s.f.",
+    "traducoes": "bone integration [ing]; osseointegración [esp]"
   },
   {
-    "conceito": "óxido nítrico ",
-    "substantivo": "s.m."
+    "conceito": "óxido nítrico",
+    "substantivo": "s.m.",
+    "traducoes": "nitric oxide [ing]; oxido nítrico [esp]"
   },
   {
-    "conceito": "papiloma vírus ",
-    "substantivo": "s.m."
+    "conceito": "papiloma vírus",
+    "substantivo": "s.m.",
+    "traducoes": "papiloma virus [ing]; papilomas vírus [esp]"
   },
   {
-    "conceito": "pata-de-vaca ",
-    "substantivo": "s.m."
+    "conceito": "pata-de-vaca",
+    "substantivo": "s.m.",
+    "traducoes": "paw of cow [ing]; pata de vaca [esp]"
   },
   {
-    "conceito": "pele artificial ",
-    "substantivo": "s.f."
+    "conceito": "pele artificial",
+    "substantivo": "s.f.",
+    "traducoes": "artificial skin [ing]; piel artificial [esp]"
   },
   {
-    "conceito": "perlecan ",
-    "substantivo": "s.m."
+    "conceito": "perlecan",
+    "substantivo": "s.m.",
+    "traducoes": "perlecan [ing]; perlecan [esp]"
   },
   {
-    "conceito": "pinça óptica ",
-    "substantivo": "s.f."
+    "conceito": "pinça óptica",
+    "substantivo": "s.f.",
+    "traducoes": "optical caliper [ing]; pinzas ópticas [esp]"
   },
   {
-    "conceito": "piolho de cama ",
-    "substantivo": "s.m."
+    "conceito": "piolho de cama",
+    "substantivo": "s.m.",
+    "traducoes": "bed louse [ing]; piojo de cama [esp]"
   },
   {
-    "conceito": "pleurodese ",
-    "substantivo": "s.f."
+    "conceito": "pleurodese",
+    "substantivo": "s.f.",
+    "traducoes": "pleurodesis [ing]; pleurodesis [esp]"
   },
   {
-    "conceito": "pluma grande ",
-    "substantivo": "s.f."
+    "conceito": "pluma grande",
+    "substantivo": "s.f.",
+    "traducoes": "bracken fern [ing]; pluma grande [esp]"
   },
   {
-    "conceito": "pneumonia asiática ",
-    "substantivo": "s.f."
+    "conceito": "pneumonia asiática",
+    "substantivo": "s.f.",
+    "traducoes": "asian pneunonia [ing]; neumonía asiática [esp]"
   },
   {
-    "conceito": "poliparasitismo ",
-    "substantivo": "s.m."
+    "conceito": "poliparasitismo",
+    "substantivo": "s.m.",
+    "traducoes": "poliparasitism [ing]; poliparasitismo [esp]"
   },
   {
-    "conceito": "porfíria aguda intermitente ",
-    "substantivo": "s.f."
+    "conceito": "porfíria aguda intermitente",
+    "substantivo": "s.f.",
+    "traducoes": "acute intermittent porphyria [ing]; porfiria aguda intermitente [esp]"
   },
   {
-    "conceito": "potencial evocado ",
-    "substantivo": "s.m."
+    "conceito": "potencial evocado",
+    "substantivo": "s.m.",
+    "traducoes": "evoked potential [ing]; potencial evocado [esp]"
   },
   {
-    "conceito": "pró-insulina ",
-    "substantivo": "s.f."
+    "conceito": "pró-insulina",
+    "substantivo": "s.f.",
+    "traducoes": "proinsulin [ing]; proinsulina [esp]"
   },
   {
-    "conceito": "prótese de Takimoto ",
-    "substantivo": "s.f."
+    "conceito": "prótese de Takimoto",
+    "substantivo": "s.f.",
+    "traducoes": "takimoto’s prothesis [ing]; protesis de takimoto [esp]"
   },
   {
-    "conceito": "ptose palpebral ",
-    "substantivo": "s.f."
+    "conceito": "ptose palpebral",
+    "substantivo": "s.f.",
+    "traducoes": "palpebral ptosis [ing]; ptosis palpebral [esp]"
   },
   {
-    "conceito": "radiocirurgia ",
-    "substantivo": "s.f."
+    "conceito": "radiocirurgia",
+    "substantivo": "s.f.",
+    "traducoes": "radiosurgery [ing]; radiocirurgia [esp]"
   },
   {
-    "conceito": "raman ",
-    "substantivo": "s.m."
+    "conceito": "raman",
+    "substantivo": "s.m.",
+    "traducoes": "raman [ing]; raman [esp]"
   },
   {
-    "conceito": "rato de rabo peludo ",
-    "substantivo": "s.m."
+    "conceito": "rato de rabo peludo",
+    "substantivo": "s.m.",
+    "traducoes": "hairy-tailed bolo mouse [ing]; ratón de rabo peludo [esp]"
   },
   {
-    "conceito": "razão de chances ",
-    "substantivo": "s.f."
+    "conceito": "razão de chances",
+    "substantivo": "s.f.",
+    "traducoes": "odds-ratio [ing]; razón de chances [esp]"
   },
   {
-    "conceito": "reabsorção dentária ",
-    "substantivo": "s.f."
+    "conceito": "reabsorção dentária",
+    "substantivo": "s.f.",
+    "traducoes": "dental reabsorption [ing]; reabsorción dentária [esp]"
   },
   {
-    "conceito": "rede neural artificial ",
-    "substantivo": "s.f."
+    "conceito": "rede neural artificial",
+    "substantivo": "s.f.",
+    "traducoes": "artificial neuronal net [ing]; red neural artificial [esp]"
   },
   {
-    "conceito": "ressonância magnética funcional ",
-    "substantivo": "s.f."
+    "conceito": "ressonância magnética funcional",
+    "substantivo": "s.f.",
+    "traducoes": "functional  magnetic  resonance  [ing];  resonancia  magnética  funcional [esp]"
   },
   {
-    "conceito": "retinol binding protein ",
-    "substantivo": "s.m."
+    "conceito": "retinol binding protein",
+    "substantivo": "s.m.",
+    "traducoes": "retinal binding protein [ing]; retinol binding protein [esp]"
   },
   {
-    "conceito": "sagüi de tufo branco ",
-    "substantivo": "s.m."
+    "conceito": "sagüi de tufo branco",
+    "substantivo": "s.m.",
+    "traducoes": "marmoset monkey [ing]; sagüi de tufo blanco [esp]"
   },
   {
-    "conceito": "sal de escopolamina ",
-    "substantivo": "s.m."
+    "conceito": "sal de escopolamina",
+    "substantivo": "s.m.",
+    "traducoes": "escopolamina salt [ing]; sal de escopolamina [esp]"
   },
   {
-    "conceito": "salgadão ",
-    "substantivo": "s.m."
+    "conceito": "salgadão",
+    "substantivo": "s.m.",
+    "traducoes": "salgadão [ing]; salgadão [esp]"
   },
   {
-    "conceito": "samambaia das taperas ",
-    "substantivo": "s.f."
+    "conceito": "samambaia das taperas",
+    "substantivo": "s.f.",
+    "traducoes": "western brackenfern [ing]; samambaia-das-taperas [esp]"
   },
   {
-    "conceito": "sarcoma de ewing ",
-    "substantivo": "s.m."
+    "conceito": "sarcoma de ewing",
+    "substantivo": "s.m.",
+    "traducoes": "ewing’s sarcoma [ing]; sarcoma de ewing [esp]"
   },
   {
-    "conceito": "secreção de prolactina ",
-    "substantivo": "s.f."
+    "conceito": "secreção de prolactina",
+    "substantivo": "s.f.",
+    "traducoes": "prolactin secretion [ing]; secreción de prolactina [esp]"
   },
   {
-    "conceito": "shitake ",
-    "substantivo": "s.m."
+    "conceito": "shitake",
+    "substantivo": "s.m.",
+    "traducoes": "shitake [ing]; shitake [esp]"
   },
   {
-    "conceito": "simocaína ",
-    "substantivo": "s.f."
+    "conceito": "simocaína",
+    "substantivo": "s.f.",
+    "traducoes": "simocaina [ing]; simocaina [esp]"
   },
   {
-    "conceito": "síndrome da fadiga crônica ",
-    "substantivo": "s.f."
+    "conceito": "síndrome da fadiga crônica",
+    "substantivo": "s.f.",
+    "traducoes": "chronic fatigue syndrome [ing]; síndrome de fatiga crônica [esp]"
   },
   {
-    "conceito": "síndrome da rubéola congênita ",
-    "substantivo": "s.f."
+    "conceito": "síndrome da rubéola congênita",
+    "substantivo": "s.f.",
+    "traducoes": "congenital rubella syndrome [ing]; síndrome de rubéola congênita [esp]"
   },
   {
-    "conceito": "síndrome de turner ",
-    "substantivo": "s.f."
+    "conceito": "síndrome de turner",
+    "substantivo": "s.f.",
+    "traducoes": "turner Syndrome [ing]; síndrome de turner [esp]"
   },
   {
-    "conceito": "síndrome do desconforto respiratório ",
-    "substantivo": "s.f."
+    "conceito": "síndrome do desconforto respiratório",
+    "substantivo": "s.f.",
+    "traducoes": "discomfort  respiratory  syndrome  [ing];  síndrome  de  incomodidad respiratória [esp]"
   },
   {
-    "conceito": "síndrome respiratória aguda severa ",
-    "substantivo": "s.f."
+    "conceito": "síndrome respiratória aguda severa",
+    "substantivo": "s.f.",
+    "traducoes": "severe  acute  respiratory  syndrome  [ing];  síndrome  respiratoria  aguda severa [esp]"
   },
   {
-    "conceito": "síndrome hemolítica urêmica ",
-    "substantivo": "s.f."
+    "conceito": "síndrome hemolítica urêmica",
+    "substantivo": "s.f.",
+    "traducoes": "hemolytic uremic syndrome [ing]; síndrome hemolítica-urémica [esp]"
   },
   {
-    "conceito": "sistema endócrino ",
-    "substantivo": "s.m."
+    "conceito": "sistema endócrino",
+    "substantivo": "s.m.",
+    "traducoes": "endocrine system [ing]; sistema endócrino [esp]"
   },
   {
-    "conceito": "sistema límbico ",
-    "substantivo": "s.m."
+    "conceito": "sistema límbico",
+    "substantivo": "s.m.",
+    "traducoes": "limbic system [ing]; sistema límbico [esp]"
   },
   {
-    "conceito": "sistema nervoso parassimpático ",
-    "substantivo": "s.m."
+    "conceito": "sistema nervoso parassimpático",
+    "substantivo": "s.m.",
+    "traducoes": "parasympathetic  nervous  system  [ing];  sistema  nervioso  parasimpático [esp]"
   },
   {
-    "conceito": "sistema nervoso periférico ",
-    "substantivo": "s.m."
+    "conceito": "sistema nervoso periférico",
+    "substantivo": "s.m.",
+    "traducoes": "peripheral nervous system [ing]; sistema nervioso periférico [esp]"
   },
   {
-    "conceito": "sistema de temporização ",
-    "substantivo": "s.m."
+    "conceito": "sistema de temporização",
+    "substantivo": "s.m.",
+    "traducoes": "temporalization system [ing]; sistema de temporización [esp]"
   },
   {
-    "conceito": "soro hiperimune ",
-    "substantivo": "s.m."
+    "conceito": "soro hiperimune",
+    "substantivo": "s.m.",
+    "traducoes": "hyperimmune serum [ing]; suero hiperimune [esp]"
   },
   {
-    "conceito": "técnica sage ",
-    "substantivo": "s.f."
+    "conceito": "técnica sage",
+    "substantivo": "s.f.",
+    "traducoes": "sage technique [ing]; tecnica de sage [esp]"
   },
   {
-    "conceito": "técnica de sorting ",
-    "substantivo": "s.f."
+    "conceito": "técnica de sorting",
+    "substantivo": "s.f.",
+    "traducoes": "sorting technique [ing]; tecnica de sorting [esp]"
   },
   {
-    "conceito": "teleconsulta ",
-    "substantivo": "s.f."
+    "conceito": "teleconsulta",
+    "substantivo": "s.f.",
+    "traducoes": "teleconsultation [ing]; teleconsulta [esp]"
   },
   {
-    "conceito": "terapia de reposição hormonal ",
-    "substantivo": "s.f."
+    "conceito": "terapia de reposição hormonal",
+    "substantivo": "s.f.",
+    "traducoes": "hormonal reposition therapy [ing]; terapia de reposición hormonal [esp]"
   },
   {
-    "conceito": "terapia fotodinâmica ",
-    "substantivo": "s.f."
+    "conceito": "terapia fotodinâmica",
+    "substantivo": "s.f.",
+    "traducoes": "photodynamic therapy [ing]; terapia fotodinámica [esp]"
   },
   {
-    "conceito": "terapia gênica ",
-    "substantivo": "s.f."
+    "conceito": "terapia gênica",
+    "substantivo": "s.f.",
+    "traducoes": "genetic therapy [ing]; terapia gênica [esp]"
   },
   {
-    "conceito": "terminal nervoso simpático ",
-    "substantivo": "s.m."
+    "conceito": "terminal nervoso simpático",
+    "substantivo": "s.m.",
+    "traducoes": "sympathetic nervous terminal [ing]; terminal nervoso simpático [esp]"
   },
   {
-    "conceito": "teste de carga viral ",
-    "substantivo": "s.m."
+    "conceito": "teste de carga viral",
+    "substantivo": "s.m.",
+    "traducoes": "viral load test [ing]; test de carga viral [esp]"
   },
   {
-    "conceito": "teste de exercício cardiorrespiratório ",
-    "substantivo": "s.m."
+    "conceito": "teste de exercício cardiorrespiratório",
+    "substantivo": "s.m.",
+    "traducoes": "cardiorespiratory  exercise  testing  [ing];  test  exercício  cardiorespiratório [esp]"
   },
   {
-    "conceito": "topógrafo intracirúrgico ",
-    "substantivo": "s.m."
+    "conceito": "topógrafo intracirúrgico",
+    "substantivo": "s.m.",
+    "traducoes": "intrasurgery topograph [ing]; topógrafo intracirúrgico [esp]"
   },
   {
-    "conceito": "transcriptoma ",
-    "substantivo": "s.m."
+    "conceito": "transcriptoma",
+    "substantivo": "s.m.",
+    "traducoes": "transcriptome [ing]; transcriptoma [esp]"
   },
   {
-    "conceito": "transtirretina ",
-    "substantivo": "s.f."
+    "conceito": "transtirretina",
+    "substantivo": "s.f.",
+    "traducoes": "transretine [ing]; transretina [esp]"
   },
   {
-    "conceito": "transtorno cognitivo ",
-    "substantivo": "s.f."
+    "conceito": "transtorno cognitivo",
+    "substantivo": "s.f.",
+    "traducoes": "cognitive disorder [ing]; transtorno cognitivo [esp]"
   },
   {
-    "conceito": "transtorno do pânico ",
-    "substantivo": "s.m."
+    "conceito": "transtorno do pânico",
+    "substantivo": "s.m.",
+    "traducoes": "panic disorder [ing]; trastorno de pánico [esp]"
   },
   {
-    "conceito": "transtorno obsessivo compulsivo ",
-    "substantivo": "s.m."
+    "conceito": "transtorno obsessivo compulsivo",
+    "substantivo": "s.m.",
+    "traducoes": "obsessive-compulsive  disorder  [ing];  transtorno  obsesivo  compulsivo [esp]"
   },
   {
-    "conceito": "tripanossomíase americana ",
-    "substantivo": "s.f."
+    "conceito": "tripanossomíase americana",
+    "substantivo": "s.f.",
+    "traducoes": "american trypanosomiasis [ing]; tripanosomiasis americana [esp]"
   },
   {
-    "conceito": "tripanossomicida ",
-    "substantivo": "s.f."
+    "conceito": "tripanossomicida",
+    "substantivo": "s.f.",
+    "traducoes": "tripanossomicide [ing]; tripanossomicida [esp]"
   },
   {
-    "conceito": "trocáter ",
-    "substantivo": "s.m."
+    "conceito": "trocáter",
+    "substantivo": "s.m.",
+    "traducoes": "trocater [ing]; trocater [esp]"
   },
   {
-    "conceito": "tula de besouro ",
-    "substantivo": "s.f."
+    "conceito": "tula de besouro",
+    "substantivo": "s.f.",
+    "traducoes": "tula de besouro [ing]; tula de besouro [esp]"
   },
   {
-    "conceito": "tumor de erlich ",
-    "substantivo": "s.m."
+    "conceito": "tumor de erlich",
+    "substantivo": "s.m.",
+    "traducoes": "erlich tumor [ing]; tumor de erlich [esp]"
   },
   {
-    "conceito": "tumor de walker ",
-    "substantivo": "s.m."
+    "conceito": "tumor de walker",
+    "substantivo": "s.m.",
+    "traducoes": "walker tumor [ing]; tumor de walker [esp]"
   },
   {
-    "conceito": "tunicato ",
-    "substantivo": "s.m."
+    "conceito": "tunicato",
+    "substantivo": "s.m.",
+    "traducoes": "tunicato [ing]; tunicato [esp]"
   },
   {
-    "conceito": "ubiquitina ",
-    "substantivo": "s.f."
+    "conceito": "ubiquitina",
+    "substantivo": "s.f.",
+    "traducoes": "ubiquitine [ing]; ubiquitina [esp]"
   },
   {
-    "conceito": "vacina autóloga ",
-    "substantivo": "s.f."
+    "conceito": "vacina autóloga",
+    "substantivo": "s.f.",
+    "traducoes": "autologue vaccine [ing]; vacuna autóloga [esp]"
   },
   {
-    "conceito": "vacina de DNA ",
-    "substantivo": "s.f."
+    "conceito": "vacina de DNA",
+    "substantivo": "s.f.",
+    "traducoes": "DNA vaccine [ing]; vacuna de DNA [esp]"
   },
   {
-    "conceito": "vacina quádrupla ",
-    "substantivo": "s.f."
+    "conceito": "vacina quádrupla",
+    "substantivo": "s.f.",
+    "traducoes": "Quadruple vaccine [ing]; Vacuna cuádruple [esp]"
   },
   {
-    "conceito": "varicela-zoster ",
-    "substantivo": "s.m."
+    "conceito": "varicela-zoster",
+    "substantivo": "s.m.",
+    "traducoes": "varicella zoster [ing]; varicela-zoster [esp]"
   },
   {
-    "conceito": "videodermatoscópio ",
-    "substantivo": "s.m."
+    "conceito": "videodermatoscópio",
+    "substantivo": "s.m.",
+    "traducoes": "videodermatoscopy [ing]; videodermatoscopio [esp]"
   },
   {
-    "conceito": "videomicroscopia ",
-    "substantivo": "s.f."
+    "conceito": "videomicroscopia",
+    "substantivo": "s.f.",
+    "traducoes": "videomicroscopy [ing]; videomicroscopia [esp]"
   },
   {
-    "conceito": "vírus amarílico ",
-    "substantivo": "s.m."
+    "conceito": "vírus amarílico",
+    "substantivo": "s.m.",
+    "traducoes": "amarílis vírus [ing]; vírus amarílico [esp]"
   },
   {
-    "conceito": "vírus cantagalo ",
-    "substantivo": "s.m."
+    "conceito": "vírus cantagalo",
+    "substantivo": "s.m.",
+    "traducoes": "cantagalo vírus [ing]; vírus cantagalo [esp]"
   },
   {
-    "conceito": "vírus respiratório sincicial ",
-    "substantivo": "s.m."
+    "conceito": "vírus respiratório sincicial",
+    "substantivo": "s.m.",
+    "traducoes": "sincicial respiratory vírus [ing]; virus respiratorio sincicial"
   },
   {
-    "conceito": "xenotransplante ",
-    "substantivo": "s.m."
+    "conceito": "xenotransplante",
+    "substantivo": "s.m.",
+    "traducoes": "xenotransplantation [ing]; xenotransplante [esp]"
   }
 ]
