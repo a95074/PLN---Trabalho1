@@ -1,0 +1,1202 @@
+[
+  {
+    "conceito": "abeta ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "ação vasoconstritora ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "acidente vascular cerebral isquêmico ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "ácido acetilsalicílico ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "ácido caínico ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "ácido gama-aminobutírico ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "acidose metilmalônica ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "adjuvante genético ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "alergia asmática ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "alfa-tocoferol ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "alumã ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "amiloidose sistêmica senil ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "análise biomecânica ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "angina instável ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "angiografia de retina ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "antimonial pentavalente ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "apicoplasto ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "apoptose ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "araraquara ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "artrodistrator ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "astemizol ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "atrofia espinhal progressiva tardia ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "avium ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "bacilo de koch ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "baciloscopia ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "bactéria entero-hemorrágica ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "bainha de mielina ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "barriga d’água ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "barriga de cerveja ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "bengala instrumentalizada ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "beta-amilóide ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "beta-bloqueador ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "biochip ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "bio feedback ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "bioadesão ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "bioengenheiro ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "bioinformática ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "biologia reprodutiva ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "biologia sistêmica ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "biomarcador ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "biomembrana ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "bioprótese ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "biópsia óptica ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "bipsoro eletrônico ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "bisturi óptico ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "blockbuster ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "brometo de piridostigmina ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "broncoconstrição ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "broncodilatação ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "bronquiolite ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "bulimia nervosa ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "câmara de cintilação híbrida ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "câncer de boca ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "câncer de colo de útero ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "câncer de estômago ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "câncer de mama ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "câncer de pele ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "câncer de próstata ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "câncer de pulmão ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "câncer de tireóide ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "câncer gástrico ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "capsulotomia anterior estereotáxica por gamma-knife ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "caramboleira ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "carcinogênese química ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "catuama ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "cavidade pleural ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "célula multipotencial ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "ceratoscopia ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "chá de quebra-pedra ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "chip de DNA ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "choque hemorrágico ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "choque séptico ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "cingulotomia anterior ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "cirurgia fetal a céu aberto ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "cirurgia a céu aberto ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "clonagem reprodutiva ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "clonagem terapêutica ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "coagulação intravascular disseminada ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "coagulopatia de consumo ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "cogumelo-do-sol ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "colite hemorrágica ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "complexo de vanádio ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "coréia de sydenham ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "córtex cingulado ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "craniossinostose ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "crise de pânico ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "cristalografia de proteínas ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "cromoblastomicose ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "crotoxina ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "curativo biocompatível ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "curativo de hidrogel ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "degeneração macular relacionada à idade ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "depressão alastrante de leão ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "dermatoscopia ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "derrame pleural ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "diarréia do viajante ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "dicroismo circular ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "disfunção velofaríngea ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "distúrbio do sono ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "doença da vaca louca ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "doença isquêmica do coração ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "doença reemergente ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "droga neuroativa ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "éfedra ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "efeito placebo ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "elisa in house ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "elisa indireto ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "encapsulamento molecular ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "encefalopatia espongiforme felina ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "encefalopatia espongiforme bovina ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "endotelina ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "ensaio clínico duplo-cego ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "enxerto orgânico ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "enxerto periférico heterólogo ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "enzima cicloxigenase ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "enzima conversora da angiotensina I ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "enzima de reparo ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "enzima degradadora de insulina ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "epidemiologia matemática ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "epilepsia de lobo temporal mesial ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "epilepsia pós-traumática ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "equinácea ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "eritropoetina ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "erva-de-são-joão ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "esclerose lateral amiotrófica ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "esclerose múltipla ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "esclerose sistêmica ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "espectroscopia de fluorescência ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "espectroscopia de ressonância nuclear magnética ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "esquistossomicida ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "estímulo aversivo ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "estresse oxidativo ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "extrato de alho ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "extrato de camapu ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "extrato de pariparoba ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "falcoemulsificação ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "falsa arnica ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "falsa operação ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "fator de estimulação de colônia de granulócito ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "febre do oeste do nilo ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "febre maculosa ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "fator de crescimento de fibroblastos ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "fototrombose mediada pela indocianina verde ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "galantamina ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "gene dinámico ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "gene expresso ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "genes do imprinting ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "genética molecular ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "genoma mitocondrial ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "glicosímetro ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "glucoíris ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "gomesina ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "hantavirose ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "hemoderivado ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "hemopressina ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "hemopure ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "hidrocarboneto policíclico aromático ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "hidroxiapatita ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "hiperbilirrubinemia ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "hipernasalidade ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "hiperplasia epitelial ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "homocisteína ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "homocistinúria ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "hormônio de crescimento ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "hormônio de crescimento biossintético ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "hormônio regulador ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "icterícia fisiológica ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "ilhota pancreática ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "imunossensor amperométrico ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "infarto medular ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "infecção perinatal ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "insuficiência cardíaca crônica ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "insuficiência cardíaca grave ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "insuficiência renal aguda ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "insulina encapsulada ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "insulina transgênica ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "interferon gama ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "isoflavona aglicona ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "isquemia cerebral ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "jacalina ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "jogador patológico ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "kava-kava ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "leishmaniose cutâneo-mucosa ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "leishmaniose tegumentar americana ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "leptina ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "lesão medular ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "leucemia mielóide aguda ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "leucemia mielóide crônica ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "linfoma de burkitt ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "líquido cefalorraquidiano ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "líquor ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "lopap ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "lúpus eritematoso sistêmico ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "mal da vaca louca ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "mal de alzheimer ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "mal de chagas ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "mal de creutzfeldt-jacob ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "mal de lutz ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "mamica de cadela ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "mão de são carlos ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "medicina à distância ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "medicina comportamental ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "memantina ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "metaplasia intestinal ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "metapneumovírus ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "miastenia grave ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "microagulha ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "microarray ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "microesferas biodegradáveis ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "microflora intestinal ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "microscopia eletrônica de varredura ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "microtrans ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "mielomeningocele ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "mimivírus ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "mucosite oral ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "muleta instrumentalizada ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "neuromorfometria ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "neurônio biônico ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "nitrato de prata ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "núcleo mediano da rafe ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "núcleo paraventricular ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "odontogeriatria ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "osseointegração ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "óxido nítrico ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "papiloma vírus ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "pata-de-vaca ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "pele artificial ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "perlecan ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "pinça óptica ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "piolho de cama ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "pleurodese ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "pluma grande ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "pneumonia asiática ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "poliparasitismo ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "porfíria aguda intermitente ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "potencial evocado ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "pró-insulina ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "prótese de Takimoto ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "ptose palpebral ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "radiocirurgia ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "raman ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "rato de rabo peludo ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "razão de chances ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "reabsorção dentária ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "rede neural artificial ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "ressonância magnética funcional ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "retinol binding protein ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "sagüi de tufo branco ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "sal de escopolamina ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "salgadão ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "samambaia das taperas ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "sarcoma de ewing ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "secreção de prolactina ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "shitake ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "simocaína ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "síndrome da fadiga crônica ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "síndrome da rubéola congênita ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "síndrome de turner ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "síndrome do desconforto respiratório ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "síndrome respiratória aguda severa ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "síndrome hemolítica urêmica ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "sistema endócrino ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "sistema límbico ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "sistema nervoso parassimpático ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "sistema nervoso periférico ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "sistema de temporização ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "soro hiperimune ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "técnica sage ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "técnica de sorting ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "teleconsulta ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "terapia de reposição hormonal ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "terapia fotodinâmica ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "terapia gênica ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "terminal nervoso simpático ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "teste de carga viral ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "teste de exercício cardiorrespiratório ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "topógrafo intracirúrgico ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "transcriptoma ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "transtirretina ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "transtorno cognitivo ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "transtorno do pânico ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "transtorno obsessivo compulsivo ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "tripanossomíase americana ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "tripanossomicida ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "trocáter ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "tula de besouro ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "tumor de erlich ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "tumor de walker ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "tunicato ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "ubiquitina ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "vacina autóloga ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "vacina de DNA ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "vacina quádrupla ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "varicela-zoster ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "videodermatoscópio ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "videomicroscopia ",
+    "substantivo": "s.f."
+  },
+  {
+    "conceito": "vírus amarílico ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "vírus cantagalo ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "vírus respiratório sincicial ",
+    "substantivo": "s.m."
+  },
+  {
+    "conceito": "xenotransplante ",
+    "substantivo": "s.m."
+  }
+]
