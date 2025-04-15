@@ -53,6 +53,35 @@ def extrair_sigla(trecho):
     match = padrao_sigla.search(trecho)
     if match:
         return (match.group(1) or match.group(2)).strip()
+    return ("Sem sigla associada")
+
+def extrair_descricao(trecho):
+    padrao_bloco = re.finditer(
+        r'<text[^>]*?top="\d+" left="(?P<left>\d+)"[^>]*?font="(?P<font>\d+)"[^>]*?>(.*?)</text>',
+        trecho
+    )
+
+    descricao_partes = []
+    for m in padrao_bloco:
+        left = int(m.group("left"))
+        font = int(m.group("font"))
+        conteudo = m.group(3).strip()
+
+        # Parar se for citação
+        if conteudo.startswith("“") or conteudo.startswith('"') or conteudo.startswith("..."):
+            break
+
+        # Parar se for início de novo termo
+        if left == 128 and font == 23:
+            if re.match(r'^[a-zá-úç\- ]{3,}$', conteudo.lower()):
+                break
+
+        # Só aceitar blocos font=23 com texto "normal"
+        if font == 23 and len(conteudo) > 0 and not any(x in conteudo.lower() for x in ['[ing]', '[esp]', 'sigla:']):
+            descricao_partes.append(conteudo)
+
+    if descricao_partes:
+        return " ".join(descricao_partes)
     return None
 
 
@@ -66,16 +95,20 @@ for match in padrao_conceito_substantivo.finditer(texto):
     genero = match.group("substantivo")
     fim = match.end()
 
-    trecho_pos_termo = texto[fim:fim+3000]
+    trecho_pos_termo = texto[fim:fim+6500]
+
     traducoes = extrair_traducoes(trecho_pos_termo)
     sigla = extrair_sigla(trecho_pos_termo[:600])
+    descricao = extrair_descricao(trecho_pos_termo)
+
 
 
     resultado.append({
         "conceito": conceito,
         "substantivo": genero,
         "traducoes": traducoes,
-        "sigla": sigla
+        "sigla": sigla,
+        "descricao": descricao
     })
 
 
