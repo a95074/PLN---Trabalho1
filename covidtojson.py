@@ -35,6 +35,20 @@ def extrair_traducoes(texto_pos_termo):
         traducoes[lang] = traducao
     return traducoes
 
+def extrair_descricao(texto_pos_traducao):
+    padrao_linha_descricao = re.compile(
+        r'<text[^>]+font="(?:11|27|33)">(?P<linha>.*?)</text>'
+    )
+    descricao = []
+    for match in padrao_linha_descricao.finditer(texto_pos_traducao):
+        linha = match.group("linha").strip()
+        # Se encontrarmos um novo termo (font 25), paramos
+        if re.search(r'<text[^>]+font="25"><b>', texto_pos_traducao[match.start():]):
+            break
+        descricao.append(linha)
+    return " ".join(descricao)
+
+
 #padrao que encontra os termos e as suas siglas associadas
 
 padrao_siglas = re.compile(
@@ -67,11 +81,13 @@ for match in padrao_siglas.finditer(texto):
     fim = match.end()
     trecho_pos_termo = texto[fim:fim+2000]  # limitar o tamanho para segurança
     traducoes = extrair_traducoes(trecho_pos_termo)
+    descricao = extrair_descricao(trecho_pos_termo)
 
     termos_siglas.append({
         "termo": termo,
         "siglas": siglas,
-        "traducoes": traducoes
+        "traducoes": traducoes,
+        "descricao": descricao
     })
 
 #extrair todos os conceitos válidos e ignorar os que são apenas siglas
@@ -84,10 +100,12 @@ for match in padrao_conceitos_validos.finditer(texto):
         fim = match.end()
         trecho_pos_termo = texto[fim:fim+2000]
         traducoes = extrair_traducoes(trecho_pos_termo)
+        descricao = extrair_descricao(trecho_pos_termo)
         conceitos_finais.append({
             "termo": termo,
             "siglas": [],
-            "traducoes": traducoes
+            "traducoes": traducoes,
+            "descricao": descricao
         })
 
 # Combinar os dois
