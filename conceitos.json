@@ -512,7 +512,7 @@
         "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Centro de Testagem e Aconselhamento </text>\n<text top=\"652\" left=\"427\" width=\"52\" height=\"14\" font=\"21\">em Aids",
+        "Conceito": "Centro de Testagem e Aconselhamento em Aids",
         "Categoria": "Atenção à Saúde"
     },
     {
@@ -520,7 +520,7 @@
         "Categoria": "Ciência e Tecnologia em Saúde"
     },
     {
-        "Conceito": "Centrais Farmacêuticas</text>\n<text top=\"257\" left=\"193\" width=\"278\" height=\"14\" font=\"25\">Centro Nacional de Epidemiologia (Cenepi)</text>\n<text top=\"309\" left=\"176\" width=\"217\" height=\"14\" font=\"21\">Centro Nacional de Regulação de </text>\n<text top=\"327\" left=\"176\" width=\"123\" height=\"14\" font=\"21\">Alta Complexidade",
+        "Conceito": "Centro Nacional de Regulação de Alta Complexidade",
         "Categoria": "Atenção à Saúde"
     },
     {
@@ -552,7 +552,7 @@
         "Categoria": "Doenças"
     },
     {
-        "Conceito": "Centro Nacional de Regulação de Alta Complexidade</text>\n<text top=\"257\" left=\"588\" width=\"107\" height=\"14\" font=\"25\">Citomegalovírus</text>\n<text top=\"308\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">ralisia cerebral. Nos indivíduos imunocom-</text>\n<text top=\"326\" left=\"121\" width=\"290\" height=\"16\" font=\"14\">prometidos, pode provocar doenças grave, o </text>\n<text top=\"344\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">que, por sua vez, pode levar à cegueira e mes-</text>\n<text top=\"362\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">mo à morte. Nos pacientes com aids são mais </text>\n<text top=\"380\" left=\"121\" width=\"290\" height=\"16\" font=\"14\">comuns o comprometimento da retina, do </text>\n<text top=\"398\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">trato digestivo e do sistema nervoso central.</text>\n<text top=\"417\" left=\"121\" width=\"89\" height=\"14\" font=\"21\">Citopatologia",
+        "Conceito": "Citopatologia",
         "Categoria": "Doenças"
     },
     {
@@ -568,11 +568,11 @@
         "Categoria": "Administração e Planejamento em Saúde"
     },
     {
-        "Conceito": "Coeﬁ ciente de morbidade",
+        "Conceito": "Coeﬁciente de morbidade",
         "Categoria": "Epidemiologia"
     },
     {
-        "Conceito": "Coeﬁ ciente de natalidade",
+        "Conceito": "Coeﬁciente de natalidade",
         "Categoria": "Epidemiologia"
     },
     {
@@ -585,23 +585,23 @@
     },
     {
         "Conceito": "Comando único",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
-        "Conceito": "Citopatologia</text>\n<text top=\"257\" left=\"193\" width=\"102\" height=\"14\" font=\"25\">Comando único</text>\n<text top=\"308\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">trativa. O objetivo ﬁ nal é que cada esfera de </text>\n<text top=\"326\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">governo seja capaz de assumir a responsabili-</text>\n<text top=\"344\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">dade sanitária plena para melhorar a qualida-</text>\n<text top=\"362\" left=\"176\" width=\"207\" height=\"16\" font=\"14\">de de vida e saúde da população.</text>\n<text top=\"381\" left=\"176\" width=\"211\" height=\"14\" font=\"21\">Comissão Intergestores Bipartite",
-        "Categoria": "Administração e Planejamento em"
+        "Conceito": "Comissão Intergestores Bipartite",
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Comissão Intergestores Tripartite",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Comissões Intergestores",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Comissões Intersetoriais",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Componente",
@@ -617,14 +617,14 @@
     },
     {
         "Conceito": "Composição populacional",
-        "Categoria": "Demograﬁ a"
+        "Categoria": "Demograﬁa"
     },
     {
         "Conceito": "Comunicação de Acidente do Trabalho",
         "Categoria": "Acidentes e Violência"
     },
     {
-        "Conceito": "Comissão Intergestores Bipartite</text>\n<text top=\"257\" left=\"447\" width=\"248\" height=\"14\" font=\"25\">Comunicação de Acidente do Trabalho</text>\n<text top=\"309\" left=\"121\" width=\"173\" height=\"14\" font=\"21\">Comunidades terapêuticas",
+        "Conceito": "Comunidades terapêuticas",
         "Categoria": "Drogas de Uso Terapêutico e Social"
     },
     {
@@ -636,7 +636,7 @@
         "Categoria": "Doenças"
     },
     {
-        "Conceito": "Conselho de Secretários Municipais </text>\n<text top=\"687\" left=\"121\" width=\"122\" height=\"14\" font=\"21\">de Saúde (Cosems)",
+        "Conceito": "Conselho de Secretários Municipais de Saúde (Cosems)",
         "Categoria": "Políticas Públicas e Saúde"
     },
     {
@@ -648,19 +648,23 @@
         "Categoria": "Políticas Públicas e Saúde"
     },
     {
-        "Conceito": "Conselho Nacional de Saúde (CNS)</text>\n<text top=\"506\" left=\"427\" width=\"59\" height=\"16\" font=\"16\">Categoria</text>\n<text top=\"506\" left=\"486\" width=\"170\" height=\"16\" font=\"14\">: Políticas Públicas e Saúde</text>\n<text top=\"524\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">Órgão especíﬁ co do Ministério da Saúde for-</text>\n<text top=\"542\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">mado por 32 conselheiros titulares com seus </text>\n<text top=\"560\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">respectivos suplentes, representantes de enti-</text>\n<text top=\"578\" left=\"427\" width=\"290\" height=\"16\" font=\"14\">dades e instituições dos segmentos governo, </text>\n<text top=\"596\" left=\"427\" width=\"291\" height=\"16\" font=\"14\">prestadores de serviços privados de saúde, </text>\n<text top=\"614\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">proﬁ ssionais de saúde e usuários. Tem como </text>\n<text top=\"632\" left=\"427\" width=\"290\" height=\"16\" font=\"14\">objetivo atuar na formulação e controle da </text>\n<text top=\"650\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">execução da política nacional de saúde, inclu-</text>\n<text top=\"668\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">sive nos aspectos econômicos e ﬁ nanceiros, </text>\n<text top=\"686\" left=\"427\" width=\"290\" height=\"16\" font=\"14\">nas estratégias e na promoção do processo </text>\n<text top=\"704\" left=\"427\" width=\"290\" height=\"16\" font=\"14\">de controle social em toda a sua amplitude, </text>\n<text top=\"722\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">no âmbito dos setores público e privado. As </text>\n<text top=\"740\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">entidades com representação no CNS foram </text>\n<text top=\"758\" left=\"427\" width=\"291\" height=\"16\" font=\"14\">deﬁ nidas no Decreto 1.448, de 6 de abril </text>\n<text top=\"776\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">de 1995. A composição é paritária a ﬁ m de </text>\n<text top=\"794\" left=\"427\" width=\"276\" height=\"16\" font=\"14\">manter equilíbrio dos interesses envolvidos.</text>\n<text top=\"813\" left=\"427\" width=\"283\" height=\"14\" font=\"21\">Conselho Nacional de Secretários Estaduais </text>\n<text top=\"831\" left=\"427\" width=\"118\" height=\"14\" font=\"21\">de Saúde (Conass)",
+        "Conceito": "Conselho Nacional de Saúde (CNS)",
         "Categoria": "Políticas Públicas e Saúde"
     },
     {
-        "Conceito": "Conselho Nacional de Secretários </text>\n<text top=\"957\" left=\"427\" width=\"212\" height=\"14\" font=\"21\">Municipais de Saúde (Conasems)",
+        "Conceito": "Conselho Nacional de Secretários Estaduais de Saúde (Conass)",
         "Categoria": "Políticas Públicas e Saúde"
     },
     {
-        "Conceito": "Comunidades terapêuticas</text>\n<text top=\"257\" left=\"193\" width=\"401\" height=\"14\" font=\"25\">Conselho Nacional de Secretários Estaduais de Saúde (Conass)</text>\n<text top=\"308\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">Organização não-governamental que repre-</text>\n<text top=\"326\" left=\"176\" width=\"291\" height=\"16\" font=\"14\">senta potencialmente todos os secretários </text>\n<text top=\"344\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">municipais de saúde do País e serve de in-</text>\n<text top=\"362\" left=\"176\" width=\"291\" height=\"16\" font=\"14\">terlocutor oficial do Ministério da Saúde </text>\n<text top=\"380\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">com relação à política de saúde. A Lei 8.142, </text>\n<text top=\"398\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">de 1990, ao tratar da participação social no </text>\n<text top=\"416\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">SUS deﬁ ne o Conasems como representan-</text>\n<text top=\"434\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">te dos municípios no Conselho Nacional de </text>\n<text top=\"452\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">Saúde. O Conasems é membro da Comissão </text>\n<text top=\"470\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">Intergestores Tripartite. A fundação do Co-</text>\n<text top=\"488\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">nasems é fruto do movimento municipalista </text>\n<text top=\"506\" left=\"176\" width=\"290\" height=\"16\" font=\"14\">da saúde, no próprio contexto que originou </text>\n<text top=\"524\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">o SUS. Este movimento é precedido de di-</text>\n<text top=\"542\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">versos encontros nacionais e regionais de Se-</text>\n<text top=\"560\" left=\"176\" width=\"290\" height=\"16\" font=\"14\">cretários Municipais de Saúde desde 1978, </text>\n<text top=\"578\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">acompanhando o processo de redemocrati-</text>\n<text top=\"596\" left=\"176\" width=\"89\" height=\"16\" font=\"14\">zação do País.</text>\n<text top=\"615\" left=\"176\" width=\"108\" height=\"14\" font=\"21\">Conselho Tutelar",
+        "Conceito": "Conselho Nacional de Secretários Municipais de Saúde (Conasems)",
+        "Categoria": "Políticas Públicas e Saúde"
+    },
+    {
+        "Conceito": "Conselho Tutelar",
         "Categoria": "Acidentes e Violência"
     },
     {
-        "Conceito": "Conselhos de Defesa dos Direitos da Criança </text>\n<text top=\"759\" left=\"176\" width=\"111\" height=\"14\" font=\"21\">e do Adolescente",
+        "Conceito": "Conselhos de Defesa dos Direitos da Criança e do Adolescente",
         "Categoria": "Acidentes e Violência"
     },
     {
@@ -673,7 +677,7 @@
     },
     {
         "Conceito": "Consórcios Intermunicipais",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Consulta geriátrica",
@@ -684,20 +688,20 @@
         "Categoria": "Doenças"
     },
     {
-        "Conceito": "Conselho Nacional de Secretários Municipais de Saúde (Conasems)</text>\n<text top=\"257\" left=\"573\" width=\"122\" height=\"14\" font=\"25\">Consulta geriátrica</text>\n<text top=\"308\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">Transferência do agente etiológico, sem a in-</text>\n<text top=\"326\" left=\"121\" width=\"144\" height=\"16\" font=\"14\">terferência de veículos.</text>\n<text top=\"345\" left=\"121\" width=\"115\" height=\"14\" font=\"21\">Contra-referência",
-        "Categoria": "Administração e Planejamento em"
+        "Conceito": "Contra-referência",
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Contrato de compra de serviços",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Contrato de gestão",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Controle assistencial",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Controle de endemias",
@@ -720,7 +724,7 @@
         "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Contágio</text>\n<text top=\"257\" left=\"193\" width=\"68\" height=\"14\" font=\"25\">Convênios</text>\n<text top=\"308\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">instituições ﬁ lantrópicas, universidades, pre-</text>\n<text top=\"326\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">feituras e órgãos federais. Podem originar-se </text>\n<text top=\"344\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">de Emenda Parlamentar ou de programas es-</text>\n<text top=\"362\" left=\"176\" width=\"213\" height=\"16\" font=\"14\">pecíﬁ cos do Ministério da Saúde.</text>\n<text top=\"381\" left=\"176\" width=\"143\" height=\"14\" font=\"21\">Cooperativas médicas",
+        "Conceito": "Cooperativas médicas",
         "Categoria": "Políticas Públicas e Saúde"
     },
     {
@@ -756,7 +760,7 @@
         "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Cooperativas médicas</text>\n<text top=\"257\" left=\"614\" width=\"84\" height=\"14\" font=\"25\">Crescimento </text>\n<text top=\"308\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">desde a concepção até o ﬁ nal da vida, con-</text>\n<text top=\"326\" left=\"121\" width=\"290\" height=\"16\" font=\"14\">siderando-se os fenômenos de substituição </text>\n<text top=\"344\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">e regeneração de tecidos e órgãos. É consi-</text>\n<text top=\"362\" left=\"121\" width=\"290\" height=\"16\" font=\"14\">derado como um dos melhores indicadores </text>\n<text top=\"380\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">de saúde da criança, em razão de sua estreita </text>\n<text top=\"397\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">dependência de fatores ambientais, tais como </text>\n<text top=\"415\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">alimentação, ocorrência de doenças, cuida-</text>\n<text top=\"433\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">dos gerais e de higiene, condições de vida da </text>\n<text top=\"450\" left=\"121\" width=\"215\" height=\"16\" font=\"14\">criança, no passado e no presente.</text>\n<text top=\"469\" left=\"121\" width=\"182\" height=\"14\" font=\"21\">Crescimento compensatório",
+        "Conceito": "Crescimento compensatório",
         "Categoria": "Alimentação e Nutrição"
     },
     {
@@ -772,7 +776,7 @@
         "Categoria": "Direito Sanitário"
     },
     {
-        "Conceito": "Crescimento compensatório</text>\n<text top=\"257\" left=\"193\" width=\"127\" height=\"14\" font=\"25\">Cuidados paliativos</text>\n<text top=\"426\" left=\"176\" width=\"26\" height=\"14\" font=\"21\">D4T",
+        "Conceito": "D4T",
         "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
@@ -796,23 +800,19 @@
         "Categoria": "Vigilância em Saúde"
     },
     {
-        "Conceito": "Deﬁ ciência de ferro",
+        "Conceito": "Deﬁciência de ferro",
         "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Deﬁ ciência de micronutrientes",
-        "Categoria": "Alimentação e Nutrição"
+        "Conceito": "Deﬁciência de micronutrientes",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Deﬁ ciência energético-protéica</text>\n<text top=\"948\" left=\"483\" width=\"233\" height=\"16\" font=\"14\">Ver Desnutrição energético-protéica.</text>\n<text top=\"967\" left=\"483\" width=\"145\" height=\"14\" font=\"21\">Deﬁ ciência nutricional",
-        "Categoria": "Alimentação e Nutrição"
+        "Conceito": "Deﬁciência primária de iodo",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Deﬁ ciência primária de iodo",
-        "Categoria": "Alimentação e Nutrição"
-    },
-    {
-        "Conceito": "Deﬁ cit de altura",
+        "Conceito": "Deﬁcit de altura",
         "Categoria": "Alimentação e Nutrição"
     },
     {
@@ -828,8 +828,8 @@
         "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Departamento de Informática do SUS </text>\n<text top=\"363\" left=\"427\" width=\"61\" height=\"14\" font=\"21\">(Datasus)",
-        "Categoria": "Administração e Planejamento em"
+        "Conceito": "Departamento de Informática do SUS (Datasus)",
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Depressão",
@@ -844,7 +844,7 @@
         "Categoria": "Doenças"
     },
     {
-        "Conceito": "Deﬁ ciência primária de iodo</text>\n<text top=\"257\" left=\"193\" width=\"193\" height=\"14\" font=\"25\">Dermatite de contato alérgica</text>\n<text top=\"309\" left=\"176\" width=\"197\" height=\"14\" font=\"21\">Dermatite de contato irritativa",
+        "Conceito": "Dermatite de contato irritativa",
         "Categoria": "Doenças"
     },
     {
