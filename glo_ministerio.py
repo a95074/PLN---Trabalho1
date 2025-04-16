@@ -17,7 +17,7 @@ texto = re.sub(r'<text top="\d+" left="\d+" width="\d+" height="\d+" font="22">.
 texto = re.sub (r"<i>*\n?", "", texto) #É preciso ser retirado isto porque há termos em ingles em italico 
 texto = re.sub (r"</i>*\n?", "", texto)
 texto = re.sub(r'</b>\n<b>(.*?)</b>\n', r'\1</b>\n', texto) 
-
+texto = re.sub (r"ü", "u", texto) 
 texto = re.sub (r"<b>*\n?", "", texto) 
 texto = re.sub (r"</b>*\n?", "", texto)
 

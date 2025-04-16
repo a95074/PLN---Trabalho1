@@ -861,11 +861,11 @@
     },
     {
         "Conceito": "Desburocratização",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Descentralização",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Desenvolvimento tecnológico",
@@ -884,7 +884,7 @@
         "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Dermatite de contato irritativa</text>\n<text top=\"246\" left=\"709\" width=\"33\" height=\"16\" font=\"23\">DER</text>\n<text top=\"308\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">não seja o leite materno – incluindo os chás </text>\n<text top=\"326\" left=\"121\" width=\"290\" height=\"16\" font=\"14\">e a água – e que termina com a suspensão </text>\n<text top=\"345\" left=\"121\" width=\"171\" height=\"16\" font=\"14\">completa do leite materno.</text>\n<text top=\"364\" left=\"121\" width=\"79\" height=\"14\" font=\"21\">Desnutrição",
+        "Conceito": "Desnutrição",
         "Categoria": "Alimentação e Nutrição"
     },
     {
@@ -912,7 +912,7 @@
         "Categoria": "Doenças"
     },
     {
-        "Conceito": "Didanosina</text>\n<text top=\"473\" left=\"427\" width=\"57\" height=\"16\" font=\"14\">Ver DDI</text>\n<text top=\"492\" left=\"427\" width=\"97\" height=\"14\" font=\"21\">Dideoxiinosine</text>\n<text top=\"510\" left=\"427\" width=\"57\" height=\"16\" font=\"14\">Ver DDI</text>\n<text top=\"529\" left=\"427\" width=\"88\" height=\"14\" font=\"21\">Dideoxitidina</text>\n<text top=\"546\" left=\"427\" width=\"63\" height=\"16\" font=\"14\">Ver DDC</text>\n<text top=\"565\" left=\"427\" width=\"35\" height=\"14\" font=\"21\">Dieta",
+        "Conceito": "Dieta",
         "Categoria": "Alimentação e Nutrição"
     },
     {
@@ -924,7 +924,7 @@
         "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Desnutrição</text>\n<text top=\"257\" left=\"193\" width=\"58\" height=\"14\" font=\"25\">Digestão</text>\n<text top=\"309\" left=\"176\" width=\"88\" height=\"14\" font=\"21\">Direção única</text>\n<text top=\"326\" left=\"176\" width=\"134\" height=\"16\" font=\"14\">Ver Comando único.</text>\n<text top=\"345\" left=\"176\" width=\"151\" height=\"14\" font=\"21\">Direitos civis e políticos",
+        "Conceito": "Direitos civis e políticos",
         "Categoria": "Direito Sanitário"
     },
     {
@@ -937,10 +937,10 @@
     },
     {
         "Conceito": "Distritalização",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
-        "Conceito": "Distúrbio Osteomuscular Relacionado ao </text>\n<text top=\"525\" left=\"483\" width=\"99\" height=\"14\" font=\"21\">Trabalho (Dort)",
+        "Conceito": "Distúrbio Osteomuscular Relacionado ao Trabalho (Dort)",
         "Categoria": "Doenças"
     },
     {
@@ -952,7 +952,7 @@
         "Categoria": "Doenças"
     },
     {
-        "Conceito": "Direção única</text>\n<text top=\"257\" left=\"557\" width=\"138\" height=\"14\" font=\"25\">Doença de Alzheimer</text>\n<text top=\"309\" left=\"121\" width=\"120\" height=\"14\" font=\"21\">Doença de Chagas",
+        "Conceito": "Doença de Chagas",
         "Categoria": "Doenças"
     },
     {
@@ -964,8 +964,8 @@
         "Categoria": "Doenças"
     },
     {
-        "Conceito": "Doença proﬁ ssional",
-        "Categoria": "Atenção à Saúde"
+        "Conceito": "Doença proﬁssional",
+        "Categoria": "Doenças"
     },
     {
         "Conceito": "Doenças cardiovasculares",
@@ -996,7 +996,7 @@
         "Categoria": "Doenças"
     },
     {
-        "Conceito": "Doença de Chagas</text>\n<text top=\"257\" left=\"193\" width=\"131\" height=\"14\" font=\"25\">Doenças falciformes</text>\n<text top=\"308\" left=\"176\" width=\"288\" height=\"16\" font=\"14\">mente, sendo mais freqüente onde a proporção </text>\n<text top=\"326\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">de antepassados negros da população é maior </text>\n<text top=\"344\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">(Nordeste). Além das manifestações de ane-</text>\n<text top=\"362\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">mia crônica, o quadro é dominado por episó-</text>\n<text top=\"380\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">dios de dores osteoarticulares, dores abdomi-</text>\n<text top=\"398\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">nais, infecções e enfartes pulmonares, retardo </text>\n<text top=\"416\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">do crescimento e maturação sexual, acidente </text>\n<text top=\"434\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">vascular cerebral e comprometimento crônico </text>\n<text top=\"452\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">de múltiplos órgãos, sistemas ou aparelhos.</text>\n<text top=\"471\" left=\"176\" width=\"142\" height=\"14\" font=\"21\">Doenças oportunistas",
+        "Conceito": "Doenças oportunistas",
         "Categoria": "Doenças"
     },
     {
@@ -1036,7 +1036,7 @@
         "Categoria": "Drogas de Uso Terapêutico e Social"
     },
     {
-        "Conceito": "Doenças oportunistas</text>\n<text top=\"257\" left=\"608\" width=\"87\" height=\"14\" font=\"25\">Drogas lícitas</text>\n<text top=\"426\" left=\"176\" width=\"49\" height=\"14\" font=\"21\">Eczema",
+        "Conceito": "Eczema",
         "Categoria": "Doenças"
     },
     {
@@ -1044,11 +1044,11 @@
         "Categoria": "Recursos Humanos em Saúde Pú-"
     },
     {
-        "Conceito": "Educação permanente</text>\n<text top=\"713\" left=\"176\" width=\"162\" height=\"16\" font=\"14\">Ver Educação continuada</text>\n<text top=\"732\" left=\"176\" width=\"106\" height=\"14\" font=\"21\">Educação sexual",
+        "Conceito": "Educação sexual",
         "Categoria": "Promoção e Educação em Saúde"
     },
     {
-        "Conceito": "Eﬁ cácia dos medicamentos",
+        "Conceito": "Eﬁcácia dos medicamentos",
         "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
@@ -1085,7 +1085,7 @@
     },
     {
         "Conceito": "Envelhecimento populacional",
-        "Categoria": "Demograﬁ a"
+        "Categoria": "Demograﬁa"
     },
     {
         "Conceito": "Epidemia",
@@ -1096,15 +1096,19 @@
         "Categoria": "Doenças"
     },
     {
-        "Conceito": "Eqüidade</text>\n<text top=\"722\" left=\"427\" width=\"59\" height=\"16\" font=\"16\">Categoria</text>\n<text top=\"722\" left=\"486\" width=\"187\" height=\"16\" font=\"14\">: Eqüidade em Saúde e Social</text>\n<text top=\"740\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">Igualdade na assistência à saúde, com ações e </text>\n<text top=\"758\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">serviços priorizados em função de situações de </text>\n<text top=\"776\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">risco, das condições de vida e da saúde de de-</text>\n<text top=\"794\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">terminados indivíduos e grupos de população.</text>\n<text top=\"813\" left=\"427\" width=\"187\" height=\"14\" font=\"21\">Equipamento de diagnóstico",
+        "Conceito": "Equidade",
+        "Categoria": "Equidade em Saúde e Social"
+    },
+    {
+        "Conceito": "Equipamento de diagnóstico",
         "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Equipe multiproﬁ ssional",
-        "Categoria": "Recursos Humanos em Saúde Pú-"
+        "Conceito": "Equipe multiproﬁssional",
+        "Categoria": "Recursos Humanos em Saúde Pública"
     },
     {
-        "Conceito": "Ensaio terapêutico</text>\n<text top=\"257\" left=\"193\" width=\"158\" height=\"14\" font=\"25\">Equipe multiproﬁ ssional</text>\n<text top=\"308\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">Composta por médico assistente, enfermeiro, </text>\n<text top=\"326\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">técnico-enfermagem, ﬁ sioterapeuta, nutricio-</text>\n<text top=\"344\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">nista, assistente social, fonoaudióloga, psicó-</text>\n<text top=\"362\" left=\"176\" width=\"186\" height=\"16\" font=\"14\">logo e terapeuta ocupacional.</text>\n<text top=\"381\" left=\"176\" width=\"85\" height=\"14\" font=\"21\">Equivalência </text>\n<text top=\"378\" left=\"262\" width=\"44\" height=\"20\" font=\"29\">in vitro",
+        "Conceito": "Equivalência in vitro",
         "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
@@ -1148,7 +1152,7 @@
         "Categoria": "Ciência e Tecnologia em Saúde"
     },
     {
-        "Conceito": "Equivalência </text>\n<text top=\"234\" left=\"651\" width=\"44\" height=\"20\" font=\"29\">in vitro</text>\n<text top=\"257\" left=\"580\" width=\"116\" height=\"14\" font=\"25\">Ética em pesquisa</text>\n<text top=\"308\" left=\"121\" width=\"98\" height=\"16\" font=\"14\">Ética e Bioética</text>\n<text top=\"326\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">Termo utilizado de forma ampla, inclui dife-</text>\n<text top=\"344\" left=\"121\" width=\"290\" height=\"16\" font=\"14\">rentes assuntos relevantes do ponto de vista </text>\n<text top=\"362\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">da ética em pesquisa envolvendo seres huma-</text>\n<text top=\"380\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">nos e demais seres vivos. Inclui o comparti-</text>\n<text top=\"398\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">lhamento justo dos créditos de autoria en-</text>\n<text top=\"416\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">tre participantes de um grupo de pesquisa; o </text>\n<text top=\"434\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">comportamento responsável na submissão ou </text>\n<text top=\"452\" left=\"121\" width=\"290\" height=\"16\" font=\"14\">revisão de pedidos de bolsas de pesquisa e, </text>\n<text top=\"470\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">com maior visibilidade, o tratamento respon-</text>\n<text top=\"488\" left=\"121\" width=\"180\" height=\"16\" font=\"14\">sável de sujeitos de pesquisa.</text>\n<text top=\"507\" left=\"121\" width=\"100\" height=\"14\" font=\"21\">Evento adverso",
+        "Conceito": "Evento adverso",
         "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
@@ -1165,14 +1169,14 @@
     },
     {
         "Conceito": "Expectativa de vida ao nascer",
-        "Categoria": "Demograﬁ a"
+        "Categoria": "Demograﬁa"
     },
     {
-        "Conceito": "Explosão demográﬁ ca",
-        "Categoria": "Demograﬁ a"
+        "Conceito": "Explosão demográﬁca",
+        "Categoria": "Demograﬁa"
     },
     {
-        "Conceito": "Evento adverso</text>\n<text top=\"257\" left=\"193\" width=\"143\" height=\"14\" font=\"25\">Explosão demográﬁ ca</text>\n<text top=\"426\" left=\"176\" width=\"46\" height=\"14\" font=\"21\">Família",
+        "Conceito": "Família",
         "Categoria": "Ciências Sociais em Saúde"
     },
     {
@@ -1212,7 +1216,7 @@
         "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Fator de Incentivo ao Desenvolvimento de </text>\n<text top=\"579\" left=\"121\" width=\"169\" height=\"14\" font=\"21\">Ensino e Pesquisa (Fideps)",
+        "Conceito": "Fator de Incentivo ao Desenvolvimento de Ensino e Pesquisa (Fideps)",
         "Categoria": "Economia de Saúde"
     },
     {
@@ -1225,7 +1229,7 @@
     },
     {
         "Conceito": "Feminilização no envelhecimento",
-        "Categoria": "Demograﬁ a"
+        "Categoria": "Demograﬁa"
     },
     {
         "Conceito": "Feminização da aids",
@@ -1236,11 +1240,11 @@
         "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Formação proﬁ ssional",
+        "Conceito": "Formação proﬁssional",
         "Categoria": "Recursos Humanos em Saúde Pública"
     },
     {
-        "Conceito": "Farmacovigilância</text>\n<text top=\"257\" left=\"193\" width=\"143\" height=\"14\" font=\"25\">Formação proﬁ ssional</text>\n<text top=\"308\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">solidárias perante os usuários, para o exercí-</text>\n<text top=\"326\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">cio do trabalho e da educação a ﬁ m de inseri-</text>\n<text top=\"344\" left=\"176\" width=\"171\" height=\"16\" font=\"14\">lo nos setores proﬁ ssionais.</text>\n<text top=\"363\" left=\"176\" width=\"164\" height=\"14\" font=\"21\">Formulação farmacêutica",
+        "Conceito": "Formulação farmacêutica",
         "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
@@ -1256,7 +1260,7 @@
         "Categoria": "Economia de Saúde"
     },
     {
-        "Conceito": "Franca explosão demográﬁ ca",
+        "Conceito": "Franca explosão demográﬁca",
         "Categoria": "História da Saúde Pública"
     },
     {
@@ -1264,11 +1268,19 @@
         "Categoria": "Epidemiologia"
     },
     {
-        "Conceito": "Fundo Estadual de Saúde</text>\n<text top=\"452\" left=\"483\" width=\"59\" height=\"16\" font=\"16\">Categoria</text>\n<text top=\"452\" left=\"541\" width=\"134\" height=\"16\" font=\"14\">: Economia da Saúde</text>\n<text top=\"470\" left=\"483\" width=\"289\" height=\"16\" font=\"14\">Tem por objetivo criar condições ﬁ nanceiras </text>\n<text top=\"488\" left=\"483\" width=\"289\" height=\"16\" font=\"14\">e de administração de recursos destinados ao </text>\n<text top=\"506\" left=\"483\" width=\"285\" height=\"16\" font=\"14\">desenvolvimento das ações e serviços de saú-</text>\n<text top=\"524\" left=\"483\" width=\"289\" height=\"16\" font=\"14\">de executados ou coordenados pela Secretaria </text>\n<text top=\"542\" left=\"483\" width=\"283\" height=\"16\" font=\"14\">Estadual de Saúde (SES) no âmbito do SUS.</text>\n<text top=\"561\" left=\"483\" width=\"172\" height=\"14\" font=\"21\">Fundo Municipal de Saúde",
+        "Conceito": "Fundo Estadual de Saúde",
+        "Categoria": "Economia da Saúde"
+    },
+    {
+        "Conceito": "Fundo Municipal de Saúde",
         "Categoria": "Economia de Saúde"
     },
     {
-        "Conceito": "Fundo Nacional de Saúde (FNS)</text>\n<text top=\"704\" left=\"483\" width=\"59\" height=\"16\" font=\"16\">Categoria</text>\n<text top=\"704\" left=\"541\" width=\"134\" height=\"16\" font=\"14\">: Economia da Saúde</text>\n<text top=\"722\" left=\"483\" width=\"290\" height=\"16\" font=\"14\">É o gestor ﬁ nanceiro, na esfera federal, dos </text>\n<text top=\"740\" left=\"483\" width=\"276\" height=\"16\" font=\"14\">recursos do Sistema Único de Saúde (SUS).</text>\n<text top=\"759\" left=\"483\" width=\"109\" height=\"14\" font=\"21\">Fundos de saúde",
+        "Conceito": "Fundo Nacional de Saúde (FNS)",
+        "Categoria": "Economia da Saúde"
+    },
+    {
+        "Conceito": "Fundos de saúde",
         "Categoria": "Economia de Saúde"
     },
     {
@@ -1276,7 +1288,7 @@
         "Categoria": "Doenças"
     },
     {
-        "Conceito": "Formulação farmacêutica</text>\n<text top=\"257\" left=\"629\" width=\"66\" height=\"14\" font=\"25\">Furúnculo</text>\n<text top=\"426\" left=\"176\" width=\"132\" height=\"14\" font=\"21\">Gelados comestíveis",
+        "Conceito": "Gelados comestíveis",
         "Categoria": "Alimentação e Nutrição"
     },
     {
@@ -1285,7 +1297,7 @@
     },
     {
         "Conceito": "Gerência em saúde",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Gestação de alto risco",
@@ -1293,43 +1305,43 @@
     },
     {
         "Conceito": "Gestão Avançada do Sistema Estadual",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Gestão do SUS",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Gestão Estadual de Saúde",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Gestão Federal de Saúde",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Gestão Municipal de Saúde",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Gestão Plena da Atenção Básica",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Gestão Plena da Atenção Básica Ampliada",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Gestão Plena do Sistema Estadual",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Gestão Plena do Sistema Municipal",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Gestor de saúde",
-        "Categoria": "Recursos Humanos em Saúde Pú-"
+        "Categoria": "Recursos Humanos em Saúde Pública"
     },
     {
         "Conceito": "Gonorréia",
@@ -1905,7 +1917,7 @@
     },
     {
         "Conceito": "Perﬁ l epidemiológico",
-        "Categoria": "Eqüidade em Saúde e Social"
+        "Categoria": "Equidade em Saúde e Social"
     },
     {
         "Conceito": "Perﬁ l nosológico",
@@ -2020,7 +2032,7 @@
         "Categoria": "Vigilância em Saúde"
     },
     {
-        "Conceito": "Porto de controle sanitário</text>\n<text top=\"257\" left=\"193\" width=\"257\" height=\"14\" font=\"25\">Procedimento operacional padronizado</text>\n<text top=\"308\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">estabelece instruções seqüenciais para a reali-</text>\n<text top=\"326\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">zação de operações rotineiras e especíﬁ cas na </text>\n<text top=\"344\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">industrialização, armazenamento e transporte </text>\n<text top=\"362\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">de alimentos. Este procedimento pode apre-</text>\n<text top=\"380\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">sentar outras nomenclaturas desde que obe-</text>\n<text top=\"398\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">deça ao conteúdo estabelecido na Resolução </text>\n<text top=\"416\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">– RDC n.º 267, de 25 de setembro de 2003.</text>\n<text top=\"435\" left=\"176\" width=\"149\" height=\"14\" font=\"21\">Produção de alimentos",
+        "Conceito": "Porto de controle sanitário</text>\n<text top=\"257\" left=\"193\" width=\"257\" height=\"14\" font=\"25\">Procedimento operacional padronizado</text>\n<text top=\"308\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">estabelece instruções sequenciais para a reali-</text>\n<text top=\"326\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">zação de operações rotineiras e especíﬁ cas na </text>\n<text top=\"344\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">industrialização, armazenamento e transporte </text>\n<text top=\"362\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">de alimentos. Este procedimento pode apre-</text>\n<text top=\"380\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">sentar outras nomenclaturas desde que obe-</text>\n<text top=\"398\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">deça ao conteúdo estabelecido na Resolução </text>\n<text top=\"416\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">– RDC n.º 267, de 25 de setembro de 2003.</text>\n<text top=\"435\" left=\"176\" width=\"149\" height=\"14\" font=\"21\">Produção de alimentos",
         "Categoria": "Alimentação e Nutrição"
     },
     {
@@ -2229,7 +2241,7 @@
     },
     {
         "Conceito": "Regulação assistencial",
-        "Categoria": "Eqüidade em Saúde e Social"
+        "Categoria": "Equidade em Saúde e Social"
     },
     {
         "Conceito": "Regulamento técnico",
@@ -2432,7 +2444,7 @@
         "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Sistemas Formais de Cuidados</text>\n<text top=\"380\" left=\"427\" width=\"59\" height=\"16\" font=\"16\">Categoria</text>\n<text top=\"380\" left=\"486\" width=\"109\" height=\"16\" font=\"14\"> Atenção à Saúde</text>\n<text top=\"398\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">São integrados por proﬁ ssionais e instituições </text>\n<text top=\"416\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">que realizam este atendimento sob a forma de </text>\n<text top=\"434\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">prestação de serviço. Os cuidados são presta-</text>\n<text top=\"452\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">dos por pessoa ou agências comunitárias con-</text>\n<text top=\"470\" left=\"427\" width=\"105\" height=\"16\" font=\"14\">tratadas para tal.</text>\n<text top=\"489\" left=\"427\" width=\"205\" height=\"14\" font=\"21\">Sistemas Informais de Cuidados</text>\n<text top=\"506\" left=\"427\" width=\"59\" height=\"16\" font=\"16\">Categoria</text>\n<text top=\"506\" left=\"486\" width=\"109\" height=\"16\" font=\"14\"> Atenção à Saúde</text>\n<text top=\"524\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">São constituídos por pessoas da família, ami-</text>\n<text top=\"542\" left=\"427\" width=\"291\" height=\"16\" font=\"14\">gos próximos e vizinhos, freqüentemente </text>\n<text top=\"560\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">mulheres, que exercem tarefas de apoio e cui-</text>\n<text top=\"578\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">dados voluntários para suprir a incapacidade </text>\n<text top=\"596\" left=\"427\" width=\"123\" height=\"16\" font=\"14\">funcional do idoso.</text>\n<text top=\"615\" left=\"427\" width=\"117\" height=\"14\" font=\"21\">Solvente orgânico</text>\n<text top=\"632\" left=\"427\" width=\"59\" height=\"16\" font=\"16\">Categoria</text>\n<text top=\"632\" left=\"486\" width=\"119\" height=\"16\" font=\"14\"> Ambiente e Saúde</text>\n<text top=\"650\" left=\"427\" width=\"291\" height=\"16\" font=\"14\">Nome genérico atribuído a um grupo de </text>\n<text top=\"668\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">substâncias químicas líquidas à temperatu-</text>\n<text top=\"686\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">ra ambiente, com características físico-quí-</text>\n<text top=\"704\" left=\"427\" width=\"291\" height=\"16\" font=\"14\">micas (volatilidade, lipossolubilidade) que </text>\n<text top=\"722\" left=\"427\" width=\"290\" height=\"16\" font=\"14\">tornam o risco tóxico bastante variável. São </text>\n<text top=\"740\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">empregados com solubilizantes, dispersantes </text>\n<text top=\"758\" left=\"427\" width=\"290\" height=\"16\" font=\"14\">ou diluentes, de modo amplo em diferentes </text>\n<text top=\"776\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">processos industriais, no meio rural e em la-</text>\n<text top=\"794\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">boratórios químicos, como substâncias puras </text>\n<text top=\"812\" left=\"427\" width=\"93\" height=\"16\" font=\"14\">ou misturadas.</text>\n<text top=\"831\" left=\"427\" width=\"96\" height=\"14\" font=\"21\">Soroconversão",
+        "Conceito": "Sistemas Formais de Cuidados</text>\n<text top=\"380\" left=\"427\" width=\"59\" height=\"16\" font=\"16\">Categoria</text>\n<text top=\"380\" left=\"486\" width=\"109\" height=\"16\" font=\"14\"> Atenção à Saúde</text>\n<text top=\"398\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">São integrados por proﬁ ssionais e instituições </text>\n<text top=\"416\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">que realizam este atendimento sob a forma de </text>\n<text top=\"434\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">prestação de serviço. Os cuidados são presta-</text>\n<text top=\"452\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">dos por pessoa ou agências comunitárias con-</text>\n<text top=\"470\" left=\"427\" width=\"105\" height=\"16\" font=\"14\">tratadas para tal.</text>\n<text top=\"489\" left=\"427\" width=\"205\" height=\"14\" font=\"21\">Sistemas Informais de Cuidados</text>\n<text top=\"506\" left=\"427\" width=\"59\" height=\"16\" font=\"16\">Categoria</text>\n<text top=\"506\" left=\"486\" width=\"109\" height=\"16\" font=\"14\"> Atenção à Saúde</text>\n<text top=\"524\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">São constituídos por pessoas da família, ami-</text>\n<text top=\"542\" left=\"427\" width=\"291\" height=\"16\" font=\"14\">gos próximos e vizinhos, frequentemente </text>\n<text top=\"560\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">mulheres, que exercem tarefas de apoio e cui-</text>\n<text top=\"578\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">dados voluntários para suprir a incapacidade </text>\n<text top=\"596\" left=\"427\" width=\"123\" height=\"16\" font=\"14\">funcional do idoso.</text>\n<text top=\"615\" left=\"427\" width=\"117\" height=\"14\" font=\"21\">Solvente orgânico</text>\n<text top=\"632\" left=\"427\" width=\"59\" height=\"16\" font=\"16\">Categoria</text>\n<text top=\"632\" left=\"486\" width=\"119\" height=\"16\" font=\"14\"> Ambiente e Saúde</text>\n<text top=\"650\" left=\"427\" width=\"291\" height=\"16\" font=\"14\">Nome genérico atribuído a um grupo de </text>\n<text top=\"668\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">substâncias químicas líquidas à temperatu-</text>\n<text top=\"686\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">ra ambiente, com características físico-quí-</text>\n<text top=\"704\" left=\"427\" width=\"291\" height=\"16\" font=\"14\">micas (volatilidade, lipossolubilidade) que </text>\n<text top=\"722\" left=\"427\" width=\"290\" height=\"16\" font=\"14\">tornam o risco tóxico bastante variável. São </text>\n<text top=\"740\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">empregados com solubilizantes, dispersantes </text>\n<text top=\"758\" left=\"427\" width=\"290\" height=\"16\" font=\"14\">ou diluentes, de modo amplo em diferentes </text>\n<text top=\"776\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">processos industriais, no meio rural e em la-</text>\n<text top=\"794\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">boratórios químicos, como substâncias puras </text>\n<text top=\"812\" left=\"427\" width=\"93\" height=\"16\" font=\"14\">ou misturadas.</text>\n<text top=\"831\" left=\"427\" width=\"96\" height=\"14\" font=\"21\">Soroconversão",
         "Categoria": "Doenças"
     },
     {
@@ -2549,7 +2561,7 @@
     },
     {
         "Conceito": "Universalidade",
-        "Categoria": "Eqüidade em Saúde e Social"
+        "Categoria": "Equidade em Saúde e Social"
     },
     {
         "Conceito": "Uretrites",
