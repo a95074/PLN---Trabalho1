@@ -25,7 +25,7 @@
     },
     {
         "Conceito": "Acidentes de trabalho",
-        "Categoria": "Acidentes e Violência Atenção à"
+        "Categoria": "Acidentes e Violência Atenção à Saúde"
     },
     {
         "Conceito": "Acidentes de trabalho fatais",
@@ -273,11 +273,11 @@
     },
     {
         "Conceito": "Auditoria analítica",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Auditoria operacional",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Automedicação",
@@ -540,6 +540,10 @@
         "Categoria": "Direito Sanitário"
     },
     {
+        "Conceito": "Chlamydia trachomatis",
+        "Categoria": "Doenças"
+    },
+    {
         "Conceito": "Chumbo",
         "Categoria": "Ambiente e Saúde"
     },
@@ -721,7 +725,7 @@
     },
     {
         "Conceito": "Convênios",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Cooperativas médicas",
@@ -1041,7 +1045,7 @@
     },
     {
         "Conceito": "Educação continuada",
-        "Categoria": "Recursos Humanos em Saúde Pú-"
+        "Categoria": "Recursos Humanos em Saúde Pública"
     },
     {
         "Conceito": "Educação sexual",
@@ -1089,6 +1093,10 @@
     },
     {
         "Conceito": "Epidemia",
+        "Categoria": "Epidemiologia"
+    },
+    {
+        "Conceito": "Epidemiologia descritiva",
         "Categoria": "Epidemiologia"
     },
     {
@@ -1221,6 +1229,10 @@
     },
     {
         "Conceito": "Febre amarela",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Febre do nilo ocidental",
         "Categoria": "Doenças"
     },
     {
@@ -1581,11 +1593,11 @@
     },
     {
         "Conceito": "Instituto Nacional de Câncer (INCA)",
-        "Categoria": "Administração e Planejamento"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Instrumentos de gestão em saúde",
-        "Categoria": "Administração e Planejamento"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Insuficiência renal",
@@ -1781,7 +1793,7 @@
     },
     {
         "Conceito": "Microrregião de saúde",
-        "Categoria": "Administração e Planejamento"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Modelo ecológico",
@@ -1837,7 +1849,7 @@
     },
     {
         "Conceito": "Notiﬁcação de doenças",
-        "Categoria": "epidemiologia"
+        "Categoria": "Epidemiologia"
     },
     {
         "Conceito": "Notiﬁcação de maus-tratos",
@@ -1881,7 +1893,7 @@
     },
     {
         "Conceito": "Observação hospitalar",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Operadora de saúde",
@@ -2396,11 +2408,15 @@
         "Categoria": "Ciência e Tecnologia em Saúde"
     },
     {
-        "Conceito": "Sistema de Informações do Programa Nacional de Imunizações (SI-PNI)</text>\n<text top=\"561\" left=\"121\" width=\"212\" height=\"14\" font=\"21\">Nacional de Imunizações (SI-PNI)",
+        "Conceito": "Sistema de Informações do Programa Nacional de Imunizações (SI-PNI)",
         "Categoria": "Ciência e Tecnologia em Saúde"
     },
     {
         "Conceito": "Sistema de Informações sobre Agravos de Notiﬁcação (Sinan)",
+        "Categoria": "Administração e Planejamento em Saúde"
+    },
+    {
+        "Conceito": "Sistema de Informação sobre Vigilância Alimentar e Nutricional (Sisvan)",
         "Categoria": "Administração e Planejamento em Saúde"
     },
     {
@@ -2573,7 +2589,7 @@
     },
     {
         "Conceito": "Unidades de Referência",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Universalidade",
@@ -2646,5 +2662,9 @@
     {
         "Conceito": "Vulnerabilidade individual",
         "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Western blot",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     }
 ]

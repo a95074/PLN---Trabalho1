@@ -49,8 +49,7 @@
 <text top="641" left="483" width="45" height="16" font="14">tempo.</text>
 <text top="660" left="483" width="142" height="14" font="21"><b>Acidentes de trabalho</b></text>
 <text top="677" left="483" width="69" height="16" font="16"><i>Categoria: </i></text>
-<text top="677" left="553" width="219" height="16" font="14">Acidentes e Violência Atenção à </text>
-<text top="695" left="483" width="38" height="16" font="14">Saúde</text>
+<text top="677" left="553" width="219" height="16" font="14">Acidentes e Violência Atenção à Saúde</text>
 <text top="713" left="483" width="289" height="16" font="14">Refere-se a todos os acidentes que ocorrem no </text>
 <text top="731" left="483" width="289" height="16" font="14">exercício da atividade laboral, ou no percurso </text>
 <text top="749" left="483" width="289" height="16" font="14">de casa para o trabalho e vice-versa, podendo </text>
@@ -72,7 +71,6 @@
 </page>
 <page number="16" position="absolute" top="0" left="0" height="1263" width="892">
 <text top="243" left="110" width="28" height="25" font="15">16</text>
-<text top="247" left="150" width="27" height="16" font="23"><b>ACI</b></text>
 <text top="309" left="121" width="188" height="14" font="21"><b>Acidentes de trabalho graves</b></text>
 <text top="325" left="121" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="326" left="188" width="136" height="16" font="14">Acidentes e Violência</text>
@@ -151,7 +149,6 @@
 <text top="849" left="427" width="146" height="14" font="21"><b>Acreditação hospitalar</b></text>
 <text top="866" left="427" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="866" left="494" width="222" height="16" font="14">Administração e Planejamento em Saúde</text>
-<text top="883" left="469" width="11" height="16" font="24"></text>
 <text top="884" left="480" width="210" height="16" font="14"> Promoção e Educação em Saúde</text>
 <text top="902" left="427" width="285" height="16" font="14">Método de consenso, racionalização e orde-</text>
 <text top="920" left="427" width="285" height="16" font="14">nação das instituições hospitalares e, princi-</text>
@@ -243,8 +240,6 @@
 <text top="938" left="550" width="54" height="16" font="14">Doenças</text>
 <text top="956" left="483" width="289" height="16" font="14">Síndrome clínica causada pela infecção pelo </text>
 <text top="974" left="483" width="290" height="16" font="14">HIV na criança, também caracterizada pela </text>
-<text top="246" left="709" width="32" height="16" font="23"><b>ADJ</b></text>
-</page>
 <page number="18" position="absolute" top="0" left="0" height="1263" width="892">
 <text top="243" left="110" width="28" height="25" font="15">18</text>
 <text top="308" left="121" width="290" height="16" font="14">supressão profunda da imunidade mediada, </text>
@@ -259,7 +254,7 @@
 <text top="453" left="121" width="72" height="14" font="21"><b>Alcoolismo</b></text>
 <text top="470" left="121" width="66" height="16" font="16"><i>Categoria: </i></text>
 <text top="470" left="187" width="219" height="16" font="14">Drogas de Uso Terapêutico e Social</text>
-<text top="488" left="121" width="285" height="16" font="14">Signiﬁ ca dependência do álcool e/ou proble-</text>
+<text top="488" left="121" width="285" height="16" font="14">Signiﬁca dependência do álcool e/ou proble-</text>
 <text top="506" left="121" width="285" height="16" font="14">mas relacionados ao consumo de bebidas al-</text>
 <text top="524" left="121" width="54" height="16" font="14">coólicas.</text>
 <text top="579" left="121" width="143" height="14" font="21"><b>Alimentação saudável, Alimentação equilibrada</b></text>
@@ -297,7 +292,7 @@
 <text top="398" left="494" width="152" height="16" font="14">Alimentação e Nutrição</text>
 <text top="416" left="427" width="285" height="16" font="14">São alimentos isentos de algum tipo de nu-</text>
 <text top="434" left="427" width="290" height="16" font="14">triente, preparados para atender a restrições </text>
-<text top="452" left="427" width="290" height="16" font="14">dietéticas especíﬁ cas de várias doenças. Ex.: </text>
+<text top="452" left="427" width="290" height="16" font="14">dietéticas especíﬁcas de várias doenças. Ex.: </text>
 <text top="470" left="427" width="290" height="16" font="14">produtos sem açúcar, para diabéticos; sem </text>
 <text top="488" left="427" width="291" height="16" font="14">sal, para hipertensos; sem colesterol, para </text>
 <text top="506" left="427" width="285" height="16" font="14">portadores de colesterol sangüíneo alto; e as-</text>
@@ -330,7 +325,6 @@
 <text top="938" left="427" width="289" height="16" font="14">Uso de leite materno habitualmente até aos 6 </text>
 <text top="956" left="427" width="288" height="16" font="14">meses de vida, como único alimento da criança, </text>
 <text top="974" left="427" width="285" height="16" font="14">não sendo admitido chás ou água como exceção.</text>
-<text top="247" left="148" width="31" height="16" font="23"><b>ALC</b></text>
 </page>
 <page number="19" position="absolute" top="0" left="0" height="1263" width="892">
 <text top="243" left="750" width="28" height="25" font="15">19</text>
@@ -338,8 +332,7 @@
 <text top="325" left="176" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="326" left="244" width="54" height="16" font="14">Doenças</text>
 <text top="344" left="176" width="285" height="16" font="14">Termo genérico para qualquer infecção cau-</text>
-<text top="362" left="176" width="59" height="16" font="14">sada por </text>
-<text top="361" left="236" width="136" height="16" font="16"><i>Entamoeba histolytica</i></text>
+<text top="362" left="176" width="59" height="16" font="14">sada por Entamoeba histolytica</text>
 <text top="362" left="372" width="89" height="16" font="14">. Doença cos-</text>
 <text top="380" left="176" width="285" height="16" font="14">mopolita, transmitida pelos indivíduos para-</text>
 <text top="398" left="176" width="289" height="16" font="14">sitados que eliminam cistos desta espécie em </text>
@@ -390,7 +383,7 @@
 <text top="435" left="483" width="50" height="14" font="21"><b>Anemia</b></text>
 <text top="452" left="483" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="452" left="550" width="54" height="16" font="14">Doenças</text>
-<text top="470" left="483" width="285" height="16" font="14">Deﬁ ne-se genericamente anemia como a situ-</text>
+<text top="470" left="483" width="285" height="16" font="14">Deﬁne-se genericamente anemia como a situ-</text>
 <text top="488" left="483" width="285" height="16" font="14">ação clínica onde ocorre a diminuição do nú-</text>
 <text top="506" left="483" width="285" height="16" font="14">mero de eritrócitos circulantes e/ou da quan-</text>
 <text top="524" left="483" width="242" height="16" font="14">tidade de hemoglobina neles contidas.</text>
@@ -411,7 +404,6 @@
 <text top="777" left="483" width="113" height="14" font="21"><b>Anorexia nervosa</b></text>
 <text top="794" left="483" width="66" height="16" font="16"><i>Categoria: </i></text>
 <text top="794" left="548" width="152" height="16" font="14">Alimentação e Nutrição </text>
-<text top="793" left="700" width="11" height="16" font="24"></text>
 <text top="794" left="710" width="57" height="16" font="14"> Doenças</text>
 <text top="812" left="483" width="289" height="16" font="14">Distúrbio alimentar caracterizado pela recusa </text>
 <text top="830" left="483" width="289" height="16" font="14">à alimentação, perda excessiva de peso, medo </text>
@@ -450,13 +442,10 @@
 <text top="681" left="121" width="43" height="14" font="21"><b>Antraz</b></text>
 <text top="698" left="121" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="698" left="188" width="54" height="16" font="14">Doenças</text>
-<text top="716" left="121" width="177" height="16" font="14">Toxiinfecção causada pelo </text>
-<text top="716" left="298" width="103" height="16" font="16"><i>Bacillus antracis</i></text>
+<text top="716" left="121" width="177" height="16" font="14">Toxiinfecção causada pelo Bacillus antracis</text>
 <text top="716" left="402" width="8" height="16" font="14">, </text>
-<text top="733" left="121" width="262" height="16" font="14">bactéria do solo e da vegetação (família </text>
-<text top="733" left="384" width="22" height="16" font="16"><i>Ba-</i></text>
-<text top="751" left="121" width="51" height="16" font="16"><i>cillaceae</i></text>
-<text top="751" left="172" width="238" height="16" font="14">), formadora de esporos que podem </text>
+<text top="733" left="121" width="262" height="16" font="14">bactéria do solo e da vegetação </text>
+<text top="751" left="172" width="238" height="16" font="14">, formadora de esporos que podem </text>
 <text top="769" left="121" width="285" height="16" font="14">contaminar herbívoros e, a partir, destes, in-</text>
 <text top="786" left="121" width="285" height="16" font="14">fectar acidentalmente os homens que manipu-</text>
 <text top="804" left="121" width="285" height="16" font="14">lam carneiros, cabras, suas peles, lã ou produ-</text>
@@ -531,9 +520,6 @@
 <text top="469" left="176" width="191" height="14" font="21"><b>Assistência aos trabalhadores</b></text>
 <text top="486" left="176" width="68" height="16" font="16"><i>Categoria: </i></text>
 <text top="486" left="245" width="112" height="16" font="14">Atenção à Saúde </text>
-<text top="485" left="357" width="11" height="16" font="24"></text>
-<text top="486" left="368" width="98" height="16" font="14"> Vigilância em </text>
-<text top="504" left="176" width="38" height="16" font="14">Saúde</text>
 <text top="522" left="176" width="290" height="16" font="14">Considera o trabalhador como sujeito a um </text>
 <text top="539" left="176" width="289" height="16" font="14">adoecimento especíﬁ co que exige estratégias, </text>
 <text top="557" left="176" width="289" height="16" font="14">também especíﬁ cas, de promoção, proteção e </text>
@@ -541,9 +527,6 @@
 <text top="594" left="176" width="159" height="14" font="21"><b>Assistência farmacêutica</b></text>
 <text top="610" left="176" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="610" left="243" width="107" height="16" font="14">Atenção à Saúde </text>
-<text top="609" left="350" width="11" height="16" font="24"></text>
-<text top="610" left="360" width="105" height="16" font="14"> Medicamentos, </text>
-<text top="628" left="176" width="117" height="16" font="14">Vacinas e Insumos</text>
 <text top="646" left="176" width="285" height="16" font="14">Grupo de atividades relacionadas com o me-</text>
 <text top="664" left="176" width="289" height="16" font="14">dicamento, destinada a apoiar ações de saúde </text>
 <text top="681" left="176" width="289" height="16" font="14">demandadas por uma comunidade. Envolve </text>
@@ -560,9 +543,6 @@
 <text top="878" left="176" width="203" height="14" font="21"><b>Assistência farmacêutica básica</b></text>
 <text top="895" left="176" width="66" height="16" font="16"><i>Categoria: </i></text>
 <text top="895" left="243" width="107" height="16" font="14">Atenção à Saúde </text>
-<text top="894" left="350" width="11" height="16" font="24"></text>
-<text top="895" left="360" width="105" height="16" font="14"> Medicamentos, </text>
-<text top="913" left="176" width="116" height="16" font="14">Vacinas e Insumos</text>
 <text top="930" left="176" width="285" height="16" font="14">Compreende um conjunto de atividades rela-</text>
 <text top="948" left="176" width="285" height="16" font="14">cionadas ao acesso e ao uso racional de medi-</text>
 <text top="966" left="176" width="289" height="16" font="14">camentos, destinado a complementar e apoiar </text>
@@ -648,8 +628,7 @@
 <text top="914" left="121" width="226" height="16" font="14">proﬁ ssionais nas unidades de saúde.</text>
 <text top="933" left="121" width="119" height="14" font="21"><b>Auditoria analítica</b></text>
 <text top="950" left="121" width="67" height="16" font="16"><i>Categoria: </i></text>
-<text top="950" left="188" width="222" height="16" font="14">Administração e Planejamento em </text>
-<text top="968" left="121" width="38" height="16" font="14">Saúde</text>
+<text top="950" left="188" width="222" height="16" font="14">Administração e Planejamento em Saúde</text>
 <text top="308" left="427" width="289" height="16" font="14">A auditoria analítica é planejada e realizada a </text>
 <text top="326" left="427" width="289" height="16" font="14">partir de relatórios gerados do SIA e do SIH, </text>
 <text top="344" left="427" width="285" height="16" font="14">fornecidos pelo DATASUS, compreendendo to-</text>
@@ -657,8 +636,7 @@
 <text top="380" left="427" width="285" height="16" font="14">parando-os com parâmetros preestabelecidos.</text>
 <text top="399" left="427" width="141" height="14" font="21"><b>Auditoria operacional</b></text>
 <text top="416" left="427" width="67" height="16" font="16"><i>Categoria: </i></text>
-<text top="416" left="494" width="222" height="16" font="14">Administração e Planejamento em </text>
-<text top="434" left="427" width="38" height="16" font="14">Saúde</text>
+<text top="416" left="494" width="222" height="16" font="14">Administração e Planejamento em Saúde</text>
 <text top="452" left="427" width="290" height="16" font="14">Consiste no desenvolvimento de atividades </text>
 <text top="469" left="427" width="289" height="16" font="14">no local onde os serviços são prestados. Deve </text>
 <text top="487" left="427" width="285" height="16" font="14">ser progamada como rotina e em casos de de-</text>
@@ -673,10 +651,6 @@
 <text top="631" left="427" width="107" height="14" font="21"><b>Autonegligência</b></text>
 <text top="648" left="427" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="648" left="495" width="141" height="16" font="14">Acidentes e Violência </text>
-<text top="647" left="636" width="11" height="16" font="24"></text>
-<text top="650" left="646" width="3" height="11" font="27"> </text>
-<text top="648" left="649" width="67" height="16" font="14">Atenção à </text>
-<text top="666" left="427" width="38" height="16" font="14">Saúde</text>
 <text top="684" left="427" width="291" height="16" font="14">Conduta de pessoa idosa que ameaça sua </text>
 <text top="702" left="427" width="289" height="16" font="14">própria saúde ou segurança, com a recusa ou </text>
 <text top="719" left="427" width="290" height="16" font="14">fracasso de prover a si mesmo um cuidado </text>
@@ -789,19 +763,11 @@
 <text top="426" left="176" width="134" height="14" font="21"><b>Baixo peso ao nascer</b></text>
 <text top="443" left="176" width="69" height="16" font="16"><i>Categoria: </i></text>
 <text top="443" left="246" width="162" height="16" font="14">Alimentação e Nutrição </text>
-<text top="442" left="409" width="11" height="16" font="24"></text>
-<text top="443" left="420" width="42" height="16" font="14"> Aten-</text>
-<text top="461" left="176" width="78" height="16" font="14">ção à Saúde </text>
-<text top="460" left="255" width="11" height="16" font="24"></text>
-<text top="461" left="265" width="97" height="16" font="14"> Epidemiologia</text>
 <text top="479" left="176" width="290" height="16" font="14">Classiﬁ cação de recém-nascidos com menos </text>
 <text top="497" left="176" width="68" height="16" font="14">de 2.500g.</text>
 <text top="516" left="176" width="149" height="14" font="21"><b>Banco de leite humano</b></text>
 <text top="533" left="176" width="69" height="16" font="16"><i>Categoria: </i></text>
 <text top="533" left="246" width="162" height="16" font="14">Alimentação e Nutrição </text>
-<text top="532" left="409" width="11" height="16" font="24"></text>
-<text top="533" left="420" width="42" height="16" font="14"> Aten-</text>
-<text top="551" left="176" width="74" height="16" font="14">ção à Saúde</text>
 <text top="569" left="176" width="285" height="16" font="14">Centro especializado responsável pela pro-</text>
 <text top="587" left="176" width="289" height="16" font="14">moção do incentivo ao aleitamento materno </text>
 <text top="605" left="176" width="285" height="16" font="14">e execução das atividades de coleta, proces-</text>
@@ -827,9 +793,6 @@
 <text top="948" left="176" width="150" height="14" font="21"><b>Banco de preservativos</b></text>
 <text top="965" left="176" width="70" height="16" font="16"><i>Categoria: </i></text>
 <text top="965" left="248" width="117" height="16" font="14">Atenção à Saúde </text>
-<text top="964" left="365" width="11" height="16" font="24"></text>
-<text top="965" left="377" width="90" height="16" font="14"> Promoção e </text>
-<text top="983" left="176" width="127" height="16" font="14">Educação em Saúde</text>
 <text top="426" left="483" width="285" height="16" font="14">São centros de educação e saúde organiza-</text>
 <text top="444" left="483" width="290" height="16" font="14">dos pela própria comunidade com apoio da </text>
 <text top="462" left="483" width="290" height="16" font="14">unidade de saúde local e tem o objetivo de </text>
@@ -896,9 +859,6 @@
 <text top="669" left="121" width="94" height="14" font="21"><b>Biblioteca viva</b></text>
 <text top="685" left="121" width="68" height="16" font="16"><i>Categoria: </i></text>
 <text top="686" left="190" width="111" height="16" font="14">Atenção à Saúde </text>
-<text top="684" left="301" width="11" height="16" font="24"></text>
-<text top="686" left="312" width="99" height="16" font="14"> Comunicação </text>
-<text top="704" left="121" width="62" height="16" font="14">em Saúde</text>
 <text top="722" left="121" width="285" height="16" font="14">Humanização da assistência à criança hospi-</text>
 <text top="740" left="121" width="289" height="16" font="14">talizada através da melhoria da qualidade da </text>
 <text top="758" left="121" width="289" height="16" font="14">atenção nos períodos em que as crianças e seus </text>
@@ -923,9 +883,9 @@
 <text top="417" left="427" width="52" height="14" font="21"><b>Bioética</b></text>
 <text top="434" left="427" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="434" left="494" width="98" height="16" font="14">Ética e Bioética</text>
-<text top="452" left="427" width="289" height="16" font="14">Ramo da ﬁ losoﬁ a que estuda os avanços das </text>
+<text top="452" left="427" width="289" height="16" font="14">Ramo da ﬁlosoﬁ a que estuda os avanços das </text>
 <text top="470" left="427" width="290" height="16" font="14">ciências da vida e da saúde, com ênfase nas </text>
-<text top="488" left="427" width="289" height="16" font="14">implicações éticas das pesquisas cientíﬁ cas e </text>
+<text top="488" left="427" width="289" height="16" font="14">implicações éticas das pesquisas cientíﬁcas e </text>
 <text top="506" left="427" width="120" height="16" font="14">das ações de saúde.</text>
 <text top="525" left="427" width="94" height="14" font="21"><b>Biossegurança</b></text>
 <text top="542" left="427" width="67" height="16" font="16"><i>Categoria: </i></text>
@@ -949,9 +909,7 @@
 <text top="812" left="427" width="166" height="16" font="14">seja ele nodular ou difuso.</text>
 <text top="831" left="427" width="49" height="14" font="21"><b>Bulimia</b></text>
 <text top="848" left="427" width="65" height="16" font="16"><i>Categoria: </i></text>
-<text top="848" left="493" width="152" height="16" font="14">Alimentação e Nutrição </text>
-<text top="847" left="644" width="11" height="16" font="24"></text>
-<text top="848" left="655" width="57" height="16" font="14"> Doenças</text>
+<text top="848" left="493" width="152" height="16" font="14">Alimentação e Nutrição </text>>
 <text top="866" left="427" width="285" height="16" font="14">Distúrbio alimentar caracterizado pelo impul-</text>
 <text top="884" left="427" width="285" height="16" font="14">so irresistível de comer, excessivamente, segui-</text>
 <text top="902" left="427" width="285" height="16" font="14">dos por sentimentos de culpa e vergonha, pro-</text>
@@ -1080,9 +1038,7 @@
 <text top="453" left="427" width="79" height="14" font="21"><b>Cancro duro</b></text>
 <text top="470" left="427" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="470" left="494" width="54" height="16" font="14">Doenças</text>
-<text top="488" left="427" width="167" height="16" font="14">Lesão primária causada pelo </text>
-<text top="488" left="594" width="118" height="16" font="16"><i>Treponema pallidum</i></text>
-<text top="488" left="712" width="4" height="16" font="14"> </text>
+<text top="488" left="427" width="167" height="16" font="14">Lesão primária causada pelo Treponema pallidum </text>
 <text top="506" left="427" width="285" height="16" font="14">que é a bactéria causadora da síﬁ lis. Normal-</text>
 <text top="524" left="427" width="285" height="16" font="14">mente não causa dor e surge na glande ou na ca-</text>
 <text top="542" left="427" width="285" height="16" font="14">mada interna do prepúcio. Tem forma arredon-</text>
@@ -1100,16 +1056,13 @@
 <text top="740" left="427" width="285" height="16" font="14">as ulcerações causadas pelo cancro mole cos-</text>
 <text top="758" left="427" width="285" height="16" font="14">tuma ser dolorosas e aparecem em lesões múl-</text>
 <text top="776" left="427" width="289" height="16" font="14">tiplas. Esta DST é causada por uma bactéria </text>
-<text top="794" left="427" width="83" height="16" font="14">denominada </text>
-<text top="794" left="511" width="132" height="16" font="16"><i>Haemophilus ducreyi.</i></text>
+<text top="794" left="427" width="83" height="16" font="14">denominada Haemophilus ducreyi.</text>
 <text top="813" left="427" width="72" height="14" font="21"><b>Candidíase</b></text>
 <text top="830" left="427" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="830" left="494" width="54" height="16" font="14">Doenças</text>
 <text top="848" left="427" width="289" height="16" font="14">Tradicionalmente denominada monilíase ou </text>
 <text top="866" left="427" width="290" height="16" font="14">“sapinho”, é uma infecção da vagina ou da </text>
-<text top="884" left="427" width="170" height="16" font="14">vulva, causada pelo fungo </text>
-<text top="884" left="597" width="111" height="16" font="16"><i>Candida Albicans</i></text>
-<text top="884" left="708" width="8" height="16" font="14">. </text>
+<text top="884" left="427" width="170" height="16" font="14">vulva, causada pelo fungo Candida Albicans.</text>  
 <text top="902" left="427" width="285" height="16" font="14">Caracteriza-se por corrimento vaginal esbran-</text>
 <text top="920" left="427" width="290" height="16" font="14">quiçado, coceira e inﬂ amação das mucosas, </text>
 <text top="938" left="427" width="289" height="16" font="14">que ﬁ cam avermelhadas e cobertas por placas. </text>
@@ -1133,8 +1086,6 @@
 <text top="507" left="176" width="166" height="14" font="21"><b>Cartão Nacional de Saúde</b></text>
 <text top="524" left="176" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="524" left="244" width="222" height="16" font="14">Administração e Planejamento em Saúde</text>
-<text top="541" left="218" width="11" height="16" font="24"></text>
-<text top="542" left="229" width="201" height="16" font="14"> Ciência e Tecnologia em Saúde</text>
 <text top="560" left="176" width="289" height="16" font="14">Sistema informatizado de base nacional que </text>
 <text top="578" left="176" width="285" height="16" font="14">possibilita a vinculação dos procedimen-</text>
 <text top="596" left="176" width="290" height="16" font="14">tos realizados pelo Sistema Único de Saúde </text>
@@ -1331,7 +1282,7 @@
 <text top="902" left="176" width="285" height="16" font="14">mulação qualitativa e quantitativa do produ-</text>
 <text top="920" left="176" width="285" height="16" font="14">to incluindo detalhes sobre embalagem, rotu-</text>
 <text top="938" left="176" width="166" height="16" font="14">lagem e prazo de validade.</text>
-<text top="957" left="176" width="159" height="16" font="28"><i><b>Chlamydia trachomatis</b></i></text>
+<text top="957" left="176" width="159" height="16" font="21"><i><b>Chlamydia trachomatis</b></i></text>
 <text top="973" left="176" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="974" left="244" width="54" height="16" font="14">Doenças</text>
 <text top="308" left="483" width="285" height="16" font="14">Bactéria responsável por várias doenças sexual-</text>
@@ -1395,8 +1346,7 @@
 <text top="524" left="188" width="54" height="16" font="14">Doenças</text>
 <text top="542" left="121" width="285" height="16" font="14">Também chamada de clamidíase, é uma doen-</text>
 <text top="560" left="121" width="291" height="16" font="14">ça sexualmente transmissível causada pela </text>
-<text top="578" left="121" width="55" height="16" font="14">bactéria </text>
-<text top="578" left="177" width="133" height="16" font="16"><i>clamydia trachomatis</i></text>
+<text top="578" left="121" width="55" height="16" font="14">bactéria clamydia trachomatis</text>
 <text top="578" left="310" width="96" height="16" font="14">, que afeta ho-</text>
 <text top="596" left="121" width="289" height="16" font="14">mens e mulheres. Se não for adequadamente </text>
 <text top="614" left="121" width="285" height="16" font="14">tratada poderá provocar infertilidade perma-</text>
@@ -1440,8 +1390,7 @@
 <text top="542" left="427" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="542" left="494" width="54" height="16" font="14">Doenças</text>
 <text top="560" left="427" width="290" height="16" font="14">Doença infecciosa aguda diarréica e grave, </text>
-<text top="578" left="427" width="84" height="16" font="14">causada por </text>
-<text top="578" left="512" width="96" height="16" font="16"><i>Vibrio cholerae</i></text>
+<text top="578" left="427" width="84" height="16" font="14">causada por Vibrio cholerae</text>
 <text top="578" left="608" width="109" height="16" font="14"> sorogrupo O1. </text>
 <text top="596" left="427" width="290" height="16" font="14">A infecção tem lugar pela ingestão de águas </text>
 <text top="614" left="427" width="285" height="16" font="14">com poluição fecal ou de produtos alimen-</text>
@@ -1506,7 +1455,7 @@
 <text top="920" left="176" width="285" height="16" font="14">omissão na execução de ações e criar um es-</text>
 <text top="938" left="176" width="285" height="16" font="14">paço onde gestores do sistema técnico de saú-</text>
 <text top="956" left="176" width="285" height="16" font="14">de possam permanentemente negociar, deci-</text>
-<text top="974" left="176" width="120" height="16" font="14">dir e ﬁ rmar pactos.</text>
+<text top="974" left="176" width="120" height="16" font="14">dir e ﬁrmar pactos.</text>
 <text top="309" left="483" width="157" height="14" font="21"><b>Comissões Intersetoriais</b></text>
 <text top="325" left="483" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="326" left="550" width="222" height="16" font="14">Administração e Planejamento em Saúde</text>
@@ -1684,9 +1633,6 @@
 <text top="381" left="483" width="216" height="14" font="21"><b>Conselhos dos Direitos da Mulher</b></text>
 <text top="398" left="483" width="70" height="16" font="16"><i>Categoria: </i></text>
 <text top="398" left="554" width="149" height="16" font="14">Acidentes e Violência </text>
-<text top="397" left="703" width="11" height="16" font="24"></text>
-<text top="398" left="714" width="58" height="16" font="14"> Direito </text>
-<text top="416" left="483" width="57" height="16" font="14">Sanitário</text>
 <text top="434" left="483" width="285" height="16" font="14">São formados a partir da iniciativa de mulhe-</text>
 <text top="452" left="483" width="289" height="16" font="14">res do município, ou estado, juntamente com </text>
 <text top="470" left="483" width="289" height="16" font="14">o governo. Elaboram propostas e promovem </text>
@@ -1789,17 +1735,13 @@
 <text top="705" left="427" width="97" height="14" font="21"><b>Controle social</b></text>
 <text top="722" left="427" width="69" height="16" font="16"><i>Categoria: </i></text>
 <text top="722" left="497" width="172" height="16" font="14">Políticas Públicas e Saúde </text>
-<text top="721" left="669" width="11" height="16" font="24"></text>
-<text top="722" left="679" width="33" height="16" font="14"> Pro-</text>
-<text top="740" left="427" width="185" height="16" font="14">moção e Educação em Saúde</text>
 <text top="758" left="427" width="285" height="16" font="14">Participação popular na ﬁ scalização e con-</text>
 <text top="776" left="427" width="290" height="16" font="14">trole sobre as ações, no respectivo nível de </text>
 <text top="794" left="427" width="289" height="16" font="14">governo, destacando-se na área da Saúde, as </text>
 <text top="812" left="427" width="248" height="16" font="14">Conferências e os Conselhos de Saúde.</text>
 <text top="831" left="427" width="68" height="14" font="21"><b>Convênios</b></text>
 <text top="848" left="427" width="68" height="16" font="16"><i>Categoria: </i></text>
-<text top="848" left="495" width="221" height="16" font="14">Administração e Planejamento em </text>
-<text top="866" left="427" width="38" height="16" font="14">Saúde</text>
+<text top="848" left="495" width="221" height="16" font="14">Administração e Planejamento em Saúde</text>
 <text top="884" left="427" width="290" height="16" font="14">Os convênios são projetos ﬁ nanciados pelo </text>
 <text top="902" left="427" width="285" height="16" font="14">Ministério da Saúde, voltados para constru-</text>
 <text top="920" left="427" width="290" height="16" font="14">ções, reformas, aquisição de equipamentos, </text>
@@ -1836,16 +1778,11 @@
 <text top="686" left="176" width="289" height="16" font="14">Termo descritivo para um quadro clínico de </text>
 <text top="704" left="176" width="289" height="16" font="14">doença respiratória que pode ser causado por </text>
 <text top="722" left="176" width="289" height="16" font="14">três espécies das bactérias Gram-negativas do </text>
-<text top="740" left="176" width="47" height="16" font="14">gênero </text>
-<text top="740" left="224" width="64" height="16" font="16"><i>Bordetella</i></text>
-<text top="740" left="288" width="8" height="16" font="14">: </text>
-<text top="740" left="297" width="70" height="16" font="16"><i>B. pertussis</i></text>
+<text top="740" left="176" width="47" height="16" font="14">gênero Bordetella, </text>
 <text top="740" left="367" width="99" height="16" font="14">, que é a causa </text>
-<text top="758" left="176" width="185" height="16" font="14">mais freqüente e mais grave, </text>
-<text top="758" left="361" width="96" height="16" font="16"><i>B. parapertussis</i></text>
+<text top="758" left="176" width="185" height="16" font="14">mais freqüente e mais grave, B. parapertussis</text>
 <text top="758" left="457" width="8" height="16" font="14">, </text>
-<text top="776" left="176" width="102" height="16" font="14">mais benigna; e </text>
-<text top="776" left="278" width="103" height="16" font="16"><i>B. bronchiseptica</i></text>
+<text top="776" left="176" width="102" height="16" font="14">mais benigna; e B. bronchiseptica</text>
 <text top="776" left="381" width="80" height="16" font="14">, a mais rara.</text>
 <text top="795" left="176" width="119" height="14" font="21"><b>Coquetel anti-aids</b></text>
 <text top="812" left="176" width="67" height="16" font="16"><i>Categoria: </i></text>
@@ -1899,9 +1836,8 @@
 <text top="902" left="483" width="36" height="16" font="14">viços.</text>
 <text top="921" left="483" width="82" height="14" font="21"><b>Crescimento</b></text>
 <text top="938" left="483" width="70" height="16" font="16"><i>Categoria: </i></text>
-<text top="938" left="553" width="162" height="16" font="14">Alimentação e Nutrição </text>>
+<text top="938" left="553" width="162" height="16" font="14">Alimentação e Nutrição </text>
 <text top="974" left="483" width="290" height="16" font="14">Processo dinâmico e contínuo que ocorre </text>
-
 </page>
 <page number="38" position="absolute" top="0" left="0" height="1263" width="892">
 <text top="243" left="110" width="28" height="25" font="15">38</text>
@@ -1924,8 +1860,6 @@
 <text top="593" left="121" width="71" height="14" font="21"><b>Cretinismo</b></text>
 <text top="610" left="121" width="66" height="16" font="16"><i>Categoria: </i></text>
 <text top="610" left="187" width="152" height="16" font="14">Alimentação e Nutrição </text>
-<text top="609" left="338" width="11" height="16" font="24"></text>
-<text top="610" left="349" width="57" height="16" font="14"> Doenças</text>
 <text top="627" left="121" width="289" height="16" font="14">Retardo mental resultante da ação adversa da </text>
 <text top="645" left="121" width="289" height="16" font="14">deﬁ ciência de iodo na maturação do sistema </text>
 <text top="663" left="121" width="122" height="16" font="14">nervoso da criança.</text>
@@ -1947,7 +1881,7 @@
 <text top="538" left="427" width="290" height="16" font="14">e solução de problemas psicológico, social e </text>
 <text top="555" left="427" width="285" height="16" font="14">espiritual é soberano. A meta do cuidado pa-</text>
 <text top="573" left="427" width="289" height="16" font="14">liativo é de proporcionar a melhor qualidade </text>
-<text top="591" left="427" width="289" height="16" font="14">de vida ao paciente e seus familiares. 
+<text top="591" left="427" width="289" height="16" font="14">de vida ao paciente e seus familiares. </text>
 </page>
 <page number="39" position="absolute" top="0" left="0" height="1263" width="892">
 <text top="243" left="750" width="28" height="25" font="12">39</text>
@@ -2058,9 +1992,7 @@
 <text top="848" left="121" width="285" height="16" font="14">em sério problema de saúde pública no mun-</text>
 <text top="866" left="121" width="289" height="16" font="14">do, especialmente nos países tropicais, onde </text>
 <text top="884" left="121" width="289" height="16" font="14">as condições do meio ambiente favorecem o </text>
-<text top="902" left="121" width="230" height="16" font="14">desenvolvimento e a proliferação do </text>
-<text top="902" left="351" width="55" height="16" font="16"><i>Aedes ae-</i></text>
-<text top="920" left="121" width="30" height="16" font="16"><i>gypti</i></text>
+<text top="902" left="121" width="230" height="16" font="14">desenvolvimento e a proliferação do Aedes aegypti</text>
 <text top="920" left="151" width="169" height="16" font="14">, principal mosquito vetor.</text>
 <text top="939" left="121" width="206" height="14" font="21"><b>Denominação comum brasileira</b></text>
 <text top="956" left="121" width="67" height="16" font="16"><i>Categoria: </i></text>
@@ -2134,8 +2066,6 @@
 <text top="633" left="176" width="167" height="14" font="21"><b>Dermatoses ocupacionais</b></text>
 <text top="650" left="176" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="650" left="244" width="109" height="16" font="14">Atenção à Saúde </text>
-<text top="648" left="352" width="11" height="16" font="24"></text>
-<text top="650" left="363" width="58" height="16" font="14"> Doenças</text>
 <text top="668" left="176" width="285" height="16" font="14">Embora benignas, em sua maioria, consti-</text>
 <text top="686" left="176" width="285" height="16" font="14">tuem problema de avaliação difícil e com-</text>
 <text top="704" left="176" width="290" height="16" font="14">plexa. Referem-se a toda alteração da pele, </text>
@@ -2173,7 +2103,7 @@
 <text top="579" left="483" width="85" height="14" font="21"><b>Desidratação</b></text>
 <text top="596" left="483" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="596" left="550" width="54" height="16" font="14">Doenças</text>
-<text top="614" left="483" width="285" height="16" font="14">É a deﬁ ciência de água e eletrólitos corpó-</text>
+<text top="614" left="483" width="285" height="16" font="14">É a deﬁciência de água e eletrólitos corpó-</text>
 <text top="632" left="483" width="289" height="16" font="14">reos por perdas superiores à ingestão devido </text>
 <text top="650" left="483" width="285" height="16" font="14">a ingestão reduzida (anorexia, coma e restri-</text>
 <text top="668" left="483" width="285" height="16" font="14">ção hídrica), perda aumentada gastrointesti-</text>
@@ -2185,9 +2115,6 @@
 <text top="777" left="483" width="83" height="14" font="21"><b>Desinfetante</b></text>
 <text top="794" left="483" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="794" left="549" width="118" height="16" font="14">Ambiente e Saúde </text>
-<text top="793" left="667" width="11" height="16" font="24"></text>
-<text top="794" left="677" width="94" height="16" font="14"> Vigilância em </text>
-<text top="812" left="483" width="38" height="16" font="14">Saúde</text>
 <text top="830" left="483" width="289" height="16" font="14">Saneante domissanitário destinado a destruir, </text>
 <text top="848" left="483" width="285" height="16" font="14">indiscriminada ou seletivamente, microrga-</text>
 <text top="866" left="483" width="285" height="16" font="14">nismos, quando aplicado em objetos inani-</text>
@@ -2205,7 +2132,7 @@
 <text top="345" left="121" width="171" height="16" font="14">completa do leite materno.</text>
 <text top="364" left="121" width="79" height="14" font="21"><b>Desnutrição</b></text>
 <text top="381" left="121" width="66" height="16" font="16"><i>Categoria: </i></text>
-<text top="381" left="187" width="152" height="16" font="14">Alimentação e Nutrição </text>>
+<text top="381" left="187" width="152" height="16" font="14">Alimentação e Nutrição </text>
 <text top="399" left="121" width="289" height="16" font="14">Termo genérico usualmente empregado para </text>
 <text top="418" left="121" width="285" height="16" font="14">discriminar deﬁ ciências nutritivas, referindo-</text>
 <text top="436" left="121" width="285" height="16" font="14">se, principalmente, à desnutrição energético-</text>
@@ -2213,24 +2140,17 @@
 <text top="473" left="121" width="129" height="14" font="21"><b>Desnutrição crônica</b></text>
 <text top="490" left="121" width="66" height="16" font="16"><i>Categoria: </i></text>
 <text top="490" left="187" width="152" height="16" font="14">Alimentação e Nutrição </text>
-<text top="489" left="338" width="11" height="16" font="24"></text>
-<text top="490" left="349" width="57" height="16" font="14"> Doenças</text>
 <text top="509" left="121" width="285" height="16" font="14">Processo carencial de longa duração, expres-</text>
-<text top="527" left="121" width="256" height="16" font="14">so, ilustrativamente, no déﬁ cit de altura.</text>
+<text top="527" left="121" width="256" height="16" font="14">so, ilustrativamente, no déﬁcit de altura.</text>
 <text top="546" left="121" width="210" height="14" font="21"><b>Desnutrição energético-protéica</b></text>
 <text top="563" left="121" width="66" height="16" font="16"><i>Categoria: </i></text>
 <text top="563" left="187" width="152" height="16" font="14">Alimentação e Nutrição </text>
-<text top="562" left="338" width="11" height="16" font="24"></text>
-<text top="563" left="349" width="57" height="16" font="14"> Doenças</text>
 <text top="582" left="121" width="289" height="16" font="14">Refere-se ao estado nutricional que ressalta a </text>
 <text top="600" left="121" width="285" height="16" font="14">deﬁ ciência de calorias e proteínas. Ocorre so-</text>
 <text top="618" left="121" width="132" height="16" font="14">bretudo em crianças.</text>
 <text top="637" left="121" width="74" height="14" font="21"><b>Detergente</b></text>
 <text top="654" left="121" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="654" left="188" width="118" height="16" font="14">Ambiente e Saúde </text>
-<text top="653" left="305" width="11" height="16" font="24"></text>
-<text top="654" left="316" width="94" height="16" font="14"> Vigilância em </text>
-<text top="673" left="121" width="38" height="16" font="14">Saúde</text>
 <text top="691" left="121" width="289" height="16" font="14">Saneante domissanitário destinado a dissolver </text>
 <text top="709" left="121" width="289" height="16" font="14">gorduras e à higiene de recipientes e vasilhas </text>
 <text top="727" left="121" width="198" height="16" font="14">e à aplicação de uso doméstico.</text>
@@ -2272,9 +2192,7 @@
 <text top="711" left="494" width="54" height="16" font="14">Doenças</text>
 <text top="729" left="427" width="290" height="16" font="14">Doença transmissível aguda, toxiinfecciosa, </text>
 <text top="747" left="427" width="285" height="16" font="14">causada pelo bacilo toxicogênico gram-posi-</text>
-<text top="766" left="427" width="121" height="16" font="14">tivo, denominado </text>
-<text top="766" left="549" width="164" height="16" font="16"><i>Corybebacterium diphthe-</i></text>
-<text top="784" left="427" width="22" height="16" font="16"><i>rial</i></text>
+<text top="766" left="427" width="121" height="16" font="14">tivo, denominado Corybebacterium diphtheial</text>
 <text top="784" left="449" width="267" height="16" font="14">. Aloja-se freqüentemente nas amígdalas, </text>
 <text top="802" left="427" width="285" height="16" font="14">na faringe, na laringe, no nariz e, ocasional-</text>
 <text top="821" left="427" width="285" height="16" font="14">mente, em outras mucosas e na pele. É carac-</text>
@@ -2308,8 +2226,6 @@
 <text top="597" left="176" width="81" height="14" font="21"><b>Dislipidemia</b></text>
 <text top="613" left="176" width="66" height="16" font="16"><i>Categoria: </i></text>
 <text top="614" left="242" width="152" height="16" font="14">Alimentação e Nutrição </text>
-<text top="612" left="394" width="11" height="16" font="24"></text>
-<text top="614" left="404" width="57" height="16" font="14"> Doenças</text>
 <text top="632" left="176" width="285" height="16" font="14">Termo que se refere a alterações, quase sem-</text>
 <text top="650" left="176" width="291" height="16" font="14">pre por excessos nos teores de lipídeos ou </text>
 <text top="668" left="176" width="245" height="16" font="14">gorduras de sangue, como o colesterol.</text>
@@ -2362,8 +2278,6 @@
 <text top="795" left="483" width="146" height="14" font="21"><b>Distúrbios alimentares</b></text>
 <text top="812" left="483" width="66" height="16" font="16"><i>Categoria: </i></text>
 <text top="812" left="548" width="152" height="16" font="14">Alimentação e Nutrição </text>
-<text top="811" left="700" width="11" height="16" font="24"></text>
-<text top="812" left="710" width="57" height="16" font="14"> Doenças</text>
 <text top="830" left="483" width="290" height="16" font="14">Comportamentos anormais relacionados ao </text>
 <text top="848" left="483" width="139" height="16" font="14">alimento e à nutrição.</text>
 <text top="867" left="483" width="138" height="14" font="21"><b>Doença de Alzheimer</b></text>
@@ -2430,8 +2344,6 @@
 <text top="435" left="427" width="133" height="14" font="21"><b>Doenças da nutrição</b></text>
 <text top="452" left="427" width="66" height="16" font="16"><i>Categoria: </i></text>
 <text top="452" left="493" width="152" height="16" font="14">Alimentação e Nutrição </text>
-<text top="451" left="645" width="11" height="16" font="24"></text>
-<text top="452" left="655" width="57" height="16" font="14"> Doenças</text>
 <text top="470" left="427" width="289" height="16" font="14">Terminologia para uma grande variedade de </text>
 <text top="488" left="427" width="289" height="16" font="14">doenças que resultam do baixo consumo, do </text>
 <text top="506" left="427" width="285" height="16" font="14">consumo excessivo ou do desequilíbrio pro-</text>
@@ -2448,8 +2360,6 @@
 <text top="687" left="427" width="134" height="14" font="21"><b>Doenças do trabalho</b></text>
 <text top="704" left="427" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="704" left="494" width="109" height="16" font="14">Atenção à Saúde </text>
-<text top="703" left="603" width="11" height="16" font="24"></text>
-<text top="704" left="614" width="58" height="16" font="14"> Doenças</text>
 <text top="722" left="427" width="285" height="16" font="14">Doença adquirida ou desencadeada em fun-</text>
 <text top="740" left="427" width="289" height="16" font="14">ção de condições especiais em que o trabalho </text>
 <text top="758" left="427" width="71" height="16" font="14">é realizado.</text>
@@ -2503,7 +2413,7 @@
 <text top="794" left="176" width="291" height="16" font="14">sangüíneos. Entretanto, muitos distúrbios </text>
 <text top="812" left="176" width="285" height="16" font="14">afetam mais de uma estrutura e a interdepen-</text>
 <text top="830" left="176" width="285" height="16" font="14">dência anatômica desses compartimentos sig-</text>
-<text top="848" left="176" width="285" height="16" font="14">niﬁ ca que a lesão de um deles afeta secunda-</text>
+<text top="848" left="176" width="285" height="16" font="14">niﬁca que a lesão de um deles afeta secunda-</text>
 <text top="866" left="176" width="126" height="16" font="14">riamente, os outros.</text>
 <text top="885" left="176" width="236" height="14" font="21"><b>Doenças sexualmente transmissíveis</b></text>
 <text top="902" left="176" width="67" height="16" font="16"><i>Categoria: </i></text>
@@ -2529,7 +2439,7 @@
 <text top="525" left="483" width="46" height="14" font="21"><b>Drogas</b></text>
 <text top="542" left="483" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="542" left="550" width="218" height="16" font="14">Medicamentos, Vacinas e Insumos</text>
-<text top="560" left="483" width="285" height="16" font="14">Substância ou matéria-prima que tenha ﬁ na-</text>
+<text top="560" left="483" width="285" height="16" font="14">Substância ou matéria-prima que tenha ﬁna-</text>
 <text top="578" left="483" width="223" height="16" font="14">lidade medicamentosa ou sanitária.</text>
 <text top="597" left="483" width="91" height="14" font="21"><b>Drogas ilícitas</b></text>
 <text top="614" left="483" width="66" height="16" font="16"><i>Categoria: </i></text>
@@ -2568,8 +2478,7 @@
 <text top="515" left="176" width="280" height="16" font="14">saudada por fatores exógenos ou endógenos.</text>
 <text top="534" left="176" width="139" height="14" font="21"><b>Educação continuada</b></text>
 <text top="551" left="176" width="67" height="16" font="16"><i>Categoria: </i></text>
-<text top="551" left="244" width="217" height="16" font="14">Recursos Humanos em Saúde Pú-</text>
-<text top="569" left="176" width="30" height="16" font="14">blica</text>
+<text top="551" left="244" width="217" height="16" font="14">Recursos Humanos em Saúde Pública</text>
 <text top="587" left="176" width="292" height="16" font="14">Constitui-se no processo de permanente </text>
 <text top="605" left="176" width="290" height="16" font="14">aquisição de informações pelo trabalhador, </text>
 <text top="623" left="176" width="289" height="16" font="14">de todo e qualquer conhecimento, por meio </text>
@@ -2618,9 +2527,7 @@
 <text top="768" left="483" width="142" height="16" font="14">numa zona geográﬁ ca.</text>
 <text top="787" left="483" width="130" height="14" font="21"><b>Endemias carenciais</b></text>
 <text top="804" left="483" width="66" height="16" font="16"><i>Categoria: </i></text>
-<text top="804" left="548" width="152" height="16" font="14">Alimentação e Nutrição </text>
-<text top="802" left="700" width="11" height="16" font="24"></text>
-<text top="804" left="710" width="57" height="16" font="14"> Doenças</text>
+<text top="804" left="548" width="152" height="16" font="14">Alimentação e Nutrição </text> 
 <text top="822" left="483" width="285" height="16" font="14">Endemias carenciais, como a anemia ferro-</text>
 <text top="840" left="483" width="290" height="16" font="14">priva, a desnutrição energético-protéica e o </text>
 <text top="858" left="483" width="289" height="16" font="14">bócio, ocorrem com uma freqüência regular </text>
@@ -2659,9 +2566,6 @@
 <text top="633" left="121" width="153" height="14" font="21"><b>Ensaios de comunidade</b></text>
 <text top="650" left="121" width="68" height="16" font="16"><i>Categoria: </i></text>
 <text top="650" left="189" width="110" height="16" font="14">Atenção à Saúde </text>
-<text top="649" left="300" width="11" height="16" font="24"></text>
-<text top="650" left="311" width="96" height="16" font="14"> Ciência e Tec-</text>
-<text top="668" left="121" width="113" height="16" font="14">nologia em Saúde</text>
 <text top="686" left="121" width="291" height="16" font="14">Onde um grupo de indivíduos como um </text>
 <text top="704" left="121" width="289" height="16" font="14">todo, é usado para determinar a eﬁ cácia da </text>
 <text top="722" left="121" width="285" height="16" font="14">droga ou procedimento que está sendo tes-</text>
@@ -2670,7 +2574,7 @@
 <text top="776" left="121" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="776" left="188" width="75" height="16" font="14">Demograﬁa</text>
 <text top="794" left="121" width="285" height="16" font="14">Ocasiona um incremento das doenças crôni-</text>
-<text top="812" left="121" width="289" height="16" font="14">co-degenerativas no perﬁ l epidemiológico da </text>
+<text top="812" left="121" width="289" height="16" font="14">co degenerativas no perﬁl epidemiológico da </text>
 <text top="830" left="121" width="69" height="16" font="14">população.</text>
 <text top="849" left="121" width="61" height="14" font="21"><b>Epidemia</b></text>
 <text top="866" left="121" width="67" height="16" font="16"><i>Categoria: </i></text>
@@ -2685,7 +2589,7 @@
 <text top="326" left="427" width="285" height="16" font="14">periência prévia ou falta de exposição à en-</text>
 <text top="344" left="427" width="289" height="16" font="14">fermidade, e o local e a época do ano em que </text>
 <text top="362" left="427" width="44" height="16" font="14">ocorre.</text>
-<text top="380" left="427" width="160" height="16" font="13"><b>Epidemiologia descritiva</b></text>
+<text top="380" left="427" width="160" height="16" font="21"><b>Epidemiologia descritiva</b></text>
 <text top="398" left="427" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="398" left="494" width="92" height="16" font="14">Epidemiologia</text>
 <text top="416" left="427" width="290" height="16" font="14">Inclui a deﬁ nição de casos potencialmente </text>
@@ -2740,9 +2644,7 @@
 <text top="489" left="176" width="63" height="14" font="21"><b>Escabiose</b></text>
 <text top="506" left="176" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="506" left="244" width="54" height="16" font="14">Doenças</text>
-<text top="524" left="176" width="183" height="16" font="14">Eczema causado pelo ácaro </text>
-<text top="524" left="359" width="107" height="16" font="16"><i>Sarcoptes scabiei </i></text>
-<text top="542" left="176" width="73" height="16" font="16"><i>var hominis</i></text>
+<text top="524" left="176" width="183" height="16" font="14">Eczema causado pelo ácaro Sarcoptes scabieivominis</text>
 <text top="542" left="250" width="211" height="16" font="14">. É transmitida pelo contato pes-</text>
 <text top="560" left="176" width="289" height="16" font="14">soal, sem preferência por idade, sexo ou raça. </text>
 <text top="578" left="176" width="265" height="16" font="14">O principal sintoma é o prurido noturno.</text>
@@ -2794,7 +2696,7 @@
 <text top="614" left="550" width="92" height="16" font="14">Epidemiologia</text>
 <text top="632" left="483" width="289" height="16" font="14">Descrevem como ocorrem os efeitos causados </text>
 <text top="650" left="483" width="285" height="16" font="14">à saúde segundo variáveis de interesse do pro-</text>
-<text top="668" left="483" width="285" height="16" font="14">ﬁ ssional da saúde, ou seja, sexo, idade, ocu-</text>
+<text top="668" left="483" width="285" height="16" font="14">ﬁssional da saúde, ou seja, sexo, idade, ocu-</text>
 <text top="686" left="483" width="67" height="16" font="14">pação, etc.</text>
 <text top="705" left="483" width="123" height="14" font="21"><b>Estudos ecológicos</b></text>
 <text top="721" left="483" width="67" height="16" font="16"><i>Categoria: </i></text>
@@ -2802,7 +2704,7 @@
 <text top="740" left="483" width="285" height="16" font="14">Estudos voltados a grupos populacionais uti-</text>
 <text top="758" left="483" width="291" height="16" font="14">lizando índices ou taxas de mortalidade e </text>
 <text top="776" left="483" width="290" height="16" font="14">morbidade, variáveis ambientais, culturais, </text>
-<text top="794" left="483" width="289" height="16" font="14">socioeconômicas. São considerados também </text>
+<text top="794" left="483" width="289" height="16" font="14">socioeconômar hicas. São considerados também </text>
 <text top="812" left="483" width="144" height="16" font="14">como estudo analítico.</text>
 <text top="831" left="483" width="50" height="14" font="21"><b>Estupro</b></text>
 <text top="847" left="483" width="67" height="16" font="16"><i>Categoria: </i></text>
@@ -2852,14 +2754,14 @@
 <text top="884" left="121" width="285" height="16" font="14">previstas no protocolo; 4 - Incapacidade per-</text>
 <text top="902" left="121" width="285" height="16" font="14">sistente ou signiﬁ cativa; 5 - Anomalia congê-</text>
 <text top="920" left="121" width="285" height="16" font="14">nita ou defeito de nascimento; e 6 - Ocorrên-</text>
-<text top="938" left="121" width="150" height="16" font="14">cia médica signiﬁ cativa.</text>
+<text top="938" left="121" width="150" height="16" font="14">cia médica signiﬁcativa.</text>
 <text top="957" left="121" width="154" height="14" font="21"><b>Exame de genotipagem</b></text>
 <text top="974" left="121" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="974" left="188" width="218" height="16" font="14">Medicamentos, Vacinas e Insumos</text>
 <text top="308" left="427" width="285" height="16" font="14">O exame de genotipagem tem como objeti-</text>
 <text top="326" left="427" width="285" height="16" font="14">vo pesquisar o padrão de mutações respon-</text>
 <text top="344" left="427" width="289" height="16" font="14">sáveis pela falha terapêutica de causa viral do </text>
-<text top="362" left="427" width="289" height="16" font="14">paciente e inferir o perﬁ l de resistência desta </text>
+<text top="362" left="427" width="289" height="16" font="14">paciente e inferir o perﬁl de resistência desta </text>
 <text top="380" left="427" width="54" height="16" font="14">variante.</text>
 <text top="399" left="427" width="191" height="14" font="21"><b>Expectativa de vida ao nascer</b></text>
 <text top="416" left="427" width="67" height="16" font="16"><i>Categoria: </i></text>
@@ -2934,7 +2836,7 @@
 <text top="696" left="483" width="289" height="16" font="14">São todas as modiﬁ cações que um princípio </text>
 <text top="714" left="483" width="290" height="16" font="14">ativo produz em um sistema biológico. Do </text>
 <text top="732" left="483" width="289" height="16" font="14">ponto de vista prático, é o estudo dos efeitos </text>
-<text top="750" left="483" width="289" height="16" font="14">bioquímicos e ﬁ siológicos dos medicamentos </text>
+<text top="750" left="483" width="289" height="16" font="14">bioquímicos e ﬁsiológicos dos medicamentos </text>
 <text top="768" left="483" width="173" height="16" font="14">e seus mecanismos de ação.</text>
 <text top="787" left="483" width="150" height="14" font="21"><b>Farmacoepidemiologia</b></text>
 <text top="804" left="483" width="67" height="16" font="16"><i>Categoria: </i></text>
@@ -2976,7 +2878,7 @@
 <text top="596" left="188" width="126" height="16" font="14">Economia de Saúde</text>
 <text top="614" left="121" width="289" height="16" font="14">Valor adicional àquele recebido pelo hospital </text>
 <text top="632" left="121" width="285" height="16" font="14">pela prestação de serviços. Esse valor é men-</text>
-<text top="650" left="121" width="285" height="16" font="14">sal e deﬁ nido pelo gestor estadual ou munici-</text>
+<text top="650" left="121" width="285" height="16" font="14">sal e deﬁnido pelo gestor estadual ou munici-</text>
 <text top="668" left="121" width="164" height="16" font="14">pal no contrato de gestão.</text>
 <text top="687" left="121" width="92" height="14" font="21"><b>Febre amarela</b></text>
 <text top="704" left="121" width="67" height="16" font="16"><i>Categoria: </i></text>
@@ -2984,34 +2886,27 @@
 <text top="722" left="121" width="289" height="16" font="14">Doença febril aguda de manifestações que vão </text>
 <text top="740" left="121" width="285" height="16" font="14">desde sintomas inespecíﬁ cos até doença ictéri-</text>
 <text top="758" left="121" width="285" height="16" font="14">ca hemorrágica fatal. A transmissão epidêmi-</text>
-<text top="776" left="121" width="203" height="16" font="14">ca está relacionada à presença do </text>
-<text top="776" left="324" width="78" height="16" font="16"><i>Aedes aegypti</i></text>
+<text top="776" left="121" width="203" height="16" font="14">ca está relacionada à presença do Aedes aegypti</text>
 <text top="776" left="402" width="8" height="16" font="14">, </text>
 <text top="794" left="121" width="285" height="16" font="14">vetor que coloniza centros urbanos. Procrian-</text>
 <text top="812" left="121" width="285" height="16" font="14">do-se em coleções de água no domicílio ou pe-</text>
 <text top="830" left="121" width="289" height="16" font="14">ridomicílio. Pode apresentar ainda transmissão </text>
-<text top="848" left="121" width="205" height="16" font="14">silvestre por outro tipo de vetor (</text>
-<text top="848" left="326" width="75" height="16" font="16"><i>Haemagogus</i></text>
+<text top="848" left="121" width="205" height="16" font="14">silvestre por outro tipo de vetor (Haemagogus</text>>
 <text top="848" left="401" width="9" height="16" font="14">) </text>
 <text top="866" left="121" width="214" height="16" font="14">que mantém o ciclo com macacos.</text>
-<text top="884" left="121" width="149" height="16" font="13"><b>Febre do nilo ocidental</b></text>
+<text top="884" left="121" width="149" height="16" font="21"><b>Febre do nilo ocidental</b></text>
 <text top="902" left="121" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="902" left="188" width="54" height="16" font="14">Doenças</text>
 <text top="920" left="121" width="285" height="16" font="14">Infecção ou doença geralmente benigna cau-</text>
-<text top="938" left="121" width="63" height="16" font="14">sada pelo </text>
-<text top="938" left="184" width="66" height="16" font="16"><i>Alphavirus</i></text>
 <text top="938" left="250" width="156" height="16" font="14"> do Oeste do Nilo. É ca-</text>
 <text top="956" left="121" width="289" height="16" font="14">racterizada por um quadro agudo febril, com </text>
 <text top="974" left="121" width="240" height="16" font="14">linfadenopatia e, por vezes, exantema.</text>
 <text top="309" left="427" width="82" height="14" font="21"><b>Febre tifóide</b></text>
 <text top="325" left="427" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="326" left="494" width="54" height="16" font="14">Doenças</text>
-<text top="344" left="427" width="261" height="16" font="14">Doença ou infecção causada pelo sorovar </text>
-<text top="343" left="688" width="24" height="16" font="16"><i>Sal-</i></text>
-<text top="361" left="427" width="88" height="16" font="16"><i>monella Typhi</i></text>
+<text top="344" left="427" width="261" height="16" font="14">Doença ou infecção causada pelo sorovar Salmonella Typhi</text>
 <text top="362" left="516" width="201" height="16" font="14">, um bacilo Gram-negativo da </text>
-<text top="380" left="427" width="49" height="16" font="14">família </text>
-<text top="379" left="478" width="122" height="16" font="16"><i>Enterobacteriacede,</i></text>
+<text top="380" left="427" width="49" height="16" font="14">família Enterobacteriacede</text>
 <text top="380" left="600" width="118" height="16" font="14"> que é eliminado </text>
 <text top="398" left="427" width="289" height="16" font="14">pelas fezes e urina dos indivíduos infectados. </text>
 <text top="416" left="427" width="290" height="16" font="14">Ingeridos com água ou alimentos poluídos, </text>
@@ -3279,8 +3174,7 @@
 <text top="740" left="494" width="54" height="16" font="14">Doenças</text>
 <text top="758" left="427" width="291" height="16" font="14">Doença infectocontagiosa de transmissão </text>
 <text top="776" left="427" width="291" height="16" font="14">predominantemente sexual, causada pela </text>
-<text top="794" left="427" width="52" height="16" font="14">bactéria</text>
-<text top="793" left="480" width="145" height="16" font="16"><i> Neisseria gonorrhoeae</i></text>
+<text top="794" left="427" width="52" height="16" font="14">bactéria Neisseria gonorrhoeae</text>
 <text top="794" left="625" width="87" height="16" font="14"> ou Gonoco-</text>
 <text top="812" left="427" width="289" height="16" font="14">co, que se caracteriza por provocar processos </text>
 <text top="830" left="427" width="285" height="16" font="14">inﬂ amatórios na uretra (uretrite), colo ute-</text>
@@ -3520,8 +3414,6 @@
 <text top="309" left="483" width="116" height="14" font="21"><b>Hipovitaminose A</b></text>
 <text top="325" left="483" width="66" height="16" font="16"><i>Categoria: </i></text>
 <text top="326" left="548" width="152" height="16" font="14">Alimentação e Nutrição </text>
-<text top="324" left="700" width="11" height="16" font="24"></text>
-<text top="326" left="710" width="57" height="16" font="14"> Doenças</text>
 <text top="344" left="483" width="285" height="16" font="14">Baixa disponibilidade de vitamina A nos de-</text>
 <text top="362" left="483" width="285" height="16" font="14">pósitos hepáticos e níveis diminuídos no san-</text>
 <text top="380" left="483" width="290" height="16" font="14">gue, apresentando ou não sintomas e sinais </text>
@@ -3605,9 +3497,7 @@
 <text top="848" left="121" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="848" left="188" width="54" height="16" font="14">Doenças</text>
 <text top="866" left="121" width="290" height="16" font="14">Os papilomavírus humanos (HPV, na sigla </text>
-<text top="884" left="121" width="263" height="16" font="14">em língua inglesa) pertencem à família </text>
-<text top="884" left="385" width="21" height="16" font="16"><i>Pa-</i></text>
-<text top="902" left="121" width="89" height="16" font="16"><i>pillomaviridae</i></text>
+<text top="884" left="121" width="263" height="16" font="14">em língua inglesa) </text>
 <text top="902" left="210" width="200" height="16" font="14"> e são capazes de induzir lesões </text>
 <text top="920" left="121" width="290" height="16" font="14">de pele ou mucosa. Estas, o mais das vezes, </text>
 <text top="938" left="121" width="285" height="16" font="14">apresentam um crescimento limitado e re-</text>
@@ -3655,8 +3545,6 @@
 <text top="516" left="176" width="42" height="14" font="21"><b>Idiotia</b></text>
 <text top="533" left="176" width="66" height="16" font="16"><i>Categoria: </i></text>
 <text top="533" left="242" width="152" height="16" font="14">Alimentação e Nutrição </text>
-<text top="532" left="394" width="11" height="16" font="24"></text>
-<text top="533" left="404" width="57" height="16" font="14"> Doenças</text>
 <text top="551" left="176" width="290" height="16" font="14">Retardo físico, motor e mental ocasionado </text>
 <text top="569" left="176" width="285" height="16" font="14">pela deﬁ ciência grave de iodo no período fe-</text>
 <text top="587" left="176" width="212" height="16" font="14">tal e nos primeiros meses de vida.</text>
@@ -3668,14 +3556,7 @@
 <text top="677" left="176" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="677" left="244" width="54" height="16" font="14">Doenças</text>
 <text top="695" left="176" width="285" height="16" font="14">É uma dermatose contagiosa causada por es-</text>
-<text top="713" left="176" width="291" height="16" font="14">tafilococos plasmo-coagulase positivos. O </text>
-<text top="731" left="176" width="113" height="16" font="14">mais comum é o </text>
-<text top="731" left="289" width="133" height="16" font="16"><i>Staphylococcus aureus</i></text>
-<text top="731" left="423" width="43" height="16" font="14"> e nos </text>
-<text top="749" left="176" width="222" height="16" font="14">pacientes imunossuprimidos e o </text>
-<text top="749" left="399" width="62" height="16" font="16"><i>S. epider-</i></text>
-<text top="767" left="176" width="34" height="16" font="16"><i>midis</i></text>
-<text top="767" left="211" width="251" height="16" font="14">. Doença freqüente nas crianças. A le-</text>
+<text top="713" left="176" width="291" height="16" font="14">tafilococos plasmo-coagulase positivos. Doença freqüente nas crianças. A le-</text>
 <text top="785" left="176" width="290" height="16" font="14">são inicial é mácula eritematosa que logo se </text>
 <text top="803" left="176" width="285" height="16" font="14">transforma em vesico pápula ou mesmo bo-</text>
 <text top="821" left="176" width="285" height="16" font="14">lha purulenta bastante superﬁ cial com forma-</text>
@@ -3688,9 +3569,6 @@
 <text top="930" left="176" width="75" height="14" font="21"><b>Imunologia</b></text>
 <text top="947" left="176" width="68" height="16" font="16"><i>Categoria: </i></text>
 <text top="947" left="245" width="112" height="16" font="14">Atenção à Saúde </text>
-<text top="946" left="357" width="11" height="16" font="24"></text>
-<text top="947" left="368" width="98" height="16" font="14"> Vigilância em </text>
-<text top="965" left="176" width="38" height="16" font="14">Saúde</text>
 <text top="983" left="176" width="290" height="16" font="14">Ramo da biologia que estuda os fenômenos </text>
 <text top="426" left="483" width="285" height="16" font="14">imunológicos ou a organização e funciona-</text>
 <text top="444" left="483" width="285" height="16" font="14">mento do sistema imunológico, cujo desen-</text>
@@ -3750,9 +3628,6 @@
 <text top="579" left="121" width="173" height="14" font="21"><b>Índice de Pobreza Humana</b></text>
 <text top="596" left="121" width="68" height="16" font="16"><i>Categoria: </i></text>
 <text top="596" left="189" width="159" height="16" font="14">Alimentação e Nutrição </text>
-<text top="595" left="348" width="11" height="16" font="24"></text>
-<text top="596" left="359" width="47" height="16" font="14"> Epide-</text>
-<text top="614" left="121" width="56" height="16" font="14">miologia</text>
 <text top="632" left="121" width="285" height="16" font="14">Índice composto pelos indicadores relacio-</text>
 <text top="650" left="121" width="289" height="16" font="14">nados à esperança de vida, à desnutrição em </text>
 <text top="668" left="121" width="289" height="16" font="14">menores de 5 anos, à alfabetização, ao acesso </text>
@@ -3830,8 +3705,7 @@
 <text top="435" left="176" width="235" height="16" font="14">realizadas investigações científicas.</text>
 <text top="454" left="176" width="242" height="14" font="21"><b>Instituto Nacional de Câncer (INCA)</b></text>
 <text top="471" left="176" width="73" height="16" font="16"><i>Categoria: </i></text>
-<text top="471" left="250" width="216" height="16" font="14">Administração e Planejamento </text>
-<text top="489" left="176" width="65" height="16" font="14">em Saúde</text>
+<text top="471" left="250" width="216" height="16" font="14">Administração e Planejamento em Saúde</text>
 <text top="507" left="176" width="290" height="16" font="14">Órgão do Ministério da Saúde, vinculado à </text>
 <text top="525" left="176" width="289" height="16" font="14">Secretaria de Assistência à Saúde, responsável </text>
 <text top="543" left="176" width="289" height="16" font="14">por desenvolver e coordenar ações integradas </text>
@@ -3842,15 +3716,14 @@
 <text top="633" left="176" width="290" height="16" font="14">cientes com câncer, no âmbito do SUS, e a </text>
 <text top="651" left="176" width="285" height="16" font="14">atuação em áreas estratégicas como a preven-</text>
 <text top="669" left="176" width="285" height="16" font="14">ção e a detecção precoce, a formação de pro-</text>
-<text top="687" left="176" width="290" height="16" font="14">ﬁ ssionais especializados, o desenvolvimento </text>
+<text top="687" left="176" width="290" height="16" font="14">ﬁssionais especializados, o desenvolvimento </text>
 <text top="705" left="176" width="290" height="16" font="14">da pesquisa e a informação epidemiológica. </text>
 <text top="723" left="176" width="285" height="16" font="14">Todas as atividades do INCA têm como ob-</text>
 <text top="741" left="176" width="285" height="16" font="14">jetivo reduzir a incidência e mortalidade cau-</text>
 <text top="759" left="176" width="167" height="16" font="14">sada pelo câncer no Brasil.</text>
 <text top="778" left="176" width="233" height="14" font="21"><b>Instrumentos de gestão em saúde</b></text>
 <text top="795" left="176" width="73" height="16" font="16"><i>Categoria: </i></text>
-<text top="795" left="250" width="216" height="16" font="14">Administração e Planejamento </text>
-<text top="813" left="176" width="65" height="16" font="14">em Saúde</text>
+<text top="795" left="250" width="216" height="16" font="14">Administração e Planejamento em Saúde</text>
 <text top="831" left="176" width="285" height="16" font="14">São os mecanismos que garantem o funcio-</text>
 <text top="849" left="176" width="289" height="16" font="14">namento do Sistema Único de Saúde (SUS) </text>
 <text top="867" left="176" width="285" height="16" font="14">em todos os seus níveis. Os principais ins-</text>
@@ -3881,7 +3754,7 @@
 <text top="633" left="483" width="118" height="14" font="21"><b>Intercambialidade</b></text>
 <text top="650" left="483" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="650" left="550" width="218" height="16" font="14">Medicamentos, Vacinas e Insumos</text>
-<text top="668" left="483" width="285" height="16" font="14">Signiﬁ ca a possibilidade de troca de um me-</text>
+<text top="668" left="483" width="285" height="16" font="14">Signiﬁca a possibilidade de troca de um me-</text>
 <text top="686" left="483" width="289" height="16" font="14">dicamento por outro, obtendo exatamente o </text>
 <text top="704" left="483" width="187" height="16" font="14">mesmo resultado terapêutico.</text>
 <text top="723" left="483" width="138" height="14" font="21"><b>Interiorização da aids</b></text>
@@ -3917,7 +3790,7 @@
 <text top="506" left="121" width="285" height="16" font="14">âmbito do Sistema Único de Saúde, poten-</text>
 <text top="524" left="121" width="285" height="16" font="14">cializando, assim, os recursos ﬁ nanceiros, tec-</text>
 <text top="542" left="121" width="289" height="16" font="14">nológicos, materiais e humanos disponíveis, e </text>
-<text top="560" left="121" width="285" height="16" font="14">evitando duplicidade de meios para ﬁ ns idên-</text>
+<text top="560" left="121" width="285" height="16" font="14">evitando duplicidade de meios para ﬁns idên-</text>
 <text top="578" left="121" width="33" height="16" font="14">ticos.</text>
 <text top="597" left="121" width="186" height="14" font="21"><b>Investigação epidemiológica</b></text>
 <text top="614" left="121" width="67" height="16" font="16"><i>Categoria: </i></text>
@@ -4038,7 +3911,7 @@
 <text top="579" left="121" width="261" height="14" font="21"><b>Linfadenopatia persistente generalizada</b></text>
 <text top="596" left="121" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="596" left="188" width="54" height="16" font="14">Doenças</text>
-<text top="614" left="121" width="285" height="16" font="14">Deﬁ ne-se como a presença em indivíduo so-</text>
+<text top="614" left="121" width="285" height="16" font="14">Deﬁne-se como a presença em indivíduo so-</text>
 <text top="632" left="121" width="289" height="16" font="14">ropositivo para o HIV, de linfadenomegalia, </text>
 <text top="650" left="121" width="285" height="16" font="14">envolvendo duas ou mais regiões extra-ingui-</text>
 <text top="668" left="121" width="289" height="16" font="14">nais, com duração de pelo menos três meses </text>
@@ -4129,7 +4002,7 @@
 </page>
 <page number="72" position="absolute" top="0" left="0" height="1263" width="892">
 <text top="243" left="110" width="28" height="25" font="15">72</text>
-<text top="308" left="121" width="231" height="16" font="14">paliativa ou para ﬁ ns de diagnóstico.</text>
+<text top="308" left="121" width="231" height="16" font="14">paliativa ou para ﬁns de diagnóstico.</text>
 <text top="327" left="121" width="228" height="14" font="21"><b>Medicamentos de controle especial</b></text>
 <text top="344" left="121" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="344" left="188" width="218" height="16" font="14">Medicamentos, Vacinas e Insumos</text>
@@ -4169,7 +4042,7 @@
 <text top="884" left="188" width="218" height="16" font="14">Medicamentos, Vacinas e Insumos</text>
 <text top="902" left="121" width="290" height="16" font="14">São aqueles cuja, dispensação não requerem </text>
 <text top="920" left="121" width="291" height="16" font="14">autorização, ou seja, receita expedida por </text>
-<text top="938" left="121" width="77" height="16" font="14">proﬁ ssional.</text>
+<text top="938" left="121" width="77" height="16" font="14">proﬁssional.</text>
 <text top="957" left="121" width="178" height="14" font="21"><b>Medicamentos estratégicos</b></text>
 <text top="974" left="121" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="974" left="188" width="218" height="16" font="14">Medicamentos, Vacinas e Insumos</text>
@@ -4179,7 +4052,7 @@
 <text top="362" left="427" width="285" height="16" font="14">ria, esquitossomose, ﬁ lariose, tracoma e pes-</text>
 <text top="380" left="427" width="289" height="16" font="14">te, além da insulina destinada ao tratamento </text>
 <text top="398" left="427" width="290" height="16" font="14">de diabetes e hemoderivados usados para o </text>
-<text top="416" left="427" width="157" height="16" font="14">tratamento de hemoﬁ lia.</text>
+<text top="416" left="427" width="157" height="16" font="14">tratamento de hemoﬁlia.</text>
 <text top="435" left="427" width="182" height="14" font="21"><b>Medicamentos excepcionais</b></text>
 <text top="452" left="427" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="452" left="494" width="218" height="16" font="14">Medicamentos, Vacinas e Insumos</text>
@@ -4249,9 +4122,6 @@
 <text top="759" left="176" width="105" height="14" font="21"><b>Medida cautelar</b></text>
 <text top="776" left="176" width="70" height="16" font="16"><i>Categoria: </i></text>
 <text top="776" left="248" width="149" height="16" font="14">Acidentes e Violência </text>
-<text top="775" left="397" width="11" height="16" font="24"></text>
-<text top="776" left="408" width="58" height="16" font="14"> Direito </text>
-<text top="794" left="176" width="57" height="16" font="14">Sanitário</text>
 <text top="812" left="176" width="285" height="16" font="14">É a intervenção imediata da autoridade judi-</text>
 <text top="830" left="176" width="285" height="16" font="14">cial para evitar a violação de um direito ga-</text>
 <text top="848" left="176" width="50" height="16" font="14">rantido.</text>
@@ -4277,9 +4147,6 @@
 <text top="471" left="483" width="160" height="14" font="21"><b>Métodos contraceptivos</b></text>
 <text top="488" left="483" width="71" height="16" font="16"><i>Categoria: </i></text>
 <text top="488" left="555" width="117" height="16" font="14">Atenção à Saúde </text>
-<text top="487" left="672" width="11" height="16" font="24"></text>
-<text top="488" left="683" width="90" height="16" font="14"> Promoção e </text>
-<text top="506" left="483" width="129" height="16" font="14">Educação em Saúde</text>
 <text top="524" left="483" width="288" height="16" font="14">Maneiras, instrumentos e conjuntos de meios </text>
 <text top="542" left="483" width="285" height="16" font="14">cujo objetivo é evitar uma gravidez indesejada.</text>
 <text top="561" left="483" width="140" height="14" font="21"><b>Métodos de barreiras</b></text>
@@ -4296,8 +4163,7 @@
 <text top="722" left="483" width="60" height="16" font="14">minerais.</text>
 <text top="741" left="483" width="148" height="14" font="21"><b>Microrregião de saúde</b></text>
 <text top="758" left="483" width="72" height="16" font="16"><i>Categoria: </i></text>
-<text top="758" left="557" width="217" height="16" font="14">Administração e Planejamento </text>
-<text top="776" left="483" width="63" height="16" font="14">em Saúde</text>
+<text top="758" left="557" width="217" height="16" font="14">Administração e Planejamento em Saúde</text>
 <text top="794" left="483" width="285" height="16" font="14">Unidade territorial mínima para qualiﬁ ca-</text>
 <text top="812" left="483" width="285" height="16" font="14">ção na assistência à saúde, que deverá dis-</text>
 <text top="830" left="483" width="290" height="16" font="14">por de complexidade assistêncial acima do </text>
@@ -4407,7 +4273,7 @@
 <text top="606" left="483" width="104" height="16" font="14">de Saúde (SUS).</text>
 <text top="625" left="483" width="150" height="14" font="21"><b>Notiﬁcação de doenças</b></text>
 <text top="643" left="483" width="67" height="16" font="16"><i>Categoria: </i></text>
-<text top="644" left="550" width="94" height="14" font="14"><b>epidemiologia</b></text>
+<text top="644" left="550" width="94" height="14" font="14"><b>Epidemiologia</b></text>
 <text top="661" left="483" width="289" height="16" font="14">Comunicação da ocorrência de determinada </text>
 <text top="679" left="483" width="285" height="16" font="14">doença ou agravo à saúde, feita à autorida-</text>
 <text top="697" left="483" width="285" height="16" font="14">de sanitária por proﬁ ssinais da saúde ou qual-</text>
@@ -4464,8 +4330,6 @@
 <text top="426" left="176" width="70" height="14" font="21"><b>Obesidade</b></text>
 <text top="443" left="176" width="66" height="16" font="16"><i>Categoria: </i></text>
 <text top="443" left="242" width="152" height="16" font="14">Alimentação e Nutrição </text>
-<text top="442" left="394" width="11" height="16" font="24"></text>
-<text top="443" left="404" width="57" height="16" font="14"> Doenças</text>
 <text top="461" left="176" width="285" height="16" font="14">Aumento exagerado do peso em relação à al-</text>
 <text top="479" left="176" width="285" height="16" font="14">tura. No sinônimo popular, os gordos corres-</text>
 <text top="497" left="176" width="127" height="16" font="14">pondem aos obesos.</text>
@@ -4500,11 +4364,10 @@
 <text top="929" left="176" width="78" height="16" font="14">dias de vida.</text>
 <text top="948" left="176" width="146" height="14" font="21"><b>Observação hospitalar</b></text>
 <text top="965" left="176" width="67" height="16" font="16"><i>Categoria: </i></text>
-<text top="965" left="244" width="222" height="16" font="14">Administração e Planejamento em </text>
-<text top="983" left="176" width="38" height="16" font="14">Saúde</text>
+<text top="965" left="244" width="222" height="16" font="14">Administração e Planejamento em Saúde</text>
 <text top="426" left="483" width="290" height="16" font="14">Pacientes que permanecem no hospital sob </text>
 <text top="444" left="483" width="289" height="16" font="14">supervisão médica e/ou de enfermagem, para </text>
-<text top="462" left="483" width="289" height="16" font="14">ﬁ ns diagnósticos ou terapêuticos, por período </text>
+<text top="462" left="483" width="289" height="16" font="14">ﬁns diagnósticos ou terapêuticos, por período </text>
 <text top="480" left="483" width="121" height="16" font="14">inferior a 24 horas.</text>
 <text top="571" left="483" width="131" height="14" font="21"><b>Operadora de saúde</b></text>
 <text top="588" left="483" width="67" height="16" font="16"><i>Categoria: </i></text>
@@ -4612,8 +4475,6 @@
 <text top="643" left="483" width="140" height="14" font="21"><b>Período de incubação</b></text>
 <text top="660" left="483" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="660" left="550" width="59" height="16" font="14">Doenças </text>
-<text top="658" left="608" width="11" height="16" font="24"></text>
-<text top="660" left="619" width="97" height="16" font="14"> Epidemiologia</text>
 <text top="678" left="483" width="285" height="16" font="14">Intervalo entre a exposição efetiva do hospe-</text>
 <text top="696" left="483" width="285" height="16" font="14">deiro suscetível a um agente biológico e o iní-</text>
 <text top="714" left="483" width="290" height="16" font="14">cio dos sinais e sintomas clínicos da doença </text>
@@ -4660,7 +4521,6 @@
 <text top="596" left="121" width="285" height="16" font="14">Doença infecciosa que é uma zoonose de roe-</text>
 <text top="614" left="121" width="285" height="16" font="14">dores e suas pulgas, sobretudo ratos, causa-</text>
 <text top="632" left="121" width="46" height="16" font="14">da por Yersinia pestes</text>
-<text top="632" left="167" width="85" height="16" font="16"><i>Yersinia pestes</i></text>
 <text top="650" left="289" width="121" height="16" font="14">. É transmitida ao </text>
 <text top="668" left="121" width="290" height="16" font="14">homem geralmente pela picada da pulga do </text>
 <text top="686" left="121" width="35" height="16" font="14">rato, </text>
@@ -4935,11 +4795,11 @@
 <text top="974" left="243" width="218" height="16" font="14">Medicamentos, Vacinas e Insumos</text>
 <text top="308" left="483" width="285" height="16" font="14">Produto tecnicamente elaborado para aten-</text>
 <text top="326" left="483" width="290" height="16" font="14">der às necessidades dietéticas de pessoas em </text>
-<text top="344" left="483" width="197" height="16" font="14">condições ﬁ siológicas especiais.</text>
+<text top="344" left="483" width="197" height="16" font="14">condições ﬁsiológicas especiais.</text>
 <text top="363" left="483" width="141" height="14" font="21"><b>Produto farmacêutico</b></text>
 <text top="380" left="483" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="380" left="550" width="218" height="16" font="14">Medicamentos, Vacinas e Insumos</text>
-<text top="398" left="483" width="285" height="16" font="14">Medicamentos alopáticos, homeopáticos, ﬁ -</text>
+<text top="398" left="483" width="285" height="16" font="14">Medicamentos alopáticos, homeopáticos, ﬁ-</text>
 <text top="416" left="483" width="285" height="16" font="14">toterápicos, drogas ou outras substâncias me-</text>
 <text top="434" left="483" width="89" height="16" font="14">dicamentosas.</text>
 <text top="453" left="483" width="145" height="14" font="21"><b>Produto intermediário</b></text>
@@ -4964,7 +4824,7 @@
 <text top="722" left="550" width="129" height="16" font="14">Vigilância em Saúde</text>
 <text top="740" left="483" width="290" height="16" font="14">Toda a substância ou mistura de substâncias </text>
 <text top="758" left="483" width="288" height="16" font="14">que requeira posteriores processos de produção, </text>
-<text top="776" left="483" width="261" height="16" font="14">a ﬁ m de converter-se em produtos a granel.</text>
+<text top="776" left="483" width="261" height="16" font="14">a ﬁm de converter-se em produtos a granel.</text>
 <text top="795" left="483" width="116" height="14" font="21"><b>Produtos médicos</b></text>
 <text top="812" left="483" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="812" left="550" width="218" height="16" font="14">Medicamentos, Vacinas e Insumos</text>
@@ -4997,7 +4857,7 @@
 <text top="528" left="121" width="291" height="16" font="14">culadas em seres humanos, são destinadas </text>
 <text top="546" left="121" width="285" height="16" font="14">unicamente a proporcionar informação qua-</text>
 <text top="564" left="121" width="285" height="16" font="14">litativa ou semi-quantitativa de parte anatô-</text>
-<text top="582" left="121" width="241" height="16" font="14">mica ou ﬁ siológica do corpo humano.</text>
+<text top="582" left="121" width="241" height="16" font="14">mica ou ﬁsiológica do corpo humano.</text>
 <text top="601" left="121" width="134" height="14" font="21"><b>Proﬁssionais do sexo</b></text>
 <text top="618" left="121" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="618" left="188" width="167" height="16" font="14">Ciências Sociais em Saúde</text>
@@ -5251,10 +5111,8 @@
 <text top="443" left="244" width="54" height="16" font="14">Doenças</text>
 <text top="461" left="176" width="289" height="16" font="14">Encefalomielite aguda, invariavelmente fatal, </text>
 <text top="479" left="176" width="285" height="16" font="14">causada pelo vírus de mesmo nome, do gê-</text>
-<text top="497" left="176" width="33" height="16" font="14">nero </text>
-<text top="497" left="209" width="60" height="16" font="16"><i>Lyssavirus</i></text>
-<text top="497" left="269" width="57" height="16" font="14"> (família </text>
-<text top="497" left="325" width="81" height="16" font="16"><i>Rabdoviridae</i></text>
+<text top="497" left="176" width="33" height="16" font="14">nero Lyssavirus</text>
+<text top="497" left="269" width="57" height="16" font="14"> (família Rabdoviridae</text>
 <text top="497" left="407" width="59" height="16" font="14">). É uma </text>
 <text top="515" left="176" width="290" height="16" font="14">zoonose de animais silvestres e domésticos </text>
 <text top="533" left="176" width="285" height="16" font="14">(principalmente morcegos, canídeos e felí-</text>
@@ -5277,9 +5135,6 @@
 <text top="822" left="176" width="80" height="14" font="21"><b>Reabilitação</b></text>
 <text top="839" left="176" width="69" height="16" font="16"><i>Categoria: </i></text>
 <text top="839" left="246" width="146" height="16" font="14">Acidentes e Violência </text>
-<text top="838" left="392" width="11" height="16" font="24"></text>
-<text top="839" left="403" width="63" height="16" font="14"> Atenção </text>
-<text top="857" left="176" width="49" height="16" font="14">à Saúde</text>
 <text top="875" left="176" width="290" height="16" font="14">Desenvolvimento de uma pessoa até o mais </text>
 <text top="893" left="176" width="289" height="16" font="14">completo potencial físico, psicológico, social, </text>
 <text top="911" left="176" width="290" height="16" font="14">proﬁ ssional, não proﬁ ssional e educacional, </text>
@@ -5422,7 +5277,7 @@
 <text top="560" left="240" width="216" height="16" font="14">Saúde Animal. Vigilância em Saúde</text>
 <text top="578" left="176" width="285" height="16" font="14">Documento normativo editado pela autori-</text>
 <text top="596" left="176" width="285" height="16" font="14">dade de saúde competente, contendo especi-</text>
-<text top="614" left="176" width="290" height="16" font="14">ﬁ cações técnicas ou requisitos de qualidade </text>
+<text top="614" left="176" width="290" height="16" font="14">ﬁcações técnicas ou requisitos de qualidade </text>
 <text top="632" left="176" width="285" height="16" font="14">aplicáveis compulsoriamente a produto, ob-</text>
 <text top="650" left="176" width="285" height="16" font="14">servadas as normas técnicas brasileiras (Reso-</text>
 <text top="668" left="176" width="209" height="16" font="14">lução CONMETRO n.º 11/75).</text>
@@ -5435,12 +5290,12 @@
 <text top="794" left="176" width="290" height="16" font="14">blemas de saúde da população. A referência </text>
 <text top="812" left="176" width="289" height="16" font="14">nacional serve de parâmetro para os estados e </text>
 <text top="830" left="176" width="289" height="16" font="14">municípios selecionarem seus medicamentos. </text>
-<text top="848" left="176" width="285" height="16" font="14">O Rename é o documento oﬁ cial de referên-</text>
+<text top="848" left="176" width="285" height="16" font="14">O Rename é o documento oﬁcial de referên-</text>
 <text top="866" left="176" width="79" height="16" font="14">cia nacional.</text>
 <text top="885" left="176" width="126" height="14" font="21"><b>Relatório de gestão</b></text>
 <text top="901" left="176" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="902" left="244" width="222" height="16" font="14">Administração e Planejamento em Saúde</text>
-<text top="938" left="176" width="285" height="16" font="14">Têm como ﬁ nalidade a sistematização e a di-</text>
+<text top="938" left="176" width="285" height="16" font="14">Têm como ﬁnalidade a sistematização e a di-</text>
 <text top="956" left="176" width="289" height="16" font="14">vulgação de informações sobre os resultados </text>
 <text top="974" left="176" width="290" height="16" font="14">obtidos e sobre a probidade dos gestores do </text>
 <text top="308" left="483" width="285" height="16" font="14">SUS, funcionando como prestação de con-</text>
@@ -5477,7 +5332,7 @@
 <text top="848" left="483" width="285" height="16" font="14">de Informações Ambulatorias (SIA), con-</text>
 <text top="866" left="483" width="290" height="16" font="14">templando ações de assistência de média e </text>
 <text top="884" left="483" width="290" height="16" font="14">alta complexidade, também observados os </text>
-<text top="902" left="483" width="290" height="16" font="14">tetos ﬁ nanceiros dos respectivos estados e </text>
+<text top="902" left="483" width="290" height="16" font="14">tetos ﬁnanceiros dos respectivos estados e </text>
 <text top="920" left="483" width="79" height="16" font="14">municípios.</text>
 <text top="939" left="483" width="148" height="14" font="21"><b>Reposição de nicotina</b></text>
 <text top="956" left="483" width="70" height="16" font="16"><i>Categoria: </i></text>
@@ -5738,7 +5593,7 @@
 <text top="802" left="176" width="289" height="16" font="14">Principal pneumocosidade no Brasil, causada </text>
 <text top="820" left="176" width="285" height="16" font="14">por inalação de poeria de silica livre cristali-</text>
 <text top="838" left="176" width="289" height="16" font="14">na (quartzo). Caracteriza-se por um processo </text>
-<text top="857" left="176" width="289" height="16" font="14">de ﬁ brose, com formação de nódulos isolados </text>
+<text top="857" left="176" width="289" height="16" font="14">de ﬁbrose, com formação de nódulos isolados </text>
 <text top="875" left="176" width="289" height="16" font="14">nos estágios iniciais e nódulos conglomerados </text>
 <text top="893" left="176" width="285" height="16" font="14">e disfunção respiratória nos estágios avança-</text>
 <text top="911" left="176" width="290" height="16" font="14">dos. É uma doença irreversível, de evolução </text>
@@ -5801,7 +5656,6 @@
 <text top="506" left="121" width="285" height="16" font="14">para uma melhor organização das munici-</text>
 <text top="524" left="121" width="165" height="16" font="14">pais, regionais e estaduais.</text>
 <text top="543" left="121" width="244" height="14" font="21"><b>Sistema de Informações do Programa Nacional de Imunizações (SI-PNI)</b></text>
-<text top="561" left="121" width="212" height="14" font="21"><b>Nacional de Imunizações (SI-PNI)</b></text>
 <text top="577" left="121" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="596" left="174" width="201" height="16" font="14"> Ciência e Tecnologia em Saúde</text>
 <text top="614" left="121" width="290" height="16" font="14">Contribui para o controle, eliminação e/ou </text>
@@ -5835,7 +5689,7 @@
 <text top="452" left="427" width="289" height="16" font="14">notiﬁ cação compulsória, deve ser notiﬁ cado </text>
 <text top="470" left="427" width="285" height="16" font="14">imediatamente, às secretarias municipal e esta-</text>
 <text top="488" left="427" width="285" height="16" font="14">dual de saúde e a Fundação Nacional de Saúde.</text>
-<text top="506" left="427" width="285" height="16" font="13"><b>Sistema de Informação sobre Vigilância Alimentar e Nutricional (Sisvan)</b></text>
+<text top="506" left="427" width="285" height="16" font="21"><b>Sistema de Informação sobre Vigilância Alimentar e Nutricional (Sisvan)</b></text>
 <text top="542" left="427" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="542" left="494" width="222" height="16" font="14">Administração e Planejamento em Saúde</text>
 <text top="578" left="427" width="285" height="16" font="14">Destina-se ao acompanhamento do Progra-</text>
@@ -5845,11 +5699,6 @@
 <text top="650" left="427" width="289" height="16" font="14">disseminação de dados e informações sobre a </text>
 <text top="668" left="427" width="285" height="16" font="14">situação alimentar e nutricional e de seus fa-</text>
 <text top="686" left="427" width="129" height="16" font="14">tores determinantes.</text>
-<text top="740" left="427" width="67" height="16" font="16"><i>Categoria: </i></text>
-<text top="740" left="494" width="222" height="16" font="14">Administração e Planejamento em Saúde</text>
-<text top="776" left="427" width="289" height="16" font="14">Instrumento de coleta e de processamento de </text>
-<text top="794" left="427" width="290" height="16" font="14">informações sobre receitas e gastos públicos </text>
-<text top="812" left="427" width="159" height="16" font="14">em saúde nas três esferas.</text>
 <text top="831" left="427" width="157" height="14" font="21"><b>Sistema de Informações Ambulatoriais (SIA-SUS)</b></text>
 <text top="866" left="427" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="884" left="480" width="201" height="16" font="14"> Ciência e Tecnologia em Saúde</text>
@@ -6141,11 +5990,6 @@
 <text top="967" left="483" width="79" height="14" font="21"><b>Trabalhador</b></text>
 <text top="984" left="483" width="68" height="16" font="16"><i>Categoria: </i></text>
 <text top="984" left="551" width="111" height="16" font="14">Atenção à Saúde </text>
-<text top="245" left="419" width="106" height="137" font="22">T</text>
-</page>
-<page number="102" position="absolute" top="0" left="0" height="1263" width="892">
-<text top="243" left="97" width="42" height="25" font="15">102</text>
-<text top="308" left="121" width="129" height="16" font="14">Vigilância em Saúde</text>
 <text top="326" left="121" width="290" height="16" font="14">Toda a pessoa que exerça uma atividade de </text>
 <text top="344" left="121" width="285" height="16" font="14">trabalho, independentemente de estar inseri-</text>
 <text top="362" left="121" width="285" height="16" font="14">do no mercado formal ou informal de traba-</text>
@@ -6253,8 +6097,7 @@
 <text top="516" left="483" width="154" height="16" font="14">microrregiões de saúde).</text>
 <text top="535" left="483" width="152" height="14" font="21"><b>Unidades de Referência</b></text>
 <text top="552" left="483" width="67" height="16" font="16"><i>Categoria: </i></text>
-<text top="552" left="550" width="222" height="16" font="14">Administração e Planejamento em </text>
-<text top="570" left="483" width="38" height="16" font="14">Saúde</text>
+<text top="552" left="550" width="222" height="16" font="14">Administração e Planejamento em Saúde</text>
 <text top="588" left="483" width="289" height="16" font="14">São os ambulatórios e hospitais selecionados </text>
 <text top="606" left="483" width="285" height="16" font="14">para realizar determinados tipos de atendi-</text>
 <text top="624" left="483" width="290" height="16" font="14">mento nos municípios. Elas são referências: </text>
@@ -6404,7 +6247,7 @@
 <text top="632" left="121" width="289" height="16" font="14">ao ato sexual contra a sua vontade, ou que a </text>
 <text top="650" left="121" width="289" height="16" font="14">exponha em interações sexuais que propiciem </text>
 <text top="668" left="121" width="289" height="16" font="14">sua vitimização da qual o agressor tenta obter </text>
-<text top="686" left="121" width="76" height="16" font="14">gratiﬁ cação.</text>
+<text top="686" left="121" width="76" height="16" font="14">gratiﬁcação.</text>
 <text top="705" left="121" width="103" height="14" font="21"><b>Vulnerabilidade</b></text>
 <text top="722" left="121" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="722" left="188" width="92" height="16" font="14">Epidemiologia</text>
@@ -6419,7 +6262,7 @@
 <text top="866" left="121" width="290" height="16" font="14">Está relacionada, principalmente, como os </text>
 <text top="884" left="121" width="290" height="16" font="14">comportamentos adotados pelo indivíduo e </text>
 <text top="902" left="121" width="204" height="16" font="14">que podem favorecer a infecção.</text>
-<text top="918" left="121" width="79" height="20" font="29"><i><b>Western blot</b></i></text>
+<text top="918" left="121" width="79" height="20" font="21"><b>Western blot</b></text>
 <text top="938" left="121" width="67" height="16" font="16"><i>Categoria: </i></text>
 <text top="938" left="188" width="218" height="16" font="14">Medicamentos, Vacinas e Insumos</text>
 <text top="956" left="121" width="290" height="16" font="14">Tipo de teste feito em amostras de sangue, </text>
@@ -6428,9 +6271,4 @@
 <text top="326" left="427" width="289" height="16" font="14">dos muito precisos, geralmente é utilizado na </text>
 <text top="344" left="427" width="289" height="16" font="14">conﬁ rmação de um resultado já obtido com </text>
 <text top="362" left="427" width="127" height="16" font="14">os testes de triagem.</text>
-<text top="381" left="427" width="72" height="14" font="21"><b>Zalcitabina</b></text>
-<text top="398" left="427" width="67" height="16" font="14">Ver DDC.</text>
-<text top="247" left="149" width="29" height="16" font="23"><b>VIO</b></text>
-<text top="238" left="193" width="135" height="14" font="21"><b>Violência psicológica</b></text>
-<text top="257" left="193" width="72" height="14" font="25"><b>Zalcitabina</b></text>
 </page>
