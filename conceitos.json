@@ -1348,7 +1348,7 @@
         "Categoria": "Doenças"
     },
     {
-        "Conceito": "Gestão Federal de Saúde</text>\n<text top=\"257\" left=\"193\" width=\"65\" height=\"14\" font=\"25\">Gonorréia</text>\n<text top=\"309\" left=\"176\" width=\"139\" height=\"14\" font=\"21\">Gravidez de alto risco</text>\n<text top=\"326\" left=\"176\" width=\"167\" height=\"16\" font=\"14\">Ver Gestação de alto risco.</text>\n<text top=\"345\" left=\"176\" width=\"159\" height=\"14\" font=\"21\">Grupo de apoio ao idoso",
+        "Conceito": "Grupo de apoio ao idoso",
         "Categoria": "Atenção à Saúde"
     },
     {
@@ -1360,8 +1360,8 @@
         "Categoria": "Doenças"
     },
     {
-        "Conceito": "Gravidez de alto risco</text>\n<text top=\"257\" left=\"483\" width=\"213\" height=\"14\" font=\"25\">Guias terapêuticos padronizados</text>\n<text top=\"426\" left=\"176\" width=\"74\" height=\"14\" font=\"21\">Habilitação",
-        "Categoria": "Administração e Planejamento em"
+        "Conceito": "Habilitação",
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Hábitos saudáveis",
@@ -1373,7 +1373,7 @@
     },
     {
         "Conceito": "Hemocad",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Hemocentro",
@@ -1384,16 +1384,16 @@
         "Categoria": "Vigilância em Saúde"
     },
     {
-        "Conceito": "Hemoﬁ lia",
+        "Conceito": "Hemoﬁlia",
         "Categoria": "Doenças"
     },
     {
         "Conceito": "Hemoinsp",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Ciência e Tecnologia em Saúde"
     },
     {
         "Conceito": "Hemovigilância",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Vigilância em Saúde"
     },
     {
         "Conceito": "Hepatite",
@@ -1420,7 +1420,7 @@
         "Categoria": "Doenças"
     },
     {
-        "Conceito": "Hemovigilância</text>\n<text top=\"257\" left=\"193\" width=\"101\" height=\"14\" font=\"25\">Hepatite viral D</text>\n<text top=\"308\" left=\"176\" width=\"290\" height=\"16\" font=\"14\">apresentava infecção crônica de hepatite </text>\n<text top=\"326\" left=\"176\" width=\"50\" height=\"16\" font=\"14\">viral B.</text>\n<text top=\"345\" left=\"176\" width=\"98\" height=\"14\" font=\"21\">Hepatite viral E",
+        "Conceito": "Hepatite viral E",
         "Categoria": "Doenças"
     },
     {
@@ -1444,7 +1444,11 @@
         "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "História natural das doenças</text>\n<text top=\"435\" left=\"483\" width=\"67\" height=\"16\" font=\"16\">Categoria: </text>\n<text top=\"436\" left=\"550\" width=\"90\" height=\"14\" font=\"30\">Epidemiologia</text>\n<text top=\"453\" left=\"483\" width=\"291\" height=\"16\" font=\"14\">Descrição que inclui as características das </text>\n<text top=\"471\" left=\"483\" width=\"290\" height=\"16\" font=\"14\">funções de infecção, distribuição da doença </text>\n<text top=\"489\" left=\"483\" width=\"285\" height=\"16\" font=\"14\">segundo os atributos das pessoas, tempo e es-</text>\n<text top=\"507\" left=\"483\" width=\"289\" height=\"16\" font=\"14\">paço, distribuição e características ecológicas </text>\n<text top=\"525\" left=\"483\" width=\"290\" height=\"16\" font=\"14\">do(s) reservatório(s) do agente; mecanismos </text>\n<text top=\"543\" left=\"483\" width=\"290\" height=\"16\" font=\"14\">de transmissão e efeitos da doença sobre o </text>\n<text top=\"561\" left=\"483\" width=\"53\" height=\"16\" font=\"14\">homem.</text>\n<text top=\"580\" left=\"483\" width=\"54\" height=\"14\" font=\"21\">Hospital",
+        "Conceito": "História natural das doenças",
+        "Categoria": "Epidemiologia"
+    },
+    {
+        "Conceito": "Hospital",
         "Categoria": "Atenção à Saúde"
     },
     {
@@ -1468,7 +1472,7 @@
         "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Hepatite viral E</text>\n<text top=\"257\" left=\"521\" width=\"174\" height=\"14\" font=\"25\">Hospital de pequeno porte</text>\n<text top=\"308\" left=\"121\" width=\"272\" height=\"16\" font=\"14\">Hospital cuja capacidade é de até 50 leitos.</text>\n<text top=\"327\" left=\"121\" width=\"145\" height=\"14\" font=\"21\">Hospital-dia geriátrico",
+        "Conceito": "Hospital dia geriátrico",
         "Categoria": "Atenção à Saúde"
     },
     {
@@ -1496,7 +1500,7 @@
         "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Hospital-dia geriátrico</text>\n<text top=\"257\" left=\"193\" width=\"196\" height=\"14\" font=\"25\">Humanização do atendimento</text>\n<text top=\"426\" left=\"176\" width=\"115\" height=\"14\" font=\"21\">Identidade sexual",
+        "Conceito": "Identidade sexual",
         "Categoria": "Ciências Sociais em Saúde"
     },
     {
@@ -1524,7 +1528,7 @@
         "Categoria": "Doenças"
     },
     {
-        "Conceito": "Incentivo de Integração ao Sistema Único </text>\n<text top=\"733\" left=\"483\" width=\"140\" height=\"14\" font=\"21\">de Saúde (Integrasus)",
+        "Conceito": "Incentivo de Integração ao Sistema Único de Saúde (Integrasus)",
         "Categoria": "Economia de Saúde"
     },
     {
@@ -1536,8 +1540,8 @@
         "Categoria": "Epidemiologia"
     },
     {
-        "Conceito": "Indicadores demográﬁ cos",
-        "Categoria": "Demograﬁ a"
+        "Conceito": "Indicadores demográﬁcos",
+        "Categoria": "Demograﬁa"
     },
     {
         "Conceito": "Índice de Pobreza Humana",
@@ -1549,7 +1553,7 @@
     },
     {
         "Conceito": "Infecção hospitalar",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Informação tóxico-farmacológica",
@@ -1572,7 +1576,7 @@
         "Categoria": "Vigilância em Saúde"
     },
     {
-        "Conceito": "Incidência</text>\n<text top=\"257\" left=\"193\" width=\"117\" height=\"14\" font=\"25\">Inspeção sanitária</text>\n<text top=\"308\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">fatores de risco sanitário, que poderão produ-</text>\n<text top=\"327\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">zir agravo à saúde individual ou coletiva, in-</text>\n<text top=\"345\" left=\"176\" width=\"235\" height=\"16\" font=\"14\">cluindo a veriﬁ cação de documentos.</text>\n<text top=\"364\" left=\"176\" width=\"159\" height=\"14\" font=\"21\">Instituição de pesquisa",
+        "Conceito": "Instituição de pesquisa",
         "Categoria": "Ciência e Tecnologia em Saúde"
     },
     {
@@ -1596,7 +1600,7 @@
         "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Integrasus</text>\n<text top=\"596\" left=\"483\" width=\"285\" height=\"16\" font=\"14\">Ver Incentivo de Integração ao Sistema Úni-</text>\n<text top=\"614\" left=\"483\" width=\"80\" height=\"16\" font=\"14\">co de Saúde.</text>\n<text top=\"633\" left=\"483\" width=\"118\" height=\"14\" font=\"21\">Intercambialidade",
+        "Conceito": "Intercambialidade",
         "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
@@ -1605,50 +1609,50 @@
     },
     {
         "Conceito": "Internação hospitalar",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
-        "Conceito": "Instituição de pesquisa</text>\n<text top=\"257\" left=\"557\" width=\"138\" height=\"14\" font=\"25\">Interiorização da aids</text>\n<text top=\"308\" left=\"121\" width=\"291\" height=\"16\" font=\"14\">Pacientes que são admitidos para ocupar </text>\n<text top=\"326\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">um leito hospitalar por um período igual ou </text>\n<text top=\"344\" left=\"121\" width=\"111\" height=\"16\" font=\"14\">maior a 24 horas.</text>\n<text top=\"363\" left=\"121\" width=\"116\" height=\"14\" font=\"21\">Intersetorialidade",
-        "Categoria": "Administração e Planejamento em"
+        "Conceito": "Intersetorialidade",
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Investigação epidemiológica",
         "Categoria": "Epidemiologia"
     },
     {
-        "Conceito": "Internação hospitalar</text>\n<text top=\"257\" left=\"193\" width=\"186\" height=\"14\" font=\"25\">Investigação epidemiológica</text>\n<text top=\"426\" left=\"176\" width=\"126\" height=\"14\" font=\"21\">Janela imunológica",
+        "Conceito": "Janela imunológica",
         "Categoria": "Epidemiologia"
     },
     {
-        "Conceito": "Laboratório oﬁ cial",
+        "Conceito": "Laboratório oﬁcial",
         "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
         "Conceito": "Lavanderia hospitalar",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Lei de Diretrizes Orçamentárias (LDO)",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Economia de Saúde"
     },
     {
         "Conceito": "Leito hospitalar",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Leptospirose",
         "Categoria": "Doenças"
     },
     {
-        "Conceito": "Lesão por Esforço Repetitivo (LER)</text>\n<text top=\"750\" left=\"483\" width=\"289\" height=\"16\" font=\"14\">Ver Distúrbio osteomuscular relacionado ao </text>\n<text top=\"768\" left=\"483\" width=\"114\" height=\"16\" font=\"14\">trabalho (DORT)</text>\n<text top=\"787\" left=\"483\" width=\"108\" height=\"14\" font=\"21\">Licença sanitária",
+        "Conceito": "Licença sanitária",
         "Categoria": "Vigilância em Saúde"
     },
     {
         "Conceito": "Licitação",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
-        "Conceito": "Limite ﬁ nanceiro",
+        "Conceito": "Limite ﬁnanceiro",
         "Categoria": "Economia de Saúde"
     },
     {
@@ -1660,7 +1664,7 @@
         "Categoria": "Doenças"
     },
     {
-        "Conceito": "Limite ﬁ nanceiro</text>\n<text top=\"257\" left=\"193\" width=\"160\" height=\"14\" font=\"25\">Linfogranuloma venéreo</text>\n<text top=\"426\" left=\"176\" width=\"107\" height=\"14\" font=\"21\">Macronutrientes",
+        "Conceito": "Macronutrientes",
         "Categoria": "Alimentação e Nutrição"
     },
     {
@@ -1668,7 +1672,7 @@
         "Categoria": "Doenças"
     },
     {
-        "Conceito": "Mamograﬁ a",
+        "Conceito": "Mamograﬁa",
         "Categoria": "Atenção à Saúde"
     },
     {
@@ -1696,7 +1700,7 @@
         "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Medicamentos de dispensação em caráter </text>\n<text top=\"453\" left=\"121\" width=\"77\" height=\"14\" font=\"21\">excepcional",
+        "Conceito": "Medicamentos de dispensação em caráter excepcional",
         "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
@@ -1724,7 +1728,7 @@
         "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Medicamentos ﬁ toterápicos",
+        "Conceito": "Medicamentos ﬁtoterápicos",
         "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
@@ -1736,7 +1740,7 @@
         "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Medicamentos de controle especial</text>\n<text top=\"257\" left=\"193\" width=\"192\" height=\"14\" font=\"25\">Medicamentos homeopáticos</text>\n<text top=\"308\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">São preparações manipuladas de forma espe-</text>\n<text top=\"326\" left=\"176\" width=\"290\" height=\"16\" font=\"14\">cíﬁ ca de acordo com regras farmacotécnicas </text>\n<text top=\"344\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">bem deﬁ nidas, descritas na Farmacopéia. Ho-</text>\n<text top=\"362\" left=\"176\" width=\"132\" height=\"16\" font=\"14\">meopática Brasileira.</text>\n<text top=\"381\" left=\"176\" width=\"238\" height=\"14\" font=\"21\">Medicamentos para a atenção básica",
+        "Conceito": "Medicamentos para a atenção básica",
         "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
@@ -1757,7 +1761,7 @@
     },
     {
         "Conceito": "Método direto de padronização",
-        "Categoria": "Demograﬁ a"
+        "Categoria": "Demograﬁa"
     },
     {
         "Conceito": "Método epidemiológico",
@@ -1784,8 +1788,8 @@
         "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Medicamentos para a atenção básica</text>\n<text top=\"257\" left=\"578\" width=\"118\" height=\"14\" font=\"25\">Modelo ecológico</text>\n<text top=\"309\" left=\"121\" width=\"127\" height=\"14\" font=\"21\">Módulo assistencial",
-        "Categoria": "Administração e Planejamento em"
+        "Conceito": "Módulo assistencial",
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Módulo-padrão de suprimento",
@@ -1793,22 +1797,22 @@
     },
     {
         "Conceito": "Morbimortalidade",
-        "Categoria": "Demograﬁ a"
+        "Categoria": "Demograﬁa"
     },
     {
         "Conceito": "Município-pólo",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Município-sede do módulo assistencial",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Mutirão",
         "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Módulo assistencial</text>\n<text top=\"257\" left=\"193\" width=\"51\" height=\"14\" font=\"25\">Mutirão</text>\n<text top=\"426\" left=\"176\" width=\"95\" height=\"14\" font=\"21\">Nascido morto",
+        "Conceito": "Nascido morto",
         "Categoria": "Epidemiologia"
     },
     {
@@ -1816,7 +1820,7 @@
         "Categoria": "Epidemiologia"
     },
     {
-        "Conceito": "Natimorto</text>\n<text top=\"659\" left=\"176\" width=\"125\" height=\"16\" font=\"14\">Ver Nascido morto.</text>\n<text top=\"678\" left=\"176\" width=\"76\" height=\"14\" font=\"21\">Nefropatias</text>\n<text top=\"695\" left=\"176\" width=\"125\" height=\"16\" font=\"14\">Ver Doenças renais.</text>\n<text top=\"714\" left=\"176\" width=\"77\" height=\"14\" font=\"21\">Negligência",
+        "Conceito": "Negligência",
         "Categoria": "Acidentes e Violência"
     },
     {
@@ -1824,7 +1828,7 @@
         "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Norma Operacional de Assistência à </text>\n<text top=\"966\" left=\"176\" width=\"90\" height=\"14\" font=\"21\">Saúde (NOAS)",
+        "Conceito": "Norma Operacional de Assistência à Saúde (NOAS)",
         "Categoria": "Direito Sanitário"
     },
     {
@@ -1832,11 +1836,15 @@
         "Categoria": "Direito Sanitário"
     },
     {
-        "Conceito": "Notiﬁ cação de doenças</text>\n<text top=\"643\" left=\"483\" width=\"67\" height=\"16\" font=\"16\">Categoria: </text>\n<text top=\"644\" left=\"550\" width=\"94\" height=\"14\" font=\"21\">epidemiologia</text>\n<text top=\"661\" left=\"483\" width=\"289\" height=\"16\" font=\"14\">Comunicação da ocorrência de determinada </text>\n<text top=\"679\" left=\"483\" width=\"285\" height=\"16\" font=\"14\">doença ou agravo à saúde, feita à autorida-</text>\n<text top=\"697\" left=\"483\" width=\"285\" height=\"16\" font=\"14\">de sanitária por proﬁ ssinais da saúde ou qual-</text>\n<text top=\"715\" left=\"483\" width=\"289\" height=\"16\" font=\"14\">quer cidadão, para ﬁ ns de adoção de medida </text>\n<text top=\"733\" left=\"483\" width=\"172\" height=\"16\" font=\"14\">de intervenção pertinentes.</text>\n<text top=\"752\" left=\"483\" width=\"174\" height=\"14\" font=\"21\">Notiﬁ cação de maus-tratos",
+        "Conceito": "Notiﬁcação de doenças",
+        "Categoria": "epidemiologia"
+    },
+    {
+        "Conceito": "Notiﬁcação de maus-tratos",
         "Categoria": "Acidentes e Violência"
     },
     {
-        "Conceito": "Notiﬁ cação de receita",
+        "Conceito": "Notiﬁcação de receita",
         "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
@@ -1848,7 +1856,7 @@
         "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Núcleos de educação em urgências</text>\n<text top=\"257\" left=\"193\" width=\"76\" height=\"14\" font=\"25\">Nutrimento</text>\n<text top=\"426\" left=\"176\" width=\"70\" height=\"14\" font=\"21\">Obesidade",
+        "Conceito": "Obesidade",
         "Categoria": "Alimentação e Nutrição"
     },
     {
@@ -1876,7 +1884,7 @@
         "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Oncologia</text>\n<text top=\"516\" left=\"483\" width=\"113\" height=\"16\" font=\"14\">Ver Cancerologia.</text>\n<text top=\"535\" left=\"483\" width=\"275\" height=\"14\" font=\"21\">Operadora de plano de assistência à saúde</text>\n<text top=\"552\" left=\"483\" width=\"157\" height=\"16\" font=\"14\">Ver Operadora de saúde.</text>\n<text top=\"571\" left=\"483\" width=\"131\" height=\"14\" font=\"21\">Operadora de saúde",
+        "Conceito": "Operadora de saúde",
         "Categoria": "Políticas Públicas e Saúde"
     },
     {
@@ -1885,7 +1893,7 @@
     },
     {
         "Conceito": "Órgão de Vigilância Sanitária Competente",
-        "Categoria": "Medicamentos, Vacinas e Insumos"
+        "Categoria": "Vigilância em Saúde"
     },
     {
         "Conceito": "Orientação alimentar",
@@ -1893,15 +1901,15 @@
     },
     {
         "Conceito": "Ouvidoria da Saúde",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
-        "Conceito": "Orientação alimentar</text>\n<text top=\"257\" left=\"193\" width=\"128\" height=\"14\" font=\"25\">Ouvidoria da Saúde</text>\n<text top=\"426\" left=\"176\" width=\"81\" height=\"14\" font=\"21\">Paciente-dia",
+        "Conceito": "Paciente-dia",
         "Categoria": "Epidemiologia"
     },
     {
-        "Conceito": "Papiloma Vírus Humano</text>\n<text top=\"551\" left=\"176\" width=\"61\" height=\"16\" font=\"14\">Ver HPV.</text>\n<text top=\"570\" left=\"176\" width=\"81\" height=\"14\" font=\"21\">Pátrio poder",
-        "Categoria": "Demograﬁ a"
+        "Conceito": "Pátrio poder",
+        "Categoria": "Demograﬁa"
     },
     {
         "Conceito": "Pauperização da aids",
@@ -1916,11 +1924,11 @@
         "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Perﬁ l epidemiológico",
+        "Conceito": "Perﬁl epidemiológico",
         "Categoria": "Equidade em Saúde e Social"
     },
     {
-        "Conceito": "Perﬁ l nosológico",
+        "Conceito": "Perﬁl nosológico",
         "Categoria": "Epidemiologia"
     },
     {
@@ -1961,26 +1969,26 @@
     },
     {
         "Conceito": "Plano de Saúde (gestão do SUS)",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Plano Diretor de Regionalização",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
-        "Conceito": "Pesquisa envolvendo seres humanos</text>\n<text top=\"257\" left=\"193\" width=\"207\" height=\"14\" font=\"25\">Plano Diretor de Regionalização</text>\n<text top=\"308\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">regionalização da da assistência em cada es-</text>\n<text top=\"326\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">tado e no Distrito Federal, baseado nos ob-</text>\n<text top=\"344\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">jetivos de deﬁ nição de prioridades de inter-</text>\n<text top=\"362\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">venção da população e garantia de acesso dos </text>\n<text top=\"380\" left=\"176\" width=\"237\" height=\"16\" font=\"14\">cidadãos a todos os níveis de atenção.</text>\n<text top=\"399\" left=\"176\" width=\"238\" height=\"14\" font=\"21\">Plano Nacional de Saúde do Sistema </text>\n<text top=\"417\" left=\"176\" width=\"86\" height=\"14\" font=\"21\">Penitenciário",
+        "Conceito": "Plano Nacional de Saúde do Sistema Penitenciário",
         "Categoria": "Atenção à Saúde"
     },
     {
         "Conceito": "Plano Nacional de Vacinas Anti-HIV/aids",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Plano Plurianual (PPA)",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Economia de Saúde"
     },
     {
-        "Conceito": "Plano privado de assistência à saúde</text>\n<text top=\"830\" left=\"176\" width=\"121\" height=\"16\" font=\"14\">Ver Plano de saúde</text>\n<text top=\"849\" left=\"176\" width=\"104\" height=\"14\" font=\"21\">Pneumoconiose",
+        "Conceito": "Pneumoconiose",
         "Categoria": "Ambiente e Saúde"
     },
     {
@@ -1993,14 +2001,14 @@
     },
     {
         "Conceito": "Pólos de capacitação",
-        "Categoria": "Recursos Humanos em Saúde Pú-"
+        "Categoria": "Recursos Humanos em Saúde Pública"
     },
     {
         "Conceito": "População economicamente ativa",
-        "Categoria": "Demograﬁ a"
+        "Categoria": "Demograﬁa"
     },
     {
-        "Conceito": "Plano Nacional de Saúde do Sistema Penitenciário</text>\n<text top=\"257\" left=\"477\" width=\"219\" height=\"14\" font=\"25\">População economicamente ativa</text>\n<text top=\"308\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">É deﬁ nida pelo IBGE como aquela composta </text>\n<text top=\"326\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">por pessoas de 10 a 65 anos de idade, classi-</text>\n<text top=\"344\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">ﬁ cadas como ocupadas ou desocupadas (mas </text>\n<text top=\"362\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">procurando emprego) na semana de referên-</text>\n<text top=\"380\" left=\"121\" width=\"254\" height=\"16\" font=\"14\">cia da pesquisa realizada pelo Instituto.</text>\n<text top=\"399\" left=\"121\" width=\"176\" height=\"14\" font=\"21\">Porto de controle sanitário",
+        "Conceito": "Porto de controle sanitário",
         "Categoria": "Vigilância em Saúde"
     },
     {
@@ -2009,10 +2017,10 @@
     },
     {
         "Conceito": "Posto de saúde",
-        "Categoria": "Administração e Planejamento"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
-        "Conceito": "Preparações farmacêuticas</text>\n<text top=\"974\" left=\"121\" width=\"71\" height=\"16\" font=\"14\">Ver Drogas</text>\n<text top=\"309\" left=\"427\" width=\"142\" height=\"14\" font=\"21\">Preservativo feminino",
+        "Conceito": "Preservativo feminino",
         "Categoria": "Atenção à Saúde"
     },
     {
@@ -2032,7 +2040,7 @@
         "Categoria": "Vigilância em Saúde"
     },
     {
-        "Conceito": "Porto de controle sanitário</text>\n<text top=\"257\" left=\"193\" width=\"257\" height=\"14\" font=\"25\">Procedimento operacional padronizado</text>\n<text top=\"308\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">estabelece instruções sequenciais para a reali-</text>\n<text top=\"326\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">zação de operações rotineiras e especíﬁ cas na </text>\n<text top=\"344\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">industrialização, armazenamento e transporte </text>\n<text top=\"362\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">de alimentos. Este procedimento pode apre-</text>\n<text top=\"380\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">sentar outras nomenclaturas desde que obe-</text>\n<text top=\"398\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">deça ao conteúdo estabelecido na Resolução </text>\n<text top=\"416\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">– RDC n.º 267, de 25 de setembro de 2003.</text>\n<text top=\"435\" left=\"176\" width=\"149\" height=\"14\" font=\"21\">Produção de alimentos",
+        "Conceito": "Produção de alimentos",
         "Categoria": "Alimentação e Nutrição"
     },
     {
@@ -2080,44 +2088,44 @@
         "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Produto para diagnóstico de uso</text>\n<text top=\"939\" left=\"693\" width=\"3\" height=\"20\" font=\"29\"> </text>\n<text top=\"936\" left=\"696\" width=\"52\" height=\"23\" font=\"31\">in vitro",
+        "Conceito": "Produto para diagnóstico de uso in vitro",
         "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Produção de alimentos</text>\n<text top=\"257\" left=\"430\" width=\"210\" height=\"14\" font=\"25\">Produto para diagnóstico de uso</text>\n<text top=\"253\" left=\"640\" width=\"3\" height=\"20\" font=\"32\"> </text>\n<text top=\"250\" left=\"643\" width=\"52\" height=\"23\" font=\"33\">in vitro</text>\n<text top=\"308\" left=\"121\" width=\"290\" height=\"16\" font=\"14\">as instruções para seu uso, que contribuam </text>\n<text top=\"326\" left=\"121\" width=\"290\" height=\"16\" font=\"14\">para realizar uma determinação qualitativa, </text>\n<text top=\"344\" left=\"121\" width=\"291\" height=\"16\" font=\"14\">quantitativa ou semi-quantitativa de uma </text>\n<text top=\"362\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">amostra biológica e que não sejam destinados </text>\n<text top=\"380\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">a cumprir função anatômica, física ou terapêu-</text>\n<text top=\"398\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">tica alguma, que não sejam ingeridos, injeta-</text>\n<text top=\"416\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">dos ou inoculados em seres humanos e que são </text>\n<text top=\"434\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">utilizados unicamente para prover informação </text>\n<text top=\"452\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">sobre espécimes extraídos do corpo humano.</text>\n<text top=\"475\" left=\"121\" width=\"213\" height=\"14\" font=\"21\">Produto para diagnóstico de uso </text>\n<text top=\"468\" left=\"335\" width=\"48\" height=\"23\" font=\"31\">in vivo",
+        "Conceito": "Produto para diagnóstico de uso in vivo",
         "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Proﬁ ssionais do sexo",
+        "Conceito": "Proﬁssionais do sexo",
         "Categoria": "Ciências Sociais em Saúde"
     },
     {
         "Conceito": "Programação Pactuada e Integrada (PPI)",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Economia de Saúde"
     },
     {
-        "Conceito": "Programa de Combate às Carências </text>\n<text top=\"853\" left=\"121\" width=\"126\" height=\"14\" font=\"21\">Nutricionais (PCCN)",
-        "Categoria": "Administração e Planejamento em"
+        "Conceito": "Programa de Combate às Carências Nutricionais (PCCN)",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Programa de Humanização no Pré-Natal e </text>\n<text top=\"327\" left=\"427\" width=\"126\" height=\"14\" font=\"21\">Nascimento (PHPN)",
+        "Conceito": "Programa de Humanização no Pré-Natal e Nascimento (PHPN)",
         "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Programa de Interiorização do Trabalho em </text>\n<text top=\"507\" left=\"427\" width=\"81\" height=\"14\" font=\"21\">Saúde (PITS)",
+        "Conceito": "Programa de Interiorização do Trabalho em Saúde (PITS)",
         "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Programa Nacional de Avaliação dos </text>\n<text top=\"741\" left=\"427\" width=\"196\" height=\"14\" font=\"21\">Serviços Hospitalares (PNASH)",
+        "Conceito": "Programa Nacional de Avaliação dos Serviços Hospitalares (PNASH)",
         "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Programa Nacional de Humanização da </text>\n<text top=\"921\" left=\"427\" width=\"142\" height=\"14\" font=\"21\">Assistência Hospitalar",
+        "Conceito": "Programa Nacional de Humanização da Assistência Hospitalar",
         "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Produto para diagnóstico de uso </text>\n<text top=\"233\" left=\"407\" width=\"48\" height=\"23\" font=\"31\">in vivo</text>\n<text top=\"257\" left=\"193\" width=\"399\" height=\"14\" font=\"25\">Programa Nacional de Humanização da Assistência Hospitalar</text>\n<text top=\"308\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">te o padrão de assistência ao usuário nos hos-</text>\n<text top=\"326\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">pitais públicos do Brasil, melhorando a qua-</text>\n<text top=\"344\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">lidade e a eﬁ cácia dos serviços hoje prestados </text>\n<text top=\"362\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">por essas instituições. É seu objetivo funda-</text>\n<text top=\"379\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">mental aprimorar as relações entre proﬁ ssio-</text>\n<text top=\"397\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">nal de saúde e usuário, dos proﬁ ssionais entre </text>\n<text top=\"415\" left=\"176\" width=\"225\" height=\"16\" font=\"14\">si e do hospital com a comunidade.</text>\n<text top=\"434\" left=\"176\" width=\"206\" height=\"14\" font=\"21\">Programa Qualidade do Sangue",
-        "Categoria": "Administração e Planejamento em"
+        "Conceito": "Programa Qualidade do Sangue",
+        "Categoria": "Vigilância em Saúde"
     },
     {
         "Conceito": "Programa Saúde da Família (PSF)",
@@ -2125,26 +2133,26 @@
     },
     {
         "Conceito": "Programas de saúde",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Projeto Bela Vista",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Ciência e Tecnologia em Saúde"
     },
     {
         "Conceito": "Projeto Carteiro Amigo",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Projeto de Proﬁ ssionalização dos </text>\n<text top=\"683\" left=\"483\" width=\"254\" height=\"14\" font=\"21\">Trabalhadores da Área de Enfermagem </text>\n<text top=\"700\" left=\"483\" width=\"51\" height=\"14\" font=\"21\">(Profae)",
-        "Categoria": "Administração e Planejamento em"
+        "Conceito": "Projeto de Proﬁ ssionalização dos Trabalhadores da Área de Enfermagem",
+        "Categoria": "Recursos Humanos em Saúde Pública"
     },
     {
         "Conceito": "Projeto Horizonte",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Epidemiologia"
     },
     {
-        "Conceito": "Programa Qualidade do Sangue</text>\n<text top=\"257\" left=\"581\" width=\"115\" height=\"14\" font=\"25\">Projeto Horizonte</text>\n<text top=\"308\" left=\"121\" width=\"290\" height=\"16\" font=\"14\">prevalência da infecção pelo HIV, avaliar o </text>\n<text top=\"326\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">impacto de intervenções educativas e acon-</text>\n<text top=\"344\" left=\"121\" width=\"290\" height=\"16\" font=\"14\">selhamento na incidência desta infecção. O </text>\n<text top=\"362\" left=\"121\" width=\"290\" height=\"16\" font=\"14\">projeto também tem como objetivos avaliar </text>\n<text top=\"379\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">a possibilidade de acompanhamento a longo </text>\n<text top=\"397\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">prazo desta coorte e sua utilização em ensaio </text>\n<text top=\"415\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">clínico de vacina anti-HIV, como parte inte-</text>\n<text top=\"433\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">grante do Plano Nacional Vacinas Anti-HIV, </text>\n<text top=\"450\" left=\"121\" width=\"153\" height=\"16\" font=\"14\">do Ministério da Saúde.</text>\n<text top=\"469\" left=\"121\" width=\"127\" height=\"14\" font=\"21\">Promoção da saúde",
+        "Conceito": "Promoção da saúde",
         "Categoria": "Promoção e Educação em Saúde"
     },
     {
@@ -2153,7 +2161,7 @@
     },
     {
         "Conceito": "Prontuário médico",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Propaganda de produtos farmacêuticos",
@@ -2168,7 +2176,7 @@
         "Categoria": "Ciência e Tecnologia em Saúde"
     },
     {
-        "Conceito": "Proposta de concorrência</text>\n<text top=\"646\" left=\"427\" width=\"87\" height=\"16\" font=\"14\">Ver Licitação.</text>\n<text top=\"665\" left=\"427\" width=\"80\" height=\"14\" font=\"21\">Psicotrópico",
+        "Conceito": "Psicotrópico",
         "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
@@ -2176,11 +2184,11 @@
         "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Promoção da saúde</text>\n<text top=\"257\" left=\"193\" width=\"44\" height=\"14\" font=\"25\">Pureza</text>\n<text top=\"426\" left=\"176\" width=\"111\" height=\"14\" font=\"21\">Quadro de metas",
-        "Categoria": "Administração e Planejamento em"
+        "Conceito": "Quadro de metas",
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
-        "Conceito": "Qualiﬁ cação proﬁ ssional",
+        "Conceito": "Qualiﬁcação proﬁ ssional",
         "Categoria": "Recursos Humanos em Saúde Pública"
     },
     {
@@ -2208,7 +2216,7 @@
         "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Rede Nacional de Genotipagem </text>\n<text top=\"643\" left=\"483\" width=\"76\" height=\"14\" font=\"21\">(Renageno)",
+        "Conceito": "Rede Nacional de Genotipagem (Renageno)",
         "Categoria": "Atenção à Saúde"
     },
     {
@@ -2217,7 +2225,7 @@
     },
     {
         "Conceito": "Redes regionais",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Redes sociais",
@@ -2228,15 +2236,15 @@
         "Categoria": "Drogas de Uso Terapêutico e Social"
     },
     {
-        "Conceito": "Redução de demandas reprimidas</text>\n<text top=\"380\" left=\"427\" width=\"82\" height=\"16\" font=\"14\">Ver Mutirão.</text>\n<text top=\"399\" left=\"427\" width=\"271\" height=\"14\" font=\"21\">Reforço à reorganização do sistema único </text>\n<text top=\"417\" left=\"427\" width=\"58\" height=\"14\" font=\"21\">de saúde</text>\n<text top=\"434\" left=\"427\" width=\"84\" height=\"16\" font=\"14\">Ver Reforsus.</text>\n<text top=\"453\" left=\"427\" width=\"56\" height=\"14\" font=\"21\">Reforsus",
-        "Categoria": "Administração e Planejamento em"
+        "Conceito": "Reforsus",
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Região de saúde",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
-        "Conceito": "Redes regionais</text>\n<text top=\"257\" left=\"193\" width=\"104\" height=\"14\" font=\"25\">Região de saúde</text>\n<text top=\"309\" left=\"176\" width=\"130\" height=\"14\" font=\"21\">Registro de produto",
+        "Conceito": "Registro de produto",
         "Categoria": "Direito Sanitário"
     },
     {
@@ -2248,16 +2256,16 @@
         "Categoria": "Saúde Animal. Vigilância em Saúde"
     },
     {
-        "Conceito": "Relação Nacional de Medicamentos </text>\n<text top=\"705\" left=\"176\" width=\"130\" height=\"14\" font=\"21\">Essenciais (Rename)",
+        "Conceito": "Relação Nacional de Medicamentos Essenciais (Rename)",
         "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
         "Conceito": "Relatório de gestão",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Relatório de vistoria",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Remuneração por serviços produzidos",
@@ -2268,8 +2276,8 @@
         "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Registro de produto</text>\n<text top=\"257\" left=\"547\" width=\"148\" height=\"14\" font=\"25\">Reposição de nicotina</text>\n<text top=\"308\" left=\"121\" width=\"292\" height=\"16\" font=\"14\">concentração sérica de nicotina após o </text>\n<text top=\"326\" left=\"121\" width=\"139\" height=\"16\" font=\"14\">abandono do cigarro.</text>\n<text top=\"345\" left=\"121\" width=\"97\" height=\"14\" font=\"21\">Resolutividade",
-        "Categoria": "Administração e Planejamento em"
+        "Conceito": "Resolutividade",
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Retinopatia diabética",
@@ -2292,7 +2300,7 @@
         "Categoria": "Ambiente e Saúde"
     },
     {
-        "Conceito": "Resolutividade</text>\n<text top=\"257\" left=\"193\" width=\"38\" height=\"14\" font=\"25\">Ruído</text>\n<text top=\"426\" left=\"176\" width=\"148\" height=\"14\" font=\"21\">Salubridade ambiental",
+        "Conceito": "Salubridade ambiental",
         "Categoria": "Ambiente e Saúde"
     },
     {
@@ -2316,7 +2324,7 @@
         "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Saúde da Família</text>\n<text top=\"894\" left=\"483\" width=\"203\" height=\"16\" font=\"14\">Ver Programa Saúde da Família.</text>\n<text top=\"913\" left=\"483\" width=\"109\" height=\"14\" font=\"21\">Saúde da Mulher",
+        "Conceito": "Saúde da Mulher",
         "Categoria": "Atenção à Saúde"
     },
     {
@@ -2332,8 +2340,8 @@
         "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Saúde Infantil</text>\n<text top=\"912\" left=\"121\" width=\"132\" height=\"16\" font=\"14\">Ver Saúde da criança</text>\n<text top=\"931\" left=\"121\" width=\"132\" height=\"14\" font=\"21\">Secretaria-Executiva",
-        "Categoria": "Administração e Planejamento em"
+        "Conceito": "Secretaria-Executiva",
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Segurança alimentar",
@@ -2352,15 +2360,15 @@
         "Categoria": "Acidentes e Violência"
     },
     {
-        "Conceito": "Saúde do Adolescente e do Jovem</text>\n<text top=\"257\" left=\"193\" width=\"178\" height=\"14\" font=\"25\">Sexo forçado no casamento</text>\n<text top=\"309\" left=\"176\" width=\"80\" height=\"14\" font=\"21\">Sexualidade",
+        "Conceito": "Sexualidade",
         "Categoria": "Ciências Sociais em Saúde"
     },
     {
-        "Conceito": "Síﬁ lis",
+        "Conceito": "Síﬁlis",
         "Categoria": "Doenças"
     },
     {
-        "Conceito": "Síﬁ lis congênita",
+        "Conceito": "Síﬁlis congênita",
         "Categoria": "Doenças"
     },
     {
@@ -2372,7 +2380,7 @@
         "Categoria": "Acidentes e Violência"
     },
     {
-        "Conceito": "Síndrome da Imunodeﬁ ciência Adquirida</text>\n<text top=\"455\" left=\"483\" width=\"58\" height=\"16\" font=\"14\">Ver Aids.</text>\n<text top=\"474\" left=\"483\" width=\"273\" height=\"14\" font=\"21\">Síndrome de Munchausen por Provocação",
+        "Conceito": "Síndrome de Munchausen por Provocação",
         "Categoria": "Acidentes e Violência"
     },
     {
@@ -2384,67 +2392,75 @@
         "Categoria": "Ciências Sociais em Saúde"
     },
     {
-        "Conceito": "Sexualidade</text>\n<text top=\"257\" left=\"575\" width=\"120\" height=\"14\" font=\"25\">Sistema de gênero</text>\n<text top=\"309\" left=\"121\" width=\"282\" height=\"14\" font=\"21\">Sistema de Informação de HIV Soropositivo </text>\n<text top=\"327\" left=\"121\" width=\"92\" height=\"14\" font=\"21\">Assintomático",
+        "Conceito": "Sistema de Informação de HIV Soropositivo Assintomático",
         "Categoria": "Ciência e Tecnologia em Saúde"
     },
     {
-        "Conceito": "Sistema de Informações do Programa </text>\n<text top=\"561\" left=\"121\" width=\"212\" height=\"14\" font=\"21\">Nacional de Imunizações (SI-PNI)",
-        "Categoria": "Administração e Planejamento em"
+        "Conceito": "Sistema de Informações do Programa Nacional de Imunizações (SI-PNI)</text>\n<text top=\"561\" left=\"121\" width=\"212\" height=\"14\" font=\"21\">Nacional de Imunizações (SI-PNI)",
+        "Categoria": "Ciência e Tecnologia em Saúde"
     },
     {
-        "Conceito": "Sistema de Informações sobre Agravos de </text>\n<text top=\"705\" left=\"121\" width=\"122\" height=\"14\" font=\"21\">Notiﬁ cação (Sinan)",
-        "Categoria": "Administração e Planejamento em"
+        "Conceito": "Sistema de Informações sobre Agravos de Notiﬁcação (Sinan)",
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
-        "Conceito": "Sistema de Informações sobre Orçamentos </text>\n<text top=\"723\" left=\"427\" width=\"169\" height=\"14\" font=\"21\">Públicos em Saúde (Siops)",
-        "Categoria": "Administração e Planejamento em"
+        "Conceito": "Sistema de Informações Ambulatoriais (SIA-SUS)",
+        "Categoria": "Ciência e Tecnologia em Saúde"
     },
     {
-        "Conceito": "Sistema de Informações </text>\n<text top=\"849\" left=\"427\" width=\"155\" height=\"14\" font=\"21\">Ambulatoriais (SIA-SUS)",
-        "Categoria": "Administração e Planejamento em"
+        "Conceito": "Sistema de Informações da Atenção Básica (Siab)",
+        "Categoria": "Ciência e Tecnologia em Saúde"
     },
     {
-        "Conceito": "Sistema de Informação de HIV Soropositivo Assintomático</text>\n<text top=\"257\" left=\"193\" width=\"312\" height=\"14\" font=\"25\">Sistema de Informações Ambulatoriais (SIA-SUS)</text>\n<text top=\"308\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">torial (RCA), gerenciamento da capacidade </text>\n<text top=\"326\" left=\"176\" width=\"290\" height=\"16\" font=\"14\">instalada e produzida; gerenciamento dos </text>\n<text top=\"344\" left=\"176\" width=\"290\" height=\"16\" font=\"14\">recursos ﬁ nanceiros orçados e repassados </text>\n<text top=\"362\" left=\"176\" width=\"180\" height=\"16\" font=\"14\">aos prestadores de serviços.</text>\n<text top=\"381\" left=\"176\" width=\"243\" height=\"14\" font=\"21\">Sistema de Informações da Atenção </text>\n<text top=\"399\" left=\"176\" width=\"84\" height=\"14\" font=\"21\">Básica (Siab)",
-        "Categoria": "Administração e Planejamento"
+        "Conceito": "Sistemas de Informações Hospitalares do SUS (SIH-SUS)",
+        "Categoria": "Ciência e Tecnologia em Saúde"
     },
     {
-        "Conceito": "Sistemas de Informações Hospitalares do </text>\n<text top=\"615\" left=\"176\" width=\"93\" height=\"14\" font=\"21\">SUS (SIH-SUS)",
-        "Categoria": "Administração e Planejamento"
+        "Conceito": "Sistema de Informações sobre Agravos de Notiﬁcação (Sinan)",
+        "Categoria": "Ciência e Tecnologia em Saúde"
     },
     {
-        "Conceito": "Sistema de Informações sobre Agravos de </text>\n<text top=\"957\" left=\"176\" width=\"122\" height=\"14\" font=\"21\">Notiﬁ cação (Sinan)",
-        "Categoria": "Administração e Planejamento"
+        "Conceito": "Sistema de Informações sobre Mortalidade (SIM)",
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
-        "Conceito": "Sistema de Informações sobre </text>\n<text top=\"453\" left=\"483\" width=\"116\" height=\"14\" font=\"21\">Mortalidade (SIM)",
-        "Categoria": "Administração e Planejamento em"
-    },
-    {
-        "Conceito": "Sistema de Informações sobre Nascidos </text>\n<text top=\"615\" left=\"483\" width=\"88\" height=\"14\" font=\"21\">Vivos (Sinasc)",
-        "Categoria": "Administração e Planejamento em"
+        "Conceito": "Sistema de Informações sobre Nascidos Vivos (Sinasc)",
+        "Categoria": "Ciência e Tecnologia em Saúde"
     },
     {
         "Conceito": "Sistemas de Informação",
-        "Categoria": "Administração e Planejamento"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Sistemas de Informação em Saúde",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
-        "Conceito": "Sistema de Informações da Atenção Básica (Siab)</text>\n<text top=\"257\" left=\"538\" width=\"157\" height=\"14\" font=\"25\">Sistemas de Informação</text>\n<text top=\"308\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">lisar dados necessários a deﬁ nição de proble-</text>\n<text top=\"326\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">mas e riscos para a saúde, avaliar a eﬁ cácia, </text>\n<text top=\"344\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">eﬁ ciência e inﬂ uência que os serviços presta-</text>\n<text top=\"362\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">dos possam ter no estado de saúde da popu-</text>\n<text top=\"380\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">lação, além de contribuir para a produção de </text>\n<text top=\"398\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">conhecimentos acerca da saúde e dos assun-</text>\n<text top=\"416\" left=\"121\" width=\"103\" height=\"16\" font=\"14\">tos a ela ligados.</text>\n<text top=\"435\" left=\"121\" width=\"195\" height=\"14\" font=\"21\">Sistema Nacional de Auditoria",
-        "Categoria": "Administração e Planejamento em"
+        "Conceito": "Sistema Nacional de Auditoria",
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
-        "Conceito": "Sistema Nacional de Laboratórios de </text>\n<text top=\"687\" left=\"121\" width=\"191\" height=\"14\" font=\"21\">Sorologia para HIV (Sinalaids)",
-        "Categoria": "Administração e Planejamento em"
+        "Conceito": "Sistema Nacional de Laboratórios de Sorologia para HIV (Sinalaids)",
+        "Categoria": "Atenção à Saúde"
     },
     {
         "Conceito": "Sistema Único de Saúde (SUS)",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
-        "Conceito": "Sistemas Formais de Cuidados</text>\n<text top=\"380\" left=\"427\" width=\"59\" height=\"16\" font=\"16\">Categoria</text>\n<text top=\"380\" left=\"486\" width=\"109\" height=\"16\" font=\"14\"> Atenção à Saúde</text>\n<text top=\"398\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">São integrados por proﬁ ssionais e instituições </text>\n<text top=\"416\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">que realizam este atendimento sob a forma de </text>\n<text top=\"434\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">prestação de serviço. Os cuidados são presta-</text>\n<text top=\"452\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">dos por pessoa ou agências comunitárias con-</text>\n<text top=\"470\" left=\"427\" width=\"105\" height=\"16\" font=\"14\">tratadas para tal.</text>\n<text top=\"489\" left=\"427\" width=\"205\" height=\"14\" font=\"21\">Sistemas Informais de Cuidados</text>\n<text top=\"506\" left=\"427\" width=\"59\" height=\"16\" font=\"16\">Categoria</text>\n<text top=\"506\" left=\"486\" width=\"109\" height=\"16\" font=\"14\"> Atenção à Saúde</text>\n<text top=\"524\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">São constituídos por pessoas da família, ami-</text>\n<text top=\"542\" left=\"427\" width=\"291\" height=\"16\" font=\"14\">gos próximos e vizinhos, frequentemente </text>\n<text top=\"560\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">mulheres, que exercem tarefas de apoio e cui-</text>\n<text top=\"578\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">dados voluntários para suprir a incapacidade </text>\n<text top=\"596\" left=\"427\" width=\"123\" height=\"16\" font=\"14\">funcional do idoso.</text>\n<text top=\"615\" left=\"427\" width=\"117\" height=\"14\" font=\"21\">Solvente orgânico</text>\n<text top=\"632\" left=\"427\" width=\"59\" height=\"16\" font=\"16\">Categoria</text>\n<text top=\"632\" left=\"486\" width=\"119\" height=\"16\" font=\"14\"> Ambiente e Saúde</text>\n<text top=\"650\" left=\"427\" width=\"291\" height=\"16\" font=\"14\">Nome genérico atribuído a um grupo de </text>\n<text top=\"668\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">substâncias químicas líquidas à temperatu-</text>\n<text top=\"686\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">ra ambiente, com características físico-quí-</text>\n<text top=\"704\" left=\"427\" width=\"291\" height=\"16\" font=\"14\">micas (volatilidade, lipossolubilidade) que </text>\n<text top=\"722\" left=\"427\" width=\"290\" height=\"16\" font=\"14\">tornam o risco tóxico bastante variável. São </text>\n<text top=\"740\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">empregados com solubilizantes, dispersantes </text>\n<text top=\"758\" left=\"427\" width=\"290\" height=\"16\" font=\"14\">ou diluentes, de modo amplo em diferentes </text>\n<text top=\"776\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">processos industriais, no meio rural e em la-</text>\n<text top=\"794\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">boratórios químicos, como substâncias puras </text>\n<text top=\"812\" left=\"427\" width=\"93\" height=\"16\" font=\"14\">ou misturadas.</text>\n<text top=\"831\" left=\"427\" width=\"96\" height=\"14\" font=\"21\">Soroconversão",
+        "Conceito": "Sistemas Formais de Cuidados",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Sistemas Informais de Cuidados",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Solvente orgânico",
+        "Categoria": "Ambiente e Saúde"
+    },
+    {
+        "Conceito": "Soroconversão",
         "Categoria": "Doenças"
     },
     {
@@ -2452,7 +2468,7 @@
         "Categoria": "Doenças"
     },
     {
-        "Conceito": "Sistemas de Informação em Saúde</text>\n<text top=\"257\" left=\"193\" width=\"96\" height=\"14\" font=\"25\">Soroconversão</text>\n<text top=\"308\" left=\"176\" width=\"290\" height=\"16\" font=\"14\">Expressão usada para identiﬁ car os doentes </text>\n<text top=\"326\" left=\"176\" width=\"60\" height=\"16\" font=\"14\">com aids.</text>\n<text top=\"345\" left=\"176\" width=\"105\" height=\"14\" font=\"21\">Soroprevalência",
+        "Conceito": "Soroprevalência",
         "Categoria": "Epidemiologia"
     },
     {
@@ -2476,7 +2492,7 @@
         "Categoria": "Promoção e Educação em Saúde"
     },
     {
-        "Conceito": "Soropositivo</text>\n<text top=\"257\" left=\"603\" width=\"92\" height=\"14\" font=\"25\">Suporte social</text>\n<text top=\"426\" left=\"176\" width=\"98\" height=\"14\" font=\"21\">Taxa de ataque",
+        "Conceito": "Taxa de ataque",
         "Categoria": "Epidemiologia"
     },
     {
@@ -2485,7 +2501,7 @@
     },
     {
         "Conceito": "Termo de compromisso",
-        "Categoria": "Administração e Planejamento em"
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Testagem sorológica",
@@ -2496,11 +2512,11 @@
         "Categoria": "Doenças"
     },
     {
-        "Conceito": "Teto Financeiro da Assistência do Estado </text>\n<text top=\"517\" left=\"483\" width=\"41\" height=\"14\" font=\"21\">(TFAE)",
+        "Conceito": "Teto Financeiro da Assistência do Estado",
         "Categoria": "Economia de Saúde"
     },
     {
-        "Conceito": "Teto Financeiro da Assistência do Município </text>\n<text top=\"679\" left=\"483\" width=\"46\" height=\"14\" font=\"21\">(TFAM)",
+        "Conceito": "Teto Financeiro da Assistência do Município",
         "Categoria": "Economia de Saúde"
     },
     {
@@ -2524,11 +2540,11 @@
         "Categoria": "Doenças"
     },
     {
-        "Conceito": "Transição demográﬁ ca",
-        "Categoria": "Demograﬁ a"
+        "Conceito": "Transição demográﬁca",
+        "Categoria": "Demograﬁa"
     },
     {
-        "Conceito": "Transmissão direta</text>\n<text top=\"362\" left=\"427\" width=\"89\" height=\"16\" font=\"14\">Ver Contágio.</text>\n<text top=\"381\" left=\"427\" width=\"170\" height=\"14\" font=\"21\">Transmissão vertical (aids)",
+        "Conceito": "Transmissão vertical (aids)",
         "Categoria": "Doenças"
     },
     {
@@ -2536,23 +2552,23 @@
         "Categoria": "Ética e Bioética"
     },
     {
-        "Conceito": "Transtornos alimentares</text>\n<text top=\"596\" left=\"427\" width=\"173\" height=\"16\" font=\"14\">Ver Distúrbios alimentares.</text>\n<text top=\"615\" left=\"427\" width=\"79\" height=\"14\" font=\"21\">Tuberculose",
+        "Conceito": "Tuberculose",
         "Categoria": "Doenças"
     },
     {
-        "Conceito": "Trabalhador coletivo</text>\n<text top=\"257\" left=\"193\" width=\"79\" height=\"14\" font=\"25\">Tuberculose</text>\n<text top=\"426\" left=\"176\" width=\"161\" height=\"14\" font=\"21\">Unidade básica de saúde</text>\n<text top=\"443\" left=\"176\" width=\"216\" height=\"16\" font=\"14\">Ver Unidade de Saúde da Família.</text>\n<text top=\"462\" left=\"176\" width=\"187\" height=\"14\" font=\"21\">Unidade de Saúde da Família",
+        "Conceito": "Unidade de Saúde da Família",
         "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Unidade integrada</text>\n<text top=\"641\" left=\"176\" width=\"123\" height=\"16\" font=\"14\">Ver Unidade mista.</text>\n<text top=\"660\" left=\"176\" width=\"94\" height=\"14\" font=\"21\">Unidade Mista",
-        "Categoria": "Administração e Planejamento em"
+        "Conceito": "Unidade Mista",
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
         "Conceito": "Unidade Sanitária",
         "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Unidade Territorial de Qualiﬁ cação na </text>\n<text top=\"894\" left=\"176\" width=\"126\" height=\"14\" font=\"21\">Assistência à Saúde",
+        "Conceito": "Unidade Territorial de Qualiﬁ cação na Assistência à Saúde",
         "Categoria": "Políticas Públicas e Saúde"
     },
     {
@@ -2580,7 +2596,7 @@
         "Categoria": "Drogas de Uso Terapêutico e Social"
     },
     {
-        "Conceito": "Uso racional de medicamentos</text>\n<text top=\"257\" left=\"193\" width=\"215\" height=\"14\" font=\"25\">Usuários de Droga Injetável (UDI)</text>\n<text top=\"426\" left=\"176\" width=\"102\" height=\"14\" font=\"21\">Vegetarianismo",
+        "Conceito": "Vegetarianismo",
         "Categoria": "Alimentação e Nutrição"
     },
     {
@@ -2604,7 +2620,7 @@
         "Categoria": "Acidentes e Violência"
     },
     {
-        "Conceito": "Violência ﬁ nanceira</text>\n<text top=\"588\" left=\"483\" width=\"162\" height=\"16\" font=\"14\">Ver Violência econômica.</text>\n<text top=\"607\" left=\"483\" width=\"96\" height=\"14\" font=\"21\">Violência física",
+        "Conceito": "Violência física",
         "Categoria": "Acidentes e Violência"
     },
     {
