@@ -16,49 +16,29 @@ texto = re.sub(r'<text top="\d+" left="\d+" width="\d+" height="\d+" font="\d+">
 texto = re.sub(r'<text top="\d+" left="\d+" width="\d+" height="\d+" font="22">.</text>*\n?', '', texto)
 texto = re.sub (r"<i>*\n?", "", texto) #É preciso ser retirado isto porque há termos em ingles em italico 
 texto = re.sub (r"</i>*\n?", "", texto)
-
+texto = re.sub(r'</b>\n<b>(.*?)</b>\n', r'\1</b>\n', texto) 
 
 texto = re.sub (r"<b>*\n?", "", texto) 
 texto = re.sub (r"</b>*\n?", "", texto)
 
-
-def extrair_conceitos(texto):
-    padrao_conceito = re.findall(r'<text[^>]*font="21"[^>]*>(.*?)</text>', texto)
-    
-    conceitos = []
-    juntar = ""
-
-    for con in padrao_conceito:
-        con = con.strip()
-        if juntar:
-            juntar += " " + con
-            conceitos.append(juntar.strip())
-            juntar = ""
-        else:
-            juntar = con
-
-    if juntar:
-        conceitos.append(juntar.strip())
-    
-    return conceitos
-
-def extrair_categoria(texto):
-    match = re.search(
-        r'<text[^>]*font="16"[^>]*>\s*<i>Categoria:\s*</i>\s*</text>\s*'
-        r'<text[^>]*font="14"[^>]*>(.*?)</text>',
-        texto,
-        re.DOTALL
-    )
-    return match.group(1).strip() if match else None
-
+padrao_conceito_categoria = re.compile(
+    r'<text[^>]*font="21"[^>]*>(?P<conceito>.*?)</text>\s*'
+    r'<text[^>]*font="16"[^>]*>\s*(<i>)?Categoria:(</i>)?\s*</text>\s*'
+    r'<text[^>]*font="14"[^>]*>(?P<categoria>.*?)</text>',
+    re.DOTALL
+)
 
 resultado = []
 
-for conceito in extrair_conceitos(texto):
-    categoria = extrair_categoria(texto)
+for match in padrao_conceito_categoria.finditer(texto):
+    conceito = match.group("conceito").strip()
+    categoria = match.group("categoria").strip()
+    fim = match.end()
+    parte_pos_termo = texto[fim:fim+6500]
+
     resultado.append({
         "Conceito": conceito,
-        "Categoria": categoria
+        "Categoria": categoria,
     })
 
 

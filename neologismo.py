@@ -104,7 +104,6 @@ for match in padrao_conceito_substantivo.finditer(texto):
     conceito = match.group("conceito").strip()
     genero = match.group("substantivo")
     fim = match.end()
-
     parte_pos_termo = texto[fim:fim+6500]
 
     traducoes = extrair_traducoes(parte_pos_termo)

@@ -1,1622 +1,2622 @@
 [
     {
         "Conceito": "Abordagem médica tradicional do adulto hospitalizado",
-        "Categoria": null
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Abuso ﬁ nanceiro dos idosos Abuso incestuoso",
-        "Categoria": null
+        "Conceito": "Abuso ﬁnanceiro dos idosos",
+        "Categoria": "Acidentes e Violência"
     },
     {
-        "Conceito": "Abuso sexual na adolescência Abuso sexual na infância",
-        "Categoria": null
+        "Conceito": "Abuso incestuoso",
+        "Categoria": "Acidentes e Violência"
     },
     {
-        "Conceito": "Ação racional Acidentes ampliados",
-        "Categoria": null
+        "Conceito": "Abuso sexual na infância, Abuso sexual na adolescência",
+        "Categoria": "Acidentes e Violência"
     },
     {
-        "Conceito": "Acidentes de trabalho Acidentes de trabalho fatais",
-        "Categoria": null
+        "Conceito": "Ação racional",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Acidentes de trabalho graves Acidentes de trânsito",
-        "Categoria": null
+        "Conceito": "Acidentes ampliados",
+        "Categoria": "Acidentes e Violência"
     },
     {
-        "Conceito": "Acidentes de transporte Ácidos graxos",
-        "Categoria": null
+        "Conceito": "Acidentes de trabalho",
+        "Categoria": "Acidentes e Violência Atenção à"
     },
     {
-        "Conceito": "Ações estratégicas Acompanhamento do crescimento e",
-        "Categoria": null
+        "Conceito": "Acidentes de trabalho fatais",
+        "Categoria": "Acidentes e Violência"
     },
     {
-        "Conceito": "desenvolvimento infantil Aconselhamento",
-        "Categoria": null
+        "Conceito": "Acidentes de trabalho graves",
+        "Categoria": "Acidentes e Violência"
     },
     {
-        "Conceito": "Aconselhamento coletivo Acreditação hospitalar",
-        "Categoria": null
+        "Conceito": "Acidentes de trânsito",
+        "Categoria": "Acidentes e Violência"
     },
     {
-        "Conceito": "Acidentes de trabalho graves Adjuvante farmacêutico",
-        "Categoria": null
+        "Conceito": "Acidentes de transporte",
+        "Categoria": "Acidentes e Violência"
     },
     {
-        "Conceito": "Adolescente Agência Nacional de Saúde",
-        "Categoria": null
+        "Conceito": "Ácidos graxos",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Suplementar (ANS) Agenda de saúde",
-        "Categoria": null
+        "Conceito": "Ações estratégicas",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Agentes comunitários de saúde Aids",
-        "Categoria": null
+        "Conceito": "Acompanhamento do crescimento e desenvolvimento infantil",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "AIDS II Aids pediátrica",
-        "Categoria": null
+        "Conceito": "Aconselhamento",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Adjuvante farmacêutico Alcoólatra",
-        "Categoria": null
+        "Conceito": "Aconselhamento coletivo",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Alcoolismo Alimentação equilibrada",
-        "Categoria": null
+        "Conceito": "Acreditação hospitalar",
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
-        "Conceito": "Alimentação saudável Alimento artiﬁ cial",
-        "Categoria": null
+        "Conceito": "Adjuvante farmacêutico",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Alimento complementar Alimento dietético",
-        "Categoria": null
+        "Conceito": "Adolescente",
+        "Categoria": "Ciências Sociais em Saúde"
     },
     {
-        "Conceito": "Alimento Alimento integral",
-        "Categoria": null
+        "Conceito": "Agência Nacional de Saúde Suplementar (ANS)",
+        "Categoria": "Políticas Públicas e Saúde"
     },
     {
-        "Conceito": "Alta complexidade Amamentação exclusiva",
-        "Categoria": null
+        "Conceito": "Agenda de saúde",
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
-        "Conceito": "Alcoólatra Amebíase",
-        "Categoria": null
+        "Conceito": "Agentes comunitários de saúde",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Analgésico adjuvante Análise de controle",
-        "Categoria": null
+        "Conceito": "Aids",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Análise ﬁ scal Análise prévia",
-        "Categoria": null
+        "Conceito": "AIDS II",
+        "Categoria": "Economia de Saúde"
     },
     {
-        "Conceito": "Análogos de nucleosídeos Anemia",
-        "Categoria": null
+        "Conceito": "Aids pediátrica",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Anemia falciforme Anorexia nervosa",
-        "Categoria": null
+        "Conceito": "Alcoólatra",
+        "Categoria": "Drogas de Uso Terapêutico e Social"
     },
     {
-        "Conceito": "Antibiótico Antibioticoterapia",
-        "Categoria": null
+        "Conceito": "Alcoolismo",
+        "Categoria": "Drogas de Uso Terapêutico e Social"
     },
     {
-        "Conceito": "Amebíase Anticoncepção",
-        "Categoria": null
+        "Conceito": "Alimentação saudável, Alimentação equilibrada",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Anticoncepção de emergência Antimicrobiano",
-        "Categoria": null
+        "Conceito": "Alimento artiﬁcial",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Anti-retroviral Antraz",
-        "Categoria": null
+        "Conceito": "Alimento complementar",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Aprendizagem social ARC",
-        "Categoria": null
+        "Conceito": "Alimento dietético",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Artrite reumatóide Asbestose",
-        "Categoria": null
+        "Conceito": "Alimento in natura",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Asma Assistência à saúde",
-        "Categoria": null
+        "Conceito": "Alimento integral",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Anticoncepção Assistência ambulatorial",
-        "Categoria": null
+        "Conceito": "Alta complexidade",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Assistência aos trabalhadores Assistência farmacêutica",
-        "Categoria": null
+        "Conceito": "Amamentação exclusiva",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Assistência farmacêutica básica Atenção à saúde",
-        "Categoria": null
+        "Conceito": "Amebíase",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Atenção básica Atenção de alta complexidade",
-        "Categoria": null
+        "Conceito": "Analgésico adjuvante",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Análise de controle",
+        "Categoria": "Vigilância em Saúde"
+    },
+    {
+        "Conceito": "Análise ﬁscal",
+        "Categoria": "Vigilância em Saúde"
+    },
+    {
+        "Conceito": "Análise prévia",
+        "Categoria": "Vigilância em Saúde"
+    },
+    {
+        "Conceito": "Análogos de nucleosídeos",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Anemia",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Anemia falciforme",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Anorexia nervosa",
+        "Categoria": "Alimentação e Nutrição"
+    },
+    {
+        "Conceito": "Antibiótico",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Antibioticoterapia",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Anticoncepção de emergência",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Antimicrobiano",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Anti-retroviral",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Antraz",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Aprendizagem social",
+        "Categoria": "Ciências Sociais em Saúde"
+    },
+    {
+        "Conceito": "ARC",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Artrite reumatóide",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Asbestose",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Asma",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Assistência à saúde",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Assistência ambulatorial",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Assistência aos trabalhadores",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Assistência farmacêutica",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Assistência farmacêutica básica",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Atenção à saúde",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Atenção básica",
+        "Categoria": "Atenção à Saúde"
     },
     {
         "Conceito": "Atenção humanizada ao recém-nascido de baixo peso",
-        "Categoria": null
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Atendimento de recuperação e reabilitação Atendimento pré-hospitalar",
-        "Categoria": null
+        "Conceito": "Atendimento de recuperação e reabilitação",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Assistência ambulatorial Atendimento pré-hospitalar ﬁ xo",
-        "Categoria": null
+        "Conceito": "Atendimento pré-hospitalar",
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
-        "Conceito": "Atendimento pré-hospitalar móvel Atividade de Apoio Diagnóstico e Terapêutico",
-        "Categoria": null
+        "Conceito": "Atendimento pré-hospitalar ﬁxo",
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
-        "Conceito": "Auditoria analítica Auditoria operacional",
-        "Categoria": null
+        "Conceito": "Atendimento pré-hospitalar móvel",
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
-        "Conceito": "Automedicação Autonegligência",
-        "Categoria": null
+        "Conceito": "Atividade de Apoio Diagnóstico e Terapêutico",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Autoridade sanitária Autorização de exportação",
-        "Categoria": null
+        "Conceito": "Auditoria analítica",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Atendimento pré-hospitalar ﬁ xo Autorização de importação",
-        "Categoria": null
+        "Conceito": "Auditoria operacional",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Autorização de Internação Hospitalar (AIH) Autorização de modelo",
-        "Categoria": null
+        "Conceito": "Automedicação",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Autorização sanitária Avaliação",
-        "Categoria": null
+        "Conceito": "Autonegligência",
+        "Categoria": "Acidentes e Violência"
     },
     {
-        "Conceito": "Avaliação antropométrica Avaliação da saúde mental",
-        "Categoria": null
+        "Conceito": "Autoridade sanitária",
+        "Categoria": "Vigilância em Saúde"
     },
     {
-        "Conceito": "Azitodimidina AZT",
-        "Categoria": null
+        "Conceito": "Autorização de exportação",
+        "Categoria": "Direito Sanitário"
     },
     {
-        "Conceito": "Autorização de importação Baixo peso ao nascer",
-        "Categoria": null
+        "Conceito": "Autorização de importação",
+        "Categoria": "Direito Sanitário"
     },
     {
-        "Conceito": "Banco de leite humano Banco de preços em saúde-aids",
-        "Categoria": null
+        "Conceito": "Autorização de Internação Hospitalar (AIH)",
+        "Categoria": "Administração e Planejamento em Saúde"
+    },
+    {
+        "Conceito": "Autorização de modelo",
+        "Categoria": "Vigilância em Saúde"
+    },
+    {
+        "Conceito": "Autorização sanitária",
+        "Categoria": "Vigilância em Saúde"
+    },
+    {
+        "Conceito": "Avaliação",
+        "Categoria": "Administração e Planejamento em Saúde"
+    },
+    {
+        "Conceito": "Avaliação antropométrica",
+        "Categoria": "Alimentação e Nutrição"
+    },
+    {
+        "Conceito": "Avaliação da saúde mental",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "AZT, Azitodimidina",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Baixo peso ao nascer",
+        "Categoria": "Alimentação e Nutrição"
+    },
+    {
+        "Conceito": "Banco de leite humano",
+        "Categoria": "Alimentação e Nutrição"
+    },
+    {
+        "Conceito": "Banco de preços em saúde-aids",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
         "Conceito": "Banco de preços praticados na área hospitalar",
-        "Categoria": null
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Banco de preservativos Bancos de órgãos e tecidos",
-        "Categoria": null
+        "Conceito": "Banco de preservativos",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Bebedor moderado Bebedor-problema",
-        "Categoria": null
+        "Conceito": "Bancos de órgãos e tecidos",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Bem-estar nutricional Benzenismo",
-        "Categoria": null
+        "Conceito": "Bebedor moderado",
+        "Categoria": "Drogas de Uso Terapêutico e Social"
     },
     {
-        "Conceito": "Benzeno Biblioteca Virtual em Saúde",
-        "Categoria": null
+        "Conceito": "Bebedor-problema",
+        "Categoria": "Drogas de Uso Terapêutico e Social"
     },
     {
-        "Conceito": "Biblioteca viva Biodisponibilidade",
-        "Categoria": null
+        "Conceito": "Bem-estar nutricional",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Bioequivalência Bioética",
-        "Categoria": null
+        "Conceito": "Benzenismo",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Biossegurança Biotecnologia",
-        "Categoria": null
+        "Conceito": "Benzeno",
+        "Categoria": "Ambiente e Saúde"
     },
     {
-        "Conceito": "Bócio Bulimia",
-        "Categoria": null
+        "Conceito": "Biblioteca Virtual em Saúde",
+        "Categoria": "Comunicação em Saúde"
     },
     {
-        "Conceito": "Benzeno Cadastro Nacional dos Estabelecimentos de",
-        "Categoria": null
+        "Conceito": "Biblioteca viva",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Saúde (CNES) Camisinha",
-        "Categoria": null
+        "Conceito": "Biodisponibilidade",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Câncer de esôfago Câncer de estômago",
-        "Categoria": null
+        "Conceito": "Bioequivalência",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Câncer de mama Câncer de pâncreas",
-        "Categoria": null
+        "Conceito": "Bioética",
+        "Categoria": "Ética e Bioética"
     },
     {
-        "Conceito": "Câncer de pele Câncer de próstata",
-        "Categoria": null
+        "Conceito": "Biossegurança",
+        "Categoria": "Ciência e Tecnologia em Saúde"
     },
     {
-        "Conceito": "Câncer do colo do útero Câncer gástrico",
-        "Categoria": null
+        "Conceito": "Biotecnologia",
+        "Categoria": "Ciência e Tecnologia em Saúde"
     },
     {
-        "Conceito": "Cancerologia Cancro duro",
-        "Categoria": null
+        "Conceito": "Bócio",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Cancro mole Candidíase",
-        "Categoria": null
+        "Conceito": "Bulimia",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Câncer de próstata Carga viral",
-        "Categoria": null
+        "Conceito": "Cadastro Nacional dos Estabelecimentos de Saúde (CNES)",
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
-        "Conceito": "Cartão Nacional de Saúde Casas de Apoio para Mulheres em Situação",
-        "Categoria": null
+        "Conceito": "Câncer de esôfago",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "de Risco Catarata",
-        "Categoria": null
+        "Conceito": "Câncer de estômago, Câncer gástrico",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "CD4 Célula T4",
-        "Categoria": null
+        "Conceito": "Câncer de mama",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Célula T8 Centrais de Regulação Médica de Urgências",
-        "Categoria": null
+        "Conceito": "Câncer de pâncreas",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Carga viral Centrais Farmacêuticas",
-        "Categoria": null
+        "Conceito": "Câncer de pele",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Central Nacional de Transplante Centro de Atenção Psicossocial",
-        "Categoria": null
+        "Conceito": "Câncer de próstata",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Câncer do colo do útero",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Cancerologia",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Cancro duro",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Cancro mole",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Candidíase",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Carga viral",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Cartão Nacional de Saúde",
+        "Categoria": "Administração e Planejamento em Saúde"
+    },
+    {
+        "Conceito": "Casas de Apoio para Mulheres em Situação de Risco",
+        "Categoria": "Acidentes e Violência"
+    },
+    {
+        "Conceito": "Catarata",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "CD4",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Célula T4",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Célula T8",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Centrais de Regulação Médica de Urgências",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Centrais Farmacêuticas",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Central Nacional de Transplante",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Centro de Atenção Psicossocial",
+        "Categoria": "Atenção à Saúde"
     },
     {
         "Conceito": "Centro de Referência em Assistência à Saúde do Idoso",
-        "Categoria": null
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Centro de Orientação e Apoio Sorológico Centro de Saúde",
-        "Categoria": null
+        "Conceito": "Centro de Orientação e Apoio Sorológico",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Centro de Testagem e Aconselhamento em Aids",
-        "Categoria": null
+        "Conceito": "Centro de Saúde",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Centro Nacional de Epidemiologia (Cenepi) Centrais Farmacêuticas",
-        "Categoria": null
+        "Conceito": "Centro de Testagem e Aconselhamento </text>\n<text top=\"652\" left=\"427\" width=\"52\" height=\"14\" font=\"21\">em Aids",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Centro Nacional de Regulação de Alta Complexidade",
-        "Categoria": null
+        "Conceito": "Centro Nacional de Epidemiologia (Cenepi)",
+        "Categoria": "Ciência e Tecnologia em Saúde"
     },
     {
-        "Conceito": "Centro Regional de Especialidade Certiﬁ cação de Conformidade",
-        "Categoria": null
+        "Conceito": "Centrais Farmacêuticas</text>\n<text top=\"257\" left=\"193\" width=\"278\" height=\"14\" font=\"25\">Centro Nacional de Epidemiologia (Cenepi)</text>\n<text top=\"309\" left=\"176\" width=\"217\" height=\"14\" font=\"21\">Centro Nacional de Regulação de </text>\n<text top=\"327\" left=\"176\" width=\"123\" height=\"14\" font=\"21\">Alta Complexidade",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Certiﬁ cado de Boas Práticas de Fabricação Certiﬁ cado de Registro de Produto",
-        "Categoria": null
+        "Conceito": "Centro Regional de Especialidade",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Chumbo Ciência e tecnologia",
-        "Categoria": null
+        "Conceito": "Certiﬁ cação de Conformidade",
+        "Categoria": "Vigilância em Saúde"
     },
     {
-        "Conceito": "Citomegalovírus Centro Nacional de Regulação de Alta Complexidade",
-        "Categoria": null
+        "Conceito": "Certiﬁ cado de Boas Práticas de Fabricação",
+        "Categoria": "Direito Sanitário"
     },
     {
-        "Conceito": "Citopatologia Clamidiose",
-        "Categoria": null
+        "Conceito": "Certiﬁ cado de Registro de Produto",
+        "Categoria": "Direito Sanitário"
     },
     {
-        "Conceito": "Climatério Cobertura de serviços de saúde",
-        "Categoria": null
+        "Conceito": "Chumbo",
+        "Categoria": "Ambiente e Saúde"
     },
     {
-        "Conceito": "Coeﬁ ciente de morbidade Coeﬁ ciente de natalidade",
-        "Categoria": null
+        "Conceito": "Ciência e tecnologia",
+        "Categoria": "Ciência e Tecnologia em Saúde"
     },
     {
-        "Conceito": "Cólera Colesterol",
-        "Categoria": null
+        "Conceito": "Citomegalovírus",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Comando único Citopatologia",
-        "Categoria": null
+        "Conceito": "Centro Nacional de Regulação de Alta Complexidade</text>\n<text top=\"257\" left=\"588\" width=\"107\" height=\"14\" font=\"25\">Citomegalovírus</text>\n<text top=\"308\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">ralisia cerebral. Nos indivíduos imunocom-</text>\n<text top=\"326\" left=\"121\" width=\"290\" height=\"16\" font=\"14\">prometidos, pode provocar doenças grave, o </text>\n<text top=\"344\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">que, por sua vez, pode levar à cegueira e mes-</text>\n<text top=\"362\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">mo à morte. Nos pacientes com aids são mais </text>\n<text top=\"380\" left=\"121\" width=\"290\" height=\"16\" font=\"14\">comuns o comprometimento da retina, do </text>\n<text top=\"398\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">trato digestivo e do sistema nervoso central.</text>\n<text top=\"417\" left=\"121\" width=\"89\" height=\"14\" font=\"21\">Citopatologia",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Comissão Intergestores Bipartite Comissão Intergestores Tripartite",
-        "Categoria": null
+        "Conceito": "Clamidiose",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Comissões Intergestores Comissões Intersetoriais",
-        "Categoria": null
+        "Conceito": "Climatério",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Componente Comportamento sexual",
-        "Categoria": null
+        "Conceito": "Cobertura de serviços de saúde",
+        "Categoria": "Administração e Planejamento em Saúde"
     },
     {
-        "Conceito": "Composição dos alimentos Composição populacional",
-        "Categoria": null
+        "Conceito": "Coeﬁ ciente de morbidade",
+        "Categoria": "Epidemiologia"
     },
     {
-        "Conceito": "Comunicação de Acidente do Trabalho Comissão Intergestores Bipartite",
-        "Categoria": null
+        "Conceito": "Coeﬁ ciente de natalidade",
+        "Categoria": "Epidemiologia"
     },
     {
-        "Conceito": "Comunidades terapêuticas Concentração",
-        "Categoria": null
+        "Conceito": "Cólera",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Condiloma acuminado Conselho de Secretários Municipais",
-        "Categoria": null
+        "Conceito": "Colesterol",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "de Saúde (Cosems) Conselho Estadual de Saúde",
-        "Categoria": null
+        "Conceito": "Comando único",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Conselho Municipal de Saúde Conselho Nacional de Saúde (CNS)",
-        "Categoria": null
+        "Conceito": "Citopatologia</text>\n<text top=\"257\" left=\"193\" width=\"102\" height=\"14\" font=\"25\">Comando único</text>\n<text top=\"308\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">trativa. O objetivo ﬁ nal é que cada esfera de </text>\n<text top=\"326\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">governo seja capaz de assumir a responsabili-</text>\n<text top=\"344\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">dade sanitária plena para melhorar a qualida-</text>\n<text top=\"362\" left=\"176\" width=\"207\" height=\"16\" font=\"14\">de de vida e saúde da população.</text>\n<text top=\"381\" left=\"176\" width=\"211\" height=\"14\" font=\"21\">Comissão Intergestores Bipartite",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Conselho Nacional de Secretários Estaduais de Saúde (Conass)",
-        "Categoria": null
+        "Conceito": "Comissão Intergestores Tripartite",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Conselho Nacional de Secretários Municipais de Saúde (Conasems)",
-        "Categoria": null
+        "Conceito": "Comissões Intergestores",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Comunidades terapêuticas Conselho Tutelar",
-        "Categoria": null
+        "Conceito": "Comissões Intersetoriais",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Conselhos de Defesa dos Direitos da Criança e do Adolescente",
-        "Categoria": null
+        "Conceito": "Componente",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Conselho de Saúde Conselhos dos Direitos da Mulher",
-        "Categoria": null
+        "Conceito": "Comportamento sexual",
+        "Categoria": "Ciências Sociais e Saúde"
     },
     {
-        "Conceito": "Consórcios Intermunicipais Consulta geriátrica",
-        "Categoria": null
+        "Conceito": "Composição dos alimentos",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Contágio Conselho Nacional de Secretários Municipais de Saúde (Conasems)",
-        "Categoria": null
+        "Conceito": "Composição populacional",
+        "Categoria": "Demograﬁ a"
     },
     {
-        "Conceito": "Contra-referência Contrato de compra de serviços",
-        "Categoria": null
+        "Conceito": "Comunicação de Acidente do Trabalho",
+        "Categoria": "Acidentes e Violência"
     },
     {
-        "Conceito": "Contrato de gestão Controle assistencial",
-        "Categoria": null
+        "Conceito": "Comissão Intergestores Bipartite</text>\n<text top=\"257\" left=\"447\" width=\"248\" height=\"14\" font=\"25\">Comunicação de Acidente do Trabalho</text>\n<text top=\"309\" left=\"121\" width=\"173\" height=\"14\" font=\"21\">Comunidades terapêuticas",
+        "Categoria": "Drogas de Uso Terapêutico e Social"
     },
     {
-        "Conceito": "Controle de endemias Controle de qualidade",
-        "Categoria": null
+        "Conceito": "Concentração",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Controle químico Controle social",
-        "Categoria": null
+        "Conceito": "Condiloma acuminado",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Convênios Contágio",
-        "Categoria": null
+        "Conceito": "Conselho de Secretários Municipais </text>\n<text top=\"687\" left=\"121\" width=\"122\" height=\"14\" font=\"21\">de Saúde (Cosems)",
+        "Categoria": "Políticas Públicas e Saúde"
     },
     {
-        "Conceito": "Cooperativas médicas Coorte",
-        "Categoria": null
+        "Conceito": "Conselho Estadual de Saúde",
+        "Categoria": "Políticas Públicas e Saúde"
     },
     {
-        "Conceito": "Coqueluche Coquetel anti-aids",
-        "Categoria": null
+        "Conceito": "Conselho Municipal de Saúde",
+        "Categoria": "Políticas Públicas e Saúde"
     },
     {
-        "Conceito": "Corantes de medicamentos Correlato",
-        "Categoria": null
+        "Conceito": "Conselho Nacional de Saúde (CNS)</text>\n<text top=\"506\" left=\"427\" width=\"59\" height=\"16\" font=\"16\">Categoria</text>\n<text top=\"506\" left=\"486\" width=\"170\" height=\"16\" font=\"14\">: Políticas Públicas e Saúde</text>\n<text top=\"524\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">Órgão especíﬁ co do Ministério da Saúde for-</text>\n<text top=\"542\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">mado por 32 conselheiros titulares com seus </text>\n<text top=\"560\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">respectivos suplentes, representantes de enti-</text>\n<text top=\"578\" left=\"427\" width=\"290\" height=\"16\" font=\"14\">dades e instituições dos segmentos governo, </text>\n<text top=\"596\" left=\"427\" width=\"291\" height=\"16\" font=\"14\">prestadores de serviços privados de saúde, </text>\n<text top=\"614\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">proﬁ ssionais de saúde e usuários. Tem como </text>\n<text top=\"632\" left=\"427\" width=\"290\" height=\"16\" font=\"14\">objetivo atuar na formulação e controle da </text>\n<text top=\"650\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">execução da política nacional de saúde, inclu-</text>\n<text top=\"668\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">sive nos aspectos econômicos e ﬁ nanceiros, </text>\n<text top=\"686\" left=\"427\" width=\"290\" height=\"16\" font=\"14\">nas estratégias e na promoção do processo </text>\n<text top=\"704\" left=\"427\" width=\"290\" height=\"16\" font=\"14\">de controle social em toda a sua amplitude, </text>\n<text top=\"722\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">no âmbito dos setores público e privado. As </text>\n<text top=\"740\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">entidades com representação no CNS foram </text>\n<text top=\"758\" left=\"427\" width=\"291\" height=\"16\" font=\"14\">deﬁ nidas no Decreto 1.448, de 6 de abril </text>\n<text top=\"776\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">de 1995. A composição é paritária a ﬁ m de </text>\n<text top=\"794\" left=\"427\" width=\"276\" height=\"16\" font=\"14\">manter equilíbrio dos interesses envolvidos.</text>\n<text top=\"813\" left=\"427\" width=\"283\" height=\"14\" font=\"21\">Conselho Nacional de Secretários Estaduais </text>\n<text top=\"831\" left=\"427\" width=\"118\" height=\"14\" font=\"21\">de Saúde (Conass)",
+        "Categoria": "Políticas Públicas e Saúde"
     },
     {
-        "Conceito": "Corrimento Crenças em saúde",
-        "Categoria": null
+        "Conceito": "Conselho Nacional de Secretários </text>\n<text top=\"957\" left=\"427\" width=\"212\" height=\"14\" font=\"21\">Municipais de Saúde (Conasems)",
+        "Categoria": "Políticas Públicas e Saúde"
     },
     {
-        "Conceito": "Crescimento Cooperativas médicas",
-        "Categoria": null
+        "Conceito": "Comunidades terapêuticas</text>\n<text top=\"257\" left=\"193\" width=\"401\" height=\"14\" font=\"25\">Conselho Nacional de Secretários Estaduais de Saúde (Conass)</text>\n<text top=\"308\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">Organização não-governamental que repre-</text>\n<text top=\"326\" left=\"176\" width=\"291\" height=\"16\" font=\"14\">senta potencialmente todos os secretários </text>\n<text top=\"344\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">municipais de saúde do País e serve de in-</text>\n<text top=\"362\" left=\"176\" width=\"291\" height=\"16\" font=\"14\">terlocutor oficial do Ministério da Saúde </text>\n<text top=\"380\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">com relação à política de saúde. A Lei 8.142, </text>\n<text top=\"398\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">de 1990, ao tratar da participação social no </text>\n<text top=\"416\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">SUS deﬁ ne o Conasems como representan-</text>\n<text top=\"434\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">te dos municípios no Conselho Nacional de </text>\n<text top=\"452\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">Saúde. O Conasems é membro da Comissão </text>\n<text top=\"470\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">Intergestores Tripartite. A fundação do Co-</text>\n<text top=\"488\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">nasems é fruto do movimento municipalista </text>\n<text top=\"506\" left=\"176\" width=\"290\" height=\"16\" font=\"14\">da saúde, no próprio contexto que originou </text>\n<text top=\"524\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">o SUS. Este movimento é precedido de di-</text>\n<text top=\"542\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">versos encontros nacionais e regionais de Se-</text>\n<text top=\"560\" left=\"176\" width=\"290\" height=\"16\" font=\"14\">cretários Municipais de Saúde desde 1978, </text>\n<text top=\"578\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">acompanhando o processo de redemocrati-</text>\n<text top=\"596\" left=\"176\" width=\"89\" height=\"16\" font=\"14\">zação do País.</text>\n<text top=\"615\" left=\"176\" width=\"108\" height=\"14\" font=\"21\">Conselho Tutelar",
+        "Categoria": "Acidentes e Violência"
     },
     {
-        "Conceito": "Crescimento compensatório Cretinismo",
-        "Categoria": null
+        "Conceito": "Conselhos de Defesa dos Direitos da Criança </text>\n<text top=\"759\" left=\"176\" width=\"111\" height=\"14\" font=\"21\">e do Adolescente",
+        "Categoria": "Acidentes e Violência"
     },
     {
-        "Conceito": "Cuidado comunitário do idoso Cuidados paliativos",
-        "Categoria": null
+        "Conceito": "Conselho de Saúde",
+        "Categoria": "Políticas Públicas e Saúde"
     },
     {
-        "Conceito": "Crescimento compensatório D4T",
-        "Categoria": null
+        "Conceito": "Conselhos dos Direitos da Mulher",
+        "Categoria": "Acidentes e Violência"
     },
     {
-        "Conceito": "Data de vencimento DDC",
-        "Categoria": null
+        "Conceito": "Consórcios Intermunicipais",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "DDI Declaração de saúde do viajante",
-        "Categoria": null
+        "Conceito": "Consulta geriátrica",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Declaração marítima de saúde Deﬁ ciência de ferro",
-        "Categoria": null
+        "Conceito": "Contágio",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Deﬁ ciência de micronutrientes Deﬁ ciência energético-protéica",
-        "Categoria": null
+        "Conceito": "Conselho Nacional de Secretários Municipais de Saúde (Conasems)</text>\n<text top=\"257\" left=\"573\" width=\"122\" height=\"14\" font=\"25\">Consulta geriátrica</text>\n<text top=\"308\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">Transferência do agente etiológico, sem a in-</text>\n<text top=\"326\" left=\"121\" width=\"144\" height=\"16\" font=\"14\">terferência de veículos.</text>\n<text top=\"345\" left=\"121\" width=\"115\" height=\"14\" font=\"21\">Contra-referência",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Deﬁ ciência nutricional Deﬁ ciência primária de iodo",
-        "Categoria": null
+        "Conceito": "Contrato de compra de serviços",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Deﬁ cit de altura Delegacia",
-        "Categoria": null
+        "Conceito": "Contrato de gestão",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Dengue Denominação comum brasileira",
-        "Categoria": null
+        "Conceito": "Controle assistencial",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Departamento de Informática do SUS (Datasus)",
-        "Categoria": null
+        "Conceito": "Controle de endemias",
+        "Categoria": "Epidemiologia"
     },
     {
-        "Conceito": "Depressão Dermatite atópica",
-        "Categoria": null
+        "Conceito": "Controle de qualidade",
+        "Categoria": "Vigilância em Saúde"
     },
     {
-        "Conceito": "Dermatite de contato alérgica Deﬁ ciência primária de iodo",
-        "Categoria": null
+        "Conceito": "Controle químico",
+        "Categoria": "Ambiente e Saúde"
     },
     {
-        "Conceito": "Dermatite de contato irritativa Dermatite seborréica",
-        "Categoria": null
+        "Conceito": "Controle social",
+        "Categoria": "Políticas Públicas e Saúde"
     },
     {
-        "Conceito": "Dermatoﬁ tose Dermatoses ocupacionais",
-        "Categoria": null
+        "Conceito": "Convênios",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Desburocratização Descentralização",
-        "Categoria": null
+        "Conceito": "Contágio</text>\n<text top=\"257\" left=\"193\" width=\"68\" height=\"14\" font=\"25\">Convênios</text>\n<text top=\"308\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">instituições ﬁ lantrópicas, universidades, pre-</text>\n<text top=\"326\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">feituras e órgãos federais. Podem originar-se </text>\n<text top=\"344\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">de Emenda Parlamentar ou de programas es-</text>\n<text top=\"362\" left=\"176\" width=\"213\" height=\"16\" font=\"14\">pecíﬁ cos do Ministério da Saúde.</text>\n<text top=\"381\" left=\"176\" width=\"143\" height=\"14\" font=\"21\">Cooperativas médicas",
+        "Categoria": "Políticas Públicas e Saúde"
     },
     {
-        "Conceito": "Desenvolvimento tecnológico Desidratação",
-        "Categoria": null
+        "Conceito": "Coorte",
+        "Categoria": "Epidemiologia"
     },
     {
-        "Conceito": "Desinfetante Desmame",
-        "Categoria": null
+        "Conceito": "Coqueluche",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Dermatite de contato irritativa Desnutrição",
-        "Categoria": null
+        "Conceito": "Coquetel anti-aids",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Desnutrição crônica Desnutrição energético-protéica",
-        "Categoria": null
+        "Conceito": "Corantes de medicamentos",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Detergente Diabetes",
-        "Categoria": null
+        "Conceito": "Correlato",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Diarréia Diarréia aguda",
-        "Categoria": null
+        "Conceito": "Corrimento",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Didanosina Dideoxiinosine",
-        "Categoria": null
+        "Conceito": "Crenças em saúde",
+        "Categoria": "Promoção e Educação em Saúde"
     },
     {
-        "Conceito": "Dideoxitidina Dieta",
-        "Categoria": null
+        "Conceito": "Crescimento",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Difteria Digestão",
-        "Categoria": null
+        "Conceito": "Cooperativas médicas</text>\n<text top=\"257\" left=\"614\" width=\"84\" height=\"14\" font=\"25\">Crescimento </text>\n<text top=\"308\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">desde a concepção até o ﬁ nal da vida, con-</text>\n<text top=\"326\" left=\"121\" width=\"290\" height=\"16\" font=\"14\">siderando-se os fenômenos de substituição </text>\n<text top=\"344\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">e regeneração de tecidos e órgãos. É consi-</text>\n<text top=\"362\" left=\"121\" width=\"290\" height=\"16\" font=\"14\">derado como um dos melhores indicadores </text>\n<text top=\"380\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">de saúde da criança, em razão de sua estreita </text>\n<text top=\"397\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">dependência de fatores ambientais, tais como </text>\n<text top=\"415\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">alimentação, ocorrência de doenças, cuida-</text>\n<text top=\"433\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">dos gerais e de higiene, condições de vida da </text>\n<text top=\"450\" left=\"121\" width=\"215\" height=\"16\" font=\"14\">criança, no passado e no presente.</text>\n<text top=\"469\" left=\"121\" width=\"182\" height=\"14\" font=\"21\">Crescimento compensatório",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Desnutrição Direção única",
-        "Categoria": null
+        "Conceito": "Cretinismo",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Direitos civis e políticos Dislipidemia",
-        "Categoria": null
+        "Conceito": "Cuidado comunitário do idoso",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Dispensação Distritalização",
-        "Categoria": null
+        "Conceito": "Cuidados paliativos",
+        "Categoria": "Direito Sanitário"
     },
     {
-        "Conceito": "Distúrbio Osteomuscular Relacionado ao Trabalho (Dort)",
-        "Categoria": null
+        "Conceito": "Crescimento compensatório</text>\n<text top=\"257\" left=\"193\" width=\"127\" height=\"14\" font=\"25\">Cuidados paliativos</text>\n<text top=\"426\" left=\"176\" width=\"26\" height=\"14\" font=\"21\">D4T",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Distúrbios alimentares Doença de Alzheimer",
-        "Categoria": null
+        "Conceito": "Data de vencimento",
+        "Categoria": "Vigilância em Saúde"
     },
     {
-        "Conceito": "Direção única Doença de Chagas",
-        "Categoria": null
+        "Conceito": "DDC",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Doença de Parkinson Doença de Wilson",
-        "Categoria": null
+        "Conceito": "DDI",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Doença proﬁ ssional Doenças cardiovasculares",
-        "Categoria": null
+        "Conceito": "Declaração de saúde do viajante",
+        "Categoria": "Vigilância em Saúde"
     },
     {
-        "Conceito": "Doenças crônico-degenerativas Doenças da nutrição",
-        "Categoria": null
+        "Conceito": "Declaração marítima de saúde",
+        "Categoria": "Vigilância em Saúde"
     },
     {
-        "Conceito": "Doenças degenerativas Doenças do trabalho",
-        "Categoria": null
+        "Conceito": "Deﬁ ciência de ferro",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Doenças dos idosos Doenças falciformes",
-        "Categoria": null
+        "Conceito": "Deﬁ ciência de micronutrientes",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Doença de Chagas Doenças oportunistas",
-        "Categoria": null
+        "Conceito": "Deﬁ ciência energético-protéica</text>\n<text top=\"948\" left=\"483\" width=\"233\" height=\"16\" font=\"14\">Ver Desnutrição energético-protéica.</text>\n<text top=\"967\" left=\"483\" width=\"145\" height=\"14\" font=\"21\">Deﬁ ciência nutricional",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Doenças prevalentes Doenças renais",
-        "Categoria": null
+        "Conceito": "Deﬁ ciência primária de iodo",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Doenças sexualmente transmissíveis Domiciliação do risco",
-        "Categoria": null
+        "Conceito": "Deﬁ cit de altura",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Donovanose Drogas",
-        "Categoria": null
+        "Conceito": "Delegacia",
+        "Categoria": "Acidentes e Violência"
     },
     {
-        "Conceito": "Drogas ilícitas Drogas injetáveis",
-        "Categoria": null
+        "Conceito": "Dengue",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Drogas lícitas Doenças oportunistas",
-        "Categoria": null
+        "Conceito": "Denominação comum brasileira",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Eczema Educação continuada",
-        "Categoria": null
+        "Conceito": "Departamento de Informática do SUS </text>\n<text top=\"363\" left=\"427\" width=\"61\" height=\"14\" font=\"21\">(Datasus)",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Educação permanente Educação sexual",
-        "Categoria": null
+        "Conceito": "Depressão",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Eﬁ cácia dos medicamentos Elisa",
-        "Categoria": null
+        "Conceito": "Dermatite atópica",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Embriaguez Endemia",
-        "Categoria": null
+        "Conceito": "Dermatite de contato alérgica",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Endemias carenciais Enriquecimento alimentar",
-        "Categoria": null
+        "Conceito": "Deﬁ ciência primária de iodo</text>\n<text top=\"257\" left=\"193\" width=\"193\" height=\"14\" font=\"25\">Dermatite de contato alérgica</text>\n<text top=\"309\" left=\"176\" width=\"197\" height=\"14\" font=\"21\">Dermatite de contato irritativa",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Ensaio terapêutico Ensaios clínicos",
-        "Categoria": null
+        "Conceito": "Dermatite seborréica",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Ensaios de comunidade Envelhecimento populacional",
-        "Categoria": null
+        "Conceito": "Dermatoﬁ tose",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Epidemia Epilepsia",
-        "Categoria": null
+        "Conceito": "Dermatoses ocupacionais",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Eqüidade Equipamento de diagnóstico",
-        "Categoria": null
+        "Conceito": "Desburocratização",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Equipe multiproﬁ ssional Ensaio terapêutico",
-        "Categoria": null
+        "Conceito": "Descentralização",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Equivalência Escabiose",
-        "Categoria": null
+        "Conceito": "Desenvolvimento tecnológico",
+        "Categoria": "Ciência e Tecnologia em Saúde"
     },
     {
-        "Conceito": "Estabelecimentos de saúde Estrutura de gênero",
-        "Categoria": null
+        "Conceito": "Desidratação",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Estudo de Utilização de Medicamentos (EUM) Estudo Terapêutico Ampliado",
-        "Categoria": null
+        "Conceito": "Desinfetante",
+        "Categoria": "Ambiente e Saúde"
     },
     {
-        "Conceito": "Estudo Terapêutico Piloto Estudos descritivos",
-        "Categoria": null
+        "Conceito": "Desmame",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Estudos ecológicos Estupro",
-        "Categoria": null
+        "Conceito": "Dermatite de contato irritativa</text>\n<text top=\"246\" left=\"709\" width=\"33\" height=\"16\" font=\"23\">DER</text>\n<text top=\"308\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">não seja o leite materno – incluindo os chás </text>\n<text top=\"326\" left=\"121\" width=\"290\" height=\"16\" font=\"14\">e a água – e que termina com a suspensão </text>\n<text top=\"345\" left=\"121\" width=\"171\" height=\"16\" font=\"14\">completa do leite materno.</text>\n<text top=\"364\" left=\"121\" width=\"79\" height=\"14\" font=\"21\">Desnutrição",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Ética em pesquisa Equivalência",
-        "Categoria": null
+        "Conceito": "Desnutrição crônica",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Evento adverso Evento adverso inesperado",
-        "Categoria": null
+        "Conceito": "Desnutrição energético-protéica",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Evento adverso sério Exame de genotipagem",
-        "Categoria": null
+        "Conceito": "Detergente",
+        "Categoria": "Ambiente e Saúde"
     },
     {
-        "Conceito": "Expectativa de vida ao nascer Explosão demográﬁ ca",
-        "Categoria": null
+        "Conceito": "Diabetes",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Evento adverso Família",
-        "Categoria": null
+        "Conceito": "Diarréia",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Farmácia popular Farmácias magistrais",
-        "Categoria": null
+        "Conceito": "Diarréia aguda",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Farmacocinética Farmacodinâmica",
-        "Categoria": null
+        "Conceito": "Didanosina</text>\n<text top=\"473\" left=\"427\" width=\"57\" height=\"16\" font=\"14\">Ver DDI</text>\n<text top=\"492\" left=\"427\" width=\"97\" height=\"14\" font=\"21\">Dideoxiinosine</text>\n<text top=\"510\" left=\"427\" width=\"57\" height=\"16\" font=\"14\">Ver DDI</text>\n<text top=\"529\" left=\"427\" width=\"88\" height=\"14\" font=\"21\">Dideoxitidina</text>\n<text top=\"546\" left=\"427\" width=\"63\" height=\"16\" font=\"14\">Ver DDC</text>\n<text top=\"565\" left=\"427\" width=\"35\" height=\"14\" font=\"21\">Dieta",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Farmacoepidemiologia Farmacopéia brasileira",
-        "Categoria": null
+        "Conceito": "Difteria",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Farmacoterapia Farmacovigilância",
-        "Categoria": null
+        "Conceito": "Digestão",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Farmoquímicos Fator de Incentivo ao Desenvolvimento de",
-        "Categoria": null
+        "Conceito": "Desnutrição</text>\n<text top=\"257\" left=\"193\" width=\"58\" height=\"14\" font=\"25\">Digestão</text>\n<text top=\"309\" left=\"176\" width=\"88\" height=\"14\" font=\"21\">Direção única</text>\n<text top=\"326\" left=\"176\" width=\"134\" height=\"16\" font=\"14\">Ver Comando único.</text>\n<text top=\"345\" left=\"176\" width=\"151\" height=\"14\" font=\"21\">Direitos civis e políticos",
+        "Categoria": "Direito Sanitário"
     },
     {
-        "Conceito": "Ensino e Pesquisa (Fideps) Febre amarela",
-        "Categoria": null
+        "Conceito": "Dislipidemia",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Febre tifóide Feminilização no envelhecimento",
-        "Categoria": null
+        "Conceito": "Dispensação",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Feminização da aids Ferro medicamentoso",
-        "Categoria": null
+        "Conceito": "Distritalização",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Formação proﬁ ssional Farmacovigilância",
-        "Categoria": null
+        "Conceito": "Distúrbio Osteomuscular Relacionado ao </text>\n<text top=\"525\" left=\"483\" width=\"99\" height=\"14\" font=\"21\">Trabalho (Dort)",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Formulação farmacêutica Formulário terapêutico nacional",
-        "Categoria": null
+        "Conceito": "Distúrbios alimentares",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Fracionamento de alimentos Fração Assistencial Especializada (FAE)",
-        "Categoria": null
+        "Conceito": "Doença de Alzheimer",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Franca explosão demográﬁ ca Fundação Nacional de Saúde (Funasa)",
-        "Categoria": null
+        "Conceito": "Direção única</text>\n<text top=\"257\" left=\"557\" width=\"138\" height=\"14\" font=\"25\">Doença de Alzheimer</text>\n<text top=\"309\" left=\"121\" width=\"120\" height=\"14\" font=\"21\">Doença de Chagas",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Fundo Estadual de Saúde Fundo Municipal de Saúde",
-        "Categoria": null
+        "Conceito": "Doença de Parkinson",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Fundo Nacional de Saúde (FNS) Fundos de saúde",
-        "Categoria": null
+        "Conceito": "Doença de Wilson",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Furúnculo Formulação farmacêutica",
-        "Categoria": null
+        "Conceito": "Doença proﬁ ssional",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Gelados comestíveis Gênero",
-        "Categoria": null
+        "Conceito": "Doenças cardiovasculares",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Gerência em saúde Gestação de alto risco",
-        "Categoria": null
+        "Conceito": "Doenças crônico-degenerativas",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Gestão Avançada do Sistema Estadual Gestão do SUS",
-        "Categoria": null
+        "Conceito": "Doenças da nutrição",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Gestão Estadual de Saúde Gestão Federal de Saúde",
-        "Categoria": null
+        "Conceito": "Doenças degenerativas",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Gestão Municipal de Saúde Gestão Plena da Atenção Básica",
-        "Categoria": null
+        "Conceito": "Doenças do trabalho",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Gestão Plena da Atenção Básica Ampliada Gestão Plena do Sistema Estadual",
-        "Categoria": null
+        "Conceito": "Doenças dos idosos",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Gestão Plena do Sistema Municipal Gestor de saúde",
-        "Categoria": null
+        "Conceito": "Doenças falciformes",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Gonorréia Gestão Federal de Saúde",
-        "Categoria": null
+        "Conceito": "Doença de Chagas</text>\n<text top=\"257\" left=\"193\" width=\"131\" height=\"14\" font=\"25\">Doenças falciformes</text>\n<text top=\"308\" left=\"176\" width=\"288\" height=\"16\" font=\"14\">mente, sendo mais freqüente onde a proporção </text>\n<text top=\"326\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">de antepassados negros da população é maior </text>\n<text top=\"344\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">(Nordeste). Além das manifestações de ane-</text>\n<text top=\"362\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">mia crônica, o quadro é dominado por episó-</text>\n<text top=\"380\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">dios de dores osteoarticulares, dores abdomi-</text>\n<text top=\"398\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">nais, infecções e enfartes pulmonares, retardo </text>\n<text top=\"416\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">do crescimento e maturação sexual, acidente </text>\n<text top=\"434\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">vascular cerebral e comprometimento crônico </text>\n<text top=\"452\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">de múltiplos órgãos, sistemas ou aparelhos.</text>\n<text top=\"471\" left=\"176\" width=\"142\" height=\"14\" font=\"21\">Doenças oportunistas",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Gravidez de alto risco Grupo de apoio ao idoso",
-        "Categoria": null
+        "Conceito": "Doenças prevalentes",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Grupo matricial Guias terapêuticos padronizados",
-        "Categoria": null
+        "Conceito": "Doenças renais",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Gravidez de alto risco Habilitação",
-        "Categoria": null
+        "Conceito": "Doenças sexualmente transmissíveis",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Hábitos saudáveis Hanseníase",
-        "Categoria": null
+        "Conceito": "Domiciliação do risco",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Hemocad Hemocentro",
-        "Categoria": null
+        "Conceito": "Donovanose",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Hemoderivados Hemoﬁ lia",
-        "Categoria": null
+        "Conceito": "Drogas",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Hemoinsp Hemovigilância",
-        "Categoria": null
+        "Conceito": "Drogas ilícitas",
+        "Categoria": "Drogas de Uso Terapêutico e Social"
     },
     {
-        "Conceito": "Hepatite Hepatite viral",
-        "Categoria": null
+        "Conceito": "Drogas injetáveis",
+        "Categoria": "Drogas de Uso Terapêutico e Social"
     },
     {
-        "Conceito": "Hepatite viral A Hepatite viral B",
-        "Categoria": null
+        "Conceito": "Drogas lícitas",
+        "Categoria": "Drogas de Uso Terapêutico e Social"
     },
     {
-        "Conceito": "Hepatite viral C Hepatite viral D",
-        "Categoria": null
+        "Conceito": "Doenças oportunistas</text>\n<text top=\"257\" left=\"608\" width=\"87\" height=\"14\" font=\"25\">Drogas lícitas</text>\n<text top=\"426\" left=\"176\" width=\"49\" height=\"14\" font=\"21\">Eczema",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Hemovigilância Hepatite viral E",
-        "Categoria": null
+        "Conceito": "Educação continuada",
+        "Categoria": "Recursos Humanos em Saúde Pú-"
     },
     {
-        "Conceito": "Herança genética Herpes simples",
-        "Categoria": null
+        "Conceito": "Educação permanente</text>\n<text top=\"713\" left=\"176\" width=\"162\" height=\"16\" font=\"14\">Ver Educação continuada</text>\n<text top=\"732\" left=\"176\" width=\"106\" height=\"14\" font=\"21\">Educação sexual",
+        "Categoria": "Promoção e Educação em Saúde"
     },
     {
-        "Conceito": "Hierarquização Hipertensão arterial",
-        "Categoria": null
+        "Conceito": "Eﬁ cácia dos medicamentos",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Hipovitaminose A História natural das doenças",
-        "Categoria": null
+        "Conceito": "Elisa",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Hospital Hospital de base",
-        "Categoria": null
+        "Conceito": "Embriaguez",
+        "Categoria": "Drogas de Uso Terapêutico e Social"
     },
     {
-        "Conceito": "Hospital de capacidade extra Hospital de grande porte",
-        "Categoria": null
+        "Conceito": "Endemia",
+        "Categoria": "Epidemiologia"
     },
     {
-        "Conceito": "Hospital de médio porte Hospital de pequeno porte",
-        "Categoria": null
+        "Conceito": "Endemias carenciais",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Hepatite viral E Hospital-dia geriátrico",
-        "Categoria": null
+        "Conceito": "Enriquecimento alimentar",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Hospital especializado Hospital local",
-        "Categoria": null
+        "Conceito": "Ensaio terapêutico",
+        "Categoria": "Ciência e Tecnologia em Saúde"
     },
     {
-        "Conceito": "Hospital regional HPV",
-        "Categoria": null
+        "Conceito": "Ensaios clínicos",
+        "Categoria": "Ciência e Tecnologia em Saúde"
     },
     {
-        "Conceito": "Humanização Humanização do atendimento",
-        "Categoria": null
+        "Conceito": "Ensaios de comunidade",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Hospital-dia geriátrico Identidade sexual",
-        "Categoria": null
+        "Conceito": "Envelhecimento populacional",
+        "Categoria": "Demograﬁ a"
     },
     {
-        "Conceito": "Idiotia Idoso",
-        "Categoria": null
+        "Conceito": "Epidemia",
+        "Categoria": "Epidemiologia"
     },
     {
-        "Conceito": "Impetigo Imunodeprimido",
-        "Categoria": null
+        "Conceito": "Epilepsia",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Imunologia Imunopatogênico",
-        "Categoria": null
+        "Conceito": "Eqüidade</text>\n<text top=\"722\" left=\"427\" width=\"59\" height=\"16\" font=\"16\">Categoria</text>\n<text top=\"722\" left=\"486\" width=\"187\" height=\"16\" font=\"14\">: Eqüidade em Saúde e Social</text>\n<text top=\"740\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">Igualdade na assistência à saúde, com ações e </text>\n<text top=\"758\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">serviços priorizados em função de situações de </text>\n<text top=\"776\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">risco, das condições de vida e da saúde de de-</text>\n<text top=\"794\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">terminados indivíduos e grupos de população.</text>\n<text top=\"813\" left=\"427\" width=\"187\" height=\"14\" font=\"21\">Equipamento de diagnóstico",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Incentivo de Integração ao Sistema Único de Saúde (Integrasus)",
-        "Categoria": null
+        "Conceito": "Equipe multiproﬁ ssional",
+        "Categoria": "Recursos Humanos em Saúde Pú-"
     },
     {
-        "Conceito": "Incentivos Incidência",
-        "Categoria": null
+        "Conceito": "Ensaio terapêutico</text>\n<text top=\"257\" left=\"193\" width=\"158\" height=\"14\" font=\"25\">Equipe multiproﬁ ssional</text>\n<text top=\"308\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">Composta por médico assistente, enfermeiro, </text>\n<text top=\"326\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">técnico-enfermagem, ﬁ sioterapeuta, nutricio-</text>\n<text top=\"344\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">nista, assistente social, fonoaudióloga, psicó-</text>\n<text top=\"362\" left=\"176\" width=\"186\" height=\"16\" font=\"14\">logo e terapeuta ocupacional.</text>\n<text top=\"381\" left=\"176\" width=\"85\" height=\"14\" font=\"21\">Equivalência </text>\n<text top=\"378\" left=\"262\" width=\"44\" height=\"20\" font=\"29\">in vitro",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Indicadores demográﬁ cos Índice de Pobreza Humana",
-        "Categoria": null
+        "Conceito": "Escabiose",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Índice de Valorização de Resultado Infecção hospitalar",
-        "Categoria": null
+        "Conceito": "Estabelecimentos de saúde",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Informação tóxico-farmacológica Inseticida",
-        "Categoria": null
+        "Conceito": "Estrutura de gênero",
+        "Categoria": "Ciências Sociais em Saúde"
     },
     {
-        "Conceito": "Inseticidas piretróides Inspeção de qualidade",
-        "Categoria": null
+        "Conceito": "Estudo de Utilização de Medicamentos (EUM)",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Inspeção sanitária Incidência",
-        "Categoria": null
+        "Conceito": "Estudo Terapêutico Ampliado",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Instituição de pesquisa Instituto Nacional de Câncer (INCA)",
-        "Categoria": null
+        "Conceito": "Estudo Terapêutico Piloto",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Instrumentos de gestão em saúde Insuficiência renal",
-        "Categoria": null
+        "Conceito": "Estudos descritivos",
+        "Categoria": "Epidemiologia"
     },
     {
-        "Conceito": "Insumo farmacêutico Integralidade",
-        "Categoria": null
+        "Conceito": "Estudos ecológicos",
+        "Categoria": "Ambiente e Saúde"
     },
     {
-        "Conceito": "Integrasus Intercambialidade",
-        "Categoria": null
+        "Conceito": "Estupro",
+        "Categoria": "Acidentes e Violência"
     },
     {
-        "Conceito": "Interiorização da aids Internação hospitalar",
-        "Categoria": null
+        "Conceito": "Ética em pesquisa",
+        "Categoria": "Ciência e Tecnologia em Saúde"
     },
     {
-        "Conceito": "Instituição de pesquisa Intersetorialidade",
-        "Categoria": null
+        "Conceito": "Equivalência </text>\n<text top=\"234\" left=\"651\" width=\"44\" height=\"20\" font=\"29\">in vitro</text>\n<text top=\"257\" left=\"580\" width=\"116\" height=\"14\" font=\"25\">Ética em pesquisa</text>\n<text top=\"308\" left=\"121\" width=\"98\" height=\"16\" font=\"14\">Ética e Bioética</text>\n<text top=\"326\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">Termo utilizado de forma ampla, inclui dife-</text>\n<text top=\"344\" left=\"121\" width=\"290\" height=\"16\" font=\"14\">rentes assuntos relevantes do ponto de vista </text>\n<text top=\"362\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">da ética em pesquisa envolvendo seres huma-</text>\n<text top=\"380\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">nos e demais seres vivos. Inclui o comparti-</text>\n<text top=\"398\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">lhamento justo dos créditos de autoria en-</text>\n<text top=\"416\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">tre participantes de um grupo de pesquisa; o </text>\n<text top=\"434\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">comportamento responsável na submissão ou </text>\n<text top=\"452\" left=\"121\" width=\"290\" height=\"16\" font=\"14\">revisão de pedidos de bolsas de pesquisa e, </text>\n<text top=\"470\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">com maior visibilidade, o tratamento respon-</text>\n<text top=\"488\" left=\"121\" width=\"180\" height=\"16\" font=\"14\">sável de sujeitos de pesquisa.</text>\n<text top=\"507\" left=\"121\" width=\"100\" height=\"14\" font=\"21\">Evento adverso",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Investigação epidemiológica Internação hospitalar",
-        "Categoria": null
+        "Conceito": "Evento adverso inesperado",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Janela imunológica Laboratório oﬁ cial",
-        "Categoria": null
+        "Conceito": "Evento adverso sério",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Lavanderia hospitalar Lei de Diretrizes Orçamentárias (LDO)",
-        "Categoria": null
+        "Conceito": "Exame de genotipagem",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Leito hospitalar Leptospirose",
-        "Categoria": null
+        "Conceito": "Expectativa de vida ao nascer",
+        "Categoria": "Demograﬁ a"
     },
     {
-        "Conceito": "Lesão por Esforço Repetitivo (LER) Licença sanitária",
-        "Categoria": null
+        "Conceito": "Explosão demográﬁ ca",
+        "Categoria": "Demograﬁ a"
     },
     {
-        "Conceito": "Licitação Limite ﬁ nanceiro",
-        "Categoria": null
+        "Conceito": "Evento adverso</text>\n<text top=\"257\" left=\"193\" width=\"143\" height=\"14\" font=\"25\">Explosão demográﬁ ca</text>\n<text top=\"426\" left=\"176\" width=\"46\" height=\"14\" font=\"21\">Família",
+        "Categoria": "Ciências Sociais em Saúde"
     },
     {
-        "Conceito": "Linfadenopatia persistente generalizada Linfogranuloma venéreo",
-        "Categoria": null
+        "Conceito": "Farmácia popular",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Limite ﬁ nanceiro Macronutrientes",
-        "Categoria": null
+        "Conceito": "Farmácias magistrais",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Malária Mamograﬁ a",
-        "Categoria": null
+        "Conceito": "Farmacocinética",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Margem terapêutica Média complexidade",
-        "Categoria": null
+        "Conceito": "Farmacodinâmica",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Medicamentos bioequivalentes Medicamentos biológicos",
-        "Categoria": null
+        "Conceito": "Farmacoepidemiologia",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Medicamentos biotecnológicos Medicamentos de controle especial",
-        "Categoria": null
+        "Conceito": "Farmacopéia brasileira",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Medicamentos de dispensação em caráter excepcional",
-        "Categoria": null
+        "Conceito": "Farmacoterapia",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Medicamentos de referência Medicamentos de saúde mental",
-        "Categoria": null
+        "Conceito": "Farmacovigilância",
+        "Categoria": "Vigilância em Saúde"
     },
     {
-        "Conceito": "Medicamentos de uso contínuo Medicamentos de venda livre",
-        "Categoria": null
+        "Conceito": "Farmoquímicos",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Medicamentos estratégicos Medicamentos excepcionais",
-        "Categoria": null
+        "Conceito": "Fator de Incentivo ao Desenvolvimento de </text>\n<text top=\"579\" left=\"121\" width=\"169\" height=\"14\" font=\"21\">Ensino e Pesquisa (Fideps)",
+        "Categoria": "Economia de Saúde"
     },
     {
-        "Conceito": "Medicamentos ﬁ toterápicos Medicamentos genéricos",
-        "Categoria": null
+        "Conceito": "Febre amarela",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Medicamentos homeopáticos Medicamentos de controle especial",
-        "Categoria": null
+        "Conceito": "Febre tifóide",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Medicamentos para a atenção básica Medicamentos tarjados",
-        "Categoria": null
+        "Conceito": "Feminilização no envelhecimento",
+        "Categoria": "Demograﬁ a"
     },
     {
-        "Conceito": "Médico regulador Medida cautelar",
-        "Categoria": null
+        "Conceito": "Feminização da aids",
+        "Categoria": "Epidemiologia"
     },
     {
-        "Conceito": "Menopausa Método direto de padronização",
-        "Categoria": null
+        "Conceito": "Ferro medicamentoso",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Método epidemiológico Métodos contraceptivos",
-        "Categoria": null
+        "Conceito": "Formação proﬁ ssional",
+        "Categoria": "Recursos Humanos em Saúde Pública"
     },
     {
-        "Conceito": "Métodos de barreiras Micronutrientes",
-        "Categoria": null
+        "Conceito": "Farmacovigilância</text>\n<text top=\"257\" left=\"193\" width=\"143\" height=\"14\" font=\"25\">Formação proﬁ ssional</text>\n<text top=\"308\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">solidárias perante os usuários, para o exercí-</text>\n<text top=\"326\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">cio do trabalho e da educação a ﬁ m de inseri-</text>\n<text top=\"344\" left=\"176\" width=\"171\" height=\"16\" font=\"14\">lo nos setores proﬁ ssionais.</text>\n<text top=\"363\" left=\"176\" width=\"164\" height=\"14\" font=\"21\">Formulação farmacêutica",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Microrregião de saúde Modelo ecológico",
-        "Categoria": null
+        "Conceito": "Formulário terapêutico nacional",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Medicamentos para a atenção básica Módulo assistencial",
-        "Categoria": null
+        "Conceito": "Fracionamento de alimentos",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Módulo-padrão de suprimento Morbimortalidade",
-        "Categoria": null
+        "Conceito": "Fração Assistencial Especializada (FAE)",
+        "Categoria": "Economia de Saúde"
     },
     {
-        "Conceito": "Município-pólo Município-sede do módulo assistencial",
-        "Categoria": null
+        "Conceito": "Franca explosão demográﬁ ca",
+        "Categoria": "História da Saúde Pública"
     },
     {
-        "Conceito": "Mutirão Módulo assistencial",
-        "Categoria": null
+        "Conceito": "Fundação Nacional de Saúde (Funasa)",
+        "Categoria": "Epidemiologia"
     },
     {
-        "Conceito": "Nascido morto Nascido vivo",
-        "Categoria": null
+        "Conceito": "Fundo Estadual de Saúde</text>\n<text top=\"452\" left=\"483\" width=\"59\" height=\"16\" font=\"16\">Categoria</text>\n<text top=\"452\" left=\"541\" width=\"134\" height=\"16\" font=\"14\">: Economia da Saúde</text>\n<text top=\"470\" left=\"483\" width=\"289\" height=\"16\" font=\"14\">Tem por objetivo criar condições ﬁ nanceiras </text>\n<text top=\"488\" left=\"483\" width=\"289\" height=\"16\" font=\"14\">e de administração de recursos destinados ao </text>\n<text top=\"506\" left=\"483\" width=\"285\" height=\"16\" font=\"14\">desenvolvimento das ações e serviços de saú-</text>\n<text top=\"524\" left=\"483\" width=\"289\" height=\"16\" font=\"14\">de executados ou coordenados pela Secretaria </text>\n<text top=\"542\" left=\"483\" width=\"283\" height=\"16\" font=\"14\">Estadual de Saúde (SES) no âmbito do SUS.</text>\n<text top=\"561\" left=\"483\" width=\"172\" height=\"14\" font=\"21\">Fundo Municipal de Saúde",
+        "Categoria": "Economia de Saúde"
     },
     {
-        "Conceito": "Natimorto Nefropatias",
-        "Categoria": null
+        "Conceito": "Fundo Nacional de Saúde (FNS)</text>\n<text top=\"704\" left=\"483\" width=\"59\" height=\"16\" font=\"16\">Categoria</text>\n<text top=\"704\" left=\"541\" width=\"134\" height=\"16\" font=\"14\">: Economia da Saúde</text>\n<text top=\"722\" left=\"483\" width=\"290\" height=\"16\" font=\"14\">É o gestor ﬁ nanceiro, na esfera federal, dos </text>\n<text top=\"740\" left=\"483\" width=\"276\" height=\"16\" font=\"14\">recursos do Sistema Único de Saúde (SUS).</text>\n<text top=\"759\" left=\"483\" width=\"109\" height=\"14\" font=\"21\">Fundos de saúde",
+        "Categoria": "Economia de Saúde"
     },
     {
-        "Conceito": "Negligência Níveis de complexidade",
-        "Categoria": null
+        "Conceito": "Furúnculo",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Norma Operacional de Assistência à Saúde (NOAS)",
-        "Categoria": null
+        "Conceito": "Formulação farmacêutica</text>\n<text top=\"257\" left=\"629\" width=\"66\" height=\"14\" font=\"25\">Furúnculo</text>\n<text top=\"426\" left=\"176\" width=\"132\" height=\"14\" font=\"21\">Gelados comestíveis",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Norma Operacional Básica Notiﬁ cação de doenças",
-        "Categoria": null
+        "Conceito": "Gênero",
+        "Categoria": "Ciências Sociais em Saúde"
     },
     {
-        "Conceito": "epidemiologia Notiﬁ cação de maus-tratos",
-        "Categoria": null
+        "Conceito": "Gerência em saúde",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Notiﬁ cação de receita Núcleos de educação em urgências",
-        "Categoria": null
+        "Conceito": "Gestação de alto risco",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Nutrimento Núcleos de educação em urgências",
-        "Categoria": null
+        "Conceito": "Gestão Avançada do Sistema Estadual",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Obesidade Óbito fetal",
-        "Categoria": null
+        "Conceito": "Gestão do SUS",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Óbito hospitalar Óbito materno",
-        "Categoria": null
+        "Conceito": "Gestão Estadual de Saúde",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Óbito neonatal Óbito neonatal precoce",
-        "Categoria": null
+        "Conceito": "Gestão Federal de Saúde",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Observação hospitalar Oncologia",
-        "Categoria": null
+        "Conceito": "Gestão Municipal de Saúde",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Operadora de plano de assistência à saúde Operadora de saúde",
-        "Categoria": null
+        "Conceito": "Gestão Plena da Atenção Básica",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Orçamento da Seguridade Social Órgão de Vigilância Sanitária Competente",
-        "Categoria": null
+        "Conceito": "Gestão Plena da Atenção Básica Ampliada",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Orientação alimentar Ouvidoria da Saúde",
-        "Categoria": null
+        "Conceito": "Gestão Plena do Sistema Estadual",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Orientação alimentar Paciente-dia",
-        "Categoria": null
+        "Conceito": "Gestão Plena do Sistema Municipal",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Papiloma Vírus Humano Pátrio poder",
-        "Categoria": null
+        "Conceito": "Gestor de saúde",
+        "Categoria": "Recursos Humanos em Saúde Pú-"
     },
     {
-        "Conceito": "Pauperização da aids Pediculoses",
-        "Categoria": null
+        "Conceito": "Gonorréia",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Perda auditiva induzida por ruído Perﬁ l epidemiológico",
-        "Categoria": null
+        "Conceito": "Gestão Federal de Saúde</text>\n<text top=\"257\" left=\"193\" width=\"65\" height=\"14\" font=\"25\">Gonorréia</text>\n<text top=\"309\" left=\"176\" width=\"139\" height=\"14\" font=\"21\">Gravidez de alto risco</text>\n<text top=\"326\" left=\"176\" width=\"167\" height=\"16\" font=\"14\">Ver Gestação de alto risco.</text>\n<text top=\"345\" left=\"176\" width=\"159\" height=\"14\" font=\"21\">Grupo de apoio ao idoso",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Perﬁ l nosológico Período de incubação",
-        "Categoria": null
+        "Conceito": "Grupo matricial",
+        "Categoria": "Ciências Sociais em Saúde"
     },
     {
-        "Conceito": "Pesquisa em reprodução humana Pesquisa em saúde",
-        "Categoria": null
+        "Conceito": "Guias terapêuticos padronizados",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Pesquisa envolvendo seres humanos Pesquisador responsável",
-        "Categoria": null
+        "Conceito": "Gravidez de alto risco</text>\n<text top=\"257\" left=\"483\" width=\"213\" height=\"14\" font=\"25\">Guias terapêuticos padronizados</text>\n<text top=\"426\" left=\"176\" width=\"74\" height=\"14\" font=\"21\">Habilitação",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Peste Pirâmide alimentar",
-        "Categoria": null
+        "Conceito": "Hábitos saudáveis",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Piso da Atenção Básica (PAB) Plano de saúde",
-        "Categoria": null
+        "Conceito": "Hanseníase",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Plano de Saúde (gestão do SUS) Plano Diretor de Regionalização",
-        "Categoria": null
+        "Conceito": "Hemocad",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Pesquisa envolvendo seres humanos Plano Nacional de Saúde do Sistema",
-        "Categoria": null
+        "Conceito": "Hemocentro",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Penitenciário Plano Nacional de Vacinas Anti-HIV/aids",
-        "Categoria": null
+        "Conceito": "Hemoderivados",
+        "Categoria": "Vigilância em Saúde"
     },
     {
-        "Conceito": "Plano Plurianual (PPA) Plano privado de assistência à saúde",
-        "Categoria": null
+        "Conceito": "Hemoﬁ lia",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Pneumoconiose Poder de polícia",
-        "Categoria": null
+        "Conceito": "Hemoinsp",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Política Nacional de Saúde do Idoso Pólos de capacitação",
-        "Categoria": null
+        "Conceito": "Hemovigilância",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "População economicamente ativa Plano Nacional de Saúde do Sistema Penitenciário",
-        "Categoria": null
+        "Conceito": "Hepatite",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Porto de controle sanitário Posto de medicamentos",
-        "Categoria": null
+        "Conceito": "Hepatite viral",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Posto de saúde Preparações farmacêuticas",
-        "Categoria": null
+        "Conceito": "Hepatite viral A",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Preservativo feminino Preservativo masculino",
-        "Categoria": null
+        "Conceito": "Hepatite viral B",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Prevalência Princípio ativo",
-        "Categoria": null
+        "Conceito": "Hepatite viral C",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Procedimento operacional padronizado Porto de controle sanitário",
-        "Categoria": null
+        "Conceito": "Hepatite viral D",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Produção de alimentos Produto a granel",
-        "Categoria": null
+        "Conceito": "Hemovigilância</text>\n<text top=\"257\" left=\"193\" width=\"101\" height=\"14\" font=\"25\">Hepatite viral D</text>\n<text top=\"308\" left=\"176\" width=\"290\" height=\"16\" font=\"14\">apresentava infecção crônica de hepatite </text>\n<text top=\"326\" left=\"176\" width=\"50\" height=\"16\" font=\"14\">viral B.</text>\n<text top=\"345\" left=\"176\" width=\"98\" height=\"14\" font=\"21\">Hepatite viral E",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Produto acabado Produto biológico",
-        "Categoria": null
+        "Conceito": "Herança genética",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Produto de higiene Produto dietético",
-        "Categoria": null
+        "Conceito": "Herpes simples",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Produto farmacêutico Produto intermediário",
-        "Categoria": null
+        "Conceito": "Hierarquização",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Produto médico estéril Produto médico invasivo",
-        "Categoria": null
+        "Conceito": "Hipertensão arterial",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Produto semi-elaborado Produtos médicos",
-        "Categoria": null
+        "Conceito": "Hipovitaminose A",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Produto para diagnóstico de uso Produção de alimentos",
-        "Categoria": null
+        "Conceito": "História natural das doenças</text>\n<text top=\"435\" left=\"483\" width=\"67\" height=\"16\" font=\"16\">Categoria: </text>\n<text top=\"436\" left=\"550\" width=\"90\" height=\"14\" font=\"30\">Epidemiologia</text>\n<text top=\"453\" left=\"483\" width=\"291\" height=\"16\" font=\"14\">Descrição que inclui as características das </text>\n<text top=\"471\" left=\"483\" width=\"290\" height=\"16\" font=\"14\">funções de infecção, distribuição da doença </text>\n<text top=\"489\" left=\"483\" width=\"285\" height=\"16\" font=\"14\">segundo os atributos das pessoas, tempo e es-</text>\n<text top=\"507\" left=\"483\" width=\"289\" height=\"16\" font=\"14\">paço, distribuição e características ecológicas </text>\n<text top=\"525\" left=\"483\" width=\"290\" height=\"16\" font=\"14\">do(s) reservatório(s) do agente; mecanismos </text>\n<text top=\"543\" left=\"483\" width=\"290\" height=\"16\" font=\"14\">de transmissão e efeitos da doença sobre o </text>\n<text top=\"561\" left=\"483\" width=\"53\" height=\"16\" font=\"14\">homem.</text>\n<text top=\"580\" left=\"483\" width=\"54\" height=\"14\" font=\"21\">Hospital",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Produto para diagnóstico de uso Proﬁ ssionais do sexo",
-        "Categoria": null
+        "Conceito": "Hospital de base",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Programação Pactuada e Integrada (PPI) Programa de Combate às Carências",
-        "Categoria": null
+        "Conceito": "Hospital de capacidade extra",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Nutricionais (PCCN) Programa de Humanização no Pré-Natal e",
-        "Categoria": null
+        "Conceito": "Hospital de grande porte",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Nascimento (PHPN) Programa de Interiorização do Trabalho em",
-        "Categoria": null
+        "Conceito": "Hospital de médio porte",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Saúde (PITS) Programa Nacional de Avaliação dos",
-        "Categoria": null
+        "Conceito": "Hospital de pequeno porte",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Serviços Hospitalares (PNASH) Programa Nacional de Humanização da",
-        "Categoria": null
+        "Conceito": "Hepatite viral E</text>\n<text top=\"257\" left=\"521\" width=\"174\" height=\"14\" font=\"25\">Hospital de pequeno porte</text>\n<text top=\"308\" left=\"121\" width=\"272\" height=\"16\" font=\"14\">Hospital cuja capacidade é de até 50 leitos.</text>\n<text top=\"327\" left=\"121\" width=\"145\" height=\"14\" font=\"21\">Hospital-dia geriátrico",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Assistência Hospitalar Produto para diagnóstico de uso",
-        "Categoria": null
+        "Conceito": "Hospital especializado",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Programa Qualidade do Sangue Programa Saúde da Família (PSF)",
-        "Categoria": null
+        "Conceito": "Hospital local",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Programas de saúde Projeto Bela Vista",
-        "Categoria": null
+        "Conceito": "Hospital regional",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Projeto Carteiro Amigo Projeto de Proﬁ ssionalização dos",
-        "Categoria": null
+        "Conceito": "HPV",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Trabalhadores da Área de Enfermagem (Profae)",
-        "Categoria": null
+        "Conceito": "Humanização",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Projeto Horizonte Programa Qualidade do Sangue",
-        "Categoria": null
+        "Conceito": "Humanização do atendimento",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Promoção da saúde Promoção do envelhecimento saudável",
-        "Categoria": null
+        "Conceito": "Hospital-dia geriátrico</text>\n<text top=\"257\" left=\"193\" width=\"196\" height=\"14\" font=\"25\">Humanização do atendimento</text>\n<text top=\"426\" left=\"176\" width=\"115\" height=\"14\" font=\"21\">Identidade sexual",
+        "Categoria": "Ciências Sociais em Saúde"
     },
     {
-        "Conceito": "Prontuário médico Propaganda de produtos farmacêuticos",
-        "Categoria": null
+        "Conceito": "Idiotia",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Protocolos clínicos Protocolo de pesquisa",
-        "Categoria": null
+        "Conceito": "Idoso",
+        "Categoria": "Ciências Sociais em Saúde"
     },
     {
-        "Conceito": "Proposta de concorrência Psicotrópico",
-        "Categoria": null
+        "Conceito": "Impetigo",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Pureza Promoção da saúde",
-        "Categoria": null
+        "Conceito": "Imunodeprimido",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Quadro de metas Qualiﬁ cação proﬁ ssional",
-        "Categoria": null
+        "Conceito": "Imunologia",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Quimioterápico Raiva humana",
-        "Categoria": null
+        "Conceito": "Imunopatogênico",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Raticida Reabilitação",
-        "Categoria": null
+        "Conceito": "Incentivo de Integração ao Sistema Único </text>\n<text top=\"733\" left=\"483\" width=\"140\" height=\"14\" font=\"21\">de Saúde (Integrasus)",
+        "Categoria": "Economia de Saúde"
     },
     {
-        "Conceito": "Reação adversa Recomendações nutricionais",
-        "Categoria": null
+        "Conceito": "Incentivos",
+        "Categoria": "Economia de Saúde"
     },
     {
-        "Conceito": "Rede Nacional de Genotipagem (Renageno)",
-        "Categoria": null
+        "Conceito": "Incidência",
+        "Categoria": "Epidemiologia"
     },
     {
-        "Conceito": "Rede Sentinela Nacional de Parturientes Redes regionais",
-        "Categoria": null
+        "Conceito": "Indicadores demográﬁ cos",
+        "Categoria": "Demograﬁ a"
     },
     {
-        "Conceito": "Redes sociais Redução de danos",
-        "Categoria": null
+        "Conceito": "Índice de Pobreza Humana",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Redução de demandas reprimidas Reforço à reorganização do sistema único",
-        "Categoria": null
+        "Conceito": "Índice de Valorização de Resultado",
+        "Categoria": "Economia de Saúde"
     },
     {
-        "Conceito": "de saúde Reforsus",
-        "Categoria": null
+        "Conceito": "Infecção hospitalar",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Região de saúde Redes regionais",
-        "Categoria": null
+        "Conceito": "Informação tóxico-farmacológica",
+        "Categoria": "Acidentes e Violência"
     },
     {
-        "Conceito": "Registro de produto Regulação assistencial",
-        "Categoria": null
+        "Conceito": "Inseticida",
+        "Categoria": "Vigilância em Saúde"
     },
     {
-        "Conceito": "Regulamento técnico Relação Nacional de Medicamentos",
-        "Categoria": null
+        "Conceito": "Inseticidas piretróides",
+        "Categoria": "Ambiente e Saúde"
     },
     {
-        "Conceito": "Essenciais (Rename) Relatório de gestão",
-        "Categoria": null
+        "Conceito": "Inspeção de qualidade",
+        "Categoria": "Vigilância em Saúde"
     },
     {
-        "Conceito": "Relatório de vistoria Remuneração por serviços produzidos",
-        "Categoria": null
+        "Conceito": "Inspeção sanitária",
+        "Categoria": "Vigilância em Saúde"
     },
     {
-        "Conceito": "Reposição de nicotina Registro de produto",
-        "Categoria": null
+        "Conceito": "Incidência</text>\n<text top=\"257\" left=\"193\" width=\"117\" height=\"14\" font=\"25\">Inspeção sanitária</text>\n<text top=\"308\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">fatores de risco sanitário, que poderão produ-</text>\n<text top=\"327\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">zir agravo à saúde individual ou coletiva, in-</text>\n<text top=\"345\" left=\"176\" width=\"235\" height=\"16\" font=\"14\">cluindo a veriﬁ cação de documentos.</text>\n<text top=\"364\" left=\"176\" width=\"159\" height=\"14\" font=\"21\">Instituição de pesquisa",
+        "Categoria": "Ciência e Tecnologia em Saúde"
     },
     {
-        "Conceito": "Resolutividade Retinopatia diabética",
-        "Categoria": null
+        "Conceito": "Instituto Nacional de Câncer (INCA)",
+        "Categoria": "Administração e Planejamento"
     },
     {
-        "Conceito": "Riscos ocupacionais Rotulagem nutricional",
-        "Categoria": null
+        "Conceito": "Instrumentos de gestão em saúde",
+        "Categoria": "Administração e Planejamento"
     },
     {
-        "Conceito": "Rótulo Ruído",
-        "Categoria": null
+        "Conceito": "Insuficiência renal",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Resolutividade Salubridade ambiental",
-        "Categoria": null
+        "Conceito": "Insumo farmacêutico",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Saneantes domissanitários Sarampo",
-        "Categoria": null
+        "Conceito": "Integralidade",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Sarcoma de Kaposi Saturismo",
-        "Categoria": null
+        "Conceito": "Integrasus</text>\n<text top=\"596\" left=\"483\" width=\"285\" height=\"16\" font=\"14\">Ver Incentivo de Integração ao Sistema Úni-</text>\n<text top=\"614\" left=\"483\" width=\"80\" height=\"16\" font=\"14\">co de Saúde.</text>\n<text top=\"633\" left=\"483\" width=\"118\" height=\"14\" font=\"21\">Intercambialidade",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Saúde da criança Saúde da Família",
-        "Categoria": null
+        "Conceito": "Interiorização da aids",
+        "Categoria": "Epidemiologia"
     },
     {
-        "Conceito": "Saúde da Mulher Saúde do Adolescente e do Jovem",
-        "Categoria": null
+        "Conceito": "Internação hospitalar",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Saúde do Trabalhador Saúde Indígena",
-        "Categoria": null
+        "Conceito": "Instituição de pesquisa</text>\n<text top=\"257\" left=\"557\" width=\"138\" height=\"14\" font=\"25\">Interiorização da aids</text>\n<text top=\"308\" left=\"121\" width=\"291\" height=\"16\" font=\"14\">Pacientes que são admitidos para ocupar </text>\n<text top=\"326\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">um leito hospitalar por um período igual ou </text>\n<text top=\"344\" left=\"121\" width=\"111\" height=\"16\" font=\"14\">maior a 24 horas.</text>\n<text top=\"363\" left=\"121\" width=\"116\" height=\"14\" font=\"21\">Intersetorialidade",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Saúde Infantil Secretaria-Executiva",
-        "Categoria": null
+        "Conceito": "Investigação epidemiológica",
+        "Categoria": "Epidemiologia"
     },
     {
-        "Conceito": "Segurança alimentar Sensibilidade diagnóstica",
-        "Categoria": null
+        "Conceito": "Internação hospitalar</text>\n<text top=\"257\" left=\"193\" width=\"186\" height=\"14\" font=\"25\">Investigação epidemiológica</text>\n<text top=\"426\" left=\"176\" width=\"126\" height=\"14\" font=\"21\">Janela imunológica",
+        "Categoria": "Epidemiologia"
     },
     {
-        "Conceito": "Serviço de assistência especializada Sexo forçado no casamento",
-        "Categoria": null
+        "Conceito": "Laboratório oﬁ cial",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Saúde do Adolescente e do Jovem Sexualidade",
-        "Categoria": null
+        "Conceito": "Lavanderia hospitalar",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Síﬁ lis Síﬁ lis congênita",
-        "Categoria": null
+        "Conceito": "Lei de Diretrizes Orçamentárias (LDO)",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Silicose Síndrome da Criança Espancada",
-        "Categoria": null
+        "Conceito": "Leito hospitalar",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Síndrome da Imunodeﬁ ciência Adquirida Síndrome de Munchausen por Provocação",
-        "Categoria": null
+        "Conceito": "Leptospirose",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Síndrome do bebê sacudido Sistema de gênero",
-        "Categoria": null
+        "Conceito": "Lesão por Esforço Repetitivo (LER)</text>\n<text top=\"750\" left=\"483\" width=\"289\" height=\"16\" font=\"14\">Ver Distúrbio osteomuscular relacionado ao </text>\n<text top=\"768\" left=\"483\" width=\"114\" height=\"16\" font=\"14\">trabalho (DORT)</text>\n<text top=\"787\" left=\"483\" width=\"108\" height=\"14\" font=\"21\">Licença sanitária",
+        "Categoria": "Vigilância em Saúde"
     },
     {
-        "Conceito": "Sexualidade Sistema de Informação de HIV Soropositivo",
-        "Categoria": null
+        "Conceito": "Licitação",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Assintomático Sistema de Informações do Programa",
-        "Categoria": null
+        "Conceito": "Limite ﬁ nanceiro",
+        "Categoria": "Economia de Saúde"
     },
     {
-        "Conceito": "Nacional de Imunizações (SI-PNI) Sistema de Informações sobre Agravos de",
-        "Categoria": null
+        "Conceito": "Linfadenopatia persistente generalizada",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Notiﬁ cação (Sinan) Sistema de Informações sobre Orçamentos",
-        "Categoria": null
+        "Conceito": "Linfogranuloma venéreo",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Públicos em Saúde (Siops) Sistema de Informações",
-        "Categoria": null
+        "Conceito": "Limite ﬁ nanceiro</text>\n<text top=\"257\" left=\"193\" width=\"160\" height=\"14\" font=\"25\">Linfogranuloma venéreo</text>\n<text top=\"426\" left=\"176\" width=\"107\" height=\"14\" font=\"21\">Macronutrientes",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Ambulatoriais (SIA-SUS) Sistema de Informação de HIV Soropositivo Assintomático",
-        "Categoria": null
+        "Conceito": "Malária",
+        "Categoria": "Doenças"
     },
     {
-        "Conceito": "Sistema de Informações da Atenção Básica (Siab)",
-        "Categoria": null
+        "Conceito": "Mamograﬁ a",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Sistemas de Informações Hospitalares do SUS (SIH-SUS)",
-        "Categoria": null
+        "Conceito": "Margem terapêutica",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Sistema de Informações sobre Agravos de Notiﬁ cação (Sinan)",
-        "Categoria": null
+        "Conceito": "Média complexidade",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Sistema de Informações sobre Mortalidade (SIM)",
-        "Categoria": null
+        "Conceito": "Medicamentos bioequivalentes",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Sistema de Informações sobre Nascidos Vivos (Sinasc)",
-        "Categoria": null
+        "Conceito": "Medicamentos biológicos",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Sistemas de Informação Sistemas de Informação em Saúde",
-        "Categoria": null
+        "Conceito": "Medicamentos biotecnológicos",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Sistema de Informações da Atenção Básica (Siab) Sistema Nacional de Auditoria",
-        "Categoria": null
+        "Conceito": "Medicamentos de controle especial",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Sistema Nacional de Laboratórios de Sorologia para HIV (Sinalaids)",
-        "Categoria": null
+        "Conceito": "Medicamentos de dispensação em caráter </text>\n<text top=\"453\" left=\"121\" width=\"77\" height=\"14\" font=\"21\">excepcional",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Sistema Único de Saúde (SUS) Sistemas Formais de Cuidados",
-        "Categoria": null
+        "Conceito": "Medicamentos de referência",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Sistemas Informais de Cuidados Solvente orgânico",
-        "Categoria": null
+        "Conceito": "Medicamentos de saúde mental",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Soroconversão Soropositivo",
-        "Categoria": null
+        "Conceito": "Medicamentos de uso contínuo",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Sistemas de Informação em Saúde Soroprevalência",
-        "Categoria": null
+        "Conceito": "Medicamentos de venda livre",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Substância ativa Substância proscrita",
-        "Categoria": null
+        "Conceito": "Medicamentos estratégicos",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Suporte avançado de vida Suporte básico de vida",
-        "Categoria": null
+        "Conceito": "Medicamentos excepcionais",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Suporte social Soropositivo",
-        "Categoria": null
+        "Conceito": "Medicamentos ﬁ toterápicos",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Taxa de ataque Tecnovigilância",
-        "Categoria": null
+        "Conceito": "Medicamentos genéricos",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Termo de compromisso Testagem sorológica",
-        "Categoria": null
+        "Conceito": "Medicamentos homeopáticos",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Tétano Teto Financeiro da Assistência do Estado",
-        "Categoria": null
+        "Conceito": "Medicamentos de controle especial</text>\n<text top=\"257\" left=\"193\" width=\"192\" height=\"14\" font=\"25\">Medicamentos homeopáticos</text>\n<text top=\"308\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">São preparações manipuladas de forma espe-</text>\n<text top=\"326\" left=\"176\" width=\"290\" height=\"16\" font=\"14\">cíﬁ ca de acordo com regras farmacotécnicas </text>\n<text top=\"344\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">bem deﬁ nidas, descritas na Farmacopéia. Ho-</text>\n<text top=\"362\" left=\"176\" width=\"132\" height=\"16\" font=\"14\">meopática Brasileira.</text>\n<text top=\"381\" left=\"176\" width=\"238\" height=\"14\" font=\"21\">Medicamentos para a atenção básica",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "(TFAE) Teto Financeiro da Assistência do Município",
-        "Categoria": null
+        "Conceito": "Medicamentos tarjados",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "(TFAM) Titular de registro",
-        "Categoria": null
+        "Conceito": "Médico regulador",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Trabalhador Trabalhador coletivo",
-        "Categoria": null
+        "Conceito": "Medida cautelar",
+        "Categoria": "Acidentes e Violência"
     },
     {
-        "Conceito": "Trabalho precoce Tracoma",
-        "Categoria": null
+        "Conceito": "Menopausa",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Transição demográﬁ ca Transmissão direta",
-        "Categoria": null
+        "Conceito": "Método direto de padronização",
+        "Categoria": "Demograﬁ a"
     },
     {
-        "Conceito": "Transmissão vertical (aids) Transplante de órgãos",
-        "Categoria": null
+        "Conceito": "Método epidemiológico",
+        "Categoria": "Epidemiologia"
     },
     {
-        "Conceito": "Transtornos alimentares Tuberculose",
-        "Categoria": null
+        "Conceito": "Métodos contraceptivos",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Trabalhador coletivo Unidade básica de saúde",
-        "Categoria": null
+        "Conceito": "Métodos de barreiras",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Unidade de Saúde da Família Unidade integrada",
-        "Categoria": null
+        "Conceito": "Micronutrientes",
+        "Categoria": "Alimentação e Nutrição"
     },
     {
-        "Conceito": "Unidade Mista Unidade Sanitária",
-        "Categoria": null
+        "Conceito": "Microrregião de saúde",
+        "Categoria": "Administração e Planejamento"
     },
     {
-        "Conceito": "Unidade Territorial de Qualiﬁ cação na Assistência à Saúde",
-        "Categoria": null
+        "Conceito": "Modelo ecológico",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Unidades de Referência Universalidade",
-        "Categoria": null
+        "Conceito": "Medicamentos para a atenção básica</text>\n<text top=\"257\" left=\"578\" width=\"118\" height=\"14\" font=\"25\">Modelo ecológico</text>\n<text top=\"309\" left=\"121\" width=\"127\" height=\"14\" font=\"21\">Módulo assistencial",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Uretrites Urticária",
-        "Categoria": null
+        "Conceito": "Módulo-padrão de suprimento",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
     },
     {
-        "Conceito": "Uso racional de medicamentos Usuários de Droga Injetável (UDI)",
-        "Categoria": null
+        "Conceito": "Morbimortalidade",
+        "Categoria": "Demograﬁ a"
     },
     {
-        "Conceito": "Uso racional de medicamentos Vegetarianismo",
-        "Categoria": null
+        "Conceito": "Município-pólo",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Veículos para atendimento pré-hospitalar Vigilância epidemiológica",
-        "Categoria": null
+        "Conceito": "Município-sede do módulo assistencial",
+        "Categoria": "Administração e Planejamento em"
     },
     {
-        "Conceito": "Vigilância nacional de parturientes Vigilância sentinela",
-        "Categoria": null
+        "Conceito": "Mutirão",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Violência econômica Violência ﬁ nanceira",
-        "Categoria": null
+        "Conceito": "Módulo assistencial</text>\n<text top=\"257\" left=\"193\" width=\"51\" height=\"14\" font=\"25\">Mutirão</text>\n<text top=\"426\" left=\"176\" width=\"95\" height=\"14\" font=\"21\">Nascido morto",
+        "Categoria": "Epidemiologia"
     },
     {
-        "Conceito": "Violência física Violência institucional",
-        "Categoria": null
+        "Conceito": "Nascido vivo",
+        "Categoria": "Epidemiologia"
     },
     {
-        "Conceito": "Violência intrafamiliar Violência psicológica",
-        "Categoria": null
+        "Conceito": "Natimorto</text>\n<text top=\"659\" left=\"176\" width=\"125\" height=\"16\" font=\"14\">Ver Nascido morto.</text>\n<text top=\"678\" left=\"176\" width=\"76\" height=\"14\" font=\"21\">Nefropatias</text>\n<text top=\"695\" left=\"176\" width=\"125\" height=\"16\" font=\"14\">Ver Doenças renais.</text>\n<text top=\"714\" left=\"176\" width=\"77\" height=\"14\" font=\"21\">Negligência",
+        "Categoria": "Acidentes e Violência"
     },
     {
-        "Conceito": "Violência sexual Vulnerabilidade",
-        "Categoria": null
+        "Conceito": "Níveis de complexidade",
+        "Categoria": "Atenção à Saúde"
     },
     {
-        "Conceito": "Vulnerabilidade individual Zalcitabina",
-        "Categoria": null
+        "Conceito": "Norma Operacional de Assistência à </text>\n<text top=\"966\" left=\"176\" width=\"90\" height=\"14\" font=\"21\">Saúde (NOAS)",
+        "Categoria": "Direito Sanitário"
+    },
+    {
+        "Conceito": "Norma Operacional Básica",
+        "Categoria": "Direito Sanitário"
+    },
+    {
+        "Conceito": "Notiﬁ cação de doenças</text>\n<text top=\"643\" left=\"483\" width=\"67\" height=\"16\" font=\"16\">Categoria: </text>\n<text top=\"644\" left=\"550\" width=\"94\" height=\"14\" font=\"21\">epidemiologia</text>\n<text top=\"661\" left=\"483\" width=\"289\" height=\"16\" font=\"14\">Comunicação da ocorrência de determinada </text>\n<text top=\"679\" left=\"483\" width=\"285\" height=\"16\" font=\"14\">doença ou agravo à saúde, feita à autorida-</text>\n<text top=\"697\" left=\"483\" width=\"285\" height=\"16\" font=\"14\">de sanitária por proﬁ ssinais da saúde ou qual-</text>\n<text top=\"715\" left=\"483\" width=\"289\" height=\"16\" font=\"14\">quer cidadão, para ﬁ ns de adoção de medida </text>\n<text top=\"733\" left=\"483\" width=\"172\" height=\"16\" font=\"14\">de intervenção pertinentes.</text>\n<text top=\"752\" left=\"483\" width=\"174\" height=\"14\" font=\"21\">Notiﬁ cação de maus-tratos",
+        "Categoria": "Acidentes e Violência"
+    },
+    {
+        "Conceito": "Notiﬁ cação de receita",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Núcleos de educação em urgências",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Nutrimento",
+        "Categoria": "Alimentação e Nutrição"
+    },
+    {
+        "Conceito": "Núcleos de educação em urgências</text>\n<text top=\"257\" left=\"193\" width=\"76\" height=\"14\" font=\"25\">Nutrimento</text>\n<text top=\"426\" left=\"176\" width=\"70\" height=\"14\" font=\"21\">Obesidade",
+        "Categoria": "Alimentação e Nutrição"
+    },
+    {
+        "Conceito": "Óbito fetal",
+        "Categoria": "Epidemiologia"
+    },
+    {
+        "Conceito": "Óbito hospitalar",
+        "Categoria": "Epidemiologia"
+    },
+    {
+        "Conceito": "Óbito materno",
+        "Categoria": "Epidemiologia"
+    },
+    {
+        "Conceito": "Óbito neonatal",
+        "Categoria": "Epidemiologia"
+    },
+    {
+        "Conceito": "Óbito neonatal precoce",
+        "Categoria": "Epidemiologia"
+    },
+    {
+        "Conceito": "Observação hospitalar",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Oncologia</text>\n<text top=\"516\" left=\"483\" width=\"113\" height=\"16\" font=\"14\">Ver Cancerologia.</text>\n<text top=\"535\" left=\"483\" width=\"275\" height=\"14\" font=\"21\">Operadora de plano de assistência à saúde</text>\n<text top=\"552\" left=\"483\" width=\"157\" height=\"16\" font=\"14\">Ver Operadora de saúde.</text>\n<text top=\"571\" left=\"483\" width=\"131\" height=\"14\" font=\"21\">Operadora de saúde",
+        "Categoria": "Políticas Públicas e Saúde"
+    },
+    {
+        "Conceito": "Orçamento da Seguridade Social",
+        "Categoria": "Economia de Saúde"
+    },
+    {
+        "Conceito": "Órgão de Vigilância Sanitária Competente",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Orientação alimentar",
+        "Categoria": "Alimentação e Nutrição"
+    },
+    {
+        "Conceito": "Ouvidoria da Saúde",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Orientação alimentar</text>\n<text top=\"257\" left=\"193\" width=\"128\" height=\"14\" font=\"25\">Ouvidoria da Saúde</text>\n<text top=\"426\" left=\"176\" width=\"81\" height=\"14\" font=\"21\">Paciente-dia",
+        "Categoria": "Epidemiologia"
+    },
+    {
+        "Conceito": "Papiloma Vírus Humano</text>\n<text top=\"551\" left=\"176\" width=\"61\" height=\"16\" font=\"14\">Ver HPV.</text>\n<text top=\"570\" left=\"176\" width=\"81\" height=\"14\" font=\"21\">Pátrio poder",
+        "Categoria": "Demograﬁ a"
+    },
+    {
+        "Conceito": "Pauperização da aids",
+        "Categoria": "Epidemiologia"
+    },
+    {
+        "Conceito": "Pediculoses",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Perda auditiva induzida por ruído",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Perﬁ l epidemiológico",
+        "Categoria": "Eqüidade em Saúde e Social"
+    },
+    {
+        "Conceito": "Perﬁ l nosológico",
+        "Categoria": "Epidemiologia"
+    },
+    {
+        "Conceito": "Período de incubação",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Pesquisa em reprodução humana",
+        "Categoria": "Ciência e Tecnologia em Saúde"
+    },
+    {
+        "Conceito": "Pesquisa em saúde",
+        "Categoria": "Ciência e Tecnologia em Saúde"
+    },
+    {
+        "Conceito": "Pesquisa envolvendo seres humanos",
+        "Categoria": "Ciência e Tecnologia em Saúde"
+    },
+    {
+        "Conceito": "Pesquisador responsável",
+        "Categoria": "Ciência e Tecnologia em Saúde"
+    },
+    {
+        "Conceito": "Peste",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Pirâmide alimentar",
+        "Categoria": "Alimentação e Nutrição"
+    },
+    {
+        "Conceito": "Piso da Atenção Básica (PAB)",
+        "Categoria": "Economia de Saúde"
+    },
+    {
+        "Conceito": "Plano de saúde",
+        "Categoria": "Políticas Públicas e Saúde"
+    },
+    {
+        "Conceito": "Plano de Saúde (gestão do SUS)",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Plano Diretor de Regionalização",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Pesquisa envolvendo seres humanos</text>\n<text top=\"257\" left=\"193\" width=\"207\" height=\"14\" font=\"25\">Plano Diretor de Regionalização</text>\n<text top=\"308\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">regionalização da da assistência em cada es-</text>\n<text top=\"326\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">tado e no Distrito Federal, baseado nos ob-</text>\n<text top=\"344\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">jetivos de deﬁ nição de prioridades de inter-</text>\n<text top=\"362\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">venção da população e garantia de acesso dos </text>\n<text top=\"380\" left=\"176\" width=\"237\" height=\"16\" font=\"14\">cidadãos a todos os níveis de atenção.</text>\n<text top=\"399\" left=\"176\" width=\"238\" height=\"14\" font=\"21\">Plano Nacional de Saúde do Sistema </text>\n<text top=\"417\" left=\"176\" width=\"86\" height=\"14\" font=\"21\">Penitenciário",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Plano Nacional de Vacinas Anti-HIV/aids",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Plano Plurianual (PPA)",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Plano privado de assistência à saúde</text>\n<text top=\"830\" left=\"176\" width=\"121\" height=\"16\" font=\"14\">Ver Plano de saúde</text>\n<text top=\"849\" left=\"176\" width=\"104\" height=\"14\" font=\"21\">Pneumoconiose",
+        "Categoria": "Ambiente e Saúde"
+    },
+    {
+        "Conceito": "Poder de polícia",
+        "Categoria": "Vigilância em Saúde"
+    },
+    {
+        "Conceito": "Política Nacional de Saúde do Idoso",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Pólos de capacitação",
+        "Categoria": "Recursos Humanos em Saúde Pú-"
+    },
+    {
+        "Conceito": "População economicamente ativa",
+        "Categoria": "Demograﬁ a"
+    },
+    {
+        "Conceito": "Plano Nacional de Saúde do Sistema Penitenciário</text>\n<text top=\"257\" left=\"477\" width=\"219\" height=\"14\" font=\"25\">População economicamente ativa</text>\n<text top=\"308\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">É deﬁ nida pelo IBGE como aquela composta </text>\n<text top=\"326\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">por pessoas de 10 a 65 anos de idade, classi-</text>\n<text top=\"344\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">ﬁ cadas como ocupadas ou desocupadas (mas </text>\n<text top=\"362\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">procurando emprego) na semana de referên-</text>\n<text top=\"380\" left=\"121\" width=\"254\" height=\"16\" font=\"14\">cia da pesquisa realizada pelo Instituto.</text>\n<text top=\"399\" left=\"121\" width=\"176\" height=\"14\" font=\"21\">Porto de controle sanitário",
+        "Categoria": "Vigilância em Saúde"
+    },
+    {
+        "Conceito": "Posto de medicamentos",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Posto de saúde",
+        "Categoria": "Administração e Planejamento"
+    },
+    {
+        "Conceito": "Preparações farmacêuticas</text>\n<text top=\"974\" left=\"121\" width=\"71\" height=\"16\" font=\"14\">Ver Drogas</text>\n<text top=\"309\" left=\"427\" width=\"142\" height=\"14\" font=\"21\">Preservativo feminino",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Preservativo masculino",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Prevalência",
+        "Categoria": "Epidemiologia"
+    },
+    {
+        "Conceito": "Princípio ativo",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Procedimento operacional padronizado",
+        "Categoria": "Vigilância em Saúde"
+    },
+    {
+        "Conceito": "Porto de controle sanitário</text>\n<text top=\"257\" left=\"193\" width=\"257\" height=\"14\" font=\"25\">Procedimento operacional padronizado</text>\n<text top=\"308\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">estabelece instruções seqüenciais para a reali-</text>\n<text top=\"326\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">zação de operações rotineiras e especíﬁ cas na </text>\n<text top=\"344\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">industrialização, armazenamento e transporte </text>\n<text top=\"362\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">de alimentos. Este procedimento pode apre-</text>\n<text top=\"380\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">sentar outras nomenclaturas desde que obe-</text>\n<text top=\"398\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">deça ao conteúdo estabelecido na Resolução </text>\n<text top=\"416\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">– RDC n.º 267, de 25 de setembro de 2003.</text>\n<text top=\"435\" left=\"176\" width=\"149\" height=\"14\" font=\"21\">Produção de alimentos",
+        "Categoria": "Alimentação e Nutrição"
+    },
+    {
+        "Conceito": "Produto a granel",
+        "Categoria": "Vigilância em Saúde"
+    },
+    {
+        "Conceito": "Produto acabado",
+        "Categoria": "Vigilância em Saúde"
+    },
+    {
+        "Conceito": "Produto biológico",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Produto de higiene",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Produto dietético",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Produto farmacêutico",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Produto intermediário",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Produto médico estéril",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Produto médico invasivo",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Produto semi-elaborado",
+        "Categoria": "Vigilância em Saúde"
+    },
+    {
+        "Conceito": "Produtos médicos",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Produto para diagnóstico de uso</text>\n<text top=\"939\" left=\"693\" width=\"3\" height=\"20\" font=\"29\"> </text>\n<text top=\"936\" left=\"696\" width=\"52\" height=\"23\" font=\"31\">in vitro",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Produção de alimentos</text>\n<text top=\"257\" left=\"430\" width=\"210\" height=\"14\" font=\"25\">Produto para diagnóstico de uso</text>\n<text top=\"253\" left=\"640\" width=\"3\" height=\"20\" font=\"32\"> </text>\n<text top=\"250\" left=\"643\" width=\"52\" height=\"23\" font=\"33\">in vitro</text>\n<text top=\"308\" left=\"121\" width=\"290\" height=\"16\" font=\"14\">as instruções para seu uso, que contribuam </text>\n<text top=\"326\" left=\"121\" width=\"290\" height=\"16\" font=\"14\">para realizar uma determinação qualitativa, </text>\n<text top=\"344\" left=\"121\" width=\"291\" height=\"16\" font=\"14\">quantitativa ou semi-quantitativa de uma </text>\n<text top=\"362\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">amostra biológica e que não sejam destinados </text>\n<text top=\"380\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">a cumprir função anatômica, física ou terapêu-</text>\n<text top=\"398\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">tica alguma, que não sejam ingeridos, injeta-</text>\n<text top=\"416\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">dos ou inoculados em seres humanos e que são </text>\n<text top=\"434\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">utilizados unicamente para prover informação </text>\n<text top=\"452\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">sobre espécimes extraídos do corpo humano.</text>\n<text top=\"475\" left=\"121\" width=\"213\" height=\"14\" font=\"21\">Produto para diagnóstico de uso </text>\n<text top=\"468\" left=\"335\" width=\"48\" height=\"23\" font=\"31\">in vivo",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Proﬁ ssionais do sexo",
+        "Categoria": "Ciências Sociais em Saúde"
+    },
+    {
+        "Conceito": "Programação Pactuada e Integrada (PPI)",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Programa de Combate às Carências </text>\n<text top=\"853\" left=\"121\" width=\"126\" height=\"14\" font=\"21\">Nutricionais (PCCN)",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Programa de Humanização no Pré-Natal e </text>\n<text top=\"327\" left=\"427\" width=\"126\" height=\"14\" font=\"21\">Nascimento (PHPN)",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Programa de Interiorização do Trabalho em </text>\n<text top=\"507\" left=\"427\" width=\"81\" height=\"14\" font=\"21\">Saúde (PITS)",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Programa Nacional de Avaliação dos </text>\n<text top=\"741\" left=\"427\" width=\"196\" height=\"14\" font=\"21\">Serviços Hospitalares (PNASH)",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Programa Nacional de Humanização da </text>\n<text top=\"921\" left=\"427\" width=\"142\" height=\"14\" font=\"21\">Assistência Hospitalar",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Produto para diagnóstico de uso </text>\n<text top=\"233\" left=\"407\" width=\"48\" height=\"23\" font=\"31\">in vivo</text>\n<text top=\"257\" left=\"193\" width=\"399\" height=\"14\" font=\"25\">Programa Nacional de Humanização da Assistência Hospitalar</text>\n<text top=\"308\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">te o padrão de assistência ao usuário nos hos-</text>\n<text top=\"326\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">pitais públicos do Brasil, melhorando a qua-</text>\n<text top=\"344\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">lidade e a eﬁ cácia dos serviços hoje prestados </text>\n<text top=\"362\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">por essas instituições. É seu objetivo funda-</text>\n<text top=\"379\" left=\"176\" width=\"285\" height=\"16\" font=\"14\">mental aprimorar as relações entre proﬁ ssio-</text>\n<text top=\"397\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">nal de saúde e usuário, dos proﬁ ssionais entre </text>\n<text top=\"415\" left=\"176\" width=\"225\" height=\"16\" font=\"14\">si e do hospital com a comunidade.</text>\n<text top=\"434\" left=\"176\" width=\"206\" height=\"14\" font=\"21\">Programa Qualidade do Sangue",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Programa Saúde da Família (PSF)",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Programas de saúde",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Projeto Bela Vista",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Projeto Carteiro Amigo",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Projeto de Proﬁ ssionalização dos </text>\n<text top=\"683\" left=\"483\" width=\"254\" height=\"14\" font=\"21\">Trabalhadores da Área de Enfermagem </text>\n<text top=\"700\" left=\"483\" width=\"51\" height=\"14\" font=\"21\">(Profae)",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Projeto Horizonte",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Programa Qualidade do Sangue</text>\n<text top=\"257\" left=\"581\" width=\"115\" height=\"14\" font=\"25\">Projeto Horizonte</text>\n<text top=\"308\" left=\"121\" width=\"290\" height=\"16\" font=\"14\">prevalência da infecção pelo HIV, avaliar o </text>\n<text top=\"326\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">impacto de intervenções educativas e acon-</text>\n<text top=\"344\" left=\"121\" width=\"290\" height=\"16\" font=\"14\">selhamento na incidência desta infecção. O </text>\n<text top=\"362\" left=\"121\" width=\"290\" height=\"16\" font=\"14\">projeto também tem como objetivos avaliar </text>\n<text top=\"379\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">a possibilidade de acompanhamento a longo </text>\n<text top=\"397\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">prazo desta coorte e sua utilização em ensaio </text>\n<text top=\"415\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">clínico de vacina anti-HIV, como parte inte-</text>\n<text top=\"433\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">grante do Plano Nacional Vacinas Anti-HIV, </text>\n<text top=\"450\" left=\"121\" width=\"153\" height=\"16\" font=\"14\">do Ministério da Saúde.</text>\n<text top=\"469\" left=\"121\" width=\"127\" height=\"14\" font=\"21\">Promoção da saúde",
+        "Categoria": "Promoção e Educação em Saúde"
+    },
+    {
+        "Conceito": "Promoção do envelhecimento saudável",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Prontuário médico",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Propaganda de produtos farmacêuticos",
+        "Categoria": "Comunicação em Saúde"
+    },
+    {
+        "Conceito": "Protocolos clínicos",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Protocolo de pesquisa",
+        "Categoria": "Ciência e Tecnologia em Saúde"
+    },
+    {
+        "Conceito": "Proposta de concorrência</text>\n<text top=\"646\" left=\"427\" width=\"87\" height=\"16\" font=\"14\">Ver Licitação.</text>\n<text top=\"665\" left=\"427\" width=\"80\" height=\"14\" font=\"21\">Psicotrópico",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Pureza",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Promoção da saúde</text>\n<text top=\"257\" left=\"193\" width=\"44\" height=\"14\" font=\"25\">Pureza</text>\n<text top=\"426\" left=\"176\" width=\"111\" height=\"14\" font=\"21\">Quadro de metas",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Qualiﬁ cação proﬁ ssional",
+        "Categoria": "Recursos Humanos em Saúde Pública"
+    },
+    {
+        "Conceito": "Quimioterápico",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Raiva humana",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Raticida",
+        "Categoria": "Vigilância em Saúde"
+    },
+    {
+        "Conceito": "Reabilitação",
+        "Categoria": "Acidentes e Violência"
+    },
+    {
+        "Conceito": "Reação adversa",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Recomendações nutricionais",
+        "Categoria": "Alimentação e Nutrição"
+    },
+    {
+        "Conceito": "Rede Nacional de Genotipagem </text>\n<text top=\"643\" left=\"483\" width=\"76\" height=\"14\" font=\"21\">(Renageno)",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Rede Sentinela Nacional de Parturientes",
+        "Categoria": "Epidemiologia"
+    },
+    {
+        "Conceito": "Redes regionais",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Redes sociais",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Redução de danos",
+        "Categoria": "Drogas de Uso Terapêutico e Social"
+    },
+    {
+        "Conceito": "Redução de demandas reprimidas</text>\n<text top=\"380\" left=\"427\" width=\"82\" height=\"16\" font=\"14\">Ver Mutirão.</text>\n<text top=\"399\" left=\"427\" width=\"271\" height=\"14\" font=\"21\">Reforço à reorganização do sistema único </text>\n<text top=\"417\" left=\"427\" width=\"58\" height=\"14\" font=\"21\">de saúde</text>\n<text top=\"434\" left=\"427\" width=\"84\" height=\"16\" font=\"14\">Ver Reforsus.</text>\n<text top=\"453\" left=\"427\" width=\"56\" height=\"14\" font=\"21\">Reforsus",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Região de saúde",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Redes regionais</text>\n<text top=\"257\" left=\"193\" width=\"104\" height=\"14\" font=\"25\">Região de saúde</text>\n<text top=\"309\" left=\"176\" width=\"130\" height=\"14\" font=\"21\">Registro de produto",
+        "Categoria": "Direito Sanitário"
+    },
+    {
+        "Conceito": "Regulação assistencial",
+        "Categoria": "Eqüidade em Saúde e Social"
+    },
+    {
+        "Conceito": "Regulamento técnico",
+        "Categoria": "Saúde Animal. Vigilância em Saúde"
+    },
+    {
+        "Conceito": "Relação Nacional de Medicamentos </text>\n<text top=\"705\" left=\"176\" width=\"130\" height=\"14\" font=\"21\">Essenciais (Rename)",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Relatório de gestão",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Relatório de vistoria",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Remuneração por serviços produzidos",
+        "Categoria": "Economia de Saúde"
+    },
+    {
+        "Conceito": "Reposição de nicotina",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Registro de produto</text>\n<text top=\"257\" left=\"547\" width=\"148\" height=\"14\" font=\"25\">Reposição de nicotina</text>\n<text top=\"308\" left=\"121\" width=\"292\" height=\"16\" font=\"14\">concentração sérica de nicotina após o </text>\n<text top=\"326\" left=\"121\" width=\"139\" height=\"16\" font=\"14\">abandono do cigarro.</text>\n<text top=\"345\" left=\"121\" width=\"97\" height=\"14\" font=\"21\">Resolutividade",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Retinopatia diabética",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Riscos ocupacionais",
+        "Categoria": "Acidentes e Violência"
+    },
+    {
+        "Conceito": "Rotulagem nutricional",
+        "Categoria": "Alimentação e Nutrição"
+    },
+    {
+        "Conceito": "Rótulo",
+        "Categoria": "Vigilância em Saúde"
+    },
+    {
+        "Conceito": "Ruído",
+        "Categoria": "Ambiente e Saúde"
+    },
+    {
+        "Conceito": "Resolutividade</text>\n<text top=\"257\" left=\"193\" width=\"38\" height=\"14\" font=\"25\">Ruído</text>\n<text top=\"426\" left=\"176\" width=\"148\" height=\"14\" font=\"21\">Salubridade ambiental",
+        "Categoria": "Ambiente e Saúde"
+    },
+    {
+        "Conceito": "Saneantes domissanitários",
+        "Categoria": "Vigilância em Saúde"
+    },
+    {
+        "Conceito": "Sarampo",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Sarcoma de Kaposi",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Saturismo",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Saúde da criança",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Saúde da Família</text>\n<text top=\"894\" left=\"483\" width=\"203\" height=\"16\" font=\"14\">Ver Programa Saúde da Família.</text>\n<text top=\"913\" left=\"483\" width=\"109\" height=\"14\" font=\"21\">Saúde da Mulher",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Saúde do Adolescente e do Jovem",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Saúde do Trabalhador",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Saúde Indígena",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Saúde Infantil</text>\n<text top=\"912\" left=\"121\" width=\"132\" height=\"16\" font=\"14\">Ver Saúde da criança</text>\n<text top=\"931\" left=\"121\" width=\"132\" height=\"14\" font=\"21\">Secretaria-Executiva",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Segurança alimentar",
+        "Categoria": "Alimentação e Nutrição"
+    },
+    {
+        "Conceito": "Sensibilidade diagnóstica",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Serviço de assistência especializada",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Sexo forçado no casamento",
+        "Categoria": "Acidentes e Violência"
+    },
+    {
+        "Conceito": "Saúde do Adolescente e do Jovem</text>\n<text top=\"257\" left=\"193\" width=\"178\" height=\"14\" font=\"25\">Sexo forçado no casamento</text>\n<text top=\"309\" left=\"176\" width=\"80\" height=\"14\" font=\"21\">Sexualidade",
+        "Categoria": "Ciências Sociais em Saúde"
+    },
+    {
+        "Conceito": "Síﬁ lis",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Síﬁ lis congênita",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Silicose",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Síndrome da Criança Espancada",
+        "Categoria": "Acidentes e Violência"
+    },
+    {
+        "Conceito": "Síndrome da Imunodeﬁ ciência Adquirida</text>\n<text top=\"455\" left=\"483\" width=\"58\" height=\"16\" font=\"14\">Ver Aids.</text>\n<text top=\"474\" left=\"483\" width=\"273\" height=\"14\" font=\"21\">Síndrome de Munchausen por Provocação",
+        "Categoria": "Acidentes e Violência"
+    },
+    {
+        "Conceito": "Síndrome do bebê sacudido",
+        "Categoria": "Acidentes e Violência"
+    },
+    {
+        "Conceito": "Sistema de gênero",
+        "Categoria": "Ciências Sociais em Saúde"
+    },
+    {
+        "Conceito": "Sexualidade</text>\n<text top=\"257\" left=\"575\" width=\"120\" height=\"14\" font=\"25\">Sistema de gênero</text>\n<text top=\"309\" left=\"121\" width=\"282\" height=\"14\" font=\"21\">Sistema de Informação de HIV Soropositivo </text>\n<text top=\"327\" left=\"121\" width=\"92\" height=\"14\" font=\"21\">Assintomático",
+        "Categoria": "Ciência e Tecnologia em Saúde"
+    },
+    {
+        "Conceito": "Sistema de Informações do Programa </text>\n<text top=\"561\" left=\"121\" width=\"212\" height=\"14\" font=\"21\">Nacional de Imunizações (SI-PNI)",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Sistema de Informações sobre Agravos de </text>\n<text top=\"705\" left=\"121\" width=\"122\" height=\"14\" font=\"21\">Notiﬁ cação (Sinan)",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Sistema de Informações sobre Orçamentos </text>\n<text top=\"723\" left=\"427\" width=\"169\" height=\"14\" font=\"21\">Públicos em Saúde (Siops)",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Sistema de Informações </text>\n<text top=\"849\" left=\"427\" width=\"155\" height=\"14\" font=\"21\">Ambulatoriais (SIA-SUS)",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Sistema de Informação de HIV Soropositivo Assintomático</text>\n<text top=\"257\" left=\"193\" width=\"312\" height=\"14\" font=\"25\">Sistema de Informações Ambulatoriais (SIA-SUS)</text>\n<text top=\"308\" left=\"176\" width=\"289\" height=\"16\" font=\"14\">torial (RCA), gerenciamento da capacidade </text>\n<text top=\"326\" left=\"176\" width=\"290\" height=\"16\" font=\"14\">instalada e produzida; gerenciamento dos </text>\n<text top=\"344\" left=\"176\" width=\"290\" height=\"16\" font=\"14\">recursos ﬁ nanceiros orçados e repassados </text>\n<text top=\"362\" left=\"176\" width=\"180\" height=\"16\" font=\"14\">aos prestadores de serviços.</text>\n<text top=\"381\" left=\"176\" width=\"243\" height=\"14\" font=\"21\">Sistema de Informações da Atenção </text>\n<text top=\"399\" left=\"176\" width=\"84\" height=\"14\" font=\"21\">Básica (Siab)",
+        "Categoria": "Administração e Planejamento"
+    },
+    {
+        "Conceito": "Sistemas de Informações Hospitalares do </text>\n<text top=\"615\" left=\"176\" width=\"93\" height=\"14\" font=\"21\">SUS (SIH-SUS)",
+        "Categoria": "Administração e Planejamento"
+    },
+    {
+        "Conceito": "Sistema de Informações sobre Agravos de </text>\n<text top=\"957\" left=\"176\" width=\"122\" height=\"14\" font=\"21\">Notiﬁ cação (Sinan)",
+        "Categoria": "Administração e Planejamento"
+    },
+    {
+        "Conceito": "Sistema de Informações sobre </text>\n<text top=\"453\" left=\"483\" width=\"116\" height=\"14\" font=\"21\">Mortalidade (SIM)",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Sistema de Informações sobre Nascidos </text>\n<text top=\"615\" left=\"483\" width=\"88\" height=\"14\" font=\"21\">Vivos (Sinasc)",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Sistemas de Informação",
+        "Categoria": "Administração e Planejamento"
+    },
+    {
+        "Conceito": "Sistemas de Informação em Saúde",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Sistema de Informações da Atenção Básica (Siab)</text>\n<text top=\"257\" left=\"538\" width=\"157\" height=\"14\" font=\"25\">Sistemas de Informação</text>\n<text top=\"308\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">lisar dados necessários a deﬁ nição de proble-</text>\n<text top=\"326\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">mas e riscos para a saúde, avaliar a eﬁ cácia, </text>\n<text top=\"344\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">eﬁ ciência e inﬂ uência que os serviços presta-</text>\n<text top=\"362\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">dos possam ter no estado de saúde da popu-</text>\n<text top=\"380\" left=\"121\" width=\"289\" height=\"16\" font=\"14\">lação, além de contribuir para a produção de </text>\n<text top=\"398\" left=\"121\" width=\"285\" height=\"16\" font=\"14\">conhecimentos acerca da saúde e dos assun-</text>\n<text top=\"416\" left=\"121\" width=\"103\" height=\"16\" font=\"14\">tos a ela ligados.</text>\n<text top=\"435\" left=\"121\" width=\"195\" height=\"14\" font=\"21\">Sistema Nacional de Auditoria",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Sistema Nacional de Laboratórios de </text>\n<text top=\"687\" left=\"121\" width=\"191\" height=\"14\" font=\"21\">Sorologia para HIV (Sinalaids)",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Sistema Único de Saúde (SUS)",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Sistemas Formais de Cuidados</text>\n<text top=\"380\" left=\"427\" width=\"59\" height=\"16\" font=\"16\">Categoria</text>\n<text top=\"380\" left=\"486\" width=\"109\" height=\"16\" font=\"14\"> Atenção à Saúde</text>\n<text top=\"398\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">São integrados por proﬁ ssionais e instituições </text>\n<text top=\"416\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">que realizam este atendimento sob a forma de </text>\n<text top=\"434\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">prestação de serviço. Os cuidados são presta-</text>\n<text top=\"452\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">dos por pessoa ou agências comunitárias con-</text>\n<text top=\"470\" left=\"427\" width=\"105\" height=\"16\" font=\"14\">tratadas para tal.</text>\n<text top=\"489\" left=\"427\" width=\"205\" height=\"14\" font=\"21\">Sistemas Informais de Cuidados</text>\n<text top=\"506\" left=\"427\" width=\"59\" height=\"16\" font=\"16\">Categoria</text>\n<text top=\"506\" left=\"486\" width=\"109\" height=\"16\" font=\"14\"> Atenção à Saúde</text>\n<text top=\"524\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">São constituídos por pessoas da família, ami-</text>\n<text top=\"542\" left=\"427\" width=\"291\" height=\"16\" font=\"14\">gos próximos e vizinhos, freqüentemente </text>\n<text top=\"560\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">mulheres, que exercem tarefas de apoio e cui-</text>\n<text top=\"578\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">dados voluntários para suprir a incapacidade </text>\n<text top=\"596\" left=\"427\" width=\"123\" height=\"16\" font=\"14\">funcional do idoso.</text>\n<text top=\"615\" left=\"427\" width=\"117\" height=\"14\" font=\"21\">Solvente orgânico</text>\n<text top=\"632\" left=\"427\" width=\"59\" height=\"16\" font=\"16\">Categoria</text>\n<text top=\"632\" left=\"486\" width=\"119\" height=\"16\" font=\"14\"> Ambiente e Saúde</text>\n<text top=\"650\" left=\"427\" width=\"291\" height=\"16\" font=\"14\">Nome genérico atribuído a um grupo de </text>\n<text top=\"668\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">substâncias químicas líquidas à temperatu-</text>\n<text top=\"686\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">ra ambiente, com características físico-quí-</text>\n<text top=\"704\" left=\"427\" width=\"291\" height=\"16\" font=\"14\">micas (volatilidade, lipossolubilidade) que </text>\n<text top=\"722\" left=\"427\" width=\"290\" height=\"16\" font=\"14\">tornam o risco tóxico bastante variável. São </text>\n<text top=\"740\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">empregados com solubilizantes, dispersantes </text>\n<text top=\"758\" left=\"427\" width=\"290\" height=\"16\" font=\"14\">ou diluentes, de modo amplo em diferentes </text>\n<text top=\"776\" left=\"427\" width=\"285\" height=\"16\" font=\"14\">processos industriais, no meio rural e em la-</text>\n<text top=\"794\" left=\"427\" width=\"289\" height=\"16\" font=\"14\">boratórios químicos, como substâncias puras </text>\n<text top=\"812\" left=\"427\" width=\"93\" height=\"16\" font=\"14\">ou misturadas.</text>\n<text top=\"831\" left=\"427\" width=\"96\" height=\"14\" font=\"21\">Soroconversão",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Soropositivo",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Sistemas de Informação em Saúde</text>\n<text top=\"257\" left=\"193\" width=\"96\" height=\"14\" font=\"25\">Soroconversão</text>\n<text top=\"308\" left=\"176\" width=\"290\" height=\"16\" font=\"14\">Expressão usada para identiﬁ car os doentes </text>\n<text top=\"326\" left=\"176\" width=\"60\" height=\"16\" font=\"14\">com aids.</text>\n<text top=\"345\" left=\"176\" width=\"105\" height=\"14\" font=\"21\">Soroprevalência",
+        "Categoria": "Epidemiologia"
+    },
+    {
+        "Conceito": "Substância ativa",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Substância proscrita",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Suporte avançado de vida",
+        "Categoria": "Acidentes e Violência"
+    },
+    {
+        "Conceito": "Suporte básico de vida",
+        "Categoria": "Acidentes e Violência"
+    },
+    {
+        "Conceito": "Suporte social",
+        "Categoria": "Promoção e Educação em Saúde"
+    },
+    {
+        "Conceito": "Soropositivo</text>\n<text top=\"257\" left=\"603\" width=\"92\" height=\"14\" font=\"25\">Suporte social</text>\n<text top=\"426\" left=\"176\" width=\"98\" height=\"14\" font=\"21\">Taxa de ataque",
+        "Categoria": "Epidemiologia"
+    },
+    {
+        "Conceito": "Tecnovigilância",
+        "Categoria": "Vigilância em Saúde"
+    },
+    {
+        "Conceito": "Termo de compromisso",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Testagem sorológica",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Tétano",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Teto Financeiro da Assistência do Estado </text>\n<text top=\"517\" left=\"483\" width=\"41\" height=\"14\" font=\"21\">(TFAE)",
+        "Categoria": "Economia de Saúde"
+    },
+    {
+        "Conceito": "Teto Financeiro da Assistência do Município </text>\n<text top=\"679\" left=\"483\" width=\"46\" height=\"14\" font=\"21\">(TFAM)",
+        "Categoria": "Economia de Saúde"
+    },
+    {
+        "Conceito": "Titular de registro",
+        "Categoria": "Vigilância em Saúde"
+    },
+    {
+        "Conceito": "Trabalhador",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Trabalhador coletivo",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Trabalho precoce",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Tracoma",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Transição demográﬁ ca",
+        "Categoria": "Demograﬁ a"
+    },
+    {
+        "Conceito": "Transmissão direta</text>\n<text top=\"362\" left=\"427\" width=\"89\" height=\"16\" font=\"14\">Ver Contágio.</text>\n<text top=\"381\" left=\"427\" width=\"170\" height=\"14\" font=\"21\">Transmissão vertical (aids)",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Transplante de órgãos",
+        "Categoria": "Ética e Bioética"
+    },
+    {
+        "Conceito": "Transtornos alimentares</text>\n<text top=\"596\" left=\"427\" width=\"173\" height=\"16\" font=\"14\">Ver Distúrbios alimentares.</text>\n<text top=\"615\" left=\"427\" width=\"79\" height=\"14\" font=\"21\">Tuberculose",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Trabalhador coletivo</text>\n<text top=\"257\" left=\"193\" width=\"79\" height=\"14\" font=\"25\">Tuberculose</text>\n<text top=\"426\" left=\"176\" width=\"161\" height=\"14\" font=\"21\">Unidade básica de saúde</text>\n<text top=\"443\" left=\"176\" width=\"216\" height=\"16\" font=\"14\">Ver Unidade de Saúde da Família.</text>\n<text top=\"462\" left=\"176\" width=\"187\" height=\"14\" font=\"21\">Unidade de Saúde da Família",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Unidade integrada</text>\n<text top=\"641\" left=\"176\" width=\"123\" height=\"16\" font=\"14\">Ver Unidade mista.</text>\n<text top=\"660\" left=\"176\" width=\"94\" height=\"14\" font=\"21\">Unidade Mista",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Unidade Sanitária",
+        "Categoria": "Atenção à Saúde"
+    },
+    {
+        "Conceito": "Unidade Territorial de Qualiﬁ cação na </text>\n<text top=\"894\" left=\"176\" width=\"126\" height=\"14\" font=\"21\">Assistência à Saúde",
+        "Categoria": "Políticas Públicas e Saúde"
+    },
+    {
+        "Conceito": "Unidades de Referência",
+        "Categoria": "Administração e Planejamento em"
+    },
+    {
+        "Conceito": "Universalidade",
+        "Categoria": "Eqüidade em Saúde e Social"
+    },
+    {
+        "Conceito": "Uretrites",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Urticária",
+        "Categoria": "Doenças"
+    },
+    {
+        "Conceito": "Uso racional de medicamentos",
+        "Categoria": "Medicamentos, Vacinas e Insumos"
+    },
+    {
+        "Conceito": "Usuários de Droga Injetável (UDI)",
+        "Categoria": "Drogas de Uso Terapêutico e Social"
+    },
+    {
+        "Conceito": "Uso racional de medicamentos</text>\n<text top=\"257\" left=\"193\" width=\"215\" height=\"14\" font=\"25\">Usuários de Droga Injetável (UDI)</text>\n<text top=\"426\" left=\"176\" width=\"102\" height=\"14\" font=\"21\">Vegetarianismo",
+        "Categoria": "Alimentação e Nutrição"
+    },
+    {
+        "Conceito": "Veículos para atendimento pré-hospitalar",
+        "Categoria": "Acidentes e Violência"
+    },
+    {
+        "Conceito": "Vigilância epidemiológica",
+        "Categoria": "Epidemiologia"
+    },
+    {
+        "Conceito": "Vigilância nacional de parturientes",
+        "Categoria": "Vigilância em Saúde"
+    },
+    {
+        "Conceito": "Vigilância sentinela",
+        "Categoria": "Epidemiologia"
+    },
+    {
+        "Conceito": "Violência econômica",
+        "Categoria": "Acidentes e Violência"
+    },
+    {
+        "Conceito": "Violência ﬁ nanceira</text>\n<text top=\"588\" left=\"483\" width=\"162\" height=\"16\" font=\"14\">Ver Violência econômica.</text>\n<text top=\"607\" left=\"483\" width=\"96\" height=\"14\" font=\"21\">Violência física",
+        "Categoria": "Acidentes e Violência"
+    },
+    {
+        "Conceito": "Violência institucional",
+        "Categoria": "Acidentes e Violência"
+    },
+    {
+        "Conceito": "Violência intrafamiliar",
+        "Categoria": "Acidentes e Violência"
     },
     {
         "Conceito": "Violência psicológica",
-        "Categoria": null
+        "Categoria": "Acidentes e Violência"
+    },
+    {
+        "Conceito": "Violência sexual",
+        "Categoria": "Acidentes e Violência"
+    },
+    {
+        "Conceito": "Vulnerabilidade",
+        "Categoria": "Epidemiologia"
+    },
+    {
+        "Conceito": "Vulnerabilidade individual",
+        "Categoria": "Doenças"
     }
 ]
