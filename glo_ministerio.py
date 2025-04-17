@@ -66,6 +66,6 @@ for i, match in enumerate(matches):
         "Descrição": descricao
     })
 
-with open("conceitos.json", "w", encoding='utf-8') as file_out:
+with open("glossario_ministerio.json", "w", encoding='utf-8') as file_out:
     json.dump(resultado, file_out, indent=4, ensure_ascii=False)
 
