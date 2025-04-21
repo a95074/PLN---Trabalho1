@@ -20,6 +20,7 @@ for conceito_m in ministerio:
     descricao = conceito_m.get("Descrição")
 
     if nome in neologismo_dict:
+        #print(f"Conceito já existe no neologismo: {nome}")
         if not neologismo_dict[nome].get("Descrição") and descricao:
             neologismo_dict[nome]["Descrição"] = descricao
     else:
