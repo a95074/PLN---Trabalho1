@@ -1,34 +1,43 @@
 import json
 
-
+# Ficheiros de entrada
 ministerio_json = "glossario_ministerio.json"
 neologismos_json = "glossario_neologismos.json"
-junçao_conceitos = "glossario_junçao.json"
+covid_json = "glossario_covid.json"
 
+# Ficheiro de saída
+junçao_conceitos = "glossario_juncao.json"
 
+# Leitura dos glossários
 with open(ministerio_json, "r", encoding="utf-8") as f:
     ministerio = json.load(f)
 
 with open(neologismos_json, "r", encoding="utf-8") as f:
     neologismos = json.load(f)
 
+with open(covid_json, "r", encoding="utf-8") as f:
+    covid = json.load(f)
 
-neologismo_dict = {item["Conceito"]: item for item in neologismos}
+# Dicionário final por conceito
+conceitos_unificados = {}
 
-for conceito_m in ministerio:
-    nome = conceito_m["Conceito"]
-    descricao = conceito_m.get("Descrição")
+# Função para inserir conceito com origem
+def adicionar_conceito(lista, origem):
+    for item in lista:
+        nome = item["Conceito"]
+        if nome not in conceitos_unificados:
+            conceitos_unificados[nome] = {"Conceito": nome, "Fontes": {origem: item}}
+        else:
+            conceitos_unificados[nome]["Fontes"][origem] = item
 
-    if nome in neologismo_dict:
-        #print(f"Conceito já existe no neologismo: {nome}")
-        if not neologismo_dict[nome].get("Descrição") and descricao:
-            neologismo_dict[nome]["Descrição"] = descricao
-    else:
-        neologismo_dict[nome] = conceito_m
+# Inserção por glossário
+adicionar_conceito(ministerio, "ministerio")
+adicionar_conceito(neologismos, "neologismo")
+adicionar_conceito(covid, "covid")
 
-resultado_final = sorted(neologismo_dict.values(), key=lambda x: x["Conceito"].lower())
+# Ordenar por nome do conceito
+resultado_final = sorted(conceitos_unificados.values(), key=lambda x: x["Conceito"].lower())
 
+# Escrita do resultado
 with open(junçao_conceitos, "w", encoding="utf-8") as f:
     json.dump(resultado_final, f, ensure_ascii=False, indent=2)
-
-
